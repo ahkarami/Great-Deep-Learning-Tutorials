@@ -11,3 +11,6 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ## Model Visualization:
 - [CNN Visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations) [_Very Good_]  
 - [Understanding CNN](http://cs231n.github.io/understanding-cnn/)  
+
+## 3D Image Classification:
+- [3D MNIST](- https://medium.com/shashwats-blog/3d-mnist-b922a3d07334)  
