@@ -14,3 +14,4 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## 3D Image Classification:
 - [3D MNIST](https://medium.com/shashwats-blog/3d-mnist-b922a3d07334)  
+- [3D CNN Images with Tensorflow](https://github.com/jibikbam/CNN-3D-images-Tensorflow)  
