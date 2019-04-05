@@ -12,6 +12,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [CNN Visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations) [_Very Good_]  
 - [Understanding CNN](http://cs231n.github.io/understanding-cnn/)  
 
+## Quantization & Distillation of Deep Learning Models:
+- [Quantization](https://nervanasystems.github.io/distiller/quantization/)  
+
 ## 3D Image Classification:
 - [3D MNIST](https://medium.com/shashwats-blog/3d-mnist-b922a3d07334)  
 - [3D CNN Images with Tensorflow](https://github.com/jibikbam/CNN-3D-images-Tensorflow)  
