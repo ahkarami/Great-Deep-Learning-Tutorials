@@ -14,6 +14,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## Quantization & Distillation of Deep Learning Models:
 - [Quantization](https://nervanasystems.github.io/distiller/quantization/)  
+- [Neural Network Distiller](https://github.com/NervanaSystems/distiller/)  
 
 ## 3D Image Classification:
 - [3D MNIST](https://medium.com/shashwats-blog/3d-mnist-b922a3d07334)  
