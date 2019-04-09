@@ -16,6 +16,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Quantization](https://nervanasystems.github.io/distiller/quantization/)  
 - [Neural Network Distiller](https://github.com/NervanaSystems/distiller/)  
 - [Intel(R) Math Kernel Library - Intel MKL-DNN](https://github.com/intel/mkl-dnn)  
+- [Intel MKL-Dnn](https://01.org/mkl-dnn)  
 
 ## 3D Image Classification:
 - [3D MNIST](https://medium.com/shashwats-blog/3d-mnist-b922a3d07334)  
