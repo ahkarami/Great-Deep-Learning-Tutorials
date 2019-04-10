@@ -23,3 +23,5 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [3D CNN Images with Tensorflow](https://github.com/jibikbam/CNN-3D-images-Tensorflow)  
 - [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl)  
 
+## Deep Learning Frameworks and Infrustructures:
+- [set-up a Paperspace GPU Server](https://towardsdatascience.com/how-to-set-up-a-powerful-and-cost-efficient-gpu-server-for-deep-learning-aa1de0d4ea56)  
