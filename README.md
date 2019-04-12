@@ -25,3 +25,4 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## Deep Learning Frameworks and Infrustructures:
 - [set-up a Paperspace GPU Server](https://towardsdatascience.com/how-to-set-up-a-powerful-and-cost-efficient-gpu-server-for-deep-learning-aa1de0d4ea56)  
+- [Tensorflow 2.0 vs Mxnet](https://medium.com/@mouryarishik/tensorflow-2-0-vs-mxnet-41edd3b7574f)  
