@@ -27,3 +27,4 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [set-up a Paperspace GPU Server](https://towardsdatascience.com/how-to-set-up-a-powerful-and-cost-efficient-gpu-server-for-deep-learning-aa1de0d4ea56)  
 - [Distributed ML with OpenMPI](https://clusterone.com/tutorials/openmpi-introduction)  
 - [Tensorflow 2.0 vs Mxnet](https://medium.com/@mouryarishik/tensorflow-2-0-vs-mxnet-41edd3b7574f)  
+- [TensorFlow is dead, long live TensorFlow!](https://hackernoon.com/tensorflow-is-dead-long-live-tensorflow-49d3e975cf04)  
