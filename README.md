@@ -23,6 +23,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [3D CNN Images with Tensorflow](https://github.com/jibikbam/CNN-3D-images-Tensorflow)  
 - [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl)  
 
+## Learning to Hash & General Hashing (+ Fast Searching Methods):
+- [Finding similar images using Deep learning and Locality Sensitive Hashing](https://towardsdatascience.com/finding-similar-images-using-deep-learning-and-locality-sensitive-hashing-9528afee02f5) [_Very Good_]  
+
 ## GANs:
 - [Generate Anime Style Face Using DCGAN and Explore Its Latent Feature Representation](https://towardsdatascience.com/generate-anime-style-face-using-dcgan-and-explore-its-latent-feature-representation-ae0e905f3974)  
 
