@@ -29,6 +29,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ## GANs:
 - [Generate Anime Style Face Using DCGAN and Explore Its Latent Feature Representation](https://towardsdatascience.com/generate-anime-style-face-using-dcgan-and-explore-its-latent-feature-representation-ae0e905f3974)  
 
+## Deep Learning for Data Science:
+- [Introduction to Anomaly Detection in Python](https://blog.floydhub.com/introduction-to-anomaly-detection-in-python/)  
+
 ## Deep Learning Frameworks and Infrustructures:
 - [set-up a Paperspace GPU Server](https://towardsdatascience.com/how-to-set-up-a-powerful-and-cost-efficient-gpu-server-for-deep-learning-aa1de0d4ea56)  
 - [Distributed ML with OpenMPI](https://clusterone.com/tutorials/openmpi-introduction)  
