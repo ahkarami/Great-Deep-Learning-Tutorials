@@ -32,6 +32,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ## Deep Learning for Data Science:
 - [Introduction to Anomaly Detection in Python](https://blog.floydhub.com/introduction-to-anomaly-detection-in-python/)  
 
+## NLP:
+- [Ten trends in Deep learning NLP](https://blog.floydhub.com/ten-trends-in-deep-learning-nlp/)  
+
 ## Deep Learning Frameworks and Infrustructures:
 - [set-up a Paperspace GPU Server](https://towardsdatascience.com/how-to-set-up-a-powerful-and-cost-efficient-gpu-server-for-deep-learning-aa1de0d4ea56)  
 - [Distributed ML with OpenMPI](https://clusterone.com/tutorials/openmpi-introduction)  
