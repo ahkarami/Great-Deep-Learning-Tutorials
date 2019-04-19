@@ -36,6 +36,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Ten trends in Deep learning NLP](https://blog.floydhub.com/ten-trends-in-deep-learning-nlp/)  
 - [A Gentle Introduction to Text Summarization in Machine Learning](https://blog.floydhub.com/gentle-introduction-to-text-summarization-in-machine-learning/)  
 
+## Deep Reasoning:
+- [What’s Next For AI? Enter: Deep Reasoning](https://towardsdatascience.com/whats-next-for-ai-enter-deep-reasoning-fae8b131962a)  
+
 ## Deep Learning Frameworks and Infrustructures:
 - [set-up a Paperspace GPU Server](https://towardsdatascience.com/how-to-set-up-a-powerful-and-cost-efficient-gpu-server-for-deep-learning-aa1de0d4ea56)  
 - [Distributed ML with OpenMPI](https://clusterone.com/tutorials/openmpi-introduction)  
