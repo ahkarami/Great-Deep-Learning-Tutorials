@@ -37,6 +37,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [A Gentle Introduction to Text Summarization in Machine Learning](https://blog.floydhub.com/gentle-introduction-to-text-summarization-in-machine-learning/)  
 - [Attention in RNNs](https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05)  
 
+## Spoken Language Processing (Speech Processing):
+- [Building a Dead Simple Word Recognition Engine Using Convnet](https://blog.manash.me/building-a-dead-simple-word-recognition-engine-using-convnet-in-keras-25e72c19c12b)  
+
 ## Deep Reasoning:
 - [What’s Next For AI? Enter: Deep Reasoning](https://towardsdatascience.com/whats-next-for-ai-enter-deep-reasoning-fae8b131962a)  
 - [Deep Learning approaches to understand Human Reasoning](https://towardsdatascience.com/deep-learning-approaches-to-understand-human-reasoning-46f1805d454d)  
