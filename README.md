@@ -2,7 +2,6 @@
 A Great Collection of Deep Learning Tutorials and Repositories
 
 ## Great Deep Learning Tutorials:
-- [Audio Classification](https://towardsdatascience.com/audio-classification-using-fastai-and-on-the-fly-frequency-transforms-4dbe1b540f89) [_Great_]  
 - [ResNet Review](https://towardsdatascience.com/review-resnet-winner-of-ilsvrc-2015-image-classification-localization-detection-e39402bfa5d8)  
 
 ## Semantic Segmentation:
@@ -38,6 +37,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Attention in RNNs](https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05)  
 
 ## Spoken Language Processing (Speech Processing):
+- [Audio Classification](https://towardsdatascience.com/audio-classification-using-fastai-and-on-the-fly-frequency-transforms-4dbe1b540f89) [_Great_]  
 - [Building a Dead Simple Word Recognition Engine Using Convnet](https://blog.manash.me/building-a-dead-simple-word-recognition-engine-using-convnet-in-keras-25e72c19c12b)  
 
 ## Deep Reasoning:
