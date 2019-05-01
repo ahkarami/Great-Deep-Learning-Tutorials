@@ -39,6 +39,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ## Spoken Language Processing (Speech Processing):
 - [Audio Classification](https://towardsdatascience.com/audio-classification-using-fastai-and-on-the-fly-frequency-transforms-4dbe1b540f89) [_Great_]  
 - [Building a Dead Simple Word Recognition Engine Using Convnet](https://blog.manash.me/building-a-dead-simple-word-recognition-engine-using-convnet-in-keras-25e72c19c12b)  
+- [Identifying the Genre of a Song with Neural Networks](https://medium.com/@navdeepsingh_2336/identifying-the-genre-of-a-song-with-neural-networks-851db89c42f0)  
 
 ## Deep Reasoning:
 - [What’s Next For AI? Enter: Deep Reasoning](https://towardsdatascience.com/whats-next-for-ai-enter-deep-reasoning-fae8b131962a)  
