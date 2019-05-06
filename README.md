@@ -50,3 +50,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Distributed ML with OpenMPI](https://clusterone.com/tutorials/openmpi-introduction)  
 - [Tensorflow 2.0 vs Mxnet](https://medium.com/@mouryarishik/tensorflow-2-0-vs-mxnet-41edd3b7574f)  
 - [TensorFlow is dead, long live TensorFlow!](https://hackernoon.com/tensorflow-is-dead-long-live-tensorflow-49d3e975cf04)  
+
+## Deep Model Conversion:
+- [Convert Full ImageNet Pre-trained Model from MXNet to PyTorch](https://blog.paperspace.com/convert-full-imagenet-pre-trained-model-from-mxnet-to-pytorch/) [_Great_] 
+
+
+
