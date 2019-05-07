@@ -53,6 +53,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## Great Libraries:
 - [Skorch - A scikit-learn compatible neural network library that wraps PyTorch](https://github.com/skorch-dev/skorch)  
+- [BoTorch - Bayesian Optimization in PyTorch](https://botorch.org/)  
 
 ## Deep Model Conversion:
 - [Convert Full ImageNet Pre-trained Model from MXNet to PyTorch](https://blog.paperspace.com/convert-full-imagenet-pre-trained-model-from-mxnet-to-pytorch/) [_Great_] 
