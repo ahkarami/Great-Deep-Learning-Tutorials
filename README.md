@@ -51,6 +51,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Tensorflow 2.0 vs Mxnet](https://medium.com/@mouryarishik/tensorflow-2-0-vs-mxnet-41edd3b7574f)  
 - [TensorFlow is dead, long live TensorFlow!](https://hackernoon.com/tensorflow-is-dead-long-live-tensorflow-49d3e975cf04)  
 
+## Great Libraries:
+- [Skorch - A scikit-learn compatible neural network library that wraps PyTorch](https://github.com/skorch-dev/skorch)  
+
 ## Deep Model Conversion:
 - [Convert Full ImageNet Pre-trained Model from MXNet to PyTorch](https://blog.paperspace.com/convert-full-imagenet-pre-trained-model-from-mxnet-to-pytorch/) [_Great_] 
 
