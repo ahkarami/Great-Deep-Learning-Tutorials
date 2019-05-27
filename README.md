@@ -10,6 +10,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ## Model Visualization:
 - [CNN Visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations) [_Very Good_]  
 - [Netron - GitHub](https://github.com/lutzroeder/netron) [_Excellent_]  
+- [Monitor your GPUs](https://github.com/msalvaris/gpu_monitor) [**Excellent**]  
 - [Understanding CNN](http://cs231n.github.io/understanding-cnn/)  
 
 ## Quantization & Distillation of Deep Learning Models:
