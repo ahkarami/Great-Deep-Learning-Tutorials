@@ -66,7 +66,8 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Skorch - A scikit-learn compatible neural network library that wraps PyTorch](https://github.com/skorch-dev/skorch)  
 - [BoTorch - Bayesian Optimization in PyTorch](https://botorch.org/)  
 - [torchvision 0.3: segmentation, detection models, new datasets and more](https://pytorch.org/blog/torchvision03/)  
-- [TorchAudio: an audio library for PyTorch](https://github.com/pytorch/audio)    
+- [TorchAudio: an audio library for PyTorch](https://github.com/pytorch/audio)  
+- [AudTorch](https://github.com/audeering/audtorch)  
 
 ## Deep Model Conversion:
 - [Convert Full ImageNet Pre-trained Model from MXNet to PyTorch](https://blog.paperspace.com/convert-full-imagenet-pre-trained-model-from-mxnet-to-pytorch/) [_Great_] 
