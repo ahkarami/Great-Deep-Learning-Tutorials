@@ -74,6 +74,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [TorchAudio-Contrib](https://github.com/keunwoochoi/torchaudio-contrib) 
 - [fastText - Facebook AI Research (FAIR)](https://fasttext.cc/)  
 - [Fairseq - Facebook AI Research (FAIR)](https://github.com/pytorch/fairseq)  
+- [ParlAI - dialogue models - Facebook AI Research (FAIR)](https://parl.ai/)  
 
 ## Deep Model Conversion:
 - [Convert Full ImageNet Pre-trained Model from MXNet to PyTorch](https://blog.paperspace.com/convert-full-imagenet-pre-trained-model-from-mxnet-to-pytorch/) [_Great_] 
