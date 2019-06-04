@@ -59,6 +59,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Object Detection for Dummies Part 3](https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html)  
 - [Object Detection for Dummies Part 4](https://lilianweng.github.io/lil-log/2018/12/27/object-detection-part-4.html)  
 
+## Deep Reinforcement Learning (Great Courses & Tutorials):
+- [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) [_Great_] 
+
 ## Deep Learning Frameworks and Infrustructures:
 - [set-up a Paperspace GPU Server](https://towardsdatascience.com/how-to-set-up-a-powerful-and-cost-efficient-gpu-server-for-deep-learning-aa1de0d4ea56)  
 - [Distributed ML with OpenMPI](https://clusterone.com/tutorials/openmpi-introduction)  
