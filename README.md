@@ -48,6 +48,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Audio Classification](https://towardsdatascience.com/audio-classification-using-fastai-and-on-the-fly-frequency-transforms-4dbe1b540f89) [_Great_]  
 - [Building a Dead Simple Word Recognition Engine Using Convnet](https://blog.manash.me/building-a-dead-simple-word-recognition-engine-using-convnet-in-keras-25e72c19c12b)  
 - [Identifying the Genre of a Song with Neural Networks](https://medium.com/@navdeepsingh_2336/identifying-the-genre-of-a-song-with-neural-networks-851db89c42f0)  
+- [Modelling audio signal using visual features](https://raghavgoyal14.github.io/2018/04/12/audio-via-vid-features.html)  
 
 ## Deep Reasoning:
 - [What’s Next For AI? Enter: Deep Reasoning](https://towardsdatascience.com/whats-next-for-ai-enter-deep-reasoning-fae8b131962a)  
