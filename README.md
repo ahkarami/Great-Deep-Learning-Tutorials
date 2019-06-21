@@ -44,6 +44,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## Video Understanding: 
 - [Holistic Video Understanding Challenge](https://holistic-video-understanding.github.io/workshops/iccv2019.html)  
+- [Holistic Large Scale Video Understanding - Tutorial](https://blog.paperspace.com/p/22ec641e-b4cf-4d5a-82d7-fd16a7b3661b/)  
 
 ## Spoken Language Processing (Speech Processing):
 - [Audio Classification](https://towardsdatascience.com/audio-classification-using-fastai-and-on-the-fly-frequency-transforms-4dbe1b540f89) [_Great_]  
