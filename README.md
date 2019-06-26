@@ -41,6 +41,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Ten trends in Deep learning NLP](https://blog.floydhub.com/ten-trends-in-deep-learning-nlp/)  
 - [A Gentle Introduction to Text Summarization in Machine Learning](https://blog.floydhub.com/gentle-introduction-to-text-summarization-in-machine-learning/)  
 - [Attention in RNNs](https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05)  
+- [BERT - TensorFlow](https://github.com/google-research/bert)  
 
 ## Video Understanding: 
 - [Holistic Video Understanding Challenge](https://holistic-video-understanding.github.io/workshops/iccv2019.html)  
