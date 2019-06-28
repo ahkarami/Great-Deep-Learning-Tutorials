@@ -43,6 +43,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Attention in RNNs](https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05)  
 - [BERT - TensorFlow](https://github.com/google-research/bert)  
 - [XLNet - TensorFlow](https://github.com/zihangdai/xlnet)  
+- [Pretrained PyTorch models for BERT](https://github.com/huggingface/pytorch-pretrained-BERT)  
 
 ## Video Understanding: 
 - [Holistic Video Understanding Challenge](https://holistic-video-understanding.github.io/workshops/iccv2019.html)  
