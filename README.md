@@ -44,6 +44,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [BERT - TensorFlow](https://github.com/google-research/bert)  
 - [XLNet - TensorFlow](https://github.com/zihangdai/xlnet)  
 - [Pretrained PyTorch models for BERT](https://github.com/huggingface/pytorch-pretrained-BERT)  
+- [PyTorch Hub - BERT](https://pytorch.org/hub/huggingface_pytorch-pretrained-bert_bert/)  
 
 ## Video Understanding: 
 - [Holistic Video Understanding Challenge](https://holistic-video-understanding.github.io/workshops/iccv2019.html)  
