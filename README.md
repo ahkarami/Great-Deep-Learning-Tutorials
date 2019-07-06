@@ -37,6 +37,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ## Deep Learning for Data Science:
 - [Introduction to Anomaly Detection in Python](https://blog.floydhub.com/introduction-to-anomaly-detection-in-python/)  
 
+## Deep Learning Recommendation Model:
+- [Deep Learning Recommendation Model for Personalization and Recommendation Systems - DLRM](https://github.com/facebookresearch/dlrm)  
+
 ## NLP:
 - [Ten trends in Deep learning NLP](https://blog.floydhub.com/ten-trends-in-deep-learning-nlp/)  
 - [A Gentle Introduction to Text Summarization in Machine Learning](https://blog.floydhub.com/gentle-introduction-to-text-summarization-in-machine-learning/)  
