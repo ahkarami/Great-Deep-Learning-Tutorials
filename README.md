@@ -1,7 +1,8 @@
 # Great-Deep-Learning-Tutorials
 A Great Collection of Deep Learning Tutorials and Repositories
 
-## Great Deep Learning Tutorials:
+## General Deep Learning Tutorials:
+- [Deep-Learning-Roadmap](https://github.com/astorfi/Deep-Learning-Roadmap)  
 - [Excellent Blog](https://lilianweng.github.io/lil-log/)  
 - [ResNet Review](https://towardsdatascience.com/review-resnet-winner-of-ilsvrc-2015-image-classification-localization-detection-e39402bfa5d8)  
 
