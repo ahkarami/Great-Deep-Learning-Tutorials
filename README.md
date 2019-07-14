@@ -56,6 +56,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## Video Understanding: 
 - [Holistic Video Understanding Challenge](https://holistic-video-understanding.github.io/workshops/iccv2019.html)  
+- [Holistic Video Understanding Dataset](https://github.com/holistic-video-understanding/Mini-HVU)  
 - [Holistic Large Scale Video Understanding - Tutorial](https://medium.com/@ah.karami.dl/holistic-large-scale-video-understanding-c423701b777a)  
 
 ## Spoken Language Processing (Speech Processing):
