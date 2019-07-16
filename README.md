@@ -77,6 +77,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## License Plate Detection and Recognition:
 - [ALPR in Unscontrained Scenarios](https://github.com/sergiomsilva/alpr-unconstrained) [_Good_]  
+- [ALPR in Unscontrained Scenarios - Project Page](http://sergiomsilva.com/pubs/alpr-unconstrained/)  
 
 ## Deep Reinforcement Learning (Great Courses & Tutorials):
 - [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) [_Great_] 
