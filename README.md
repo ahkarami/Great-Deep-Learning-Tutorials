@@ -58,7 +58,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ## Video Understanding: 
 - [Holistic Video Understanding Challenge](https://holistic-video-understanding.github.io/workshops/iccv2019.html)  
 - [Holistic Video Understanding Dataset](https://github.com/holistic-video-understanding/Mini-HVU)  
-- [Holistic Large Scale Video Understanding - Tutorial](https://medium.com/@ah.karami.dl/holistic-large-scale-video-understanding-c423701b777a)  
+- [Holistic Large Scale Video Understanding - Tutorial](https://towardsdatascience.com/holistic-large-scale-video-understanding-c423701b777a)  
 
 ## Spoken Language Processing (Speech Processing):
 - [Audio Classification](https://towardsdatascience.com/audio-classification-using-fastai-and-on-the-fly-frequency-transforms-4dbe1b540f89) [_Great_]  
@@ -101,6 +101,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [ParlAI - dialogue models - Facebook AI Research (FAIR)](https://parl.ai/)  
 - [Netron - GitHub](https://github.com/lutzroeder/netron) [_Visualizer for deep learning Models (Excellent)_]
 - [Netron - Web Site](https://www.lutzroeder.com/ai)  
+- [PyTorch Hub](https://pytorch.org/hub)  
 
 ## Deep Model Conversion:
 - [Convert Full ImageNet Pre-trained Model from MXNet to PyTorch](https://blog.paperspace.com/convert-full-imagenet-pre-trained-model-from-mxnet-to-pytorch/) [_Great_] 
