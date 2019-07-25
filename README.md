@@ -101,6 +101,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [ParlAI - dialogue models - Facebook AI Research (FAIR)](https://parl.ai/)  
 - [Netron - GitHub](https://github.com/lutzroeder/netron) [_Visualizer for deep learning Models (Excellent)_]
 - [Netron - Web Site](https://www.lutzroeder.com/ai)  
+- [ResNext WSL](https://pytorch.org/hub/facebookresearch_WSL-Images_resnext/) [_Great Pretrained Model_]  
 - [PyTorch Hub](https://pytorch.org/hub)  
 
 ## Deep Model Conversion:
