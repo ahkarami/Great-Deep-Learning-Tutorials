@@ -102,6 +102,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Netron - GitHub](https://github.com/lutzroeder/netron) [_Visualizer for deep learning Models (Excellent)_]
 - [Netron - Web Site](https://www.lutzroeder.com/ai)  
 - [ResNext WSL](https://pytorch.org/hub/facebookresearch_WSL-Images_resnext/) [_Great Pretrained Model_]  
+- [torchvision 0.3: segmentation, detection models, new datasets and more](https://pytorch.org/blog/torchvision03/)  
 - [PyTorch Hub](https://pytorch.org/hub)  
 
 ## Deep Model Conversion:
