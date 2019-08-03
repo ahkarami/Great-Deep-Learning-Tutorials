@@ -4,6 +4,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ## General Deep Learning Tutorials:
 - [Deep-Learning-Roadmap](https://github.com/astorfi/Deep-Learning-Roadmap)  
 - [Excellent Blog](https://lilianweng.github.io/lil-log/)  
+- [The 6 most useful Machine Learning projects of the past year (2018)](https://towardsdatascience.com/the-10-most-useful-machine-learning-projects-of-the-past-year-2018-5378bbd4919f)  
 - [ResNet Review](https://towardsdatascience.com/review-resnet-winner-of-ilsvrc-2015-image-classification-localization-detection-e39402bfa5d8)  
 
 ## Semantic Segmentation:
