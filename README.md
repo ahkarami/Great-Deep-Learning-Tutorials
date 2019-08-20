@@ -58,6 +58,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [A Simple Guide On Using BERT for Binary Text Classification](https://medium.com/swlh/a-simple-guide-on-using-bert-for-text-classification-bbf041ac8d04)  
 - [Core ML 3 implementation of BERT for Question answering](https://github.com/huggingface/swift-coreml-transformers)  
 
+### Text Representation:
+- [Beyond Word Embeddings Part 1](https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f)  
+
 ## Video Understanding: 
 - [Holistic Video Understanding Challenge](https://holistic-video-understanding.github.io/workshops/iccv2019.html)  
 - [Holistic Video Understanding Dataset](https://github.com/holistic-video-understanding/Mini-HVU)  
