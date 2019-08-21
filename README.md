@@ -60,6 +60,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ### Text Representation:
 - [Beyond Word Embeddings Part 1](https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f)  
+- [Beyond Word Embeddings Part 2](https://towardsdatascience.com/beyond-word-embeddings-part-2-word-vectors-nlp-modeling-from-bow-to-bert-4ebd4711d0ec)  
 - [Learning Word Embedding](https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html)  
 
 ## Video Understanding: 
