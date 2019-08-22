@@ -62,6 +62,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Beyond Word Embeddings Part 1](https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f)  
 - [Beyond Word Embeddings Part 2](https://towardsdatascience.com/beyond-word-embeddings-part-2-word-vectors-nlp-modeling-from-bow-to-bert-4ebd4711d0ec)  
 - [Learning Word Embedding](https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html)  
+- [Introduction to Word Embedding and Word2Vec](https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa)  
 
 ## Video Understanding: 
 - [Holistic Video Understanding Challenge](https://holistic-video-understanding.github.io/workshops/iccv2019.html)  
