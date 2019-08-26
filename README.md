@@ -52,6 +52,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Attention in RNNs](https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05)  
 - [BERT - TensorFlow](https://github.com/google-research/bert)  
 - [XLNet - TensorFlow](https://github.com/zihangdai/xlnet)  
+- [XLM (PyTorch implementation of Cross-lingual Language Model Pretraining)](https://github.com/facebookresearch/XLM)  
 - [Pretrained PyTorch models for BERT](https://github.com/huggingface/pytorch-pretrained-BERT)  
 - [Library of state-of-the-art pretrained models for NLP](https://github.com/huggingface/pytorch-transformers#quick-tour) [_Excellent_]  
 - [PyTorch Hub - BERT](https://pytorch.org/hub/huggingface_pytorch-pretrained-bert_bert/)  
