@@ -69,6 +69,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Understanding Word Embeddings](https://hackernoon.com/understanding-word-embeddings-a9ff830403ce)  
 - [Introduction to Word Vectors](https://medium.com/@jayeshbahire/introduction-to-word-vectors-ea1d4e4b84bf)  
 
+### NLP Programming Notes:
+- [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
+
 ## Video Understanding: 
 - [Holistic Video Understanding Challenge](https://holistic-video-understanding.github.io/workshops/iccv2019.html)  
 - [Holistic Video Understanding Dataset](https://github.com/holistic-video-understanding/Mini-HVU)  
