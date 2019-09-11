@@ -52,6 +52,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [A Gentle Introduction to Text Summarization in Machine Learning](https://blog.floydhub.com/gentle-introduction-to-text-summarization-in-machine-learning/)  
 - [Attention in RNNs](https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05)  
 - [BERT - TensorFlow](https://github.com/google-research/bert)  
+- [Understanding XLNet](https://www.borealisai.com/en/blog/understanding-xlnet/)  
 - [XLNet - TensorFlow](https://github.com/zihangdai/xlnet)  
 - [XLM (PyTorch implementation of Cross-lingual Language Model Pretraining)](https://github.com/facebookresearch/XLM)  
 - [Pretrained PyTorch models for BERT](https://github.com/huggingface/pytorch-pretrained-BERT)  
