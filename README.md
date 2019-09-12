@@ -69,7 +69,10 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Introduction to Word Embedding and Word2Vec](https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa)  
 - [Word Embedding](https://medium.com/data-science-group-iitr/word-embedding-2d05d270b285)  
 - [Understanding Word Embeddings](https://hackernoon.com/understanding-word-embeddings-a9ff830403ce)  
-- [Introduction to Word Vectors](https://medium.com/@jayeshbahire/introduction-to-word-vectors-ea1d4e4b84bf)  
+- [Introduction to Word Vectors](https://medium.com/@jayeshbahire/introduction-to-word-vectors-ea1d4e4b84bf) 
+
+### Transformers:
+- [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)  
 
 ### NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
