@@ -73,6 +73,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ### Transformers:
 - [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)  
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)  
 
 ### NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
