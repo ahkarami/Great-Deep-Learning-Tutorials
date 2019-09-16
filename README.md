@@ -76,6 +76,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)  
 - [What is a Transformer?](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04)  
 - [Transformer: A Novel Neural Network Architecture for Language Understanding](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)  
+- [How do Transformers Work in NLP?](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/)  
 
 ### NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
