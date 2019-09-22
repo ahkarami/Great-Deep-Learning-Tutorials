@@ -80,6 +80,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [How do Transformers Work in NLP?](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/)  
 - [BERT for Dummies](https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03)  
 
+### Attention Mechanism:
+- [Attention Mechanism](https://blog.floydhub.com/attention-mechanism/)  
+
 ### NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
 - [Multi-label Text Classification using BERT](https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d)  
