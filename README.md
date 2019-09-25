@@ -49,6 +49,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Neural Recommendation Algorithms](https://towardsdatascience.com/recotour-ii-neural-recommendation-algorithms-49733938d56e)  
 
 ## NLP:
+- [Great NLP Posts](http://jalammar.github.io/)  
 - [Ten trends in Deep learning NLP](https://blog.floydhub.com/ten-trends-in-deep-learning-nlp/)  
 - [A Gentle Introduction to Text Summarization in Machine Learning](https://blog.floydhub.com/gentle-introduction-to-text-summarization-in-machine-learning/)  
 - [Attention in RNNs](https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05)  
