@@ -73,7 +73,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Understanding Word Embeddings](https://hackernoon.com/understanding-word-embeddings-a9ff830403ce)  
 - [Introduction to Word Vectors](https://medium.com/@jayeshbahire/introduction-to-word-vectors-ea1d4e4b84bf) 
 
-### LSTM Networks:
+### RNN, LSTM, and GRU:
 - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
 
 ### Transformers:
