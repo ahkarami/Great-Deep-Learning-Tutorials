@@ -75,6 +75,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ### RNN, LSTM, and GRU:
 - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
+- [Illustrated Guide to LSTM’s and GRU’s](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)  
 
 ### Transformers:
 - [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)  
