@@ -4,6 +4,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ## General Deep Learning Tutorials:
 - [Browse state-of-the-art Deep Learning based Papers with their associated codes](https://paperswithcode.com/sota) [_Extremely Fantastic_]
 - [Deep-Learning-Roadmap](https://github.com/astorfi/Deep-Learning-Roadmap)  
+- [DeepLizard](https://deeplizard.com/) [_Good Tutorials for Deep Learning_]  
 - [Excellent Blog](https://lilianweng.github.io/lil-log/)  
 - [The 6 most useful Machine Learning projects of the past year (2018)](https://towardsdatascience.com/the-10-most-useful-machine-learning-projects-of-the-past-year-2018-5378bbd4919f)  
 - [ResNet Review](https://towardsdatascience.com/review-resnet-winner-of-ilsvrc-2015-image-classification-localization-detection-e39402bfa5d8)  
