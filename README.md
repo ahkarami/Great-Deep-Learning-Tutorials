@@ -79,6 +79,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Illustrated Guide to LSTM’s and GRU’s](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)  
 - [Animated RNN, LSTM and GRU](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45)  
 - [Recurrent Neural Networks and LSTM explained](https://medium.com/@purnasaigudikandula/recurrent-neural-networks-and-lstm-explained-7f51c7f6bbb9)  
+- [Long Short-Term Memory (LSTM): Concept](https://medium.com/@kangeugine/long-short-term-memory-lstm-concept-cb3283934359)  
 
 ### Transformers:
 - [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)  
