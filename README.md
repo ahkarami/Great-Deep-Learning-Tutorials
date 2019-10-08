@@ -75,6 +75,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Introduction to Word Vectors](https://medium.com/@jayeshbahire/introduction-to-word-vectors-ea1d4e4b84bf) 
 - [Word2vec Made Easy](https://towardsdatascience.com/word2vec-made-easy-139a31a4b8ae)  
 - [What is GloVe? Part I](https://towardsdatascience.com/emnlp-what-is-glove-part-i-3b6ce6a7f970)  
+- [What is GloVe? Part II](https://towardsdatascience.com/emnlp-what-is-glove-part-ii-9e5ad227ee0)  
 
 ### RNN, LSTM, and GRU:
 - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
