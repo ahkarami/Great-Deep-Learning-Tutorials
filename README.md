@@ -33,6 +33,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ## Learning to Hash & General Hashing (+ Fast Searching Methods):
 - [Finding similar images using Deep learning and Locality Sensitive Hashing](https://towardsdatascience.com/finding-similar-images-using-deep-learning-and-locality-sensitive-hashing-9528afee02f5) [_Very Good_]  
 - [Image similarity using Triplet Loss](https://towardsdatascience.com/image-similarity-using-triplet-loss-3744c0f67973)  
+- [Finding duplicate images made easy!](https://github.com/idealo/imagededup)  
 
 ## GANs:
 - [Generate Anime Style Face Using DCGAN and Explore Its Latent Feature Representation](https://towardsdatascience.com/generate-anime-style-face-using-dcgan-and-explore-its-latent-feature-representation-ae0e905f3974)  
