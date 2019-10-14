@@ -21,6 +21,8 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ## Quantization & Distillation of Deep Learning Models:
 - [Quantization](https://nervanasystems.github.io/distiller/quantization/)  
 - [Neural Network Distiller](https://github.com/NervanaSystems/distiller/)  
+- [Dynamic Quantization in PyTorch](https://pytorch.org/tutorials/advanced/dynamic_quantization_tutorial.html)  
+- [Static Quantization in PyTorch](https://pytorch.org/tutorials/advanced/static_quantization_tutorial.html)  
 - [Intel(R) Math Kernel Library - Intel MKL-DNN](https://github.com/intel/mkl-dnn)  
 - [Intel MKL-Dnn](https://01.org/mkl-dnn)  
 - [ONNX Float32 to Float16](https://github.com/onnx/onnx-docker/blob/master/onnx-ecosystem/converter_scripts/float32_float16_onnx.ipynb)  
