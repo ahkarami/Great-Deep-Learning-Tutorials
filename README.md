@@ -80,6 +80,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [What is GloVe? Part I](https://towardsdatascience.com/emnlp-what-is-glove-part-i-3b6ce6a7f970)  
 - [What is GloVe? Part II](https://towardsdatascience.com/emnlp-what-is-glove-part-ii-9e5ad227ee0)  
 - [What is GloVe? Part III](https://towardsdatascience.com/emnlp-what-is-glove-part-iii-c6090bed114)  
+- [What is GloVe? Part IV](https://towardsdatascience.com/emnlp-what-is-glove-part-iv-e605a4c407c8)  
 
 ### RNN, LSTM, and GRU:
 - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
