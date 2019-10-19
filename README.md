@@ -26,6 +26,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Intel(R) Math Kernel Library - Intel MKL-DNN](https://github.com/intel/mkl-dnn)  
 - [Intel MKL-Dnn](https://01.org/mkl-dnn)  
 - [ONNX Float32 to Float16](https://github.com/onnx/onnx-docker/blob/master/onnx-ecosystem/converter_scripts/float32_float16_onnx.ipynb)  
+- [Neural Network Quantization Introduction](https://jackwish.net/neural-network-quantization-introduction.html) [_Tutorial_]  
 
 ## 3D Image Classification:
 - [3D MNIST](https://medium.com/shashwats-blog/3d-mnist-b922a3d07334)  
