@@ -28,6 +28,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [ONNX Float32 to Float16](https://github.com/onnx/onnx-docker/blob/master/onnx-ecosystem/converter_scripts/float32_float16_onnx.ipynb)  
 - [Neural Network Quantization Introduction](https://jackwish.net/neural-network-quantization-introduction.html) [_Tutorial_]  
 - [Quantization in Deep Learning](https://medium.com/@joel_34050/quantization-in-deep-learning-478417eab72b) [_Tutorial_]  
+- [Speeding up Deep Learning with Quantization](https://towardsdatascience.com/speeding-up-deep-learning-with-quantization-3fe3538cbb9) [_Tutorial_]  
 
 ## 3D Image Classification:
 - [3D MNIST](https://medium.com/shashwats-blog/3d-mnist-b922a3d07334)  
