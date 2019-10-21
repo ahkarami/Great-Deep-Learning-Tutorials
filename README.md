@@ -107,6 +107,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Attention Mechanism](https://blog.floydhub.com/attention-mechanism/)  
 - [Visualizing A Neural Machine Translation Model - Attention Mechanism](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)  
 
+### WaveNet (A Great Solution for Sequence Modeling):
+- [WaveNet: Increasing reception field using dilated convolution](https://medium.com/@kion.kim/wavenet-a-network-good-to-know-7caaae735435)  
+
 ### NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
 - [Multi-label Text Classification using BERT](https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d)  
