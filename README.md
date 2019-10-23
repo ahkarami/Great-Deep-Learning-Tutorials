@@ -109,6 +109,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ### WaveNet (A Great Solution for Sequence Modeling):
 - [WaveNet: Increasing reception field using dilated convolution](https://medium.com/@kion.kim/wavenet-a-network-good-to-know-7caaae735435)  
+- [Understanding WaveNet architecture](https://medium.com/@satyam.kumar.iiitv/understanding-wavenet-architecture-361cc4c2d623)  
 
 ### NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
