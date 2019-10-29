@@ -150,6 +150,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [ALPR in Unscontrained Scenarios](https://github.com/sergiomsilva/alpr-unconstrained) [_Good_]  
 - [ALPR in Unscontrained Scenarios - Project Page](http://sergiomsilva.com/pubs/alpr-unconstrained/)  
 
+## Loss Functions:
+- [Loss Functions Explained](https://medium.com/deep-learning-demystified/loss-functions-explained-3098e8ff2b27)  
+
 ## Deep Reinforcement Learning (Great Courses & Tutorials):
 - [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) [_Great_] 
 - [Deep Reinforcement Learning Algorithms with PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)  
