@@ -127,6 +127,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Holistic Video Understanding Challenge](https://holistic-video-understanding.github.io/workshops/iccv2019.html)  
 - [Holistic Video Understanding Dataset](https://github.com/holistic-video-understanding/Mini-HVU)  
 - [Holistic Large Scale Video Understanding - Tutorial](https://towardsdatascience.com/holistic-large-scale-video-understanding-c423701b777a)  
+- [VMZ: Model Zoo for Video Modeling](https://github.com/facebookresearch/VMZ)  
 
 ## Spoken Language Processing (Speech Processing):
 - [Audio Classification](https://towardsdatascience.com/audio-classification-using-fastai-and-on-the-fly-frequency-transforms-4dbe1b540f89) [_Great_]  
