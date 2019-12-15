@@ -87,6 +87,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [What is GloVe? Part IV](https://towardsdatascience.com/emnlp-what-is-glove-part-iv-e605a4c407c8)  
 - [What is GloVe? Part V](https://towardsdatascience.com/emnlp-what-is-glove-part-v-fa888272c290)  
 - [ELMo: Deep Contextualized Word Representation](https://allennlp.org/elmo)  
+- [A Step-by-Step NLP Guide to Learn ELMo](https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-features-from-text/)  
 
 ### RNN, LSTM, and GRU:
 - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
