@@ -55,6 +55,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Deep Learning Recommendation Model for Personalization and Recommendation Systems - DLRM](https://github.com/facebookresearch/dlrm)  
 - [DLRM: An advanced, open source deep learning recommendation model](https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/)  
 - [Neural Recommendation Algorithms](https://towardsdatascience.com/recotour-ii-neural-recommendation-algorithms-49733938d56e)  
+- [Build a Recommendation Engine With Collaborative Filtering](https://realpython.com/build-recommendation-engine-collaborative-filtering/)  [_**Great**_]  
 
 ## NLP:
 - [Great NLP Posts](http://jalammar.github.io/)  
