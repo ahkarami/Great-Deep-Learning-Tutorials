@@ -72,6 +72,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [PyTorch Hub - BERT](https://pytorch.org/hub/huggingface_pytorch-pretrained-bert_bert/)  
 - [A Simple Guide On Using BERT for Binary Text Classification](https://medium.com/swlh/a-simple-guide-on-using-bert-for-text-classification-bbf041ac8d04)  
 - [Core ML 3 implementation of BERT for Question answering](https://github.com/huggingface/swift-coreml-transformers)  
+- [Natural Language Processing With spaCy in Python](https://realpython.com/natural-language-processing-spacy-python/)  [_Great_]  
 
 ### Text Representation:
 - [Beyond Word Embeddings Part 1](https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f)  
