@@ -151,6 +151,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Object Detection for Dummies Part 3](https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html)  
 - [Object Detection for Dummies Part 4](https://lilianweng.github.io/lil-log/2018/12/27/object-detection-part-4.html)  
 - [Open MMLab Detection Toolbox and Benchmark](https://github.com/open-mmlab/mmdetection)  
+- [RetinaNet: how Focal Loss fixes Single-Shot Detection](https://towardsdatascience.com/retinanet-how-focal-loss-fixes-single-shot-detection-cb320e3bb0de)  
 
 ## Visual Question Answering (VQA):
 - [Vanilla VQA](https://medium.com/ai2-blog/vanilla-vqa-adcaaaa94336)  
