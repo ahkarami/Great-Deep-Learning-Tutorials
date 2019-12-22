@@ -123,6 +123,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [How WaveNet Works](https://towardsdatascience.com/how-wavenet-works-12e2420ef386)  
 - [PyTorch Tutorial to Sequence Labeling](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Sequence-Labeling)  
 
+### Sentiment Analysis:
+- [Introduction to Deep Learning – Sentiment Analysis](https://nlpforhackers.io/deep-learning-introduction/)  
+
 ### NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
 - [Multi-label Text Classification using BERT](https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d)  
