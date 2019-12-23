@@ -18,6 +18,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Monitor your GPUs](https://github.com/msalvaris/gpu_monitor) [**Excellent**]  
 - [Understanding CNN](http://cs231n.github.io/understanding-cnn/)  
 
+## t-SNE Visualization:
+- [TSNE-Visualization of large dataset images using pre-trained networks in Tensorflow and Keras](https://e3oroush.github.io/tsne-visualization/)  [_Great_] 
+
 ## Quantization & Distillation of Deep Learning Models:
 - [Quantization](https://nervanasystems.github.io/distiller/quantization/)  
 - [Neural Network Distiller](https://github.com/NervanaSystems/distiller/)  
