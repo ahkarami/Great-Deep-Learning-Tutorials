@@ -53,6 +53,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Advances in few-shot learning: reproducing results in PyTorch](https://towardsdatascience.com/advances-in-few-shot-learning-reproducing-results-in-pytorch-aba70dee541d)
 
 ## Deep Learning for Data Science:
+- [First Steps With PySpark and Big Data Processing](https://realpython.com/pyspark-intro/)  
 - [Introduction to Anomaly Detection in Python](https://blog.floydhub.com/introduction-to-anomaly-detection-in-python/)  
 
 ## Deep Learning Recommendation Model:
