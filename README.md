@@ -54,6 +54,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## Deep Learning for Data Science:
 - [First Steps With PySpark and Big Data Processing](https://realpython.com/pyspark-intro/)  
+- [A Brief Introduction to PySpark](https://towardsdatascience.com/a-brief-introduction-to-pyspark-ff4284701873)  
 - [Introduction to Anomaly Detection in Python](https://blog.floydhub.com/introduction-to-anomaly-detection-in-python/)  
 
 ## Deep Learning Recommendation Model:
