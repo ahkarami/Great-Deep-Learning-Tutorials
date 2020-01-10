@@ -155,6 +155,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Modelling audio signal using visual features](https://raghavgoyal14.github.io/2018/04/12/audio-via-vid-features.html)  
 - [Kaldi Speech Recognition Toolkit](https://github.com/kaldi-asr/kaldi)  
 - [PyTorch-Kaldi](https://github.com/mravanelli/pytorch-kaldi)  
+- [How to start with Kaldi and Speech Recognition](https://towardsdatascience.com/how-to-start-with-kaldi-and-speech-recognition-a9b7670ffff6)  
 
 ## Deep Reasoning:
 - [What’s Next For AI? Enter: Deep Reasoning](https://towardsdatascience.com/whats-next-for-ai-enter-deep-reasoning-fae8b131962a)  
