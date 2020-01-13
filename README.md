@@ -34,6 +34,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Quantization in Deep Learning](https://medium.com/@joel_34050/quantization-in-deep-learning-478417eab72b) [_Tutorial_]  
 - [Speeding up Deep Learning with Quantization](https://towardsdatascience.com/speeding-up-deep-learning-with-quantization-3fe3538cbb9) [_Tutorial_]  
 - [Knowledge Distillation in Deep Learning](https://medium.com/analytics-vidhya/knowledge-distillation-dark-knowledge-of-neural-network-9c1dfb418e6a)  
+- [Model Distillation Techniques for Deep Learning](https://heartbeat.fritz.ai/research-guide-model-distillation-techniques-for-deep-learning-4a100801c0eb)  
 
 ## 3D Image Classification:
 - [3D MNIST](https://medium.com/shashwats-blog/3d-mnist-b922a3d07334)  
