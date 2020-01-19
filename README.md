@@ -217,6 +217,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [torchvision 0.3: segmentation, detection models, new datasets and more](https://pytorch.org/blog/torchvision03/)  
 - [PyTorch Hub](https://pytorch.org/hub)  
 - [Neural Structured Learning (NSL) in TensorFlow](https://github.com/tensorflow/neural-structured-learning)  
+- [Pywick - High-Level Training framework for Pytorch](https://github.com/achaiah/pywick)  
 
 ## Great Models:
 - [ResNext WSL](https://pytorch.org/hub/facebookresearch_WSL-Images_resnext/) [_Great Pretrained Model_]  
