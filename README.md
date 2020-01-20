@@ -172,6 +172,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Open MMLab Detection Toolbox and Benchmark](https://github.com/open-mmlab/mmdetection)  
 - [RetinaNet: how Focal Loss fixes Single-Shot Detection](https://towardsdatascience.com/retinanet-how-focal-loss-fixes-single-shot-detection-cb320e3bb0de)  
 
+## Deformable Convolution PyTorch Implementation:
+- [Deformable ConvNets v2](https://github.com/4uiiurz1/pytorch-deform-conv-v2)  
+
 ## Visual Question Answering (VQA):
 - [Vanilla VQA](https://medium.com/ai2-blog/vanilla-vqa-adcaaaa94336)  
 
