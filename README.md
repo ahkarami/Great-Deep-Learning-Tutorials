@@ -111,6 +111,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Long Short-Term Memory (LSTM): Concept](https://medium.com/@kangeugine/long-short-term-memory-lstm-concept-cb3283934359)  
 - [Understanding architecture of LSTM cell from scratch](https://hackernoon.com/understanding-architecture-of-lstm-cell-from-scratch-with-code-8da40f0b71f4)  
 - [Basic understanding of LSTM](https://blog.goodaudience.com/basic-understanding-of-lstm-539f3b013f1e)  
+- [Taming LSTMs with PyTorch](https://towardsdatascience.com/taming-lstms-variable-sized-mini-batches-and-why-pytorch-is-good-for-your-health-61d35642972e)  
 
 ### Transformers:
 - [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)  
