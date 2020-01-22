@@ -172,6 +172,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Object Detection for Dummies Part 4](https://lilianweng.github.io/lil-log/2018/12/27/object-detection-part-4.html)  
 - [Open MMLab Detection Toolbox and Benchmark](https://github.com/open-mmlab/mmdetection)  
 - [RetinaNet: how Focal Loss fixes Single-Shot Detection](https://towardsdatascience.com/retinanet-how-focal-loss-fixes-single-shot-detection-cb320e3bb0de)  
+- [Getting Started With Bounding Box Regression In TensorFlow](https://towardsdatascience.com/getting-started-with-bounding-box-regression-in-tensorflow-743e22d0ccb3)  
 
 ## Deformable Convolution PyTorch Implementation:
 - [Deformable ConvNets v2](https://github.com/4uiiurz1/pytorch-deform-conv-v2)  
