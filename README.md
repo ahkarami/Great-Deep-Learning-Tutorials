@@ -179,7 +179,10 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Deformable ConvNets v2](https://github.com/4uiiurz1/pytorch-deform-conv-v2)  
 
 ## Visual Question Answering (VQA):
-- [Vanilla VQA](https://medium.com/ai2-blog/vanilla-vqa-adcaaaa94336)  
+- [Vanilla VQA](https://medium.com/ai2-blog/vanilla-vqa-adcaaaa94336) 
+
+## Visual Attention Method:
+- [Self-Attention In Computer Vision](https://towardsdatascience.com/self-attention-in-computer-vision-2782727021f6)  
 
 ## License Plate Detection and Recognition:
 - [ALPR in Unscontrained Scenarios](https://github.com/sergiomsilva/alpr-unconstrained) [_Good_]  
