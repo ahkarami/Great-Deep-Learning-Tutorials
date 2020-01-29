@@ -231,6 +231,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [PyTorch Hub](https://pytorch.org/hub)  
 - [Neural Structured Learning (NSL) in TensorFlow](https://github.com/tensorflow/neural-structured-learning)  
 - [Pywick - High-Level Training framework for Pytorch](https://github.com/achaiah/pywick)  
+- [torchbearer: A model fitting library for PyTorch](https://github.com/pytorchbearer/torchbearer)  
 
 ## Great Models:
 - [ResNext WSL](https://pytorch.org/hub/facebookresearch_WSL-Images_resnext/) [_Great Pretrained Model_]  
