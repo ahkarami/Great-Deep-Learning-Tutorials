@@ -103,6 +103,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [ELMo: Deep Contextualized Word Representation](https://allennlp.org/elmo)  
 - [A Step-by-Step NLP Guide to Learn ELMo](https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-features-from-text/)  
 - [ELMo: Contextual language embedding](https://towardsdatascience.com/elmo-contextual-language-embedding-335de2268604)  
+- [word embeddings with ELMo](https://medium.com/saarthi-ai/elmo-for-contextual-word-embedding-for-text-classification-24c9693b0045)  
 
 ### RNN, LSTM, and GRU:
 - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
