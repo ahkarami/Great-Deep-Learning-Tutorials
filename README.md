@@ -84,6 +84,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [A Simple Guide On Using BERT for Binary Text Classification](https://medium.com/swlh/a-simple-guide-on-using-bert-for-text-classification-bbf041ac8d04)  
 - [Core ML 3 implementation of BERT for Question answering](https://github.com/huggingface/swift-coreml-transformers)  
 - [NLP - Keras - Intro](https://nlpforhackers.io/keras-intro/)  
+- [AllenNLP](https://allennlp.org/)  [_General NLP_]
 - [Natural Language Processing With spaCy in Python](https://realpython.com/natural-language-processing-spacy-python/)  [_Great_]  
 
 ### Text Representation:
