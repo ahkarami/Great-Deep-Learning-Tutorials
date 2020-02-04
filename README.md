@@ -71,7 +71,6 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ## NLP:
 - [Great NLP Posts](http://jalammar.github.io/)  
 - [Ten trends in Deep learning NLP](https://blog.floydhub.com/ten-trends-in-deep-learning-nlp/)  
-- [A Gentle Introduction to Text Summarization in Machine Learning](https://blog.floydhub.com/gentle-introduction-to-text-summarization-in-machine-learning/)  
 - [Attention in RNNs](https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05)  
 - [BERT - TensorFlow](https://github.com/google-research/bert)  
 - [Understanding XLNet](https://www.borealisai.com/en/blog/understanding-xlnet/)  
@@ -137,6 +136,10 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [WaveNet: A Generative Model for Raw Audio](https://medium.com/a-paper-a-day-will-have-you-screaming-hurray/wavenet-a-generative-model-for-raw-audio-84b2aa5fb4a0)  
 - [How WaveNet Works](https://towardsdatascience.com/how-wavenet-works-12e2420ef386)  
 - [PyTorch Tutorial to Sequence Labeling](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Sequence-Labeling)  
+
+### Text Summarization:
+- [A Gentle Introduction to Text Summarization in Machine Learning](https://blog.floydhub.com/gentle-introduction-to-text-summarization-in-machine-learning/)  
+- [Taming Recurrent Neural Networks for Better Summarization](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html)  
 
 ### Sentiment Analysis:
 - [Introduction to Deep Learning – Sentiment Analysis](https://nlpforhackers.io/deep-learning-introduction/)  
