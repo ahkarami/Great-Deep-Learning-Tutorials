@@ -141,6 +141,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [A Gentle Introduction to Text Summarization in Machine Learning](https://blog.floydhub.com/gentle-introduction-to-text-summarization-in-machine-learning/)  
 - [Taming Recurrent Neural Networks for Better Summarization](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html)  
 - [PyTorch implementation of "Get to the point"](https://github.com/mjc92/GetToThePoint)  
+- [TensorFlow implementation of "Get to the point"](https://github.com/abisee/pointer-generator)  
 
 ### Sentiment Analysis:
 - [Introduction to Deep Learning – Sentiment Analysis](https://nlpforhackers.io/deep-learning-introduction/)  
