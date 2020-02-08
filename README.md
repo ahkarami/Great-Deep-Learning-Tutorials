@@ -41,6 +41,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [3D CNN Images with Tensorflow](https://github.com/jibikbam/CNN-3D-images-Tensorflow)  
 - [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl)  
 - [Kaolin - a PyTorch library for accelerating 3D deep learning](https://github.com/NVIDIAGameWorks/kaolin)  
+- [PyTorch3D](https://github.com/facebookresearch/pytorch3d) [_Fantastic_]  
 
 ## Learning to Hash & General Hashing (+ Fast Searching Methods):
 - [Finding similar images using Deep learning and Locality Sensitive Hashing](https://towardsdatascience.com/finding-similar-images-using-deep-learning-and-locality-sensitive-hashing-9528afee02f5) [_Very Good_]  
