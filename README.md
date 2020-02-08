@@ -149,6 +149,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ### Co-Reference Resolution:
 - [Coreference Resolution for Chatbots](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30)  
+- [Hugging Face - CoRef](https://huggingface.co/coref/)  
 
 ### NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
