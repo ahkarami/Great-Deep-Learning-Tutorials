@@ -18,6 +18,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Netron - GitHub](https://github.com/lutzroeder/netron) [_Excellent_]  
 - [Monitor your GPUs](https://github.com/msalvaris/gpu_monitor) [**Excellent**]  
 - [Understanding CNN](http://cs231n.github.io/understanding-cnn/)  
+- [Exploring Neural Networks with Activation Atlases](https://distill.pub/2019/activation-atlas/)  [_Great_]
 
 ## t-SNE Visualization:
 - [TSNE-Visualization of large dataset images using pre-trained networks in Tensorflow and Keras](https://e3oroush.github.io/tsne-visualization/)  [_Great_] 
