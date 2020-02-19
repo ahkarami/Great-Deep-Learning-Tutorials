@@ -197,6 +197,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Simple and Fast Implementation of Faster R-CNN](https://github.com/chenyuntc/simple-faster-rcnn-pytorch)  
 - [PyTorch Tutorial to Object Detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection)  
 - [Object Detection and Classification using R-CNNs](http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/)  
+- [Faster R-CNN: Down the rabbit hole of modern object detection](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)  
 
 ## Deformable Convolution PyTorch Implementation:
 - [Deformable ConvNets v2](https://github.com/4uiiurz1/pytorch-deform-conv-v2)  
