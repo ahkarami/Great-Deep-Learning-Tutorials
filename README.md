@@ -191,6 +191,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Getting Started With Bounding Box Regression In TensorFlow](https://towardsdatascience.com/getting-started-with-bounding-box-regression-in-tensorflow-743e22d0ccb3)  
 - [Pelee: A Real-Time Object Detection System on Mobile Devices](https://github.com/Robert-JunWang/Pelee)  
 - [Pelee: Tutorial](https://medium.com/@bibekchaudhary/pelee-real-time-object-detection-system-on-mobile-devices-f565947c04c4)  
+- [An overview of deep-learning based object-detection algorithms](https://medium.com/@fractaldle/brief-overview-on-object-detection-algorithms-ec516929be93)  
 
 ### Faster R-CNN Object Detector Tutorials:
 - [Guide to build Faster RCNN in PyTorch](https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439)  
