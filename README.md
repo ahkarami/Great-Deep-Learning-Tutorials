@@ -62,6 +62,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [First Steps With PySpark and Big Data Processing](https://realpython.com/pyspark-intro/)  
 - [A Brief Introduction to PySpark](https://towardsdatascience.com/a-brief-introduction-to-pyspark-ff4284701873)  
 - [Introduction to Anomaly Detection in Python](https://blog.floydhub.com/introduction-to-anomaly-detection-in-python/)  
+- [NumPy Exercises](https://www.w3resource.com/python-exercises/numpy/index.php)  [_Good_]
 
 ## Deep Learning Recommendation Model:
 - [Deep Learning Recommendation Model for Personalization and Recommendation Systems - DLRM](https://github.com/facebookresearch/dlrm)  
