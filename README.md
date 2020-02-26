@@ -7,6 +7,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [DeepLizard](https://deeplizard.com/) [_Good Tutorials for Deep Learning_]  
 - [Sebastian Ruder - Blog](https://ruder.io/) [_Great NLP & Deep Learning Posts_]  
 - [Excellent Blog](https://lilianweng.github.io/lil-log/)  
+- [Torchvision Release Notes](https://github.com/pytorch/vision/releases)  [_Important_]
 - [The 6 most useful Machine Learning projects of the past year (2018)](https://towardsdatascience.com/the-10-most-useful-machine-learning-projects-of-the-past-year-2018-5378bbd4919f)  
 - [ResNet Review](https://towardsdatascience.com/review-resnet-winner-of-ilsvrc-2015-image-classification-localization-detection-e39402bfa5d8)  
 
@@ -268,4 +269,5 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## Deep Model Conversion:
 - [Convert Full ImageNet Pre-trained Model from MXNet to PyTorch](https://blog.paperspace.com/convert-full-imagenet-pre-trained-model-from-mxnet-to-pytorch/) [_Great_] 
+- [ONNX Runtime](https://github.com/microsoft/onnxruntime)  
 
