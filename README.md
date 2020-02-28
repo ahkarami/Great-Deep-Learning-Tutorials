@@ -231,6 +231,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ## Deep Reinforcement Learning (Great Courses & Tutorials):
 - [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) [_Great_] 
 - [Deep Reinforcement Learning Algorithms with PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)  
+- [Deep Reinforcement Learning](rail.eecs.berkeley.edu/deeprlcourse/)  
 
 ## Conferences News:
 - [Latest Computer Vision Trends from CVPR 2019](https://towardsdatascience.com/latest-computer-vision-trends-from-cvpr-2019-c07806dd570b)  
