@@ -128,6 +128,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Transformer: A Novel Neural Network Architecture for Language Understanding](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)  
 - [How do Transformers Work in NLP?](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/)  
 - [BERT for Dummies](https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03)  
+- [The Dark Secrets of BERT](https://text-machine-lab.github.io/blog/2020/bert-secrets/)  
 
 ### Attention Mechanism:
 - [Attention Mechanism](https://blog.floydhub.com/attention-mechanism/)  
