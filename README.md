@@ -178,7 +178,11 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Kaldi Speech Recognition Toolkit](https://github.com/kaldi-asr/kaldi)  
 - [PyTorch-Kaldi](https://github.com/mravanelli/pytorch-kaldi)  
 - [How to start with Kaldi and Speech Recognition](https://towardsdatascience.com/how-to-start-with-kaldi-and-speech-recognition-a9b7670ffff6)  
-- [PyKaldi](https://github.com/pykaldi/pykaldi)  
+- [PyKaldi](https://github.com/pykaldi/pykaldi) 
+
+### Text to Speech (TTS):
+- [ForwardTacotron](https://github.com/as-ideas/ForwardTacotron)  
+- [WaveRNN Vocoder + TTS](https://github.com/fatchord/WaveRNN)  
 
 ## Deep Reasoning:
 - [What’s Next For AI? Enter: Deep Reasoning](https://towardsdatascience.com/whats-next-for-ai-enter-deep-reasoning-fae8b131962a)  
