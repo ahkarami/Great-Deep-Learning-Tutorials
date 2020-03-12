@@ -226,6 +226,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ## License Plate Detection and Recognition:
 - [ALPR in Unscontrained Scenarios](https://github.com/sergiomsilva/alpr-unconstrained) [_Good_]  
 - [ALPR in Unscontrained Scenarios - Project Page](http://sergiomsilva.com/pubs/alpr-unconstrained/)  
+- [Lisence plate detection and recognition - ANPR](https://github.com/GuiltyNeuron/ANPR)  
 
 ## Loss Functions:
 - [Loss Functions Explained](https://medium.com/deep-learning-demystified/loss-functions-explained-3098e8ff2b27)  
