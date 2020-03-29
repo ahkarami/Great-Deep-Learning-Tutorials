@@ -27,6 +27,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ## Quantization & Distillation of Deep Learning Models:
 - [Quantization](https://nervanasystems.github.io/distiller/quantization/)  
 - [Neural Network Distiller](https://github.com/NervanaSystems/distiller/)  
+- [Introduction to Quantization on PyTorch](https://pytorch.org/blog/introduction-to-quantization-on-pytorch/) [_Excellent_]  
 - [Dynamic Quantization in PyTorch](https://pytorch.org/tutorials/advanced/dynamic_quantization_tutorial.html)  
 - [Static Quantization in PyTorch](https://pytorch.org/tutorials/advanced/static_quantization_tutorial.html)  
 - [Intel(R) Math Kernel Library - Intel MKL-DNN](https://github.com/intel/mkl-dnn)  
