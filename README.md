@@ -90,6 +90,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Core ML 3 implementation of BERT for Question answering](https://github.com/huggingface/swift-coreml-transformers)  
 - [NLP - Keras - Intro](https://nlpforhackers.io/keras-intro/)  
 - [AllenNLP](https://allennlp.org/)  [_General NLP_]
+- [Stanza - A Python NLP Library for Many Human Languages](https://stanfordnlp.github.io/stanza/)  
 - [Natural Language Processing With spaCy in Python](https://realpython.com/natural-language-processing-spacy-python/)  [_Great_]  
 
 ### Text Representation:
