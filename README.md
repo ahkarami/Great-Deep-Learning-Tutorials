@@ -131,6 +131,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [How do Transformers Work in NLP?](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/)  
 - [BERT for Dummies](https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03)  
 - [The Dark Secrets of BERT](https://text-machine-lab.github.io/blog/2020/bert-secrets/)  
+- [A Survey of Long-Term Context in Transformers](https://www.pragmatic.ml/a-survey-of-methods-for-incorporating-long-term-context/) [_Great_]  
 
 ### Attention Mechanism:
 - [Attention Mechanism](https://blog.floydhub.com/attention-mechanism/)  
