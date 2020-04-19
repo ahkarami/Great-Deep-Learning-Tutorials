@@ -77,6 +77,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## NLP:
 - [Great NLP Posts](http://jalammar.github.io/)  
+- [Awesome NLP Paper Discussions - Hugging Face](https://github.com/huggingface/awesome-papers) [_Excellent_]  
 - [Ten trends in Deep learning NLP](https://blog.floydhub.com/ten-trends-in-deep-learning-nlp/)  
 - [Attention in RNNs](https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05)  
 - [BERT - TensorFlow](https://github.com/google-research/bert)  
