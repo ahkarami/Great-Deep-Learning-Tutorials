@@ -11,6 +11,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [The 6 most useful Machine Learning projects of the past year (2018)](https://towardsdatascience.com/the-10-most-useful-machine-learning-projects-of-the-past-year-2018-5378bbd4919f)  
 - [ResNet Review](https://towardsdatascience.com/review-resnet-winner-of-ilsvrc-2015-image-classification-localization-detection-e39402bfa5d8)  
 
+## Instance Segmentation:  
+- [Image Segmentation: tips and tricks from 39 Kaggle competitions](https://neptune.ai/blog/image-segmentation-tips-and-tricks-from-kaggle-competitions?utm_source=reddit&utm_medium=post&utm_campaign=blog-image-segmentation-tips-and-tricks-from-kaggle-competitions) [_Excellent_]  
+
 ## Semantic Segmentation:
 - [Simple Guide to Semantic Segmentation](https://medium.com/beyondminds/a-simple-guide-to-semantic-segmentation-effcf83e7e54)  
 
@@ -272,7 +275,6 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [ParlAI - dialogue models - Facebook AI Research (FAIR)](https://parl.ai/)  
 - [Netron - GitHub](https://github.com/lutzroeder/netron) [_Visualizer for deep learning Models (Excellent)_]
 - [Netron - Web Site](https://www.lutzroeder.com/ai)  
-- [torchvision 0.3: segmentation, detection models, new datasets and more](https://pytorch.org/blog/torchvision03/)  
 - [PyTorch Hub](https://pytorch.org/hub)  
 - [Neural Structured Learning (NSL) in TensorFlow](https://github.com/tensorflow/neural-structured-learning)  
 - [Pywick - High-Level Training framework for Pytorch](https://github.com/achaiah/pywick)  
