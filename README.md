@@ -23,6 +23,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Monitor your GPUs](https://github.com/msalvaris/gpu_monitor) [**Excellent**]  
 - [Understanding CNN](http://cs231n.github.io/understanding-cnn/)  
 - [Exploring Neural Networks with Activation Atlases](https://distill.pub/2019/activation-atlas/)  [_Great_]
+- [Explaining What Explainable AI Did Not](https://bair.berkeley.edu/blog/2020/04/23/decisions/) [_Interesting_]
 
 ## t-SNE Visualization:
 - [TSNE-Visualization of large dataset images using pre-trained networks in Tensorflow and Keras](https://e3oroush.github.io/tsne-visualization/)  [_Great_] 
@@ -219,6 +220,8 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Mask R-CNN Unmasked](https://medium.com/@fractaldle/mask-r-cnn-unmasked-c029aa2f1296)  
 
 ## Deformable Convolution PyTorch Implementation:
+- [TorchVision - Deformable Convolution - Link1](https://github.com/pytorch/vision/releases)  
+- [TorchVision - Deformable Convolution - Link2](https://github.com/pytorch/vision/blob/master/torchvision/ops/deform_conv.py)  
 - [Deformable Convolutional Networks v2 with Pytorch](https://github.com/CharlesShang/DCNv2/tree/pytorch_1.0)  [_Good_]  
 - [Deformable ConvNets v2](https://github.com/4uiiurz1/pytorch-deform-conv-v2)  
 - [MMLab Detection Toolbox](https://github.com/open-mmlab/mmdetection/tree/master/mmdet/ops/dcn)  
