@@ -293,3 +293,6 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Convert Full ImageNet Pre-trained Model from MXNet to PyTorch](https://blog.paperspace.com/convert-full-imagenet-pre-trained-model-from-mxnet-to-pytorch/) [_Great_] 
 - [ONNX Runtime](https://github.com/microsoft/onnxruntime)  
 
+## Great Deep Learning Repositories (for learning DL-based programming):
+- [deeplearning-models - PyTorch & TensorFlow Learning](https://github.com/rasbt/deeplearning-models)  [_Very Excellent Repository_]  
+
