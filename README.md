@@ -70,6 +70,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [A Brief Introduction to PySpark](https://towardsdatascience.com/a-brief-introduction-to-pyspark-ff4284701873)  
 - [Introduction to Anomaly Detection in Python](https://blog.floydhub.com/introduction-to-anomaly-detection-in-python/)  
 - [Time Series basics Exploring](https://www.kaggle.com/jagangupta/time-series-basics-exploring-traditional-ts)  
+- [Understanding Variational Autoencoders (VAEs)](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)  
 - [NumPy Exercises](https://www.w3resource.com/python-exercises/numpy/index.php)  [_Good_]
 
 ## Deep Learning Recommendation Model:
