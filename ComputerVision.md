@@ -15,6 +15,18 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 
 
 ## Detection & Segmentation:
+## Object Detection:
+- [Object Detection for Dummies Part 1](https://lilianweng.github.io/lil-log/2017/10/29/object-recognition-for-dummies-part-1.html)  
+- [Object Detection for Dummies Part 2](https://lilianweng.github.io/lil-log/2017/12/15/object-recognition-for-dummies-part-2.html)  
+- [Object Detection for Dummies Part 3](https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html)  
+- [Object Detection for Dummies Part 4](https://lilianweng.github.io/lil-log/2018/12/27/object-detection-part-4.html)  
+- [Open MMLab Detection Toolbox and Benchmark](https://github.com/open-mmlab/mmdetection)  
+- [RetinaNet: how Focal Loss fixes Single-Shot Detection](https://towardsdatascience.com/retinanet-how-focal-loss-fixes-single-shot-detection-cb320e3bb0de)  
+- [Getting Started With Bounding Box Regression In TensorFlow](https://towardsdatascience.com/getting-started-with-bounding-box-regression-in-tensorflow-743e22d0ccb3)  
+- [Pelee: A Real-Time Object Detection System on Mobile Devices](https://github.com/Robert-JunWang/Pelee)  
+- [Pelee: Tutorial](https://medium.com/@bibekchaudhary/pelee-real-time-object-detection-system-on-mobile-devices-f565947c04c4)  
+- [An overview of deep-learning based object-detection algorithms](https://medium.com/@fractaldle/brief-overview-on-object-detection-algorithms-ec516929be93)  
+- [Object detection and tracking in PyTorch](https://towardsdatascience.com/object-detection-and-tracking-in-pytorch-b3cf1a696a98)  
 
 ### Instance Segmentation:  
 - [Image Segmentation: tips and tricks from 39 Kaggle competitions](https://neptune.ai/blog/image-segmentation-tips-and-tricks-from-kaggle-competitions?utm_source=reddit&utm_medium=post&utm_campaign=blog-image-segmentation-tips-and-tricks-from-kaggle-competitions) [_Excellent_]  
