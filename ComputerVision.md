@@ -9,6 +9,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Understanding CNN](http://cs231n.github.io/understanding-cnn/)  
 - [Exploring Neural Networks with Activation Atlases](https://distill.pub/2019/activation-atlas/)  [_Great_]
 - [Explaining What Explainable AI Did Not](https://bair.berkeley.edu/blog/2020/04/23/decisions/) [_Interesting_]
+- [CNN Explainer](https://poloclub.github.io/cnn-explainer/) [_Interesting_]  
 
 ### t-SNE Visualization:
 - [TSNE-Visualization of large dataset images using pre-trained networks in Tensorflow and Keras](https://e3oroush.github.io/tsne-visualization/)  [_Great_] 
