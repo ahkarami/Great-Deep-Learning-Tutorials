@@ -29,13 +29,6 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Knowledge Distillation in Deep Learning](https://medium.com/analytics-vidhya/knowledge-distillation-dark-knowledge-of-neural-network-9c1dfb418e6a)  
 - [Model Distillation Techniques for Deep Learning](https://heartbeat.fritz.ai/research-guide-model-distillation-techniques-for-deep-learning-4a100801c0eb)  
 
-## 3D Image Classification:
-- [3D MNIST](https://medium.com/shashwats-blog/3d-mnist-b922a3d07334)  
-- [3D CNN Images with Tensorflow](https://github.com/jibikbam/CNN-3D-images-Tensorflow)  
-- [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl)  
-- [Kaolin - a PyTorch library for accelerating 3D deep learning](https://github.com/NVIDIAGameWorks/kaolin)  
-- [PyTorch3D](https://github.com/facebookresearch/pytorch3d) [_Fantastic_]  
-
 ## Learning to Hash & General Hashing (+ Fast Searching Methods):
 - [Finding similar images using Deep learning and Locality Sensitive Hashing](https://towardsdatascience.com/finding-similar-images-using-deep-learning-and-locality-sensitive-hashing-9528afee02f5) [_Very Good_]  
 - [Image similarity using Triplet Loss](https://towardsdatascience.com/image-similarity-using-triplet-loss-3744c0f67973)  
