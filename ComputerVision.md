@@ -43,7 +43,11 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Kaolin - a PyTorch library for accelerating 3D deep learning](https://github.com/NVIDIAGameWorks/kaolin)  
 - [PyTorch3D](https://github.com/facebookresearch/pytorch3d) [_Fantastic_]  
 
-  
+
+## Pose Estimation:
+- [Pose Animator](https://github.com/yemount/pose-animator/)  
+
 ## Computer Vision Annotation Tools:
 - [CVAT](https://github.com/opencv/cvat)  
+- [Curve-GCN](https://github.com/fidler-lab/curve-gcn)  
 
