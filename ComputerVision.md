@@ -47,6 +47,11 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 ## Pose Estimation:
 - [Pose Animator](https://github.com/yemount/pose-animator/)  
 
+
+## GANs:
+- [Generate Anime Style Face Using DCGAN and Explore Its Latent Feature Representation](https://towardsdatascience.com/generate-anime-style-face-using-dcgan-and-explore-its-latent-feature-representation-ae0e905f3974)  
+
+
 ## Computer Vision Annotation Tools:
 - [CVAT](https://github.com/opencv/cvat)  
 - [Curve-GCN](https://github.com/fidler-lab/curve-gcn)  
