@@ -29,11 +29,6 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Knowledge Distillation in Deep Learning](https://medium.com/analytics-vidhya/knowledge-distillation-dark-knowledge-of-neural-network-9c1dfb418e6a)  
 - [Model Distillation Techniques for Deep Learning](https://heartbeat.fritz.ai/research-guide-model-distillation-techniques-for-deep-learning-4a100801c0eb)  
 
-## Learning to Hash & General Hashing (+ Fast Searching Methods):
-- [Finding similar images using Deep learning and Locality Sensitive Hashing](https://towardsdatascience.com/finding-similar-images-using-deep-learning-and-locality-sensitive-hashing-9528afee02f5) [_Very Good_]  
-- [Image similarity using Triplet Loss](https://towardsdatascience.com/image-similarity-using-triplet-loss-3744c0f67973)  
-- [Finding duplicate images made easy!](https://github.com/idealo/imagededup)  
-
 ## Few-Shot Learning:
 - [Advances in few-shot learning](https://towardsdatascience.com/advances-in-few-shot-learning-a-guided-tour-36bc10a68b77)  
 - [Advances in few-shot learning: reproducing results in PyTorch](https://towardsdatascience.com/advances-in-few-shot-learning-reproducing-results-in-pytorch-aba70dee541d)  
