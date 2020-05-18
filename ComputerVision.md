@@ -44,6 +44,12 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [PyTorch3D](https://github.com/facebookresearch/pytorch3d) [_Fantastic_]  
 
 
+## Few-Shot Learning:
+- [Advances in few-shot learning](https://towardsdatascience.com/advances-in-few-shot-learning-a-guided-tour-36bc10a68b77)  
+- [Advances in few-shot learning: reproducing results in PyTorch](https://towardsdatascience.com/advances-in-few-shot-learning-reproducing-results-in-pytorch-aba70dee541d)  
+- [One Shot learning, Siamese networks and Triplet Loss](https://medium.com/@crimy/one-shot-learning-siamese-networks-and-triplet-loss-with-keras-2885ed022352)  
+
+
 ## Learning to Hash & General Hashing (+ Fast Searching Methods):
 - [Finding similar images using Deep learning and Locality Sensitive Hashing](https://towardsdatascience.com/finding-similar-images-using-deep-learning-and-locality-sensitive-hashing-9528afee02f5) [_Very Good_]  
 - [Image similarity using Triplet Loss](https://towardsdatascience.com/image-similarity-using-triplet-loss-3744c0f67973)  
