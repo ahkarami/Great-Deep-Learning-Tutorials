@@ -29,10 +29,6 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Knowledge Distillation in Deep Learning](https://medium.com/analytics-vidhya/knowledge-distillation-dark-knowledge-of-neural-network-9c1dfb418e6a)  
 - [Model Distillation Techniques for Deep Learning](https://heartbeat.fritz.ai/research-guide-model-distillation-techniques-for-deep-learning-4a100801c0eb)  
 
-## Few-Shot Learning:
-- [Advances in few-shot learning](https://towardsdatascience.com/advances-in-few-shot-learning-a-guided-tour-36bc10a68b77)  
-- [Advances in few-shot learning: reproducing results in PyTorch](https://towardsdatascience.com/advances-in-few-shot-learning-reproducing-results-in-pytorch-aba70dee541d)  
-- [One Shot learning, Siamese networks and Triplet Loss](https://medium.com/@crimy/one-shot-learning-siamese-networks-and-triplet-loss-with-keras-2885ed022352)  
 
 ## Deep Learning for Data Science:
 - [Python Data Science Tutorials](https://realpython.com/tutorials/data-science/)  
