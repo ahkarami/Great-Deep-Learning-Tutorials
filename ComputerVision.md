@@ -57,6 +57,14 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Finding duplicate images made easy!](https://github.com/idealo/imagededup)  
 
 
+## Video Understanding: 
+- [Holistic Video Understanding Challenge](https://holistic-video-understanding.github.io/workshops/iccv2019.html)  
+- [Holistic Video Understanding Dataset](https://github.com/holistic-video-understanding/Mini-HVU)  
+- [Holistic Large Scale Video Understanding - Tutorial](https://towardsdatascience.com/holistic-large-scale-video-understanding-c423701b777a)  
+- [VMZ: Model Zoo for Video Modeling](https://github.com/facebookresearch/VMZ)  
+- [The 3rd YouTube-8M Video Understanding Challenge - 1st Place Solution](https://www.kaggle.com/c/youtube8m-2019/discussion/112869#latest-668179?utm_medium=email&utm_source=intercom&utm_campaign=competition-recaps-yt-2019)  
+
+
 ## Pose Estimation:
 - [Pose Animator](https://github.com/yemount/pose-animator/)  
 
