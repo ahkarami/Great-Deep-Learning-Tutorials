@@ -141,12 +141,6 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Train and Deploy the Mighty Transformer NLP models using FastBert and AWS SageMaker](https://medium.com/@kaushaltrivedi/train-and-deploy-mighty-transformer-nlp-models-using-fastbert-and-aws-sagemaker-cc4303c51cf3)  
 - [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/)  
 
-## Video Understanding: 
-- [Holistic Video Understanding Challenge](https://holistic-video-understanding.github.io/workshops/iccv2019.html)  
-- [Holistic Video Understanding Dataset](https://github.com/holistic-video-understanding/Mini-HVU)  
-- [Holistic Large Scale Video Understanding - Tutorial](https://towardsdatascience.com/holistic-large-scale-video-understanding-c423701b777a)  
-- [VMZ: Model Zoo for Video Modeling](https://github.com/facebookresearch/VMZ)  
-- [The 3rd YouTube-8M Video Understanding Challenge - 1st Place Solution](https://www.kaggle.com/c/youtube8m-2019/discussion/112869#latest-668179?utm_medium=email&utm_source=intercom&utm_campaign=competition-recaps-yt-2019)  
 
 ## Spoken Language Processing (Speech Processing):
 - [Audio Classification](https://towardsdatascience.com/audio-classification-using-fastai-and-on-the-fly-frequency-transforms-4dbe1b540f89) [_Great_]  
