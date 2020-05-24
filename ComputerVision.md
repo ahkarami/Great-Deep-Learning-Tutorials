@@ -29,6 +29,15 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [An overview of deep-learning based object-detection algorithms](https://medium.com/@fractaldle/brief-overview-on-object-detection-algorithms-ec516929be93)  
 - [Object detection and tracking in PyTorch](https://towardsdatascience.com/object-detection-and-tracking-in-pytorch-b3cf1a696a98)  
 
+### Faster R-CNN Object Detector Tutorials:
+- [Guide to build Faster RCNN in PyTorch](https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439)  
+- [Simple and Fast Implementation of Faster R-CNN](https://github.com/chenyuntc/simple-faster-rcnn-pytorch)  
+- [PyTorch Tutorial to Object Detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection)  
+- [Object Detection and Classification using R-CNNs](http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/)  
+- [Faster R-CNN: Down the rabbit hole of modern object detection](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)  
+- [Faster R-CNN (object detection) implemented by Keras for custom data](https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a)  
+- [Mask R-CNN Unmasked](https://medium.com/@fractaldle/mask-r-cnn-unmasked-c029aa2f1296)  
+
 ### Instance Segmentation:  
 - [Image Segmentation: tips and tricks from 39 Kaggle competitions](https://neptune.ai/blog/image-segmentation-tips-and-tricks-from-kaggle-competitions?utm_source=reddit&utm_medium=post&utm_campaign=blog-image-segmentation-tips-and-tricks-from-kaggle-competitions) [_Excellent_]  
 
