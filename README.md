@@ -160,14 +160,6 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [What’s Next For AI? Enter: Deep Reasoning](https://towardsdatascience.com/whats-next-for-ai-enter-deep-reasoning-fae8b131962a)  
 - [Deep Learning approaches to understand Human Reasoning](https://towardsdatascience.com/deep-learning-approaches-to-understand-human-reasoning-46f1805d454d)  
 
-### Faster R-CNN Object Detector Tutorials:
-- [Guide to build Faster RCNN in PyTorch](https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439)  
-- [Simple and Fast Implementation of Faster R-CNN](https://github.com/chenyuntc/simple-faster-rcnn-pytorch)  
-- [PyTorch Tutorial to Object Detection](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection)  
-- [Object Detection and Classification using R-CNNs](http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/)  
-- [Faster R-CNN: Down the rabbit hole of modern object detection](https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/)  
-- [Faster R-CNN (object detection) implemented by Keras for custom data](https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a)  
-- [Mask R-CNN Unmasked](https://medium.com/@fractaldle/mask-r-cnn-unmasked-c029aa2f1296)  
 
 ## Deformable Convolution PyTorch Implementation:
 - [TorchVision - Deformable Convolution - Link1](https://github.com/pytorch/vision/releases)  
