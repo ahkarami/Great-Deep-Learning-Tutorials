@@ -28,6 +28,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Pelee: Tutorial](https://medium.com/@bibekchaudhary/pelee-real-time-object-detection-system-on-mobile-devices-f565947c04c4)  
 - [An overview of deep-learning based object-detection algorithms](https://medium.com/@fractaldle/brief-overview-on-object-detection-algorithms-ec516929be93)  
 - [Object detection and tracking in PyTorch](https://towardsdatascience.com/object-detection-and-tracking-in-pytorch-b3cf1a696a98)  
+- [DETR - DEtection TRansformer](https://github.com/facebookresearch/detr) [_Great_]  
 
 ### Faster R-CNN Object Detector Tutorials:
 - [Guide to build Faster RCNN in PyTorch](https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439)  
