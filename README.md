@@ -160,16 +160,6 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [What’s Next For AI? Enter: Deep Reasoning](https://towardsdatascience.com/whats-next-for-ai-enter-deep-reasoning-fae8b131962a)  
 - [Deep Learning approaches to understand Human Reasoning](https://towardsdatascience.com/deep-learning-approaches-to-understand-human-reasoning-46f1805d454d)  
 
-
-## Deformable Convolution PyTorch Implementation:
-- [TorchVision - Deformable Convolution - Link1](https://github.com/pytorch/vision/releases)  
-- [TorchVision - Deformable Convolution - Link2](https://github.com/pytorch/vision/blob/master/torchvision/ops/deform_conv.py)  
-- [Deformable Convolutional Networks v2 with Pytorch](https://github.com/CharlesShang/DCNv2/tree/pytorch_1.0)  [_Good_]  
-- [Deformable ConvNets v2](https://github.com/4uiiurz1/pytorch-deform-conv-v2)  
-- [MMLab Detection Toolbox](https://github.com/open-mmlab/mmdetection/tree/master/mmdet/ops/dcn)  
-- [DCNv2 in PyTorch](https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch)  
-- [PyTorch implementation of Deformable Convolution](https://github.com/oeway/pytorch-deform-conv)  
-
 ## Visual Question Answering (VQA):
 - [Vanilla VQA](https://medium.com/ai2-blog/vanilla-vqa-adcaaaa94336) 
 
