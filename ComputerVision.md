@@ -45,6 +45,13 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 ### Semantic Segmentation:
 - [Simple Guide to Semantic Segmentation](https://medium.com/beyondminds/a-simple-guide-to-semantic-segmentation-effcf83e7e54)  
 
+### License Plate Detection and Recognition:
+- [ALPR in Unscontrained Scenarios](https://github.com/sergiomsilva/alpr-unconstrained) [_Good_]  
+- [ALPR in Unscontrained Scenarios - Project Page](http://sergiomsilva.com/pubs/alpr-unconstrained/)  
+- [Lisence plate detection and recognition - ANPR](https://github.com/GuiltyNeuron/ANPR)  
+- [License Plate Detection](https://github.com/AzharMithani/License-Plate-Detection)  
+- [yolo3 to detection license plate](https://github.com/ThorPham/License-plate-detection)  
+
 
 ## Deformable Convolution PyTorch Implementation:
 - [TorchVision - Deformable Convolution - Link1](https://github.com/pytorch/vision/releases)  
