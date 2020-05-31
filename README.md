@@ -153,6 +153,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [PyKaldi](https://github.com/pykaldi/pykaldi) 
 
 ### Text to Speech (TTS):
+- [Glow-TTS](https://github.com/jaywalnut310/glow-tts)  
 - [ForwardTacotron](https://github.com/as-ideas/ForwardTacotron)  
 - [WaveRNN Vocoder + TTS](https://github.com/fatchord/WaveRNN)  
 
