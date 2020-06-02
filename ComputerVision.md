@@ -93,6 +93,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [The 3rd YouTube-8M Video Understanding Challenge - 1st Place Solution](https://www.kaggle.com/c/youtube8m-2019/discussion/112869#latest-668179?utm_medium=email&utm_source=intercom&utm_campaign=competition-recaps-yt-2019)  
 
 
+## Visual Question Answering (VQA):
+- [Vanilla VQA](https://medium.com/ai2-blog/vanilla-vqa-adcaaaa94336)  
+
+
 ## Pose Estimation:
 - [Pose Animator](https://github.com/yemount/pose-animator/)  
 
