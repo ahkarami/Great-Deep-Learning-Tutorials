@@ -161,16 +161,8 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [What’s Next For AI? Enter: Deep Reasoning](https://towardsdatascience.com/whats-next-for-ai-enter-deep-reasoning-fae8b131962a)  
 - [Deep Learning approaches to understand Human Reasoning](https://towardsdatascience.com/deep-learning-approaches-to-understand-human-reasoning-46f1805d454d)  
 
-
 ## Visual Attention Method:
 - [Self-Attention In Computer Vision](https://towardsdatascience.com/self-attention-in-computer-vision-2782727021f6)  
-
-## License Plate Detection and Recognition:
-- [ALPR in Unscontrained Scenarios](https://github.com/sergiomsilva/alpr-unconstrained) [_Good_]  
-- [ALPR in Unscontrained Scenarios - Project Page](http://sergiomsilva.com/pubs/alpr-unconstrained/)  
-- [Lisence plate detection and recognition - ANPR](https://github.com/GuiltyNeuron/ANPR)  
-- [License Plate Detection](https://github.com/AzharMithani/License-Plate-Detection)  
-- [yolo3 to detection license plate](https://github.com/ThorPham/License-plate-detection)  
 
 ## Loss Functions:
 - [Loss Functions Explained](https://medium.com/deep-learning-demystified/loss-functions-explained-3098e8ff2b27)  
