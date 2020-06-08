@@ -83,6 +83,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Finding similar images using Deep learning and Locality Sensitive Hashing](https://towardsdatascience.com/finding-similar-images-using-deep-learning-and-locality-sensitive-hashing-9528afee02f5) [_Very Good_]  
 - [Image similarity using Triplet Loss](https://towardsdatascience.com/image-similarity-using-triplet-loss-3744c0f67973)  
 - [Finding duplicate images made easy!](https://github.com/idealo/imagededup)  
+- [Duplicate Image Detection - perspective hash (pHash)](https://github.com/philipbl/duplicate-images)  
 
 
 ## Video Understanding: 
