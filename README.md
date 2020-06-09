@@ -161,9 +161,6 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [What’s Next For AI? Enter: Deep Reasoning](https://towardsdatascience.com/whats-next-for-ai-enter-deep-reasoning-fae8b131962a)  
 - [Deep Learning approaches to understand Human Reasoning](https://towardsdatascience.com/deep-learning-approaches-to-understand-human-reasoning-46f1805d454d)  
 
-## Visual Attention Method:
-- [Self-Attention In Computer Vision](https://towardsdatascience.com/self-attention-in-computer-vision-2782727021f6)  
-
 ## Loss Functions:
 - [Loss Functions Explained](https://medium.com/deep-learning-demystified/loss-functions-explained-3098e8ff2b27)  
 
