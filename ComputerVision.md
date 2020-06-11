@@ -114,3 +114,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [CVAT](https://github.com/opencv/cvat)  
 - [Curve-GCN](https://github.com/fidler-lab/curve-gcn)  
 
+## Building Datasets:
+- [Building Image Datasets for Computer Vision Algorithms](https://blog.paperspace.com/building-computer-vision-datasets/)  
+
+
+
