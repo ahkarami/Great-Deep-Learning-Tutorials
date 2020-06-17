@@ -189,6 +189,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## Great Libraries:
 - [Skorch - A scikit-learn compatible neural network library that wraps PyTorch](https://github.com/skorch-dev/skorch)  
+- [Hummingbird - traditional ML models into tensor computations via PyTorch](https://github.com/microsoft/hummingbird)  
 - [BoTorch - Bayesian Optimization in PyTorch](https://botorch.org/)  
 - [torchvision 0.3: segmentation, detection models, new datasets and more](https://pytorch.org/blog/torchvision03/)  
 - [TorchAudio: an audio library for PyTorch](https://github.com/pytorch/audio)  
