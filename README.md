@@ -14,6 +14,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ## Deep Learning Useful Resources for Computer Vision:  
 - [Great Deep Learning Resources for Computer Vision Tasks](https://github.com/ahkarami/Great-Deep-Learning-Tutorials/blob/master/ComputerVision.md) [_Excellent_]  
 
+## Deep Learning Useful Resources for Natural Language Processing (NLP):  
+- [Great Deep Learning Resources for NLP Tasks](https://github.com/ahkarami/Great-Deep-Learning-Tutorials/blob/master/NLP.md) [_Excellent_]  
+
 ## Quantization & Distillation of Deep Learning Models:
 - [Quantization](https://nervanasystems.github.io/distiller/quantization/)  
 - [Neural Network Distiller](https://github.com/NervanaSystems/distiller/)  
