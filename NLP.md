@@ -3,4 +3,41 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 
 ## General:
 - [Great NLP Posts](http://jalammar.github.io/)  
+- [Awesome NLP Paper Discussions - Hugging Face](https://github.com/huggingface/awesome-papers) [_Excellent_]  
+- [Ten trends in Deep learning NLP](https://blog.floydhub.com/ten-trends-in-deep-learning-nlp/)  
+- [Attention in RNNs](https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05)  
+- [BERT - TensorFlow](https://github.com/google-research/bert)  
+- [Understanding XLNet](https://www.borealisai.com/en/blog/understanding-xlnet/)  
+- [XLNet - TensorFlow](https://github.com/zihangdai/xlnet)  
+- [XLM (PyTorch implementation of Cross-lingual Language Model Pretraining)](https://github.com/facebookresearch/XLM)  
+- [Pretrained PyTorch models for BERT](https://github.com/huggingface/pytorch-pretrained-BERT)  
+- [Library of state-of-the-art pretrained models for NLP](https://github.com/huggingface/pytorch-transformers#quick-tour) [_Excellent_]  
+- [DistilBERT](https://medium.com/huggingface/distilbert-8cf3380435b5)  
+- [PyTorch Hub - BERT](https://pytorch.org/hub/huggingface_pytorch-pretrained-bert_bert/)  
+- [A Simple Guide On Using BERT for Binary Text Classification](https://medium.com/swlh/a-simple-guide-on-using-bert-for-text-classification-bbf041ac8d04)  
+- [Core ML 3 implementation of BERT for Question answering](https://github.com/huggingface/swift-coreml-transformers)  
+- [NLP - Keras - Intro](https://nlpforhackers.io/keras-intro/)  
+- [AllenNLP](https://allennlp.org/)  [_General NLP_]
+- [Stanza - A Python NLP Library for Many Human Languages](https://stanfordnlp.github.io/stanza/)  
+- [The Best NLP Papers From ICLR 2020](https://www.topbots.com/best-nlp-papers-from-iclr-2020)  
+- [Natural Language Processing With spaCy in Python](https://realpython.com/natural-language-processing-spacy-python/)  [_Great_]  
+
+## Text Representation:
+- [Beyond Word Embeddings Part 1](https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f)  
+- [Beyond Word Embeddings Part 2](https://towardsdatascience.com/beyond-word-embeddings-part-2-word-vectors-nlp-modeling-from-bow-to-bert-4ebd4711d0ec)  
+- [Learning Word Embedding](https://lilianweng.github.io/lil-log/2017/10/15/learning-word-embedding.html)  
+- [Introduction to Word Embedding and Word2Vec](https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa)  
+- [Word Embedding](https://medium.com/data-science-group-iitr/word-embedding-2d05d270b285)  
+- [Understanding Word Embeddings](https://hackernoon.com/understanding-word-embeddings-a9ff830403ce)  
+- [Introduction to Word Vectors](https://medium.com/@jayeshbahire/introduction-to-word-vectors-ea1d4e4b84bf) 
+- [Word2vec Made Easy](https://towardsdatascience.com/word2vec-made-easy-139a31a4b8ae)  
+- [What is GloVe? Part I](https://towardsdatascience.com/emnlp-what-is-glove-part-i-3b6ce6a7f970)  
+- [What is GloVe? Part II](https://towardsdatascience.com/emnlp-what-is-glove-part-ii-9e5ad227ee0)  
+- [What is GloVe? Part III](https://towardsdatascience.com/emnlp-what-is-glove-part-iii-c6090bed114)  
+- [What is GloVe? Part IV](https://towardsdatascience.com/emnlp-what-is-glove-part-iv-e605a4c407c8)  
+- [What is GloVe? Part V](https://towardsdatascience.com/emnlp-what-is-glove-part-v-fa888272c290)  
+- [ELMo: Deep Contextualized Word Representation](https://allennlp.org/elmo)  
+- [A Step-by-Step NLP Guide to Learn ELMo](https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-features-from-text/)  
+- [ELMo: Contextual language embedding](https://towardsdatascience.com/elmo-contextual-language-embedding-335de2268604)  
+- [word embeddings with ELMo](https://medium.com/saarthi-ai/elmo-for-contextual-word-embedding-for-text-classification-24c9693b0045)  
 
