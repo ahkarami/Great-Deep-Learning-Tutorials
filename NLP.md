@@ -41,3 +41,14 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [ELMo: Contextual language embedding](https://towardsdatascience.com/elmo-contextual-language-embedding-335de2268604)  
 - [word embeddings with ELMo](https://medium.com/saarthi-ai/elmo-for-contextual-word-embedding-for-text-classification-24c9693b0045)  
 
+## RNN, LSTM, and GRU:
+- [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
+- [Illustrated Guide to LSTM’s and GRU’s](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)  
+- [Animated RNN, LSTM and GRU](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45)  
+- [Recurrent Neural Networks and LSTM explained](https://medium.com/@purnasaigudikandula/recurrent-neural-networks-and-lstm-explained-7f51c7f6bbb9)  
+- [Long Short-Term Memory (LSTM): Concept](https://medium.com/@kangeugine/long-short-term-memory-lstm-concept-cb3283934359)  
+- [Understanding architecture of LSTM cell from scratch](https://hackernoon.com/understanding-architecture-of-lstm-cell-from-scratch-with-code-8da40f0b71f4)  
+- [Basic understanding of LSTM](https://blog.goodaudience.com/basic-understanding-of-lstm-539f3b013f1e)  
+- [Taming LSTMs with PyTorch](https://towardsdatascience.com/taming-lstms-variable-sized-mini-batches-and-why-pytorch-is-good-for-your-health-61d35642972e)  
+- [Introduction to LSTM](https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/?utm_medium=ELMoNLParticle&utm_source=blog)  
+
