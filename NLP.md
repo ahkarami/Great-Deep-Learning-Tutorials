@@ -52,3 +52,14 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Taming LSTMs with PyTorch](https://towardsdatascience.com/taming-lstms-variable-sized-mini-batches-and-why-pytorch-is-good-for-your-health-61d35642972e)  
 - [Introduction to LSTM](https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/?utm_medium=ELMoNLParticle&utm_source=blog)  
 
+## Transformers:
+- [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)  
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)  
+- [What is a Transformer?](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04)  
+- [Transformer: A Novel Neural Network Architecture for Language Understanding](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)  
+- [How do Transformers Work in NLP?](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/)  
+- [BERT for Dummies](https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03)  
+- [The Dark Secrets of BERT](https://text-machine-lab.github.io/blog/2020/bert-secrets/)  
+- [A Survey of Long-Term Context in Transformers](https://www.pragmatic.ml/a-survey-of-methods-for-incorporating-long-term-context/) [_Great_]  
+
+
