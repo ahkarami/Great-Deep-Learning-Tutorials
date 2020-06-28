@@ -160,6 +160,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Glow-TTS](https://github.com/jaywalnut310/glow-tts)  
 - [ForwardTacotron](https://github.com/as-ideas/ForwardTacotron)  
 - [WaveRNN Vocoder + TTS](https://github.com/fatchord/WaveRNN)  
+- [Deep Voice 3 PyTorch](https://github.com/r9y9/deepvoice3_pytorch)  
 
 ## Deep Reasoning:
 - [What’s Next For AI? Enter: Deep Reasoning](https://towardsdatascience.com/whats-next-for-ai-enter-deep-reasoning-fae8b131962a)  
