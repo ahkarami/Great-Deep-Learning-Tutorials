@@ -62,4 +62,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [The Dark Secrets of BERT](https://text-machine-lab.github.io/blog/2020/bert-secrets/)  
 - [A Survey of Long-Term Context in Transformers](https://www.pragmatic.ml/a-survey-of-methods-for-incorporating-long-term-context/) [_Great_]  
 
+## Attention Mechanism:
+- [Attention Mechanism](https://blog.floydhub.com/attention-mechanism/)  
+- [Visualizing A Neural Machine Translation Model - Attention Mechanism](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)  
+- [Intuitive Understanding of Attention Mechanism in Deep Learning](https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f)  
+- [Structured Attention Networks](https://medium.com/uci-nlp/summary-structured-attention-networks-f1917dd622af)  
 
