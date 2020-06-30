@@ -75,3 +75,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [How WaveNet Works](https://towardsdatascience.com/how-wavenet-works-12e2420ef386)  
 - [PyTorch Tutorial to Sequence Labeling](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Sequence-Labeling)  
 
+## Text Summarization:
+- [A Gentle Introduction to Text Summarization in Machine Learning](https://blog.floydhub.com/gentle-introduction-to-text-summarization-in-machine-learning/)  
+- [Taming Recurrent Neural Networks for Better Summarization](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html)  
+- [PyTorch implementation of "Get to the point"](https://github.com/mjc92/GetToThePoint)  
+- [TensorFlow implementation of "Get to the point"](https://github.com/abisee/pointer-generator)  
+
