@@ -68,3 +68,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Intuitive Understanding of Attention Mechanism in Deep Learning](https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f)  
 - [Structured Attention Networks](https://medium.com/uci-nlp/summary-structured-attention-networks-f1917dd622af)  
 
+## Sequence Modeling:
+- [WaveNet: Increasing reception field using dilated convolution](https://medium.com/@kion.kim/wavenet-a-network-good-to-know-7caaae735435)  
+- [Understanding WaveNet architecture](https://medium.com/@satyam.kumar.iiitv/understanding-wavenet-architecture-361cc4c2d623)  
+- [WaveNet: A Generative Model for Raw Audio](https://medium.com/a-paper-a-day-will-have-you-screaming-hurray/wavenet-a-generative-model-for-raw-audio-84b2aa5fb4a0)  
+- [How WaveNet Works](https://towardsdatascience.com/how-wavenet-works-12e2420ef386)  
+- [PyTorch Tutorial to Sequence Labeling](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Sequence-Labeling)  
+
