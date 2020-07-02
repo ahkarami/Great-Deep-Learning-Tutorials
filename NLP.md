@@ -81,3 +81,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [PyTorch implementation of "Get to the point"](https://github.com/mjc92/GetToThePoint)  
 - [TensorFlow implementation of "Get to the point"](https://github.com/abisee/pointer-generator)  
 
+## Sentiment Analysis:
+- [Introduction to Deep Learning – Sentiment Analysis](https://nlpforhackers.io/deep-learning-introduction/)  
+
+
