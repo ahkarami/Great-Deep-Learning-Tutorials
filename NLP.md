@@ -84,4 +84,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ## Sentiment Analysis:
 - [Introduction to Deep Learning – Sentiment Analysis](https://nlpforhackers.io/deep-learning-introduction/)  
 
+## Co-Reference Resolution:
+- [Coreference Resolution for Chatbots](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30)  
+- [Hugging Face - CoRef](https://huggingface.co/coref/)  
+
 
