@@ -88,4 +88,11 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Coreference Resolution for Chatbots](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30)  
 - [Hugging Face - CoRef](https://huggingface.co/coref/)  
 
+## NLP Programming Notes:
+- [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
+- [Multi-label Text Classification using BERT](https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d)  
+- [Learning Meaning in Natural Language Processing](https://medium.com/huggingface/learning-meaning-in-natural-language-processing-the-semantics-mega-thread-9c0332dfe28e)  
+- [Train and Deploy the Mighty Transformer NLP models using FastBert and AWS SageMaker](https://medium.com/@kaushaltrivedi/train-and-deploy-mighty-transformer-nlp-models-using-fastbert-and-aws-sagemaker-cc4303c51cf3)  
+- [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/)  
+- [PruneBERT - Hugging Face](https://github.com/huggingface/transformers/tree/master/examples/movement-pruning)  
 
