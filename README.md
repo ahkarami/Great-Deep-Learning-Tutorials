@@ -162,6 +162,11 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [WaveRNN Vocoder + TTS](https://github.com/fatchord/WaveRNN)  
 - [Deep Voice 3 PyTorch](https://github.com/r9y9/deepvoice3_pytorch)  
 
+### Automatic Speech Recognition (ASR) & Speech to Text (STT):
+- [wav2letter++](https://github.com/facebookresearch/wav2letter)  
+- [End-to-End ASR - PyTorch](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch)  
+- [NeuralSP](https://github.com/hirofumi0810/neural_sp)  
+
 ## Deep Reasoning:
 - [What’s Next For AI? Enter: Deep Reasoning](https://towardsdatascience.com/whats-next-for-ai-enter-deep-reasoning-fae8b131962a)  
 - [Deep Learning approaches to understand Human Reasoning](https://towardsdatascience.com/deep-learning-approaches-to-understand-human-reasoning-46f1805d454d)  
