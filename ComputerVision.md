@@ -52,6 +52,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [License Plate Detection](https://github.com/AzharMithani/License-Plate-Detection)  
 - [yolo3 to detection license plate](https://github.com/ThorPham/License-plate-detection)  
 
+## Loss Functions:
+- [Use Focal Loss To Train Model Using Imbalanced Dataset](https://leimao.github.io/blog/Focal-Loss-Explained/)  
 
 ## Deformable Convolution PyTorch Implementation:
 - [TorchVision - Deformable Convolution - Link1](https://github.com/pytorch/vision/releases)  
