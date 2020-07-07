@@ -79,6 +79,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [One Shot learning, Siamese networks and Triplet Loss](https://medium.com/@crimy/one-shot-learning-siamese-networks-and-triplet-loss-with-keras-2885ed022352)  
 - [Meta-Learning with Differentiable Convex Optimization](https://github.com/kjunelee/MetaOptNet)  
 - [Building a One-Shot Learning Network with PyTorch](https://towardsdatascience.com/building-a-one-shot-learning-network-with-pytorch-d1c3a5fafa4a)  
+- [Annotation-Efficient Learning](https://annotation-efficient-learning.github.io/) [_Good Few-Shot Learning Tutorial_]  
 
 
 ## Learning to Hash & General Hashing (+ Fast Searching Methods):
