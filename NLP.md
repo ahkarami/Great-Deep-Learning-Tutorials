@@ -94,5 +94,6 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Learning Meaning in Natural Language Processing](https://medium.com/huggingface/learning-meaning-in-natural-language-processing-the-semantics-mega-thread-9c0332dfe28e)  
 - [Train and Deploy the Mighty Transformer NLP models using FastBert and AWS SageMaker](https://medium.com/@kaushaltrivedi/train-and-deploy-mighty-transformer-nlp-models-using-fastbert-and-aws-sagemaker-cc4303c51cf3)  
 - [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/)  
+- [HarfBuzz - a text shaping library](https://github.com/harfbuzz/harfbuzz) [_Useful_]  
 - [PruneBERT - Hugging Face](https://github.com/huggingface/transformers/tree/master/examples/movement-pruning)  
 
