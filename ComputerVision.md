@@ -72,6 +72,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Kaolin - a PyTorch library for accelerating 3D deep learning](https://github.com/NVIDIAGameWorks/kaolin)  
 - [PyTorch3D](https://github.com/facebookresearch/pytorch3d) [_Fantastic_]  
 
+## OCR:
+- [Easy OCR](https://github.com/JaidedAI/EasyOCR) [_Great_]  
 
 ## Few-Shot Learning:
 - [Advances in few-shot learning](https://towardsdatascience.com/advances-in-few-shot-learning-a-guided-tour-36bc10a68b77)  
