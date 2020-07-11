@@ -55,6 +55,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 ## Loss Functions:
 - [Use Focal Loss To Train Model Using Imbalanced Dataset](https://leimao.github.io/blog/Focal-Loss-Explained/)  
 
+## Image Augmentation:
+- [Image Augmentation for more train data - Kaggle](https://www.kaggle.com/vishnurapps/image-augmentation-for-more-training-data) [_Great_]  
+
 ## Deformable Convolution PyTorch Implementation:
 - [TorchVision - Deformable Convolution - Link1](https://github.com/pytorch/vision/releases)  
 - [TorchVision - Deformable Convolution - Link2](https://github.com/pytorch/vision/blob/master/torchvision/ops/deform_conv.py)  
@@ -121,6 +124,4 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 
 ## Building Datasets:
 - [Building Image Datasets for Computer Vision Algorithms](https://blog.paperspace.com/building-computer-vision-datasets/)  
-
-
 
