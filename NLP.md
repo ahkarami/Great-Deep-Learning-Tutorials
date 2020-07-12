@@ -51,6 +51,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Basic understanding of LSTM](https://blog.goodaudience.com/basic-understanding-of-lstm-539f3b013f1e)  
 - [Taming LSTMs with PyTorch](https://towardsdatascience.com/taming-lstms-variable-sized-mini-batches-and-why-pytorch-is-good-for-your-health-61d35642972e)  
 - [Introduction to LSTM](https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/?utm_medium=ELMoNLParticle&utm_source=blog)  
+- [Introduction to RNNs](https://www.jeremyjordan.me/introduction-to-recurrent-neural-networks/)  
 
 ## Transformers:
 - [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)  
