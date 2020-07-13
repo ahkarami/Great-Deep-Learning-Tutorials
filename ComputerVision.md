@@ -118,6 +118,12 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Generate Anime Style Face Using DCGAN and Explore Its Latent Feature Representation](https://towardsdatascience.com/generate-anime-style-face-using-dcgan-and-explore-its-latent-feature-representation-ae0e905f3974)  
 
 
+## Model Evaluation:
+- [Precision and Recall for Multi-Class](https://stats.stackexchange.com/questions/51296/how-do-you-calculate-precision-and-recall-for-multiclass-classification-using-co)  
+- [Precision and Recall](https://en.wikipedia.org/wiki/Precision_and_recall)  
+- [Precision-Recall metric](https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html)  
+
+
 ## Computer Vision Annotation Tools:
 - [CVAT](https://github.com/opencv/cvat)  
 - [Curve-GCN](https://github.com/fidler-lab/curve-gcn)  
