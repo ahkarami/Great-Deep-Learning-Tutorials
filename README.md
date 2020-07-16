@@ -88,6 +88,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Deep Reinforcement Learning Algorithms with PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)  
 - [Deep Reinforcement Learning - CS 285 Berkeley Course](rail.eecs.berkeley.edu/deeprlcourse/)  
 - [solutions to UC Berkeley CS 285](https://github.com/xuanlinli17/CS285_Fa19_Deep_Reinforcement_Learning)  
+- [Reinforcement Learning: An Introduction - main book in this field](http://www.incompleteideas.net/book/the-book-2nd.html)  
+- [CS234: Reinforcement Learning Course](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)  
+- [Introduction to Reinforcement Learning Course - by DeepMind](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)  
 
 ## Conferences News:
 - [Latest Computer Vision Trends from CVPR 2019](https://towardsdatascience.com/latest-computer-vision-trends-from-cvpr-2019-c07806dd570b)  
