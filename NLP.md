@@ -62,6 +62,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [BERT for Dummies](https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03)  
 - [The Dark Secrets of BERT](https://text-machine-lab.github.io/blog/2020/bert-secrets/)  
 - [A Survey of Long-Term Context in Transformers](https://www.pragmatic.ml/a-survey-of-methods-for-incorporating-long-term-context/) [_Great_]  
+- [The Transformer Isn’t As Hard To Understand As You Might Think](https://towardsdatascience.com/knocking-on-transformers-door-attention-mechanism-explained-intuitively-df5d4fcecdf8)  
 
 ## Attention Mechanism:
 - [Attention Mechanism](https://blog.floydhub.com/attention-mechanism/)  
