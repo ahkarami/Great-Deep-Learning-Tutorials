@@ -10,6 +10,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Torchvision Release Notes](https://github.com/pytorch/vision/releases)  [_Important_]
 - [The 6 most useful Machine Learning projects of the past year (2018)](https://towardsdatascience.com/the-10-most-useful-machine-learning-projects-of-the-past-year-2018-5378bbd4919f)  
 - [ResNet Review](https://towardsdatascience.com/review-resnet-winner-of-ilsvrc-2015-image-classification-localization-detection-e39402bfa5d8)  
+- [Receptive Field Estimation](https://github.com/fornaxai/receptivefield)  [_Great_]  
 - [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/) [_Useful_]  
 - [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses)  
 
