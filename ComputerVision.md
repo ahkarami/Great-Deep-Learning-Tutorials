@@ -139,3 +139,6 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 ## Building Datasets:
 - [Building Image Datasets for Computer Vision Algorithms](https://blog.paperspace.com/building-computer-vision-datasets/)  
 
+## Medical:
+- [Medical Imaging with Deep Learning Tutorial](https://www.youtube.com/playlist?list=PLheiZMDg_8ufxEx9cNVcOYXsT3BppJP4b)
+
