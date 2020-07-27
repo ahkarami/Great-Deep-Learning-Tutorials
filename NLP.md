@@ -99,3 +99,6 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [HarfBuzz - a text shaping library](https://github.com/harfbuzz/harfbuzz) [_Useful_]  
 - [PruneBERT - Hugging Face](https://github.com/huggingface/transformers/tree/master/examples/movement-pruning)  
 
+## Other NLP Topics:
+- [HybridNLP - Tutorial on Hybrid Techniques for Knowledge-based NLP](https://github.com/hybridnlp/tutorial)  
+
