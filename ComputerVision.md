@@ -80,6 +80,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 
 ## OCR:
 - [Easy OCR](https://github.com/JaidedAI/EasyOCR) [_Great_]  
+- [Word Level OCR Dataset for Persian Language](https://github.com/amirabbasasadi/Shotor)  
 
 ## Few-Shot Learning:
 - [Advances in few-shot learning](https://towardsdatascience.com/advances-in-few-shot-learning-a-guided-tour-36bc10a68b77)  
