@@ -127,6 +127,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## Great Models:
 - [ResNext WSL](https://pytorch.org/hub/facebookresearch_WSL-Images_resnext/) [_Great Pretrained Model_]  
+- [Semi-Weakly Supervised (SWSL) ImageNet Models](https://pytorch.org/hub/facebookresearch_semi-supervised-ImageNet1K-models_resnext/) [_Great Pretrained Model_]  
 - [Deep High-Resolution Representation Learning (HRNet)](https://jingdongwang2017.github.io/Projects/HRNet/)  
 
 ## Deep Model Conversion:
