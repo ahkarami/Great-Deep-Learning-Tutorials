@@ -12,6 +12,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [CNN Explainer](https://poloclub.github.io/cnn-explainer/) [_Interesting_]  
 - [Interactive Tools for ML, DL and Math](https://github.com/Machine-Learning-Tokyo/Interactive_Tools#embedding-projector)  [_Interesting_]  
 - [Visualizing Neural Networks with the Grand Tour](https://distill.pub/2020/grand-tour/) [_Interesting_]    
+- [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)  
 
 ### t-SNE Visualization:
 - [TSNE-Visualization of large dataset images using pre-trained networks in Tensorflow and Keras](https://e3oroush.github.io/tsne-visualization/)  [_Great_] 
