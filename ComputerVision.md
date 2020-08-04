@@ -17,6 +17,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 ### t-SNE Visualization:
 - [TSNE-Visualization of large dataset images using pre-trained networks in Tensorflow and Keras](https://e3oroush.github.io/tsne-visualization/)  [_Great_] 
 
+### UMAP Visualization:
+- [Understanding UMAP](https://pair-code.github.io/understanding-umap/)  
 
 ## Detection & Segmentation:
 ## Object Detection:
