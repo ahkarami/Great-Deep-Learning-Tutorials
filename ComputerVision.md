@@ -93,7 +93,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Meta-Learning with Differentiable Convex Optimization](https://github.com/kjunelee/MetaOptNet)  
 - [Building a One-Shot Learning Network with PyTorch](https://towardsdatascience.com/building-a-one-shot-learning-network-with-pytorch-d1c3a5fafa4a)  
 - [Annotation-Efficient Learning](https://annotation-efficient-learning.github.io/) [_Good Few-Shot Learning Tutorial_]  
-
+- [Awesome Papers - Few shot](https://github.com/Duan-JM/awesome-papers-fewshot)  
 
 ## Learning to Hash & General Hashing (+ Fast Searching Methods):
 - [Finding similar images using Deep learning and Locality Sensitive Hashing](https://towardsdatascience.com/finding-similar-images-using-deep-learning-and-locality-sensitive-hashing-9528afee02f5) [_Very Good_]  
