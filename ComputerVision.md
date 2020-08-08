@@ -1,6 +1,9 @@
 # Great Deep Learning Tutorials for Compter Vision
 A Great Collection of Deep Learning Tutorials and Repositories for Compter Vision
 
+## General:
+- [Microsoft Computer Vision Recipes](https://github.com/microsoft/computervision-recipes) [_Great_]  
+
 ## Model Visualization:
 - [CNN Visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations) [_Very Good_]  
 - [CNN-heatmap](https://github.com/mrgloom/CNN-heatmap)  
