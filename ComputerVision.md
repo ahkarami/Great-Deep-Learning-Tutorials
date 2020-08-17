@@ -37,6 +37,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [An overview of deep-learning based object-detection algorithms](https://medium.com/@fractaldle/brief-overview-on-object-detection-algorithms-ec516929be93)  
 - [Object detection and tracking in PyTorch](https://towardsdatascience.com/object-detection-and-tracking-in-pytorch-b3cf1a696a98)  
 - [Object Detection with RetinaNet - Keras](https://keras.io/examples/vision/retinanet/)  
+- [Signfeld - Synthetic traffic sign detection](https://github.com/moabitcoin/signfeld)  
 - [DETR - DEtection TRansformer](https://github.com/facebookresearch/detr) [_Great_]  
 
 ### Faster R-CNN Object Detector Tutorials:
