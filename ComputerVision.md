@@ -145,6 +145,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Precision-Recall metric](https://scikit-learn.org/stable/auto_examples/model_selection/plot_precision_recall.html)  
 
 
+## Model Size & Speed of Models:
+- [GFLOPs & Number of Parameters of ResNet Models](https://neurohive.io/wp-content/uploads/2019/01/resnet-architectures-34-101.png)  
+
+
 ## Computer Vision Annotation Tools:
 - [CVAT](https://github.com/opencv/cvat)  
 - [Curve-GCN](https://github.com/fidler-lab/curve-gcn)  
