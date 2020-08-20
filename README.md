@@ -71,6 +71,8 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [ForwardTacotron](https://github.com/as-ideas/ForwardTacotron)  
 - [WaveRNN Vocoder + TTS](https://github.com/fatchord/WaveRNN)  
 - [Deep Voice 3 PyTorch](https://github.com/r9y9/deepvoice3_pytorch)  
+- [MelGAN - TTS - version1](https://github.com/descriptinc/melgan-neurips)  
+- [MelGAN - TTS - version2](https://github.com/seungwonpark/melgan)  
 
 ### Automatic Speech Recognition (ASR) & Speech to Text (STT):
 - [wav2letter++](https://github.com/facebookresearch/wav2letter)  
