@@ -38,6 +38,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Object detection and tracking in PyTorch](https://towardsdatascience.com/object-detection-and-tracking-in-pytorch-b3cf1a696a98)  
 - [Object Detection with RetinaNet - Keras](https://keras.io/examples/vision/retinanet/)  
 - [PP-YOLO](https://github.com/PaddlePaddle/PaddleDetection/blob/release/0.4/configs/ppyolo/README.md)  
+- [Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds](https://github.com/maudzung/Super-Fast-Accurate-3D-Object-Detection)  
 - [Signfeld - Synthetic traffic sign detection](https://github.com/moabitcoin/signfeld)  
 - [DETR - DEtection TRansformer](https://github.com/facebookresearch/detr) [_Great_]  
 
