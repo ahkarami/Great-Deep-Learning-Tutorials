@@ -151,6 +151,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 
 ## Model Size & Speed of Models:
 - [GFLOPs & Number of Parameters of ResNet Models](https://neurohive.io/wp-content/uploads/2019/01/resnet-architectures-34-101.png)  
+- [EfficientNet Models Accuracy vs FLOPs](https://raw.githubusercontent.com/tensorflow/tpu/master/models/official/efficientnet/g3doc/flops.png)  
 
 
 ## Computer Vision Annotation Tools:
