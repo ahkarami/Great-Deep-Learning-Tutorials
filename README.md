@@ -129,6 +129,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Pywick - High-Level Training framework for Pytorch](https://github.com/achaiah/pywick)  
 - [torchbearer: A model fitting library for PyTorch](https://github.com/pytorchbearer/torchbearer)  
 - [torchlayers - Shape inference for PyTorch (like in Keras)](https://github.com/szymonmaszke/torchlayers)  
+- [NVIDIA NeMo -  toolkit for creating Conversational AI (ASR, TTS, and NLP)](https://github.com/NVIDIA/NeMo)  
 
 ## Great Models:
 - [ResNext WSL](https://pytorch.org/hub/facebookresearch_WSL-Images_resnext/) [_Great Pretrained Model_]  
