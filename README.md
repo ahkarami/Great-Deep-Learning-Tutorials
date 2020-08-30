@@ -121,6 +121,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [fastText - Facebook AI Research (FAIR)](https://fasttext.cc/)  
 - [Fairseq - Facebook AI Research (FAIR)](https://github.com/pytorch/fairseq)  
 - [ParlAI - dialogue models - Facebook AI Research (FAIR)](https://parl.ai/)  
+- [DALI - highly optimized engine for data pre-processing](https://github.com/NVIDIA/DALI)  
 - [Netron - GitHub](https://github.com/lutzroeder/netron) [_Visualizer for deep learning Models (Excellent)_]
 - [Netron - Web Site](https://www.lutzroeder.com/ai)  
 - [PyTorch Hub](https://pytorch.org/hub)  
