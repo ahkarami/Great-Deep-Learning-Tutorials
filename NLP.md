@@ -106,6 +106,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/)  
 - [HarfBuzz - a text shaping library](https://github.com/harfbuzz/harfbuzz) [_Useful_]  
 - [PruneBERT - Hugging Face](https://github.com/huggingface/transformers/tree/master/examples/movement-pruning)  
+- [spacy-streamlit: spaCy building blocks for Streamlit apps](https://github.com/explosion/spacy-streamlit)  
 
 ## Other NLP Topics:
 - [HybridNLP - Tutorial on Hybrid Techniques for Knowledge-based NLP](https://github.com/hybridnlp/tutorial)  
