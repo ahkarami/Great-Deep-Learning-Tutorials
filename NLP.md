@@ -102,6 +102,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 
 ## Imbalance Handling in NLP:
 - [Over-Sampling using SMOTE](https://imbalanced-learn.readthedocs.io/en/stable/generated/imblearn.over_sampling.SMOTE.html) [_SMOTE for high-dimensional class-imbalanced data_]  
+- [Over-sampling via imbalanced-learn library](https://imbalanced-learn.readthedocs.io/en/stable/over_sampling.html)  
 
 ## NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
