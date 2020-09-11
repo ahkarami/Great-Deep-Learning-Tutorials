@@ -6,6 +6,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Deep-Learning-Roadmap](https://github.com/astorfi/Deep-Learning-Roadmap)  
 - [DeepLizard](https://deeplizard.com/) [_Good Tutorials for Deep Learning_]  
 - [Sebastian Ruder - Blog](https://ruder.io/) [_Great NLP & Deep Learning Posts_]  
+- [Jeremy Jordan - Blog](https://www.jeremyjordan.me/author/jeremy/)  
 - [Excellent Blog](https://lilianweng.github.io/lil-log/)  
 - [Torchvision Release Notes](https://github.com/pytorch/vision/releases)  [_Important_]
 - [The 6 most useful Machine Learning projects of the past year (2018)](https://towardsdatascience.com/the-10-most-useful-machine-learning-projects-of-the-past-year-2018-5378bbd4919f)  
