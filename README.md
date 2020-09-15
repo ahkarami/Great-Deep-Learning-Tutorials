@@ -94,6 +94,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## Batch Normalization:
 - [Batch Normalization in Neural Networks](https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c)  
+- [Batch Normalization and Dropout in Neural Networks](https://towardsdatascience.com/batch-normalization-and-dropout-in-neural-networks-explained-with-pytorch-47d7a8459bcd)  
 
 ## Deep Reinforcement Learning (Great Courses & Tutorials):
 - [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) [_Great_] 
