@@ -92,6 +92,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ## Weight Initialization:
 - [Deep Learning Best Practices (1) - Weight Initialization](https://medium.com/usf-msds/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)  
 
+## Batch Normalization:
+- [Batch Normalization in Neural Networks](https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c)  
+
 ## Deep Reinforcement Learning (Great Courses & Tutorials):
 - [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) [_Great_] 
 - [Deep Reinforcement Learning Algorithms with PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)  
