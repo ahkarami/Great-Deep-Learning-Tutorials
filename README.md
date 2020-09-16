@@ -105,6 +105,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [CS234: Reinforcement Learning Course](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)  
 - [Introduction to Reinforcement Learning Course - by DeepMind](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)  
 
+## Graph Neural Networks:
+- [An Introduction to Graph Neural Networks](https://towardsdatascience.com/an-introduction-to-graph-neural-networks-e23dc7bdfba5)  
+
 ## Conferences News:
 - [Latest Computer Vision Trends from CVPR 2019](https://towardsdatascience.com/latest-computer-vision-trends-from-cvpr-2019-c07806dd570b)  
 - [Interesting 2019 CVPR papers](https://medium.com/@mattmiesnieks/interesting-2019-cvpr-papers-865e303db5ca)  
