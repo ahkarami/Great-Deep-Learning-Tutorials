@@ -133,6 +133,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [DALI - highly optimized engine for data pre-processing](https://github.com/NVIDIA/DALI)  
 - [Netron - GitHub](https://github.com/lutzroeder/netron) [_Visualizer for deep learning Models (Excellent)_]
 - [Netron - Web Site](https://www.lutzroeder.com/ai)  
+- [JupyterLab GPU Dashboards](https://github.com/rapidsai/jupyterlab-nvdashboard) [_Good_]  
 - [PyTorch Hub](https://pytorch.org/hub)  
 - [Neural Structured Learning (NSL) in TensorFlow](https://github.com/tensorflow/neural-structured-learning)  
 - [Pywick - High-Level Training framework for Pytorch](https://github.com/achaiah/pywick)  
