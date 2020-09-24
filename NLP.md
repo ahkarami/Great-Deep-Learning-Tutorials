@@ -115,6 +115,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [PruneBERT - Hugging Face](https://github.com/huggingface/transformers/tree/master/examples/movement-pruning)  
 - [spacy-streamlit: spaCy building blocks for Streamlit apps](https://github.com/explosion/spacy-streamlit)  
 
+## Persian Language Processing:
+- [FarsTail: A Persian Natural Language Inference Dataset](https://github.com/dml-qom/FarsTail)  
+
 ## Other NLP Topics:
 - [HybridNLP - Tutorial on Hybrid Techniques for Knowledge-based NLP](https://github.com/hybridnlp/tutorial)  
 
