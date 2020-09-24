@@ -163,6 +163,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 ## Computer Vision Annotation Tools:
 - [CVAT](https://github.com/opencv/cvat)  
 - [SuperAnnotate](https://www.superannotate.com/)  
+- [OpenCV - SuperAnnotate Desktop](https://opencv.org/superannotate-desktop/)  
 - [Curve-GCN](https://github.com/fidler-lab/curve-gcn)  
 
 ## Building Datasets:
