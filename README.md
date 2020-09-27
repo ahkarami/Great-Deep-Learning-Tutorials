@@ -81,6 +81,8 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [wav2letter++](https://github.com/facebookresearch/wav2letter)  
 - [End-to-End ASR - PyTorch](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch)  
 - [NeuralSP](https://github.com/hirofumi0810/neural_sp)  
+- [Silero Speech-To-Text Models - PyTorch Hub](https://pytorch.org/hub/snakers4_silero-models_stt/)  
+- [Silero Models - GitHub](https://github.com/snakers4/silero-models)  
 
 ## Deep Reasoning:
 - [What’s Next For AI? Enter: Deep Reasoning](https://towardsdatascience.com/whats-next-for-ai-enter-deep-reasoning-fae8b131962a)  
