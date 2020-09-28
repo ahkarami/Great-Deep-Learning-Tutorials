@@ -45,6 +45,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Signfeld - Synthetic traffic sign detection](https://github.com/moabitcoin/signfeld)  
 - [DETR - DEtection TRansformer](https://github.com/facebookresearch/detr) [_Great_]  
 
+### Augmentation for Object Detection & Instance Segmentation:
+- [Shapely - Manipulation and analysis of geometric objects](https://github.com/Toblerity/Shapely)  
+
 ### Faster R-CNN Object Detector Tutorials:
 - [Guide to build Faster RCNN in PyTorch](https://medium.com/@fractaldle/guide-to-build-faster-rcnn-in-pytorch-95b10c273439)  
 - [Simple and Fast Implementation of Faster R-CNN](https://github.com/chenyuntc/simple-faster-rcnn-pytorch)  
