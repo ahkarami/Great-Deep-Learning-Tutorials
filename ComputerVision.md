@@ -46,6 +46,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [DETR - DEtection TRansformer](https://github.com/facebookresearch/detr) [_Great_]  
 
 ### Augmentation for Object Detection & Instance Segmentation:
+- [Albumentations - Great Library for image augmentation and transformations](https://github.com/albumentations-team/albumentations)    
 - [Shapely - Manipulation and analysis of geometric objects](https://github.com/Toblerity/Shapely)  
 
 ### Faster R-CNN Object Detector Tutorials:
