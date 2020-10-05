@@ -24,6 +24,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Understanding UMAP](https://pair-code.github.io/understanding-umap/)  
 
 ## Image Classification Models:
+- [GhostNet (CVPR 2020) in PyTorch and TensorFlow](https://blog.paperspace.com/ghostnet-cvpr-2020/)  
+- [GhostNet - GitHub](https://github.com/huawei-noah/ghostnet)  
+- [GhostNet - PyTorch Hub](https://pytorch.org/hub/pytorch_vision_ghostnet/) [_Excellent_]   
 - [Residual blocks — Building blocks of ResNet](https://towardsdatascience.com/residual-blocks-building-blocks-of-resnet-fd90ca15d6ec)  
 
 ## Detection & Segmentation:
