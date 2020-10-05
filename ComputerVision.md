@@ -133,6 +133,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 
 ## Visual Attention Method:
 - [Attention Mechanisms in Computer Vision Part 1: CBAM](https://blog.paperspace.com/attention-mechanisms-in-computer-vision-cbam/) [_Excellent_]  
+- [Efficient Channel Attention for Deep Convolutional Neural Networks (ECA-Net)](https://blog.paperspace.com/attention-mechanisms-in-computer-vision-ecanet/)  
+- [ECA-Net: Efficient Channel Attention](https://github.com/BangguWu/ECANet)  
 - [Self-Attention In Computer Vision](https://towardsdatascience.com/self-attention-in-computer-vision-2782727021f6)  
 
 
