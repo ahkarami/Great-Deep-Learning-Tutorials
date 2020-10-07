@@ -154,6 +154,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [StyleGAN2](https://github.com/EvgenyKashin/stylegan2-distillation)  
 
 
+## Image Super-Resolution:
+- [Image Super-Resolution: A Comprehensive Review](https://blog.paperspace.com/image-super-resolution/)  
+
+
 ## Siamese Networks:
 - [Siamese Network Tutorial with TensorFlow](https://leimao.github.io/article/Siamese-Network-MNIST/)  
 
