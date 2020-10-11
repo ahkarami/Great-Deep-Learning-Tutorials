@@ -131,6 +131,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Basic Video transforms for PyTorch](https://github.com/hassony2/torch_videovision)  
 - [Fast and Easy to use video feature extractor](https://github.com/antoine77340/video_feature_extractor)  
 - [Video Augmentation Techniques for Deep Learning](https://github.com/okankop/vidaug) [_Great_]  
+- [Decord_loader - Excellent Video Data Loader](https://gluon-cv.mxnet.io/build/examples_action_recognition/decord_loader.html) [_Great_]    
 - [Kinetics 400 Data Set - Download Link via DropBox](https://www.dropbox.com/s/wcs01mlqdgtq4gn/compress.tar.gz?dl=1)  
 
 
