@@ -73,6 +73,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [ALBERT-Farsi-base-v2 in HuggingFace](https://huggingface.co/m3hrdadfi/albert-fa-base-v2)  
 - [ParsBERT - Model for Persian Language Understanding](https://github.com/hooshvare/parsbert)  
 
+## Transfer Learning with Transformers:
+- [Transfer Learning for NLP via BERT for Text Classification](https://www.analyticsvidhya.com/blog/2020/07/transfer-learning-for-nlp-fine-tuning-bert-for-text-classification/)  
 
 ## Attention Mechanism:
 - [Attention Mechanism](https://blog.floydhub.com/attention-mechanism/)  
