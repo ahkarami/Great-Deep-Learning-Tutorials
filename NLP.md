@@ -75,6 +75,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 
 ## Transfer Learning with Transformers:
 - [Transfer Learning for NLP via BERT for Text Classification](https://www.analyticsvidhya.com/blog/2020/07/transfer-learning-for-nlp-fine-tuning-bert-for-text-classification/)  
+- [Text Classification with BERT Tokenizer](https://stackabuse.com/text-classification-with-bert-tokenizer-and-tf-2-0-in-python/)   
 
 ## Attention Mechanism:
 - [Attention Mechanism](https://blog.floydhub.com/attention-mechanism/)  
