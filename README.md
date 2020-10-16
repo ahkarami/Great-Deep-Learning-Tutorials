@@ -143,6 +143,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [torchlayers - Shape inference for PyTorch (like in Keras)](https://github.com/szymonmaszke/torchlayers)  
 - [torchtext - GitHub](https://github.com/pytorch/text)  
 - [torchtext - Doc](https://torchtext.readthedocs.io/en/latest/)   
+- [Optuna - hyperparameter optimization framework](https://optuna.org/)  
 - [PyTorchLightning](https://github.com/PyTorchLightning/pytorch-lightning)  
 - [NVIDIA NeMo -  toolkit for creating Conversational AI (ASR, TTS, and NLP)](https://github.com/NVIDIA/NeMo)  
 
