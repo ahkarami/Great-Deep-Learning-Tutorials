@@ -77,6 +77,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Transfer Learning for NLP via BERT for Text Classification](https://www.analyticsvidhya.com/blog/2020/07/transfer-learning-for-nlp-fine-tuning-bert-for-text-classification/)  
 - [Text Classification with BERT Tokenizer](https://stackabuse.com/text-classification-with-bert-tokenizer-and-tf-2-0-in-python/)   
 
+### Siamese Netowrks and Dual BERT for Multi Text Classification:  
+- [Siamese and Dual BERT for Multi-text Classification](https://towardsdatascience.com/siamese-and-dual-bert-for-multi-text-classification-c6552d435533)    
+- [Transfer Learning via Siamese Networks](https://www.inovex.de/blog/transfer-learning-siamese-networks/)  
+
 ## Attention Mechanism:
 - [Attention Mechanism](https://blog.floydhub.com/attention-mechanism/)  
 - [Visualizing A Neural Machine Translation Model - Attention Mechanism](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)  
