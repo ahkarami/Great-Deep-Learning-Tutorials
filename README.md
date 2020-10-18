@@ -65,7 +65,8 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Kaldi Speech Recognition Toolkit](https://github.com/kaldi-asr/kaldi)  
 - [PyTorch-Kaldi](https://github.com/mravanelli/pytorch-kaldi)  
 - [How to start with Kaldi and Speech Recognition](https://towardsdatascience.com/how-to-start-with-kaldi-and-speech-recognition-a9b7670ffff6)  
-- [PyKaldi](https://github.com/pykaldi/pykaldi) 
+- [PyKaldi](https://github.com/pykaldi/pykaldi)  
+- [NeMo - toolkit for Conversational AI](https://github.com/NVIDIA/NeMo) [_Excellent_]  
 
 ### Text to Speech (TTS):
 - [Glow-TTS](https://github.com/jaywalnut310/glow-tts)  
