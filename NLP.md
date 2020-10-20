@@ -125,6 +125,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [HarfBuzz - a text shaping library](https://github.com/harfbuzz/harfbuzz) [_Useful_]  
 - [PruneBERT - Hugging Face](https://github.com/huggingface/transformers/tree/master/examples/movement-pruning)  
 - [spacy-streamlit: spaCy building blocks for Streamlit apps](https://github.com/explosion/spacy-streamlit)  
+- [NeMo - toolkit for Conversational AI](https://github.com/NVIDIA/NeMo) [_Excellent_]  
 
 ## Persian Language Processing:
 - [FarsTail: A Persian Natural Language Inference Dataset](https://github.com/dml-qom/FarsTail)  
