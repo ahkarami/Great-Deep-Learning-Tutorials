@@ -115,6 +115,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ## Conferences News:
 - [Latest Computer Vision Trends from CVPR 2019](https://towardsdatascience.com/latest-computer-vision-trends-from-cvpr-2019-c07806dd570b)  
 - [Interesting 2019 CVPR papers](https://medium.com/@mattmiesnieks/interesting-2019-cvpr-papers-865e303db5ca)  
+- [Summaries of CVPR papers on ShortScience.org](https://www.shortscience.org/venue?key=conf/cvpr)
+- [Summaries of ICCV papers on ShortScience.org](https://www.shortscience.org/venue?key=conf/iccv)
+- [Summaries of ECCV papers on ShortScience.org](https://www.shortscience.org/venue?key=conf/eccv)
 
 ## Deep Learning Frameworks and Infrustructures:
 - [set-up a Paperspace GPU Server](https://towardsdatascience.com/how-to-set-up-a-powerful-and-cost-efficient-gpu-server-for-deep-learning-aa1de0d4ea56)  
