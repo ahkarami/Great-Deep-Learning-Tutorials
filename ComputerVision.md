@@ -29,6 +29,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [GhostNet - PyTorch Hub](https://pytorch.org/hub/pytorch_vision_ghostnet/) [_Excellent_]   
 - [Residual blocks — Building blocks of ResNet](https://towardsdatascience.com/residual-blocks-building-blocks-of-resnet-fd90ca15d6ec)  
 
+## Transformers in Computer Vision:
+- [Vision Transformer](https://github.com/google-research/vision_transformer)  
+
 ## Detection & Segmentation:
 ## Object Detection:
 - [Object Detection for Dummies Part 1](https://lilianweng.github.io/lil-log/2017/10/29/object-recognition-for-dummies-part-1.html)  
