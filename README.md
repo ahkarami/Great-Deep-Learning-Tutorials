@@ -13,6 +13,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [ResNet Review](https://towardsdatascience.com/review-resnet-winner-of-ilsvrc-2015-image-classification-localization-detection-e39402bfa5d8)  
 - [Receptive Field Estimation](https://github.com/fornaxai/receptivefield)  [_Great_]  
 - [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/) [_Useful_]  
+- [Overview of State-of-the-art Machine Learning Algorithms per Discipline per Task](https://towardsdatascience.com/overview-state-of-the-art-machine-learning-algorithms-per-discipline-per-task-c1a16a66b8bb)  
 - [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses)  
 
 ## Deep Learning Useful Resources for Computer Vision:  
