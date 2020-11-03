@@ -116,6 +116,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [An Introduction to Graph Neural Networks](https://towardsdatascience.com/an-introduction-to-graph-neural-networks-e23dc7bdfba5)  
 - [How to Train Graph Convolutional Network Models in a Graph Database](https://towardsdatascience.com/how-to-train-graph-convolutional-network-models-in-a-graph-database-5c919a2f95d7)  
 
+### Graph Neural Networks Frameworks:
+- [Spektral](https://github.com/danielegrattarola/spektral)  
+
 ## Conferences News:
 - [Latest Computer Vision Trends from CVPR 2019](https://towardsdatascience.com/latest-computer-vision-trends-from-cvpr-2019-c07806dd570b)  
 - [Interesting 2019 CVPR papers](https://medium.com/@mattmiesnieks/interesting-2019-cvpr-papers-865e303db5ca)  
