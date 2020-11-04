@@ -118,6 +118,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ### Graph Neural Networks Frameworks:
 - [Spektral](https://github.com/danielegrattarola/spektral)  
+- [Deep Graph Library - DGL](https://www.dgl.ai/)  
 
 ## Conferences News:
 - [Latest Computer Vision Trends from CVPR 2019](https://towardsdatascience.com/latest-computer-vision-trends-from-cvpr-2019-c07806dd570b)  
