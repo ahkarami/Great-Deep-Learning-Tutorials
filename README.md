@@ -48,6 +48,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Benchmarking Performance and Scaling of Python Clustering Algorithms](https://hdbscan.readthedocs.io/en/latest/performance_and_scalability.html) [_Important_]  
 - [Comparing Python Clustering Algorithms](https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html)  
 - [Cracking the Data Science Interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview)  
+- [Data Engineer Interview Questions Python](https://realpython.com/data-engineer-interview-questions-python/)  
 - [NumPy Exercises](https://www.w3resource.com/python-exercises/numpy/index.php)  [_Good_]
 
 ## Deep Learning Recommendation Model:
