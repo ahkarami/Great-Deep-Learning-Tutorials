@@ -51,6 +51,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Data Engineer Interview Questions Python](https://realpython.com/data-engineer-interview-questions-python/)  
 - [NumPy Exercises](https://www.w3resource.com/python-exercises/numpy/index.php)  [_Good_]
 
+### Scikit-learn Algorithms on GPU & for Large-Scale Data Sets:
+- [skorch - scikit-learn compatible neural network library that wraps PyTorch](https://github.com/skorch-dev/skorch)  
+
 ## Deep Learning Recommendation Model:
 - [Deep Learning Recommendation Model for Personalization and Recommendation Systems - DLRM](https://github.com/facebookresearch/dlrm)  
 - [DLRM: An advanced, open source deep learning recommendation model](https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/)  
