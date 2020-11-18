@@ -53,6 +53,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ### Scikit-learn Algorithms on GPU & for Large-Scale Data Sets:
 - [skorch - scikit-learn compatible neural network library that wraps PyTorch](https://github.com/skorch-dev/skorch)  
+- [scikit-cuda](https://github.com/lebedov/scikit-cuda)  
 
 ## Deep Learning Recommendation Model:
 - [Deep Learning Recommendation Model for Personalization and Recommendation Systems - DLRM](https://github.com/facebookresearch/dlrm)  
