@@ -4,6 +4,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 ## General:
 - [Microsoft Computer Vision Recipes](https://github.com/microsoft/computervision-recipes) [_Great_]  
 - [OpenMMLab](https://openmmlab.com/) [_Great_]  
+- [OpenMMLab - GitHub](https://github.com/open-mmlab)  
 
 ## Model Visualization:
 - [CNN Visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations) [_Very Good_]  
