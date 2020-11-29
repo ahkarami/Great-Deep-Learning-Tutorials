@@ -70,6 +70,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Building a Dead Simple Word Recognition Engine Using Convnet](https://blog.manash.me/building-a-dead-simple-word-recognition-engine-using-convnet-in-keras-25e72c19c12b)  
 - [Identifying the Genre of a Song with Neural Networks](https://medium.com/@navdeepsingh_2336/identifying-the-genre-of-a-song-with-neural-networks-851db89c42f0)  
 - [Modelling audio signal using visual features](https://raghavgoyal14.github.io/2018/04/12/audio-via-vid-features.html)  
+- [ESC-50: Dataset for Environmental Sound Classification](https://github.com/karolpiczak/ESC-50)  
 - [Kaldi Speech Recognition Toolkit](https://github.com/kaldi-asr/kaldi)  
 - [PyTorch-Kaldi](https://github.com/mravanelli/pytorch-kaldi)  
 - [How to start with Kaldi and Speech Recognition](https://towardsdatascience.com/how-to-start-with-kaldi-and-speech-recognition-a9b7670ffff6)  
