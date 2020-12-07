@@ -45,6 +45,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Introduction to Anomaly Detection in Python](https://blog.floydhub.com/introduction-to-anomaly-detection-in-python/)  
 - [Time Series basics Exploring](https://www.kaggle.com/jagangupta/time-series-basics-exploring-traditional-ts)  
 - [Understanding Variational Autoencoders (VAEs)](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)  
+- [Variational Autoencoders](https://www.jeremyjordan.me/variational-autoencoders/)  
 - [Benchmarking Performance and Scaling of Python Clustering Algorithms](https://hdbscan.readthedocs.io/en/latest/performance_and_scalability.html) [_Important_]  
 - [Comparing Python Clustering Algorithms](https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html)  
 - [Cracking the Data Science Interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview)  
