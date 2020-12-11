@@ -7,6 +7,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [OpenMMLab - GitHub](https://github.com/open-mmlab)  
 - [OpenMMLab - MMCV is a foundational python library for computer vision research](https://github.com/open-mmlab/mmcv)  
 - [OpenMMLab - MMEditing is an open source image and video editing toolbox](https://github.com/open-mmlab/mmediting)  
+- [OpenMMLab - MMDetection](https://github.com/open-mmlab/mmdetection)  
 
 ## Model Visualization:
 - [CNN Visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations) [_Very Good_]  
