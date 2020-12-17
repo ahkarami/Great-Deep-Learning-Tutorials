@@ -78,6 +78,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 
 ### Semantic Segmentation:
 - [Simple Guide to Semantic Segmentation](https://medium.com/beyondminds/a-simple-guide-to-semantic-segmentation-effcf83e7e54)  
+- [Background Matting](https://github.com/PeterL1n/BackgroundMattingV2)    
 
 ### License Plate Detection and Recognition:
 - [ALPR in Unscontrained Scenarios](https://github.com/sergiomsilva/alpr-unconstrained) [_Good_]  
