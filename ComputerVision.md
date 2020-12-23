@@ -33,6 +33,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [GhostNet - GitHub](https://github.com/huawei-noah/ghostnet)  
 - [GhostNet - PyTorch Hub](https://pytorch.org/hub/pytorch_vision_ghostnet/) [_Excellent_]   
 - [Residual blocks — Building blocks of ResNet](https://towardsdatascience.com/residual-blocks-building-blocks-of-resnet-fd90ca15d6ec)  
+- [EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)  
 
 ### Data Augmentation for Image Classification:
 - [Image Augmentation](https://github.com/aleju/imgaug)  
