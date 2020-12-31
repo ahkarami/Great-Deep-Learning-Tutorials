@@ -61,6 +61,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds](https://github.com/maudzung/Super-Fast-Accurate-3D-Object-Detection)  
 - [Signfeld - Synthetic traffic sign detection](https://github.com/moabitcoin/signfeld)  
 - [DETR - DEtection TRansformer](https://github.com/facebookresearch/detr) [_Great_]  
+- [Yolo-v5 vs EfficientDet](https://blog.roboflow.com/yolov5-is-here/)  
 
 ### Augmentation for Object Detection & Instance Segmentation:
 - [Albumentations - Great Library for image augmentation and transformations](https://github.com/albumentations-team/albumentations)    
