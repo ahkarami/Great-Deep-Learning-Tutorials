@@ -190,3 +190,6 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [PyTorch Image Models](https://github.com/rwightman/pytorch-image-models) [_Great_] 
 - [5 Advanced PyTorch Tools to Level up Your Workflow](https://towardsdatascience.com/5-advanced-pytorch-tools-to-level-up-your-workflow-d0bcf0603ad5) [_Interesting_]  
 
+## Other:
+- [Exploring Weight Agnostic Neural Networks](https://ai.googleblog.com/2019/08/exploring-weight-agnostic-neural.html)  
+
