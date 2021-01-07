@@ -76,6 +76,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [ESC-50: Dataset for Environmental Sound Classification](https://github.com/karolpiczak/ESC-50)  
 - [Kaldi Speech Recognition Toolkit](https://github.com/kaldi-asr/kaldi)  
 - [PyTorch-Kaldi](https://github.com/mravanelli/pytorch-kaldi)  
+- [SpeechBrain - PyTorch-based Speech Toolkit](https://speechbrain.github.io/)  
 - [How to start with Kaldi and Speech Recognition](https://towardsdatascience.com/how-to-start-with-kaldi-and-speech-recognition-a9b7670ffff6)  
 - [PyKaldi](https://github.com/pykaldi/pykaldi)  
 - [Athena - open-source implementation of end-to-end speech processing engine](https://github.com/athena-team/athena/tree/simclr)   
