@@ -90,6 +90,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [MelGAN - TTS - version2](https://github.com/seungwonpark/melgan)  
 - [FastSpeech - TTS - version1](https://github.com/xcmyz/FastSpeech)  
 - [FastSpeech - TTS - version2](https://github.com/ming024/FastSpeech2)  
+- [Mozilla - TTS](https://github.com/mozilla/TTS)  
 
 ### Automatic Speech Recognition (ASR) & Speech to Text (STT):
 - [wav2letter++](https://github.com/facebookresearch/wav2letter)  
