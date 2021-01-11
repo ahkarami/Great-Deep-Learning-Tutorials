@@ -78,6 +78,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [PyTorch-Kaldi](https://github.com/mravanelli/pytorch-kaldi)  
 - [SpeechBrain - PyTorch-based Speech Toolkit](https://speechbrain.github.io/)  
 - [How to start with Kaldi and Speech Recognition](https://towardsdatascience.com/how-to-start-with-kaldi-and-speech-recognition-a9b7670ffff6)  
+- [A 2019 Guide to Speech Synthesis with Deep Learning](https://heartbeat.fritz.ai/a-2019-guide-to-speech-synthesis-with-deep-learning-630afcafb9dd)  
 - [PyKaldi](https://github.com/pykaldi/pykaldi)  
 - [Athena - open-source implementation of end-to-end speech processing engine](https://github.com/athena-team/athena/tree/simclr)   
 - [ESPnet: end-to-end speech processing toolkit](https://github.com/espnet/espnet)  
