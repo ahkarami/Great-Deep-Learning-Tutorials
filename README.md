@@ -198,3 +198,5 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Exploring Weight Agnostic Neural Networks](https://ai.googleblog.com/2019/08/exploring-weight-agnostic-neural.html)  
 - [Weight Agnostic Neural Networks](https://weightagnostic.github.io/)  
 - [Weight Agnostic Neural Networks - GitHub](https://github.com/google/brain-tokyo-workshop/tree/master/WANNRelease)  
+- [SAM: Sharpness-Aware Minimization for Efficiently Improving Generalization](https://github.com/google-research/sam)  
+
