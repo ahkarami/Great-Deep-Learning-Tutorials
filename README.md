@@ -81,6 +81,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [A 2019 Guide to Speech Synthesis with Deep Learning](https://heartbeat.fritz.ai/a-2019-guide-to-speech-synthesis-with-deep-learning-630afcafb9dd)  
 - [PyKaldi](https://github.com/pykaldi/pykaldi)  
 - [WaveNet vocoder](https://github.com/r9y9/wavenet_vocoder)  
+- [nnAudio - audio processing toolbox using PyTorch](https://github.com/KinWaiCheuk/nnAudio)  
 - [Athena - open-source implementation of end-to-end speech processing engine](https://github.com/athena-team/athena/tree/simclr)   
 - [ESPnet: end-to-end speech processing toolkit](https://github.com/espnet/espnet)  
 - [NeMo - toolkit for Conversational AI](https://github.com/NVIDIA/NeMo) [_Excellent_]  
