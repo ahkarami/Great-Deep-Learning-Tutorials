@@ -119,6 +119,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Batch Normalization and Dropout in Neural Networks](https://towardsdatascience.com/batch-normalization-and-dropout-in-neural-networks-explained-with-pytorch-47d7a8459bcd)  
 - [Difference between Local Response Normalization and Batch Normalization](https://towardsdatascience.com/difference-between-local-response-normalization-and-batch-normalization-272308c034ac)  
 
+## Learning Rate Scheduling & Initialization:
+- [Automated Learning Rate Suggester](https://forums.fast.ai/t/automated-learning-rate-suggester/44199)  
+
 ## Deep Reinforcement Learning (Great Courses & Tutorials):
 - [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) [_Great_] 
 - [Deep Reinforcement Learning Algorithms with PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)  
