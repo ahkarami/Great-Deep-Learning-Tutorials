@@ -122,6 +122,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ## Learning Rate Scheduling & Initialization:
 - [Automated Learning Rate Suggester](https://forums.fast.ai/t/automated-learning-rate-suggester/44199)  
 - [Learning Rate Finder - fastai](https://fastai1.fast.ai/callbacks.lr_finder.html)  
+- [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)  
 
 ## Deep Reinforcement Learning (Great Courses & Tutorials):
 - [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) [_Great_] 
