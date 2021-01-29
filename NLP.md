@@ -20,6 +20,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [AllenNLP](https://allennlp.org/)  [_General NLP_]
 - [Stanza - A Python NLP Library for Many Human Languages](https://stanfordnlp.github.io/stanza/)  
 - [The Best NLP Papers From ICLR 2020](https://www.topbots.com/best-nlp-papers-from-iclr-2020)  
+- [Deep learning for natural language processing and information retrieval at the University of Waterloo](https://github.com/castorini)  
 - [Natural Language Processing With spaCy in Python](https://realpython.com/natural-language-processing-spacy-python/)  [_Great_]  
 
 ## Text Representation:
