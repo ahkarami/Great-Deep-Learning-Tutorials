@@ -79,6 +79,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [SpeechBrain - PyTorch-based Speech Toolkit](https://speechbrain.github.io/)  
 - [How to start with Kaldi and Speech Recognition](https://towardsdatascience.com/how-to-start-with-kaldi-and-speech-recognition-a9b7670ffff6)  
 - [A 2019 Guide to Speech Synthesis with Deep Learning](https://heartbeat.fritz.ai/a-2019-guide-to-speech-synthesis-with-deep-learning-630afcafb9dd)  
+- [A 2019 Guide for Automatic Speech Recognition](https://heartbeat.fritz.ai/a-2019-guide-for-automatic-speech-recognition-f1e1129a141c)  
 - [PyKaldi](https://github.com/pykaldi/pykaldi)  
 - [WaveNet vocoder](https://github.com/r9y9/wavenet_vocoder)  
 - [nnAudio - audio processing toolbox using PyTorch](https://github.com/KinWaiCheuk/nnAudio)  
