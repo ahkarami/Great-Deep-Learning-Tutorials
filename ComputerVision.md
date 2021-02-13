@@ -35,6 +35,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Residual blocks — Building blocks of ResNet](https://towardsdatascience.com/residual-blocks-building-blocks-of-resnet-fd90ca15d6ec)  
 - [EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)  
 - [EfficientNet Explanation](https://amaarora.github.io/2020/08/13/efficientnet.html)  
+- [DeepMind - NFNets](https://github.com/deepmind/deepmind-research/tree/master/nfnets)  
 
 ### Data Augmentation for Image Classification:
 - [Image Augmentation](https://github.com/aleju/imgaug)  
