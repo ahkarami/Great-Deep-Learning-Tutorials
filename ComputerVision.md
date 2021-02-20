@@ -201,6 +201,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [OpenCV - SuperAnnotate Desktop](https://opencv.org/superannotate-desktop/)  
 - [Curve-GCN](https://github.com/fidler-lab/curve-gcn)  
 - [VoTT (Visual Object Tagging Tool)](https://github.com/microsoft/VoTT)  
+- [MakeSense AI](https://www.makesense.ai/)  
 
 ## Building Datasets:
 - [Building Image Datasets for Computer Vision Algorithms](https://blog.paperspace.com/building-computer-vision-datasets/)  
