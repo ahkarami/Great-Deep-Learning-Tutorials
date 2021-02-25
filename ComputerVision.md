@@ -137,6 +137,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Finding duplicate images made easy!](https://github.com/idealo/imagededup)  
 - [Duplicate Image Detection - perspective hash (pHash)](https://github.com/philipbl/duplicate-images)  
 - [ImageHash](https://github.com/JohannesBuchner/imagehash)  
+- [NGT - Neighborhood Graph and Tree for Indexing High-dimensional Data](https://github.com/yahoojapan/NGT) [_Great_]  
 - [Visual Search with MXNet Gluon and HNSW](https://github.com/ThomasDelteil/VisualSearch_MXNet)  
 
 ## Video Understanding: 
