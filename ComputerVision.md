@@ -139,6 +139,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [ImageHash](https://github.com/JohannesBuchner/imagehash)  
 - [NGT - Neighborhood Graph and Tree for Indexing High-dimensional Data](https://github.com/yahoojapan/NGT) [_Great_]  
 - [NGT - Tutorial](https://github.com/yahoojapan/NGT/wiki)  
+- [NGT - Python](https://github.com/yahoojapan/NGT/blob/master/python/README.md)  
 - [Visual Search with MXNet Gluon and HNSW](https://github.com/ThomasDelteil/VisualSearch_MXNet)  
 
 ## Video Understanding: 
