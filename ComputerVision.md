@@ -174,6 +174,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Pose Animator](https://github.com/yemount/pose-animator/)  
 
 
+## Object Tracking:
+- [GSDT](https://github.com/yongxinw/GSDT)  
+
+
 ## GANs:
 - [Generate Anime Style Face Using DCGAN and Explore Its Latent Feature Representation](https://towardsdatascience.com/generate-anime-style-face-using-dcgan-and-explore-its-latent-feature-representation-ae0e905f3974)  
 - [StyleGAN2](https://github.com/EvgenyKashin/stylegan2-distillation)  
