@@ -110,22 +110,6 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [What’s Next For AI? Enter: Deep Reasoning](https://towardsdatascience.com/whats-next-for-ai-enter-deep-reasoning-fae8b131962a)  
 - [Deep Learning approaches to understand Human Reasoning](https://towardsdatascience.com/deep-learning-approaches-to-understand-human-reasoning-46f1805d454d)  
 
-## Loss Functions:
-- [Loss Functions Explained](https://medium.com/deep-learning-demystified/loss-functions-explained-3098e8ff2b27)  
-
-## Weight Initialization:
-- [Deep Learning Best Practices (1) - Weight Initialization](https://medium.com/usf-msds/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)  
-
-## Batch Normalization:
-- [Batch Normalization in Neural Networks](https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c)  
-- [Batch Normalization and Dropout in Neural Networks](https://towardsdatascience.com/batch-normalization-and-dropout-in-neural-networks-explained-with-pytorch-47d7a8459bcd)  
-- [Difference between Local Response Normalization and Batch Normalization](https://towardsdatascience.com/difference-between-local-response-normalization-and-batch-normalization-272308c034ac)  
-
-## Learning Rate Scheduling & Initialization:
-- [Automated Learning Rate Suggester](https://forums.fast.ai/t/automated-learning-rate-suggester/44199)  
-- [Learning Rate Finder - fastai](https://fastai1.fast.ai/callbacks.lr_finder.html)  
-- [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)  
-
 ## Deep Reinforcement Learning (Great Courses & Tutorials):
 - [A Free course in Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/) [_Great_] 
 - [Deep Reinforcement Learning Algorithms with PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)  
@@ -146,6 +130,28 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Deep Graph Library - DGL](https://www.dgl.ai/)  
 - [PyTorch Geometric - PyG](https://github.com/rusty1s/pytorch_geometric)  
 - [ptgnn: A PyTorch GNN Library](https://github.com/microsoft/ptgnn)  
+
+
+## Best Practices for Training Deep Models:
+
+### Loss Functions:
+- [Loss Functions Explained](https://medium.com/deep-learning-demystified/loss-functions-explained-3098e8ff2b27)  
+
+### Weight Initialization:
+- [Deep Learning Best Practices (1) - Weight Initialization](https://medium.com/usf-msds/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)  
+
+### Batch Normalization:
+- [Batch Normalization in Neural Networks](https://towardsdatascience.com/batch-normalization-in-neural-networks-1ac91516821c)  
+- [Batch Normalization and Dropout in Neural Networks](https://towardsdatascience.com/batch-normalization-and-dropout-in-neural-networks-explained-with-pytorch-47d7a8459bcd)  
+- [Difference between Local Response Normalization and Batch Normalization](https://towardsdatascience.com/difference-between-local-response-normalization-and-batch-normalization-272308c034ac)  
+
+### Learning Rate Scheduling & Initialization:
+- [Automated Learning Rate Suggester](https://forums.fast.ai/t/automated-learning-rate-suggester/44199)  
+- [Learning Rate Finder - fastai](https://fastai1.fast.ai/callbacks.lr_finder.html)  
+- [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)  
+
+### Early Stopping:
+- [Early Stopping in PyTorch - Bjarten](https://github.com/Bjarten/early-stopping-pytorch)  
 
 ## Conferences News:
 - [Latest Computer Vision Trends from CVPR 2019](https://towardsdatascience.com/latest-computer-vision-trends-from-cvpr-2019-c07806dd570b)  
