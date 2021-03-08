@@ -52,6 +52,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Comparing Python Clustering Algorithms](https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html)  
 - [Cracking the Data Science Interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview)  
 - [Data Engineer Interview Questions Python](https://realpython.com/data-engineer-interview-questions-python/)  
+- [khanacademy statistics course](https://www.khanacademy.org/math/ap-statistics) [_Good_]  
 - [NumPy Exercises](https://www.w3resource.com/python-exercises/numpy/index.php)  [_Good_]
 
 ### Scikit-learn Algorithms on GPU & for Large-Scale Data Sets:
