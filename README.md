@@ -153,6 +153,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ### Early Stopping:
 - [Early Stopping in PyTorch - Bjarten](https://github.com/Bjarten/early-stopping-pytorch)  
+- [Catalyst - Early Stopping](https://catalyst-team.github.io/catalyst/faq/early_stopping.html)  
 
 ## Conferences News:
 - [Latest Computer Vision Trends from CVPR 2019](https://towardsdatascience.com/latest-computer-vision-trends-from-cvpr-2019-c07806dd570b)  
