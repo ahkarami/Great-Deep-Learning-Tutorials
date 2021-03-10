@@ -150,6 +150,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Automated Learning Rate Suggester](https://forums.fast.ai/t/automated-learning-rate-suggester/44199)  
 - [Learning Rate Finder - fastai](https://fastai1.fast.ai/callbacks.lr_finder.html)  
 - [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)  
+- [ignite - Example of FastaiLRFinder](https://github.com/pytorch/ignite/blob/master/examples/notebooks/FastaiLRFinder_MNIST.ipynb)   
 
 ### Early Stopping:
 - [Early Stopping in PyTorch - Bjarten](https://github.com/Bjarten/early-stopping-pytorch)  
