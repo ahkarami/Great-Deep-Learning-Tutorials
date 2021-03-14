@@ -41,6 +41,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Image Augmentation](https://github.com/aleju/imgaug)  
 - [Learnable Test-time Augmentation](https://github.com/bayesgroup/gps-augment)  
 
+## Self-Supervised Learning:
+- [VISSL - VIsion library for state-of-the-art Self-Supervised Learning](https://vissl.ai/)  
+- [VISSL - GitHub](https://github.com/facebookresearch/vissl)  
+
 ## Transformers in Computer Vision:
 - [Vision Transformer](https://github.com/google-research/vision_transformer)  
 
