@@ -153,6 +153,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)  
 - [ignite - Example of FastaiLRFinder](https://github.com/pytorch/ignite/blob/master/examples/notebooks/FastaiLRFinder_MNIST.ipynb)   
 - [Find Learning Rate - a gist code](https://gist.github.com/colllin/738cd2a9f0abec9be5e8b9becc23a812)    
+- [Learning rate finder - PyTorch Lightning](https://pytorch-lightning.readthedocs.io/en/1.1.3/lr_finder.html)  
 
 ### Early Stopping:
 - [Early Stopping in PyTorch - Bjarten](https://github.com/Bjarten/early-stopping-pytorch)  
