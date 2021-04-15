@@ -37,6 +37,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)  
 - [EfficientNet Explanation](https://amaarora.github.io/2020/08/13/efficientnet.html)  
 - [DeepMind - NFNets](https://github.com/deepmind/deepmind-research/tree/master/nfnets)  
+- [NFNets - PyTorch](https://github.com/vballoli/nfnets-pytorch)  
+- [EfficientNetV2](https://arxiv.org/pdf/2104.00298.pdf)  
 
 ### Data Augmentation for Image Classification:
 - [Image Augmentation](https://github.com/aleju/imgaug)  
