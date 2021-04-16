@@ -87,6 +87,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [WaveNet vocoder](https://github.com/r9y9/wavenet_vocoder)  
 - [nnAudio - audio processing toolbox using PyTorch](https://github.com/KinWaiCheuk/nnAudio)  
 - [Athena - open-source implementation of end-to-end speech processing engine](https://github.com/athena-team/athena/tree/simclr)   
+- [Pydub - manipulate audio](https://github.com/jiaaro/pydub)  
 - [ESPnet: end-to-end speech processing toolkit](https://github.com/espnet/espnet)  
 - [NeMo - toolkit for Conversational AI](https://github.com/NVIDIA/NeMo) [_Excellent_]  
 
