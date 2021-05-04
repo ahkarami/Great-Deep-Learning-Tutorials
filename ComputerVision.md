@@ -47,6 +47,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 ## Self-Supervised Learning:
 - [VISSL - VIsion library for state-of-the-art Self-Supervised Learning](https://vissl.ai/)  
 - [VISSL - GitHub](https://github.com/facebookresearch/vissl)  
+- [DINO: Self-Supervised Vision Transformers](https://github.com/facebookresearch/dino)  
 
 ## Transformers in Computer Vision:
 - [Vision Transformer](https://github.com/google-research/vision_transformer)  
