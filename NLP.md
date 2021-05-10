@@ -59,6 +59,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)  
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)  
 - [What is a Transformer?](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04)  
+- [How Transformers work in deep learning and NLP](https://theaisummer.com/transformer/)    
 - [Transformer: A Novel Neural Network Architecture for Language Understanding](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html)  
 - [How do Transformers Work in NLP?](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/)  
 - [BERT for Dummies](https://towardsdatascience.com/bert-for-dummies-step-by-step-tutorial-fb90890ffe03)  
