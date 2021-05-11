@@ -125,6 +125,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Over-sampling via imbalanced-learn library](https://imbalanced-learn.readthedocs.io/en/stable/over_sampling.html)  
 - [Imbalanced Data Handling](https://www.jeremyjordan.me/imbalanced-data/)  
 
+## Information Retrieval:
+- [PyTerrier: Python API for Terrier](https://github.com/terrier-org/pyterrier)  
+
 ## NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
 - [Multi-label Text Classification using BERT](https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d)  
