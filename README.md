@@ -60,6 +60,11 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [scikit-cuda](https://github.com/lebedov/scikit-cuda)  
 - [Hummingbird - trained traditional ML models into tensor computations](https://github.com/microsoft/hummingbird)  
 
+### Anomaly Detection:
+- [An Awesome Tutorial to Learn Outlier Detection in Python using PyOD Library](https://www.analyticsvidhya.com/blog/2019/02/outlier-detection-python-pyod/)  
+- [PyOD: Python Outlier Detection](https://github.com/yzhao062/pyod) [**Great**]  
+- [PyNomaly](https://github.com/vc1492a/PyNomaly)  
+
 ## Deep Learning Recommendation Model:
 - [Deep Learning Recommendation Model for Personalization and Recommendation Systems - DLRM](https://github.com/facebookresearch/dlrm)  
 - [DLRM: An advanced, open source deep learning recommendation model](https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/)  
