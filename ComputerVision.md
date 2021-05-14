@@ -127,7 +127,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [OpenCV Tutorial Homography](https://docs.opencv.org/master/d9/dab/tutorial_homography.html)  
 
 ## OCR:
-- [Easy OCR](https://github.com/JaidedAI/EasyOCR) [_Great_]  
+- [Easy OCR](https://github.com/JaidedAI/EasyOCR) [**Great**]  
+- [MMOCR](https://github.com/open-mmlab/mmocr) [**Great**]
 - [Word Level OCR Dataset for Persian Language](https://github.com/amirabbasasadi/Shotor)  
 - [Simple Persian Word-Level OCR](https://github.com/amirabbasasadi/PersianOCR)  
 - [Amazon Textract - OCR](https://aws.amazon.com/textract/)  
@@ -194,6 +195,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 
 
 ## GANs:
+- [MMGeneration](https://github.com/open-mmlab/mmgeneration)  
 - [Generate Anime Style Face Using DCGAN and Explore Its Latent Feature Representation](https://towardsdatascience.com/generate-anime-style-face-using-dcgan-and-explore-its-latent-feature-representation-ae0e905f3974)  
 - [StyleGAN2](https://github.com/EvgenyKashin/stylegan2-distillation)  
 
