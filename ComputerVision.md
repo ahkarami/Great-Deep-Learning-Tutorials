@@ -13,6 +13,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 ## Model Visualization:
 - [CNN Visualizations](https://github.com/utkuozbulak/pytorch-cnn-visualizations) [_Very Good_]  
 - [CNN-heatmap](https://github.com/mrgloom/CNN-heatmap)  
+- [Tools to Design or Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network) [**Great**]  
 - [Netron - GitHub](https://github.com/lutzroeder/netron) [_Excellent_]  
 - [Monitor your GPUs](https://github.com/msalvaris/gpu_monitor) [**Excellent**]  
 - [Understanding CNN](http://cs231n.github.io/understanding-cnn/)  
