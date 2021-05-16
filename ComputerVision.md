@@ -241,4 +241,5 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - OpenCV is **BGR**, Pillow is **RGB**, and Decord is **RGB**  
   - [Numpy Image bgr-to-rgb](https://www.scivision.dev/numpy-image-bgr-to-rgb/)   
   
+- [Imagenet 1000 class indices to human readable labels](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a)  
 
