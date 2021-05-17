@@ -102,6 +102,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 
 ### Keypoint Regression:
 - [Transfer Learning Library](https://github.com/thuml/Transfer-Learning-Library)  
+- [DEKR: dense keypoint regression framework](https://github.com/HRNet/DEKR)  
 
 ## Loss Functions:
 - [Use Focal Loss To Train Model Using Imbalanced Dataset](https://leimao.github.io/blog/Focal-Loss-Explained/)  
