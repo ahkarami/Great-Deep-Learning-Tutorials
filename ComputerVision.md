@@ -24,6 +24,13 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Visualizing Neural Networks with the Grand Tour](https://distill.pub/2020/grand-tour/) [_Interesting_]    
 - [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)  
 
+### GradCAM:
+- [GradCAM Main Paper](https://arxiv.org/abs/1610.02391)  
+- [PyTorch GradCAM 1](https://github.com/jacobgil/pytorch-grad-cam)  
+- [PyTorch GradCAM 2](https://github.com/kazuto1011/grad-cam-pytorch)  
+- [Keras GradCAM](https://keras.io/examples/vision/grad_cam/)  
+- [pyimagesearch GradCAM](https://www.pyimagesearch.com/2020/03/09/grad-cam-visualize-class-activation-maps-with-keras-tensorflow-and-deep-learning/)  
+
 ### t-SNE Visualization:
 - [TSNE-Visualization of large dataset images using pre-trained networks in Tensorflow and Keras](https://e3oroush.github.io/tsne-visualization/)  [_Great_] 
 
