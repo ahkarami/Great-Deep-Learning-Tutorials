@@ -182,6 +182,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Decord_loader - Excellent Video Data Loader](https://gluon-cv.mxnet.io/build/examples_action_recognition/decord_loader.html) [_Great_]    
 - [Decord - GitHub](https://github.com/dmlc/decord)  
 - [PyAV - Pythonic binding for the FFmpeg libraries](https://github.com/PyAV-Org/PyAV)  
+- [Python bindings for FFmpeg](https://github.com/kkroening/ffmpeg-python)  
 - [Awesome Video Datasets](https://github.com/xiaobai1217/Awesome-Video-Datasets)  
 - [Kinetics 400 Data Set - Download Link via DropBox](https://www.dropbox.com/s/wcs01mlqdgtq4gn/compress.tar.gz?dl=1)  
 
