@@ -77,6 +77,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [PP-YOLO](https://github.com/PaddlePaddle/PaddleDetection/blob/release/0.4/configs/ppyolo/README.md)  
 - [Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds](https://github.com/maudzung/Super-Fast-Accurate-3D-Object-Detection)  
 - [Signfeld - Synthetic traffic sign detection](https://github.com/moabitcoin/signfeld)  
+- [Swin-Transformer](https://github.com/microsoft/Swin-Transformer)  
 - [DETR - DEtection TRansformer](https://github.com/facebookresearch/detr) [_Great_]  
 - [Yolo-v5 vs EfficientDet](https://blog.roboflow.com/yolov5-is-here/)  
 
