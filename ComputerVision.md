@@ -189,6 +189,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Kinetics 400 Data Set - Download Link via DropBox](https://www.dropbox.com/s/wcs01mlqdgtq4gn/compress.tar.gz?dl=1)  
 
 
+## Optical Flow: 
+-[RAFT](https://github.com/princeton-vl/RAFT)  
+
+
 ## Visual Attention Method:
 - [Attention Mechanisms in Computer Vision Part 1: CBAM](https://blog.paperspace.com/attention-mechanisms-in-computer-vision-cbam/) [_Excellent_]  
 - [Efficient Channel Attention for Deep Convolutional Neural Networks (ECA-Net)](https://blog.paperspace.com/attention-mechanisms-in-computer-vision-ecanet/)  
