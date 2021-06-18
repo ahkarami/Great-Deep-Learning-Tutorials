@@ -33,6 +33,15 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [FastSpeech - TTS - version2](https://github.com/ming024/FastSpeech2)  
 - [Mozilla - TTS](https://github.com/mozilla/TTS)  
 
+## Automatic Speech Recognition (ASR) & Speech to Text (STT):
+- [wav2letter++](https://github.com/facebookresearch/wav2letter)  
+- [End-to-End ASR - PyTorch](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch)  
+- [NeuralSP](https://github.com/hirofumi0810/neural_sp)  
+- [Silero Speech-To-Text Models - PyTorch Hub](https://pytorch.org/hub/snakers4_silero-models_stt/)  
+- [Silero Models - GitHub](https://github.com/snakers4/silero-models)  
+- [Hugging Face’s Wav2Vec2 & its First ASR Model](https://www.analyticsvidhya.com/blog/2021/02/hugging-face-introduces-the-first-automatic-speech-recognition-model-wav2vec2/)  
+- [Hugging Face - wav2vec2](https://huggingface.co/transformers/model_doc/wav2vec2.html)  
+  
 ## Source Separation:
 - [Deezer source separation library](https://github.com/deezer/spleeter) [Great]   
 
