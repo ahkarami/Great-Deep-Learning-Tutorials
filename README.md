@@ -79,15 +79,6 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Neural Collaborative Filtering](https://towardsdatascience.com/neural-collaborative-filtering-96cef1009401)  
 - [AWS Personalized Recommendation Model](https://aws.amazon.com/personalize/)  
 
-### Automatic Speech Recognition (ASR) & Speech to Text (STT):
-- [wav2letter++](https://github.com/facebookresearch/wav2letter)  
-- [End-to-End ASR - PyTorch](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch)  
-- [NeuralSP](https://github.com/hirofumi0810/neural_sp)  
-- [Silero Speech-To-Text Models - PyTorch Hub](https://pytorch.org/hub/snakers4_silero-models_stt/)  
-- [Silero Models - GitHub](https://github.com/snakers4/silero-models)  
-- [Hugging Face’s Wav2Vec2 & its First ASR Model](https://www.analyticsvidhya.com/blog/2021/02/hugging-face-introduces-the-first-automatic-speech-recognition-model-wav2vec2/)  
-- [Hugging Face - wav2vec2](https://huggingface.co/transformers/model_doc/wav2vec2.html)  
-
 ## Deep Reasoning:
 - [What’s Next For AI? Enter: Deep Reasoning](https://towardsdatascience.com/whats-next-for-ai-enter-deep-reasoning-fae8b131962a)  
 - [Deep Learning approaches to understand Human Reasoning](https://towardsdatascience.com/deep-learning-approaches-to-understand-human-reasoning-46f1805d454d)  
