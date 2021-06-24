@@ -50,6 +50,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 
 ### Data Augmentation for Image Classification:
 - [Image Augmentation](https://github.com/aleju/imgaug)  
+- [AugLy - data augmentations library that supports different modalities](https://github.com/facebookresearch/AugLy)  
 - [Learnable Test-time Augmentation](https://github.com/bayesgroup/gps-augment)  
 
 ## Self-Supervised Learning:
