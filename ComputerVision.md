@@ -180,6 +180,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [torchvideo - GitHub](https://github.com/torchvideo/torchvideo)  
 - [PytorchVideo - GitHub](https://github.com/facebookresearch/pytorchvideo) [_Great_]  
 - [PytorchVideo - main page](https://pytorchvideo.org/) [_Great_]  
+- [MoViNet-pytorch](https://github.com/Atze00/MoViNet-pytorch) [Interesting]  
 - [Basic Video transforms for PyTorch](https://github.com/hassony2/torch_videovision)  
 - [Fast and Easy to use video feature extractor](https://github.com/antoine77340/video_feature_extractor)  
 - [Video Augmentation Techniques for Deep Learning](https://github.com/okankop/vidaug) [_Great_]  
