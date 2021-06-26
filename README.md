@@ -79,6 +79,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Neural Collaborative Filtering](https://towardsdatascience.com/neural-collaborative-filtering-96cef1009401)  
 - [AWS Personalized Recommendation Model](https://aws.amazon.com/personalize/)  
 
+## AutoML:
+- [Auto Gluon AI](https://auto.gluon.ai/stable/index.html#)  
+
 ## Deep Reasoning:
 - [What’s Next For AI? Enter: Deep Reasoning](https://towardsdatascience.com/whats-next-for-ai-enter-deep-reasoning-fae8b131962a)  
 - [Deep Learning approaches to understand Human Reasoning](https://towardsdatascience.com/deep-learning-approaches-to-understand-human-reasoning-46f1805d454d)  
