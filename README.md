@@ -81,6 +81,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## AutoML:
 - [Auto Gluon AI](https://auto.gluon.ai/stable/index.html#)  
+- [AWS Auto Gluon](https://github.com/awslabs/autogluon)  
 
 ## Deep Reasoning:
 - [What’s Next For AI? Enter: Deep Reasoning](https://towardsdatascience.com/whats-next-for-ai-enter-deep-reasoning-fae8b131962a)  
