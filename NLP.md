@@ -142,6 +142,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ## Persian Language Processing:
 - [FarsTail: A Persian Natural Language Inference Dataset](https://github.com/dml-qom/FarsTail)  
 
+## Data Annotation Tools:
+- [doccano is an open source text annotation tool](https://github.com/doccano/doccano) [**Great**]  
+
 ## Other NLP Topics:
 - [HybridNLP - Tutorial on Hybrid Techniques for Knowledge-based NLP](https://github.com/hybridnlp/tutorial)  
 
