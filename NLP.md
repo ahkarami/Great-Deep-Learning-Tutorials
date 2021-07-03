@@ -101,6 +101,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [PyTorch Tutorial to Sequence Labeling](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Sequence-Labeling)  
 
 ## Text Summarization:
+- [Bert Extractive Summarizer](https://pypi.org/project/bert-extractive-summarizer/) [**Great**]   
 - [Generating Text Summaries Using GPT-2 on PyTorch with Minimal Training](https://blog.paperspace.com/generating-text-summaries-gpt-2/) [_Good_]    
 - [A Gentle Introduction to Text Summarization in Machine Learning](https://blog.floydhub.com/gentle-introduction-to-text-summarization-in-machine-learning/)  
 - [Taming Recurrent Neural Networks for Better Summarization](http://www.abigailsee.com/2017/04/16/taming-rnns-for-better-summarization.html)  
