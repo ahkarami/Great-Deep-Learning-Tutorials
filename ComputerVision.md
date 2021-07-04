@@ -59,6 +59,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [DINO: Self-Supervised Vision Transformers](https://github.com/facebookresearch/dino)  
 
 ## Transformers in Computer Vision:
+- [Vision Transformers Tutorial](https://blog.paperspace.com/vision-transformers/) [**Great**]   
 - [Vision Transformer](https://github.com/google-research/vision_transformer)  
 
 ## Detection & Segmentation:
