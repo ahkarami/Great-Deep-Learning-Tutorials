@@ -108,6 +108,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [PyTorch implementation of "Get to the point"](https://github.com/mjc92/GetToThePoint)  
 - [TensorFlow implementation of "Get to the point"](https://github.com/abisee/pointer-generator)  
 
+## Language Model:
+- [A Comprehensive Guide to Build your own Language Model in Python](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-language-model-nlp-python-code/)   
+
 ## Text & Document Classification:
 - [hedwig - PyTorch deep learning models for document classification](https://github.com/castorini/hedwig)  
 
