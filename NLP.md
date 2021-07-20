@@ -112,6 +112,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [A Comprehensive Guide to Build your own Language Model in Python](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-language-model-nlp-python-code/)   
 - [D2L: Language Models and Dataset](https://d2l.ai/chapter_recurrent-neural-networks/language-models-and-dataset.html)  
 - [Develop a word-level Neural Language Model in Keras](https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/)  
+- [IBM deep learning language model](https://github.com/IBM/deep-learning-language-model)  
 
 ## Text & Document Classification:
 - [hedwig - PyTorch deep learning models for document classification](https://github.com/castorini/hedwig)  
