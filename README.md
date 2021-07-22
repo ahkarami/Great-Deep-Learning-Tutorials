@@ -138,6 +138,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [PyTorch High-Level Training Sample](https://github.com/ncullen93/torchsample/blob/master/README.md)    
 - [PyTorch Discussion about Early Stopping](https://discuss.pytorch.org/t/early-stopping-in-pytorch/18800)  
 
+### Tuning Guide Recipes:
+- [PyTorch Tuning Guide Tutorial](https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html)  
+
 ## Conferences News:
 - [Latest Computer Vision Trends from CVPR 2019](https://towardsdatascience.com/latest-computer-vision-trends-from-cvpr-2019-c07806dd570b)  
 - [Interesting 2019 CVPR papers](https://medium.com/@mattmiesnieks/interesting-2019-cvpr-papers-865e303db5ca)  
