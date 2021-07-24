@@ -141,6 +141,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ### Tuning Guide Recipes:
 - [PyTorch Tuning Guide Tutorial](https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html)  
 - [PyTorch memory leak with dynamic size tensor input](https://github.com/pytorch/pytorch/issues/29893)   
+- [Karpathy: A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)  
 
 ## Conferences News:
 - [Latest Computer Vision Trends from CVPR 2019](https://towardsdatascience.com/latest-computer-vision-trends-from-cvpr-2019-c07806dd570b)  
