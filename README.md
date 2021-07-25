@@ -76,6 +76,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Neural Recommendation Algorithms](https://towardsdatascience.com/recotour-ii-neural-recommendation-algorithms-49733938d56e)  
 - [Build a Recommendation Engine With Collaborative Filtering](https://realpython.com/build-recommendation-engine-collaborative-filtering/)  [_**Great**_]  
 - [NCF - Neural Collaborative Filtering](https://github.com/NervanaSystems/distiller/tree/master/examples/ncf)  
+- [Using Neural Networks for your Recommender System](https://developer.nvidia.com/blog/using-neural-networks-for-your-recommender-system/) [**Great*]     
 - [Neural Collaborative Filtering](https://towardsdatascience.com/neural-collaborative-filtering-96cef1009401)  
 - [AWS Personalized Recommendation Model](https://aws.amazon.com/personalize/)  
 
