@@ -41,6 +41,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Silero Models - GitHub](https://github.com/snakers4/silero-models)  
 - [Hugging Face’s Wav2Vec2 & its First ASR Model](https://www.analyticsvidhya.com/blog/2021/02/hugging-face-introduces-the-first-automatic-speech-recognition-model-wav2vec2/)  
 - [Hugging Face - wav2vec2](https://huggingface.co/transformers/model_doc/wav2vec2.html)  
+- [PyTorch Wav2Vec](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec/unsupervised)   
   
 ## Source Separation:
 - [Deezer source separation library](https://github.com/deezer/spleeter) [Great]   
