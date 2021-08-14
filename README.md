@@ -69,6 +69,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [PyOD: Python Outlier Detection](https://github.com/yzhao062/pyod) [**Great**]  
 - [PyNomaly](https://github.com/vc1492a/PyNomaly)  
 
+### Modeling Numerical & Categorical Data in ML:
+- [How to Prepare Categorical Data for Deep Learning in Python](https://machinelearningmastery.com/how-to-prepare-categorical-data-for-deep-learning-in-python/)  
+
 ## Deep Learning Recommendation Model:
 - [Deep Learning Recommendation Model for Personalization and Recommendation Systems - DLRM](https://github.com/facebookresearch/dlrm)  
 - [DLRM: An advanced, open source deep learning recommendation model](https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/)  
