@@ -54,6 +54,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Variational Autoencoders](https://www.jeremyjordan.me/variational-autoencoders/)  
 - [Benchmarking Performance and Scaling of Python Clustering Algorithms](https://hdbscan.readthedocs.io/en/latest/performance_and_scalability.html) [_Important_]  
 - [Comparing Python Clustering Algorithms](https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html)  
+- [Modular Active Learning framework](https://github.com/modAL-python/modAL)   
 - [Cracking the Data Science Interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview)  
 - [Data Engineer Interview Questions Python](https://realpython.com/data-engineer-interview-questions-python/)  
 - [khanacademy statistics course](https://www.khanacademy.org/math/ap-statistics) [_Good_]  
