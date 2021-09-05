@@ -134,13 +134,14 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [PyTorch implementation of Deformable Convolution](https://github.com/oeway/pytorch-deform-conv)  
 
 
-## 3D Image Classification:
+## 3D Image Classification & 3D Computer Vision:
 - [3D MNIST](https://medium.com/shashwats-blog/3d-mnist-b922a3d07334)  
 - [3D CNN Images with Tensorflow](https://github.com/jibikbam/CNN-3D-images-Tensorflow)  
 - [Point Cloud Library (PCL)](https://github.com/PointCloudLibrary/pcl)  
 - [Kaolin - a PyTorch library for accelerating 3D deep learning](https://github.com/NVIDIAGameWorks/kaolin)  
 - [PyTorch3D](https://github.com/facebookresearch/pytorch3d) [_Fantastic_]  
 - [OpenCV Tutorial Homography](https://docs.opencv.org/master/d9/dab/tutorial_homography.html)  
+- [Total 3D Understanding](https://github.com/yinyunie/Total3DUnderstanding)   
 
 ## OCR:
 - [Easy OCR](https://github.com/JaidedAI/EasyOCR) [**Great**]  
