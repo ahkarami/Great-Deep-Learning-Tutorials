@@ -114,6 +114,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Develop a word-level Neural Language Model in Keras](https://machinelearningmastery.com/how-to-develop-a-word-level-neural-language-model-in-keras/)  
 - [IBM deep learning language model](https://github.com/IBM/deep-learning-language-model)  
 - [BERT language model](https://devopedia.org/bert-language-model)  
+- [Facebook AI: GSLM](https://www.marktechpost.com/2021/09/09/facebook-ai-introduces-gslm-generative-spoken-language-model-a-textless-nlp-model-that-breaks-free-completely-of-the-dependence-on-text-for-training/)   
 
 ## Text & Document Classification:
 - [hedwig - PyTorch deep learning models for document classification](https://github.com/castorini/hedwig)  
