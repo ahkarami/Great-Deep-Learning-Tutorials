@@ -141,6 +141,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Edit Distance](https://www.geeksforgeeks.org/edit-distance-dp-5/)  
 
 ## Chatbot:
+- [Rasa Chatbot](https://github.com/RasaHQ/rasa) [**Great**]      
+- [Learn how to Build and Deploy a Chatbot in Minutes using Rasa](https://www.analyticsvidhya.com/blog/2019/04/learn-build-chatbot-rasa-nlp-ipl/)   
 - [chatbot with DialoGPT](https://www.machinecurve.com/index.php/2021/03/16/easy-chatbot-with-dialogpt-machine-learning-and-huggingface-transformers/)   
 - [DialoGPT: huggingface Transformer](https://huggingface.co/transformers/model_doc/dialogpt.html)   
 - [PyTorch Chatbot Tutorial](https://brsoff.github.io/tutorials/beginner/chatbot_tutorial.html)   
