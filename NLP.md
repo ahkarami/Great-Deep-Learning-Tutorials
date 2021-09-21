@@ -148,6 +148,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [PyTorch Chatbot Tutorial](https://brsoff.github.io/tutorials/beginner/chatbot_tutorial.html)   
 - [Implement a Simple Chat Bot With PyTorch](https://www.python-engineer.com/posts/chatbot-pytorch/)   
 - [GPT2 Chatbot PyTorch](https://github.com/devjwsong/gpt2-chatbot-pytorch)   
+- [PyTorch Official Chatbot Tutorial](https://pytorch.org/tutorials/beginner/chatbot_tutorial.html)    
 
 ## NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
