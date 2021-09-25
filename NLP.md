@@ -151,6 +151,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [PyTorch Official Chatbot Tutorial](https://pytorch.org/tutorials/beginner/chatbot_tutorial.html)    
 - [PaddlePaddle Knover: toolkit for knowledge grounded dialogue generation](https://github.com/PaddlePaddle/Knover)   
 - [PaddlePaddle PLATO-2](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/examples/dialogue/plato-2)   
+- [huggingface: Transformers](https://github.com/huggingface/transformers) [Great]  
+- [huggingface: Blenderbot](https://huggingface.co/transformers/model_doc/blenderbot.html) [**Great**]  
+- [huggingface: Blenderbot Small](https://huggingface.co/transformers/model_doc/blenderbot_small.html) [**Great**]  
+- [huggingface: GPT-2 Text Generation](https://huggingface.co/gpt2?text=A+long+time+ago%2C) [**Great**]            
 
 ## NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
