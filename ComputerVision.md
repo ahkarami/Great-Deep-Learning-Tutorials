@@ -196,7 +196,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 
 
 ## Optical Flow: 
--[RAFT](https://github.com/princeton-vl/RAFT)  
+- [RAFT](https://github.com/princeton-vl/RAFT)  
 
 
 ## Visual Attention Method:
@@ -268,3 +268,4 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
   
 - [Imagenet 1000 class indices to human readable labels](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a)  
 
+- [streamlit Make Images & Faces as Comic one!!](https://share.streamlit.io/nathannguyen-dev/comic_me_v1/main.py)   
