@@ -151,6 +151,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [PyTorch Official Chatbot Tutorial](https://pytorch.org/tutorials/beginner/chatbot_tutorial.html)    
 - [PaddlePaddle Knover: toolkit for knowledge grounded dialogue generation](https://github.com/PaddlePaddle/Knover)   
 - [PaddlePaddle PLATO-2](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/examples/dialogue/plato-2)   
+- [ParlAI](https://github.com/facebookresearch/ParlAI) [Great]     
 - [huggingface: Transformers](https://github.com/huggingface/transformers) [Great]  
 - [huggingface: Blenderbot](https://huggingface.co/transformers/model_doc/blenderbot.html) [**Great**]  
 - [huggingface: Blenderbot Small](https://huggingface.co/transformers/model_doc/blenderbot_small.html) [**Great**]  
