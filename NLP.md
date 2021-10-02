@@ -158,6 +158,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [huggingface: GPT-2 Text Generation](https://huggingface.co/gpt2?text=A+long+time+ago%2C) [**Great**]            
 - [Seq2seq Chatbot](https://github.com/ricsinaruto/Seq2seqChatbots)   
 - [seq2seq Chatbot implemented in Pytorch](https://github.com/khordoo/chatbot-pytorch)   
+- [papers with code: chatbot](https://paperswithcode.com/task/chatbot)   
 
 ## NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
