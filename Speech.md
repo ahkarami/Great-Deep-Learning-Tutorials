@@ -53,3 +53,5 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 ## Voice Activity Detection:
 - [Voice Activity Detection: Identifying whether someone is speaking or not](https://maelfabien.github.io/project/Speech_proj/#) [**Great**]    
 
+## Annotation Tools:
+- [audino: open source audio annotation tool](https://github.com/midas-research/audino)   
