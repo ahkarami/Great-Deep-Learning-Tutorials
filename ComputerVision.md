@@ -191,6 +191,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Decord - GitHub](https://github.com/dmlc/decord)  
 - [PyAV - Pythonic binding for the FFmpeg libraries](https://github.com/PyAV-Org/PyAV)  
 - [Python bindings for FFmpeg](https://github.com/kkroening/ffmpeg-python)  
+- [GStreamer: Multimedia Framework](https://github.com/GStreamer/gstreamer)   
 - [Awesome Video Datasets](https://github.com/xiaobai1217/Awesome-Video-Datasets)  
 - [Kinetics 400 Data Set - Download Link via DropBox](https://www.dropbox.com/s/wcs01mlqdgtq4gn/compress.tar.gz?dl=1)  
 
