@@ -220,4 +220,4 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Weight Agnostic Neural Networks](https://weightagnostic.github.io/)  
 - [Weight Agnostic Neural Networks - GitHub](https://github.com/google/brain-tokyo-workshop/tree/master/WANNRelease)  
 - [SAM: Sharpness-Aware Minimization for Efficiently Improving Generalization](https://github.com/google-research/sam)  
-
+- [Qualcomm Discusses Secret Dataset Generation Data](https://www.qualcomm.com/news/onq/2021/09/16/qa-ai-researcher-roland-memisevic-discusses-secret-dataset-generation-data)   
