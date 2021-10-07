@@ -151,6 +151,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Amazon Textract - OCR](https://aws.amazon.com/textract/)  
 - [TextFuseNet](https://github.com/ying09/TextFuseNet)  
 - [Transformer-OCR](https://github.com/fengxinjie/Transformer-OCR)  
+- [Microsoft TrOCR](https://github.com/microsoft/unilm/tree/master/trocr)  
 
 ## Few-Shot Learning:
 - [Advances in few-shot learning](https://towardsdatascience.com/advances-in-few-shot-learning-a-guided-tour-36bc10a68b77)  
