@@ -76,6 +76,10 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Handling Categorical Data in ML Models](https://www.pluralsight.com/guides/handling-categorical-data-in-machine-learning-models)   
 - [Encoding Categorical Data](https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/)   
 
+### Feature Engineering:
+- [Lime: Explaining the predictions of any machine learning classifier](https://github.com/marcotcr/lime)  
+- [Lime Tutorial: Building Trust in Machine Learning Models (using LIME in Python)](https://www.analyticsvidhya.com/blog/2017/06/building-trust-in-machine-learning-models/)  
+
 ## Deep Learning Recommendation Model:
 - [Deep Learning Recommendation Model for Personalization and Recommendation Systems - DLRM](https://github.com/facebookresearch/dlrm)  
 - [DLRM: An advanced, open source deep learning recommendation model](https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/)  
