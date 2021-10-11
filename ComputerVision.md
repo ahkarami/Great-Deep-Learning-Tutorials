@@ -215,6 +215,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 
 ## Pose Estimation:
 - [Pose Animator](https://github.com/yemount/pose-animator/)  
+- [RepNet: Weakly Supervised 3D Human Pose Estimation](https://github.com/bastianwandt/RepNet)  
 
 
 ## Object Tracking:
