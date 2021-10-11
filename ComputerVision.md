@@ -61,6 +61,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 ## Transformers in Computer Vision:
 - [Vision Transformers Tutorial](https://blog.paperspace.com/vision-transformers/) [**Great**]   
 - [Vision Transformer](https://github.com/google-research/vision_transformer)  
+- [Vision Transformer - Pytorch](https://github.com/lucidrains/vit-pytorch) [**Great**]   
 
 ## Detection & Segmentation:
 ## Object Detection:
