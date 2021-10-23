@@ -177,6 +177,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [NGT - Tutorial](https://github.com/yahoojapan/NGT/wiki)  
 - [NGT - Python](https://github.com/yahoojapan/NGT/blob/master/python/README.md)  
 - [Visual Search with MXNet Gluon and HNSW](https://github.com/ThomasDelteil/VisualSearch_MXNet)  
+- [Annoy: Approximate Nearest Neighbors in C++/Python](https://github.com/spotify/annoy) [**Great**]     
 
 ## Video Understanding: 
 - [Holistic Video Understanding Challenge](https://holistic-video-understanding.github.io/workshops/iccv2019.html)  
