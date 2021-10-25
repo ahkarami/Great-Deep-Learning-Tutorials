@@ -85,6 +85,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Lime Tutorial: Building Trust in Machine Learning Models (using LIME in Python)](https://www.analyticsvidhya.com/blog/2017/06/building-trust-in-machine-learning-models/)  
 - [Missing Values: End-to-End Introduction to Handling Missing Values](https://www.analyticsvidhya.com/blog/2021/10/end-to-end-introduction-to-handling-missing-values/)    
 
+### Working with Tabular Data:
+- [Yandex RTDL Library](https://github.com/yandex-research/rtdl)   
+
 ## Deep Learning Recommendation Model:
 - [Deep Learning Recommendation Model for Personalization and Recommendation Systems - DLRM](https://github.com/facebookresearch/dlrm)  
 - [DLRM: An advanced, open source deep learning recommendation model](https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/)  
