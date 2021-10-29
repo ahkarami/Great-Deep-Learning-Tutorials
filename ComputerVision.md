@@ -85,6 +85,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Signfeld - Synthetic traffic sign detection](https://github.com/moabitcoin/signfeld)  
 - [Swin-Transformer](https://github.com/microsoft/Swin-Transformer)  
 - [DETR - DEtection TRansformer](https://github.com/facebookresearch/detr) [_Great_]  
+- [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)   
 - [Yolo-v5 vs EfficientDet](https://blog.roboflow.com/yolov5-is-here/)  
 
 ### Augmentation for Object Detection & Instance Segmentation:
