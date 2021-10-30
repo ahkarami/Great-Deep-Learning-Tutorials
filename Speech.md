@@ -34,6 +34,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Mozilla - TTS](https://github.com/mozilla/TTS)  
 
 ## Automatic Speech Recognition (ASR) & Speech to Text (STT):
+- [OpenSpeech](https://github.com/openspeech-team/openspeech) [Great]   
 - [wav2letter++](https://github.com/facebookresearch/wav2letter)  
 - [End-to-End ASR - PyTorch](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch)  
 - [NeuralSP](https://github.com/hirofumi0810/neural_sp)  
