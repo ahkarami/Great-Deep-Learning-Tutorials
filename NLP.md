@@ -23,6 +23,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Deep learning for natural language processing and information retrieval at the University of Waterloo](https://github.com/castorini)  
 - [Natural Language Processing With spaCy in Python](https://realpython.com/natural-language-processing-spacy-python/)  [_Great_]  
 
+## General Persian based libraries:
+- [Parsivar: library for Persian text preprocessing](https://github.com/ICTRC/Parsivar)   
+
 ## Text Representation:
 - [Beyond Word Embeddings Part 1](https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f)  
 - [Beyond Word Embeddings Part 2](https://towardsdatascience.com/beyond-word-embeddings-part-2-word-vectors-nlp-modeling-from-bow-to-bert-4ebd4711d0ec)  
