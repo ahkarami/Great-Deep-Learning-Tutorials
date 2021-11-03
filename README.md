@@ -59,6 +59,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Cracking the Data Science Interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview)  
 - [Data Engineer Interview Questions Python](https://realpython.com/data-engineer-interview-questions-python/)  
 - [pycaret: An open-source, low-code machine learning library in Python](https://github.com/pycaret/pycaret) [Good]  
+- [AutoXGB: XGBoost + Optuna](https://github.com/abhishekkrthakur/autoxgb) [Good]    
 - [khanacademy statistics course](https://www.khanacademy.org/math/ap-statistics) [_Good_]  
 - [NumPy Exercises](https://www.w3resource.com/python-exercises/numpy/index.php)  [_Good_]
 
