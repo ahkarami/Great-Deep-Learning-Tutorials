@@ -44,6 +44,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Hugging Face - wav2vec2](https://huggingface.co/transformers/model_doc/wav2vec2.html)  
 - [PyTorch Wav2Vec](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec/unsupervised)   
 - [Self-training and pre-training, understanding the wav2vec series](https://maelfabien.github.io/machinelearning/wav2vec/#)   
+- [Conformer](https://github.com/sooftware/conformer)  
   
 ## Source Separation:
 - [Deezer source separation library](https://github.com/deezer/spleeter) [Great]   
