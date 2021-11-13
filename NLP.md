@@ -25,6 +25,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 
 ## General Persian based libraries:
 - [Parsivar: library for Persian text preprocessing](https://github.com/ICTRC/Parsivar)   
+- [Hazm](https://github.com/sobhe/hazm)  
 
 ## Text Representation:
 - [Beyond Word Embeddings Part 1](https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f)  
