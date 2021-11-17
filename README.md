@@ -72,6 +72,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [An Awesome Tutorial to Learn Outlier Detection in Python using PyOD Library](https://www.analyticsvidhya.com/blog/2019/02/outlier-detection-python-pyod/)  
 - [PyOD: Python Outlier Detection](https://github.com/yzhao062/pyod) [**Great**]  
 - [PyNomaly](https://github.com/vc1492a/PyNomaly)  
+- [DeepLog: Anomaly detection and diagnosis from system logs through deep learning](https://github.com/Thijsvanede/DeepLog)   
 
 ### Click-Through Rate (CTR) Prediction:
 - [DeepCTR](https://github.com/shenweichen/DeepCTR)   
