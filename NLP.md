@@ -27,6 +27,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Parsivar: library for Persian text preprocessing](https://github.com/ICTRC/Parsivar)   
 - [Hazm](https://github.com/sobhe/hazm)  
 - [persianNLP](https://github.com/persiannlp)  
+- [ParsiNLU: Comprehensive suit of high-level NLP tasks for Persian language](https://github.com/persiannlp/parsinlu)   
 - [FarsTail: A Persian Natural Language Inference Dataset](https://github.com/dml-qom/FarsTail)  
 
 ## Text Representation:
