@@ -49,6 +49,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Conformer](https://github.com/sooftware/conformer)  
 - [BigSSL: Large-Scale Semi-Supervised Learning for Automatic Speech Recognition](https://arxiv.org/pdf/2109.13226.pdf)  
   
+## G2P (Grapheme2Phoneme):
+- [English Grapheme To Phoneme (G2P) Conversion](https://github.com/Kyubyong/g2p)   
+
 ## Source Separation:
 - [Deezer source separation library](https://github.com/deezer/spleeter) [Great]   
 
