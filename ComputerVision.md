@@ -167,6 +167,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Annotation-Efficient Learning](https://annotation-efficient-learning.github.io/) [_Good Few-Shot Learning Tutorial_]  
 - [Awesome Papers - Few shot](https://github.com/Duan-JM/awesome-papers-fewshot)  
 - [Few-Shot-Learning](https://github.com/daooshee/Few-Shot-Learning)  
+- [OpenMMLab FewShot Learning](https://github.com/open-mmlab/mmfewshot) [Great]     
 
 ## Learning to Hash & General Hashing (+ Fast Searching Methods):
 - [Finding similar images using Deep learning and Locality Sensitive Hashing](https://towardsdatascience.com/finding-similar-images-using-deep-learning-and-locality-sensitive-hashing-9528afee02f5) [_Very Good_]  
