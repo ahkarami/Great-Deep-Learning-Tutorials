@@ -53,6 +53,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [English Grapheme To Phoneme (G2P) Conversion](https://github.com/Kyubyong/g2p)   
 - [Phonemizer: Simple text to phones converter for multiple languages](https://github.com/bootphon/phonemizer)   
 - [PersianG2P](https://github.com/PasaOpasen/PersianG2P)  
+- [Persian_G2P - link2](https://github.com/AzamRabiee/Persian_G2P)   
 
 ## Source Separation:
 - [Deezer source separation library](https://github.com/deezer/spleeter) [Great]   
