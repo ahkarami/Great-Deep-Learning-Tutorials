@@ -47,6 +47,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [PyTorch Wav2Vec](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec/unsupervised)   
 - [Self-training and pre-training, understanding the wav2vec series](https://maelfabien.github.io/machinelearning/wav2vec/#)   
 - [Conformer](https://github.com/sooftware/conformer)  
+- [fairseq](https://github.com/pytorch/fairseq)   
 - [BigSSL: Large-Scale Semi-Supervised Learning for Automatic Speech Recognition](https://arxiv.org/pdf/2109.13226.pdf)  
   
 ## G2P (Grapheme2Phoneme):
