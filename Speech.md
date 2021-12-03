@@ -53,6 +53,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 ## G2P (Grapheme2Phoneme):
 - [English Grapheme To Phoneme (G2P) Conversion](https://github.com/Kyubyong/g2p)   
 - [Phonemizer: Simple text to phones converter for multiple languages](https://github.com/bootphon/phonemizer)   
+- [Epitran: tool for transcribing orthographic text as IPA](https://github.com/dmort27/epitran)   
 - [PersianG2P](https://github.com/PasaOpasen/PersianG2P)  
 - [Persian_G2P - link2](https://github.com/AzamRabiee/Persian_G2P)   
 
