@@ -76,6 +76,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [A Survey of Long-Term Context in Transformers](https://www.pragmatic.ml/a-survey-of-methods-for-incorporating-long-term-context/) [_Great_]  
 - [The Transformer Family](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)  
 - [The Transformer Isn’t As Hard To Understand As You Might Think](https://towardsdatascience.com/knocking-on-transformers-door-attention-mechanism-explained-intuitively-df5d4fcecdf8)  
+- [Review of Compact Transformer Architectures](https://medium.com/@jfd2139/review-of-compact-transformer-architectures-c477b797e2d5) [**Great**]   
 - [REFORMER: The Efficient Transformer](https://arxiv.org/pdf/2001.04451.pdf)  
 - [GPT-3: Language Models are Few-Shot Learners](https://github.com/openai/gpt-3)  
 - [GPT-3 Sandbox](https://github.com/shreyashankar/gpt3-sandbox)  
