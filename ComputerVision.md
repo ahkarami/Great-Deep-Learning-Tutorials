@@ -65,6 +65,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Vision Transformer - Pytorch](https://github.com/lucidrains/vit-pytorch) [**Great**]   
 - [PyTorch External Attention](https://github.com/xmu-xiaoma666/External-Attention-pytorch) [**Great**]   
 - [MobileViT in PyTorch](https://github.com/chinhsuanwu/mobilevit-pytorch)    
+- [Transformers: from NLP to CV](https://github.com/IbrahimSobh/Transformers) [**Very Great & Excellent**]   
 
 ## Detection & Segmentation:
 ## Object Detection:
