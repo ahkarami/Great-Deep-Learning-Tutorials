@@ -48,6 +48,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Self-training and pre-training, understanding the wav2vec series](https://maelfabien.github.io/machinelearning/wav2vec/#)   
 - [Conformer](https://github.com/sooftware/conformer)  
 - [fairseq](https://github.com/pytorch/fairseq)   
+- [TensorFlowASR](https://github.com/TensorSpeech/TensorFlowASR) [Good]    
 - [BigSSL: Large-Scale Semi-Supervised Learning for Automatic Speech Recognition](https://arxiv.org/pdf/2109.13226.pdf)  
   
 ## G2P (Grapheme2Phoneme):
