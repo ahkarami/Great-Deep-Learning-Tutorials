@@ -23,6 +23,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Interactive Tools for ML, DL and Math](https://github.com/Machine-Learning-Tokyo/Interactive_Tools#embedding-projector)  [_Interesting_]  
 - [Visualizing Neural Networks with the Grand Tour](https://distill.pub/2020/grand-tour/) [_Interesting_]    
 - [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)  
+- [Concept: Concept Modeling on Images](https://github.com/MaartenGr/Concept)  
 
 ### GradCAM:
 - [GradCAM Main Paper](https://arxiv.org/abs/1610.02391)  
