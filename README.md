@@ -165,6 +165,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [PyTorch memory leak with dynamic size tensor input](https://github.com/pytorch/pytorch/issues/29893)   
 - [Karpathy: A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)  
 
+### PyTorch running & training on TPU (colab):
+- [PyTorch XLA](https://github.com/pytorch/xla)   
+
 ## Conferences News:
 - [Latest Computer Vision Trends from CVPR 2019](https://towardsdatascience.com/latest-computer-vision-trends-from-cvpr-2019-c07806dd570b)  
 - [Interesting 2019 CVPR papers](https://medium.com/@mattmiesnieks/interesting-2019-cvpr-papers-865e303db5ca)  
