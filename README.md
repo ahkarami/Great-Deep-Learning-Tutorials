@@ -167,6 +167,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ### PyTorch running & training on TPU (colab):
 - [PyTorch XLA](https://github.com/pytorch/xla)   
+- [PyTorch XLA Colab](https://github.com/pytorch/xla/tree/master/contrib/colab)  
 
 ## Conferences News:
 - [Latest Computer Vision Trends from CVPR 2019](https://towardsdatascience.com/latest-computer-vision-trends-from-cvpr-2019-c07806dd570b)  
