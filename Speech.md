@@ -70,3 +70,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 
 ## Annotation Tools:
 - [audino: open source audio annotation tool](https://github.com/midas-research/audino)   
+
+## Some ASR Datasets:
+- [Peoples Speech](https://mlcommons.org/en/peoples-speech/)  
+- [Multilingual Spoken Words](https://mlcommons.org/en/multilingual-spoken-words/)  
+  
