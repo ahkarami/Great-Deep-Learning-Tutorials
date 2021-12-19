@@ -51,7 +51,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [fairseq](https://github.com/pytorch/fairseq)   
 - [TensorFlowASR](https://github.com/TensorSpeech/TensorFlowASR) [Good]    
 - [BigSSL: Large-Scale Semi-Supervised Learning for Automatic Speech Recognition](https://arxiv.org/pdf/2109.13226.pdf)  
-  
+
+### Persian ASR Repos:
+- [wav2vec2-fa](https://github.com/Hamtech-ai/wav2vec2-fa)  
+
 ## G2P (Grapheme2Phoneme):
 - [English Grapheme To Phoneme (G2P) Conversion](https://github.com/Kyubyong/g2p)   
 - [Phonemizer: Simple text to phones converter for multiple languages](https://github.com/bootphon/phonemizer)   
