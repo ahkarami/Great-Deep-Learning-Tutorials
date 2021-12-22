@@ -54,6 +54,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 
 ### Persian ASR Repos:
 - [wav2vec2-fa](https://github.com/Hamtech-ai/wav2vec2-fa)  
+- [Shenasa-ai Speech2Text](https://github.com/shenasa-ai/speech2text)  
 
 ## G2P (Grapheme2Phoneme):
 - [English Grapheme To Phoneme (G2P) Conversion](https://github.com/Kyubyong/g2p)   
