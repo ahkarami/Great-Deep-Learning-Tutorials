@@ -165,6 +165,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [PyTorch memory leak with dynamic size tensor input](https://github.com/pytorch/pytorch/issues/29893)   
 - [Karpathy: A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)  
 
+### Training Optimizer:
+- [What is gradient accumulation in deep learning](https://towardsdatascience.com/what-is-gradient-accumulation-in-deep-learning-ec034122cfa)  
+
 ### PyTorch running & training on TPU (colab):
 - [PyTorch XLA](https://github.com/pytorch/xla)   
 - [PyTorch XLA Colab](https://github.com/pytorch/xla/tree/master/contrib/colab)  
