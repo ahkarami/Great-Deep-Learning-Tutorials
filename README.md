@@ -74,6 +74,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [PyNomaly](https://github.com/vc1492a/PyNomaly)  
 - [DeepLog: Anomaly detection and diagnosis from system logs through deep learning](https://github.com/Thijsvanede/DeepLog)   
 
+### Bayesian Neural Networks (BNNs) & Bayesian Recommendar System:  
+- [TyXe: Pyro-based BNNs for Pytorch users](https://github.com/TyXe-BDL/TyXe)   
+
 ### Click-Through Rate (CTR) Prediction:
 - [DeepCTR](https://github.com/shenweichen/DeepCTR)   
 
