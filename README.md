@@ -76,6 +76,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ### Bayesian Neural Networks (BNNs) & Bayesian Recommendar System:  
 - [TyXe: Pyro-based BNNs for Pytorch users](https://github.com/TyXe-BDL/TyXe)   
+- [Bayesian Personalized Ranking](https://github.com/shah314/BPR)   
 
 ### Click-Through Rate (CTR) Prediction:
 - [DeepCTR](https://github.com/shenweichen/DeepCTR)   
