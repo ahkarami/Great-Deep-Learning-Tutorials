@@ -162,6 +162,11 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Transformer-OCR](https://github.com/fengxinjie/Transformer-OCR)  
 - [Microsoft TrOCR](https://github.com/microsoft/unilm/tree/master/trocr)  
 
+### Persian OCR:  
+- [Persian Dataset](https://github.com/persiandataset)  
+- [Arshasb: Persian OCR dataset](https://github.com/persiandataset/Arshasb)   
+- [Above Data Set (complete set)](https://drive.google.com/file/d/1Ahw_y-ugnu6FFz_SRBm2VUxnaqmXfsvp)  
+
 ## Few-Shot Learning:
 - [Advances in few-shot learning](https://towardsdatascience.com/advances-in-few-shot-learning-a-guided-tour-36bc10a68b77)  
 - [Advances in few-shot learning: reproducing results in PyTorch](https://towardsdatascience.com/advances-in-few-shot-learning-reproducing-results-in-pytorch-aba70dee541d)  
