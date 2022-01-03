@@ -57,6 +57,11 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [wav2vec2-fa](https://github.com/Hamtech-ai/wav2vec2-fa)  
 - [Shenasa-ai Speech2Text](https://github.com/shenasa-ai/speech2text)  
 
+## Speech Translation:
+- [Facebook XLS-R-2B-22-16 Demo](https://huggingface.co/spaces/facebook/XLS-R-2B-22-16)  
+- [Facebook wav2vec2-xls-r-2b-22-to-16](https://huggingface.co/facebook/wav2vec2-xls-r-2b-22-to-16)  
+- [Facebook XLS-R-2B-22-16 app code](https://huggingface.co/spaces/facebook/XLS-R-2B-22-16/blob/main/app.py)  
+
 ## G2P (Grapheme2Phoneme):
 - [English Grapheme To Phoneme (G2P) Conversion](https://github.com/Kyubyong/g2p)   
 - [Phonemizer: Simple text to phones converter for multiple languages](https://github.com/bootphon/phonemizer)   
