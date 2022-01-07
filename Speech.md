@@ -35,6 +35,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [FastSpeech - TTS - version2](https://github.com/ming024/FastSpeech2)  
 - [Mozilla - TTS](https://github.com/mozilla/TTS)  
 - [YourTTS: Zero-Shot Multi-Speaker TTS](https://github.com/edresson/yourtts)  
+- [YourTTS: Zero-Shot Multi-Speaker Text Synthesis and Voice Conversion](https://coqui.ai/blog/tts/yourtts-zero-shot-text-synthesis-low-resource-languages/)  
 
 ## Automatic Speech Recognition (ASR) & Speech to Text (STT):
 - [OpenSpeech](https://github.com/openspeech-team/openspeech) [Great]   
