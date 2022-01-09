@@ -195,6 +195,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Holistic Video Understanding Challenge](https://holistic-video-understanding.github.io/workshops/iccv2019.html)  
 - [Holistic Video Understanding Dataset](https://github.com/holistic-video-understanding/Mini-HVU)  
 - [Holistic Large Scale Video Understanding - Tutorial](https://towardsdatascience.com/holistic-large-scale-video-understanding-c423701b777a)  
+- [Deep Learning on Video - Part1](https://towardsdatascience.com/deep-learning-on-video-part-one-the-early-days-8a3632ed47d4)   
 - [VMZ: Model Zoo for Video Modeling](https://github.com/facebookresearch/VMZ)  
 - [The 3rd YouTube-8M Video Understanding Challenge - 1st Place Solution](https://www.kaggle.com/c/youtube8m-2019/discussion/112869#latest-668179?utm_medium=email&utm_source=intercom&utm_campaign=competition-recaps-yt-2019)  
 - [torchvideo](https://torchvideo.readthedocs.io/en/latest/#)  
