@@ -23,6 +23,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Deep learning for natural language processing and information retrieval at the University of Waterloo](https://github.com/castorini)  
 - [Natural Language Processing With spaCy in Python](https://realpython.com/natural-language-processing-spacy-python/)  [_Great_]  
 - [NLP Papers](https://github.com/AliAkbarBadri/nlp-papers)   
+- [A Great NLP Course](https://lena-voita.github.io/nlp_course.html)  
 
 ## General Persian based libraries:
 - [Parsivar: library for Persian text preprocessing](https://github.com/ICTRC/Parsivar)   
@@ -132,6 +133,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [IBM deep learning language model](https://github.com/IBM/deep-learning-language-model)  
 - [BERT language model](https://devopedia.org/bert-language-model)  
 - [Facebook AI: GSLM](https://www.marktechpost.com/2021/09/09/facebook-ai-introduces-gslm-generative-spoken-language-model-a-textless-nlp-model-that-breaks-free-completely-of-the-dependence-on-text-for-training/)   
+- [Language Modeling Great Tutorial](https://lena-voita.github.io/nlp_course/language_modeling.html)   
 
 ## Text & Document Classification:
 - [hedwig - PyTorch deep learning models for document classification](https://github.com/castorini/hedwig)  
