@@ -243,6 +243,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [PyTorch Lightning - Web Page](https://pytorchlightning.ai/)  
 - [Ignite - GitHub](https://github.com/pytorch/ignite) [_Great_]    
 - [Ignite - Web Page](https://pytorch.org/ignite/)  
+- [TorchMetrics](https://torchmetrics.readthedocs.io/en/latest/)  
 
 ## Other:
 - [Clova AI Research - NAVER & LINE](https://github.com/clovaai)  
