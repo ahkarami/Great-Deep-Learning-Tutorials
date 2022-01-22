@@ -50,6 +50,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Self-training and pre-training, understanding the wav2vec series](https://maelfabien.github.io/machinelearning/wav2vec/#)   
 - [Conformer](https://github.com/sooftware/conformer)  
 - [Keras based Training a CTC-based model for ASR](https://keras.io/examples/audio/ctc_asr/)   
+- [Coqui-ai STT](https://github.com/coqui-ai/STT)  
 - [fairseq](https://github.com/pytorch/fairseq)   
 - [TensorFlowASR](https://github.com/TensorSpeech/TensorFlowASR) [Good]    
 - [BigSSL: Large-Scale Semi-Supervised Learning for Automatic Speech Recognition](https://arxiv.org/pdf/2109.13226.pdf)  
