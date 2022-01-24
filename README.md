@@ -245,6 +245,10 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Ignite - Web Page](https://pytorch.org/ignite/)  
 - [TorchMetrics](https://torchmetrics.readthedocs.io/en/latest/)  
 
+## Annotation Tools:  
+- [label-studio](https://github.com/heartexlabs/label-studio)   
+- [label-studio with RTL Support (for Persian)](https://github.com/mmaghajani/label-studio)   
+
 ## Other:
 - [Clova AI Research - NAVER & LINE](https://github.com/clovaai)  
 - [Exploring Weight Agnostic Neural Networks](https://ai.googleblog.com/2019/08/exploring-weight-agnostic-neural.html)  
