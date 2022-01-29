@@ -56,8 +56,6 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Benchmarking Performance and Scaling of Python Clustering Algorithms](https://hdbscan.readthedocs.io/en/latest/performance_and_scalability.html) [_Important_]  
 - [Comparing Python Clustering Algorithms](https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html)  
 - [Modular Active Learning framework](https://github.com/modAL-python/modAL)   
-- [Cracking the Data Science Interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview)  
-- [Data Engineer Interview Questions Python](https://realpython.com/data-engineer-interview-questions-python/)  
 - [pycaret: An open-source, low-code machine learning library in Python](https://github.com/pycaret/pycaret) [Good]  
 - [AutoXGB: XGBoost + Optuna](https://github.com/abhishekkrthakur/autoxgb) [Good]    
 - [shap-hypetune: Hyperparameters Tuning and Features Selection for Gradient Boosting Models](https://github.com/cerlymarco/shap-hypetune)  
@@ -96,6 +94,11 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ### Working with Tabular Data:
 - [Yandex RTDL Library](https://github.com/yandex-research/rtdl)   
+
+### Data Science Interview Notes:
+- [Cracking the Data Science Interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview)  
+- [Data Engineer Interview Questions Python](https://realpython.com/data-engineer-interview-questions-python/)  
+- [Facebook Data Scientist Interview Questions](https://www.glassdoor.com/Interview/Facebook-Data-Scientist-Interview-Questions-EI_IE40772.0,8_KO9,23.htm)   
 
 ## Deep Learning Recommendation Model:
 - [Deep Learning Recommendation Model for Personalization and Recommendation Systems - DLRM](https://github.com/facebookresearch/dlrm)  
