@@ -99,6 +99,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Cracking the Data Science Interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview)  
 - [Data Engineer Interview Questions Python](https://realpython.com/data-engineer-interview-questions-python/)  
 - [Facebook Data Scientist Interview Questions](https://www.glassdoor.com/Interview/Facebook-Data-Scientist-Interview-Questions-EI_IE40772.0,8_KO9,23.htm)   
+- [Interview Guides: Facebook Data Scientist](https://prepfully.com/interview-guides/facebook-data-scientist)   
 
 ## Deep Learning Recommendation Model:
 - [Deep Learning Recommendation Model for Personalization and Recommendation Systems - DLRM](https://github.com/facebookresearch/dlrm)  
