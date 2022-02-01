@@ -83,6 +83,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 ## Audio Segmentation:  
 - [inaSpeechSegmenter](https://github.com/ina-foss/inaSpeechSegmenter)  
 
+## Audio Summarization:  
+- [Audio Summarization API](https://github.com/ifrankandrade/api)  
+
 ## Annotation Tools:
 - [audino: open source audio annotation tool](https://github.com/midas-research/audino)   
 
