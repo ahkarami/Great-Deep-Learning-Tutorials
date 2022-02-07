@@ -66,6 +66,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ### The best exploratory data analysis (EDA) Tools:
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)  
 - [sweetviz](https://github.com/fbdesignpro/sweetviz)  
+- [DataPrep: The easiest way to prepare data in Python](https://dataprep.ai/)   
 
 ### Scikit-learn Algorithms on GPU & for Large-Scale Data Sets:
 - [skorch - scikit-learn compatible neural network library that wraps PyTorch](https://github.com/skorch-dev/skorch)  
