@@ -87,6 +87,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 ## Audio Summarization:  
 - [Audio Summarization API](https://github.com/ifrankandrade/api)  
 
+## Active Learning in ASR:
+- [Active learning in speech recognition](https://alphacephei.com/nsh/2021/07/13/active-learning.html)   
+
 ## Annotation Tools:
 - [audino: open source audio annotation tool](https://github.com/midas-research/audino)   
 
