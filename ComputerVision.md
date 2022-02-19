@@ -91,6 +91,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [DETR - DEtection TRansformer](https://github.com/facebookresearch/detr) [_Great_]  
 - [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)   
 - [Yolo-v5 vs EfficientDet](https://blog.roboflow.com/yolov5-is-here/)  
+- [MMRotate: OpenMMLab Rotated Object Detection](https://github.com/open-mmlab/mmrotate) [**Great**]  
 
 ### Augmentation for Object Detection & Instance Segmentation:
 - [Albumentations - Great Library for image augmentation and transformations](https://github.com/albumentations-team/albumentations)    
