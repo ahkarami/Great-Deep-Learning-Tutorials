@@ -44,7 +44,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Speeding up Deep Learning with Quantization](https://towardsdatascience.com/speeding-up-deep-learning-with-quantization-3fe3538cbb9) [_Tutorial_]  
 - [Knowledge Distillation in Deep Learning](https://medium.com/analytics-vidhya/knowledge-distillation-dark-knowledge-of-neural-network-9c1dfb418e6a)  
 - [Model Distillation Techniques for Deep Learning](https://heartbeat.fritz.ai/research-guide-model-distillation-techniques-for-deep-learning-4a100801c0eb)  
-
+- [MMRazor: model compression toolkit](https://github.com/open-mmlab/mmrazor) [Great]  
 
 ## Deep Learning for Data Science:
 - [Python Data Science Tutorials](https://realpython.com/tutorials/data-science/)  
