@@ -151,7 +151,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Deep Graph Library - DGL](https://www.dgl.ai/)  
 - [PyTorch Geometric - PyG](https://github.com/rusty1s/pytorch_geometric)  
 - [ptgnn: A PyTorch GNN Library](https://github.com/microsoft/ptgnn)  
-
+- [Graph Data Augmentation Papers](https://github.com/zhao-tong/graph-data-augmentation-papers)  
 
 ## Best Practices for Training Deep Models:
 
