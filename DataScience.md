@@ -21,3 +21,5 @@ A Great Collection of Deep Learning Tutorials and Repositories for Data Science
 - [khanacademy statistics course](https://www.khanacademy.org/math/ap-statistics) [_Good_]   
 - [NumPy Exercises](https://www.w3resource.com/python-exercises/numpy/index.php)  [_Good_]  
 
+## Data Science Courses:
+- [Data Science Course](https://github.com/briandalessandro/DataScienceCourse)  
