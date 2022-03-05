@@ -21,5 +21,11 @@ A Great Collection of Deep Learning Tutorials and Repositories for Data Science
 - [khanacademy statistics course](https://www.khanacademy.org/math/ap-statistics) [_Good_]   
 - [NumPy Exercises](https://www.w3resource.com/python-exercises/numpy/index.php)  [_Good_]  
 
+## The best exploratory data analysis (EDA) Tools:
+- [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)  
+- [sweetviz](https://github.com/fbdesignpro/sweetviz)  
+- [DataPrep: The easiest way to prepare data in Python](https://dataprep.ai/)   
+- [Speeding Up Exploratory Data Analysis with Python](https://towardsdatascience.com/speeding-up-exploratory-data-analysis-with-python-838fe5e25b43)   
+
 ## Data Science Courses:
 - [Data Science Course](https://github.com/briandalessandro/DataScienceCourse)  
