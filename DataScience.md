@@ -27,5 +27,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Data Science
 - [DataPrep: The easiest way to prepare data in Python](https://dataprep.ai/)   
 - [Speeding Up Exploratory Data Analysis with Python](https://towardsdatascience.com/speeding-up-exploratory-data-analysis-with-python-838fe5e25b43)   
 
+## Scikit-learn Algorithms on GPU & for Large-Scale Data Sets:
+- [skorch - scikit-learn compatible neural network library that wraps PyTorch](https://github.com/skorch-dev/skorch)  
+- [scikit-cuda](https://github.com/lebedov/scikit-cuda)  
+- [Hummingbird - trained traditional ML models into tensor computations](https://github.com/microsoft/hummingbird)  
+
 ## Data Science Courses:
 - [Data Science Course](https://github.com/briandalessandro/DataScienceCourse)  
