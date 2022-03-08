@@ -48,11 +48,6 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## Deep Learning for Data Science:
 
-### Scikit-learn Algorithms on GPU & for Large-Scale Data Sets:
-- [skorch - scikit-learn compatible neural network library that wraps PyTorch](https://github.com/skorch-dev/skorch)  
-- [scikit-cuda](https://github.com/lebedov/scikit-cuda)  
-- [Hummingbird - trained traditional ML models into tensor computations](https://github.com/microsoft/hummingbird)  
-
 ### Anomaly Detection:
 - [An Awesome Tutorial to Learn Outlier Detection in Python using PyOD Library](https://www.analyticsvidhya.com/blog/2019/02/outlier-detection-python-pyod/)  
 - [PyOD: Python Outlier Detection](https://github.com/yzhao062/pyod) [**Great**]  
