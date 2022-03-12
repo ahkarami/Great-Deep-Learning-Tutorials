@@ -281,6 +281,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [icrawler - mini image framework of web crawlers](https://github.com/hellock/icrawler) [_Great_]   
 - [Unity Computer Vision](https://github.com/Unity-Technologies/com.unity.perception)  
 - [pytube - downloading YouTube Videos](https://github.com/pytube/pytube)  
+- [Subreddit Media Downloader](https://github.com/Psycoguana/SubredditMediaDownloader)  
 - [pigeon: Quickly annotate data on Jupyter](https://github.com/agermanidis/pigeon)  
 
 ## Other:
