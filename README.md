@@ -48,12 +48,6 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## Deep Learning for Data Science:
 
-### Bayesian Neural Networks (BNNs) & Bayesian Recommendar System:  
-- [TyXe: Pyro-based BNNs for Pytorch users](https://github.com/TyXe-BDL/TyXe)   
-- [Bayesian Personalized Ranking](https://github.com/shah314/BPR)   
-- [PYROS: PYthon RecOmmender Systems library](https://github.com/makgyver/pyros)   
-- [One-class Bayesian Personalized Ranking](https://github.com/YifanZhou95/Bayesian-Personalized-Ranking)   
-
 ### Click-Through Rate (CTR) Prediction:
 - [DeepCTR](https://github.com/shenweichen/DeepCTR)   
 
