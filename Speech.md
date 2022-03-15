@@ -53,6 +53,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Keras based Training a CTC-based model for ASR](https://keras.io/examples/audio/ctc_asr/)   
 - [alphacephei: citrinet](https://alphacephei.com/nsh/2021/04/23/citrinet.html)  
 - [Coqui-ai STT](https://github.com/coqui-ai/STT)  
+- [vosk Framework](https://alphacephei.com/vosk/)  
 - [fairseq](https://github.com/pytorch/fairseq)   
 - [TensorFlowASR](https://github.com/TensorSpeech/TensorFlowASR) [Good]    
 - [BigSSL: Large-Scale Semi-Supervised Learning for Automatic Speech Recognition](https://arxiv.org/pdf/2109.13226.pdf)  
