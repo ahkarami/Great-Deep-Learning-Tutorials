@@ -44,5 +44,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Data Science
 - [PYROS: PYthon RecOmmender Systems library](https://github.com/makgyver/pyros)   
 - [One-class Bayesian Personalized Ranking](https://github.com/YifanZhou95/Bayesian-Personalized-Ranking)   
 
+## Click-Through Rate (CTR) Prediction:
+- [DeepCTR](https://github.com/shenweichen/DeepCTR)   
+
 ## Data Science Courses:
 - [Data Science Course](https://github.com/briandalessandro/DataScienceCourse)  
