@@ -48,9 +48,6 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## Deep Learning for Data Science:
 
-### Click-Through Rate (CTR) Prediction:
-- [DeepCTR](https://github.com/shenweichen/DeepCTR)   
-
 ### Modeling Numerical & Categorical Data in ML:
 - [How to Prepare Categorical Data for Deep Learning in Python](https://machinelearningmastery.com/how-to-prepare-categorical-data-for-deep-learning-in-python/)  
 - [Handling Categorical Data in ML Models](https://www.pluralsight.com/guides/handling-categorical-data-in-machine-learning-models)   
