@@ -47,5 +47,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Data Science
 ## Click-Through Rate (CTR) Prediction:
 - [DeepCTR](https://github.com/shenweichen/DeepCTR)   
 
+## Dynamic Time Warping (Time Series):
+- [Dynamic Time Warping](https://en.wikipedia.org/wiki/Dynamic_time_warping)  
+
 ## Data Science Courses:
 - [Data Science Course](https://github.com/briandalessandro/DataScienceCourse)  
