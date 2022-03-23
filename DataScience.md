@@ -44,6 +44,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Data Science
 - [PYROS: PYthon RecOmmender Systems library](https://github.com/makgyver/pyros)   
 - [One-class Bayesian Personalized Ranking](https://github.com/YifanZhou95/Bayesian-Personalized-Ranking)   
 
+## Modeling Numerical & Categorical Data in ML:
+- [How to Prepare Categorical Data for Deep Learning in Python](https://machinelearningmastery.com/how-to-prepare-categorical-data-for-deep-learning-in-python/)  
+- [Handling Categorical Data in ML Models](https://www.pluralsight.com/guides/handling-categorical-data-in-machine-learning-models)   
+- [Encoding Categorical Data](https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/)  
 ## Click-Through Rate (CTR) Prediction:
 - [DeepCTR](https://github.com/shenweichen/DeepCTR)   
 
