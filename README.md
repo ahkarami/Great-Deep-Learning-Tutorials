@@ -48,11 +48,6 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## Deep Learning for Data Science:
 
-### Modeling Numerical & Categorical Data in ML:
-- [How to Prepare Categorical Data for Deep Learning in Python](https://machinelearningmastery.com/how-to-prepare-categorical-data-for-deep-learning-in-python/)  
-- [Handling Categorical Data in ML Models](https://www.pluralsight.com/guides/handling-categorical-data-in-machine-learning-models)   
-- [Encoding Categorical Data](https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/)   
-
 ### Feature Engineering:
 - [Lime: Explaining the predictions of any machine learning classifier](https://github.com/marcotcr/lime)  
 - [Lime Tutorial: Building Trust in Machine Learning Models (using LIME in Python)](https://www.analyticsvidhya.com/blog/2017/06/building-trust-in-machine-learning-models/)  
@@ -69,6 +64,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Meta (Facebook) Data Science Interview Questions and Solutions](https://www.interviewquery.com/blog-facebook-data-science-interview-questions-and-solutions)   
 
 ## Deep Learning Recommendation Model:
+- [Introducing TorchRec](https://pytorch.org/blog/introducing-torchrec/)  
 - [Deep Learning Recommendation Model for Personalization and Recommendation Systems - DLRM](https://github.com/facebookresearch/dlrm)  
 - [DLRM: An advanced, open source deep learning recommendation model](https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/)  
 - [LightFM](https://github.com/lyst/lightfm)  
