@@ -65,6 +65,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## Deep Learning Recommendation Model:
 - [Introducing TorchRec](https://pytorch.org/blog/introducing-torchrec/)  
+- [TorchRec](https://github.com/pytorch/torchrec)  
 - [Deep Learning Recommendation Model for Personalization and Recommendation Systems - DLRM](https://github.com/facebookresearch/dlrm)  
 - [DLRM: An advanced, open source deep learning recommendation model](https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/)  
 - [LightFM](https://github.com/lyst/lightfm)  
