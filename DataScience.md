@@ -48,6 +48,11 @@ A Great Collection of Deep Learning Tutorials and Repositories for Data Science
 - [How to Prepare Categorical Data for Deep Learning in Python](https://machinelearningmastery.com/how-to-prepare-categorical-data-for-deep-learning-in-python/)  
 - [Handling Categorical Data in ML Models](https://www.pluralsight.com/guides/handling-categorical-data-in-machine-learning-models)   
 - [Encoding Categorical Data](https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/)  
+## Feature Engineering:
+- [Lime: Explaining the predictions of any machine learning classifier](https://github.com/marcotcr/lime)  
+- [Lime Tutorial: Building Trust in Machine Learning Models (using LIME in Python)](https://www.analyticsvidhya.com/blog/2017/06/building-trust-in-machine-learning-models/)  
+- [Missing Values: End-to-End Introduction to Handling Missing Values](https://www.analyticsvidhya.com/blog/2021/10/end-to-end-introduction-to-handling-missing-values/)    
+
 ## Click-Through Rate (CTR) Prediction:
 - [DeepCTR](https://github.com/shenweichen/DeepCTR)   
 
