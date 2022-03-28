@@ -76,6 +76,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [PersianG2P](https://github.com/PasaOpasen/PersianG2P)  
 - [Persian_G2P - link2](https://github.com/AzamRabiee/Persian_G2P)   
 
+## ASR Error Correction:
+- [FastCorrect](https://arxiv.org/pdf/2105.03842.pdf)  
+
 ## Source Separation:
 - [Deezer source separation library](https://github.com/deezer/spleeter) [Great]   
 
