@@ -51,6 +51,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Self-training and pre-training, understanding the wav2vec series](https://maelfabien.github.io/machinelearning/wav2vec/#)   
 - [Conformer](https://github.com/sooftware/conformer)  
 - [Emformer: RNNT Model](https://github.com/pytorch/audio/tree/main/examples/asr/emformer_rnnt)  
+- [Emformer Paper](https://arxiv.org/abs/2010.10759)  
 - [Keras based Training a CTC-based model for ASR](https://keras.io/examples/audio/ctc_asr/)   
 - [alphacephei: citrinet](https://alphacephei.com/nsh/2021/04/23/citrinet.html)  
 - [Coqui-ai STT](https://github.com/coqui-ai/STT)  
