@@ -70,6 +70,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Using Neural Networks for your Recommender System](https://developer.nvidia.com/blog/using-neural-networks-for-your-recommender-system/) [**Great**]     
 - [Neural Collaborative Filtering](https://towardsdatascience.com/neural-collaborative-filtering-96cef1009401)  
 - [AWS Personalized Recommendation Model](https://aws.amazon.com/personalize/)  
+- [Microsoft Recommenders](https://github.com/microsoft/recommenders) [Great]  
 
 ## AutoML:
 - [Auto Gluon AI](https://auto.gluon.ai/stable/index.html#)  
