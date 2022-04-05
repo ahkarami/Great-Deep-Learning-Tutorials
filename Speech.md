@@ -93,6 +93,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 ## Audio Segmentation:  
 - [inaSpeechSegmenter](https://github.com/ina-foss/inaSpeechSegmenter)  
 
+## Extract & Remove Vocals from Song in Audio Files:
+- [Moises: Remove or isolate vocals and instruments in any song](https://moises.ai/)  
+
 ## Audio Summarization:  
 - [Audio Summarization API](https://github.com/ifrankandrade/api)  
 
