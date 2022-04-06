@@ -61,3 +61,27 @@ A Great Collection of Deep Learning Tutorials and Repositories for Data Science
 
 ## Data Science Courses:
 - [Data Science Course](https://github.com/briandalessandro/DataScienceCourse)  
+
+## Working with Tabular Data:
+- [Yandex RTDL Library](https://github.com/yandex-research/rtdl)   
+
+## Data Science Interview Notes:
+- [Cracking the Data Science Interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview)  
+- [Data Engineer Interview Questions Python](https://realpython.com/data-engineer-interview-questions-python/)  
+- [Facebook Data Scientist Interview Questions](https://www.glassdoor.com/Interview/Facebook-Data-Scientist-Interview-Questions-EI_IE40772.0,8_KO9,23.htm)   
+- [Interview Guides: Facebook Data Scientist](https://prepfully.com/interview-guides/facebook-data-scientist)   
+- [Meta (Facebook) Data Science Interview Questions and Solutions](https://www.interviewquery.com/blog-facebook-data-science-interview-questions-and-solutions)   
+
+## Deep Learning Recommendation Model:
+- [Introducing TorchRec](https://pytorch.org/blog/introducing-torchrec/)  
+- [TorchRec](https://github.com/pytorch/torchrec)  
+- [Deep Learning Recommendation Model for Personalization and Recommendation Systems - DLRM](https://github.com/facebookresearch/dlrm)  
+- [DLRM: An advanced, open source deep learning recommendation model](https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/)  
+- [LightFM](https://github.com/lyst/lightfm)  
+- [Neural Recommendation Algorithms](https://towardsdatascience.com/recotour-ii-neural-recommendation-algorithms-49733938d56e)  
+- [Build a Recommendation Engine With Collaborative Filtering](https://realpython.com/build-recommendation-engine-collaborative-filtering/)  [_**Great**_]  
+- [NCF - Neural Collaborative Filtering](https://github.com/NervanaSystems/distiller/tree/master/examples/ncf)  
+- [Using Neural Networks for your Recommender System](https://developer.nvidia.com/blog/using-neural-networks-for-your-recommender-system/) [**Great**]     
+- [Neural Collaborative Filtering](https://towardsdatascience.com/neural-collaborative-filtering-96cef1009401)  
+- [AWS Personalized Recommendation Model](https://aws.amazon.com/personalize/)  
+- [Microsoft Recommenders](https://github.com/microsoft/recommenders) [Great]  
