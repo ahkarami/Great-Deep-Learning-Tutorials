@@ -60,6 +60,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [vosk Framework GitHub](https://github.com/alphacep/vosk-api)  
 - [fairseq](https://github.com/pytorch/fairseq)   
 - [TensorFlowASR](https://github.com/TensorSpeech/TensorFlowASR) [Good]    
+- [Assembly AI ASR api](https://www.assemblyai.com/)  
 - [BigSSL: Large-Scale Semi-Supervised Learning for Automatic Speech Recognition](https://arxiv.org/pdf/2109.13226.pdf)  
 
 ### Persian ASR Repos:
