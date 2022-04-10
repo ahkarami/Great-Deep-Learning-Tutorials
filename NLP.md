@@ -195,6 +195,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [doccano is an open source text annotation tool](https://github.com/doccano/doccano) [**Great**]  
 - [doccano-divar](https://doccano.divar.ir/)  
 
+## NLP Courses:
+- [HuggingFace Course](https://github.com/huggingface/course)  
+
 ## Other NLP Topics:
 - [HybridNLP - Tutorial on Hybrid Techniques for Knowledge-based NLP](https://github.com/hybridnlp/tutorial)  
 
