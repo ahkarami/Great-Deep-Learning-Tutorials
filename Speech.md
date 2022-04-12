@@ -79,6 +79,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Epitran: tool for transcribing orthographic text as IPA](https://github.com/dmort27/epitran)   
 - [PersianG2P](https://github.com/PasaOpasen/PersianG2P)  
 - [Persian_G2P - link2](https://github.com/AzamRabiee/Persian_G2P)   
+- [Persian Attention Based G2P](https://github.com/hajix/G2P#attention-based-grapheme-to-phoneme)  
 
 ## ASR Error Correction:
 - [FastCorrect](https://arxiv.org/pdf/2105.03842.pdf)  
