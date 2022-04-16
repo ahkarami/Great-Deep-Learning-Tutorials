@@ -110,6 +110,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 ## Active Learning in ASR:
 - [Active learning in speech recognition](https://alphacephei.com/nsh/2021/07/13/active-learning.html)   
 
+## Audio Augmentation:
+- [Audiomentations: Audio Data Augmentation](https://github.com/iver56/audiomentations)  
+
 ## Annotation Tools:
 - [audino: open source audio annotation tool](https://github.com/midas-research/audino)   
 
