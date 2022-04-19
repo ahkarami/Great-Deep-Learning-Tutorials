@@ -113,6 +113,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 ## Audio Augmentation:
 - [Audiomentations: Audio Data Augmentation](https://github.com/iver56/audiomentations)  
 
+## Speech Emotion Recognition:
+- [Speech Emotion Recognition via wav2vec2](https://github.com/audeering/w2v2-how-to)  
+
 ## Annotation Tools:
 - [audino: open source audio annotation tool](https://github.com/midas-research/audino)   
 
