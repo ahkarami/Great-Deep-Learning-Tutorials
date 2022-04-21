@@ -159,6 +159,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ## Distance Measures:
 - [Edit Distance](https://www.geeksforgeeks.org/edit-distance-dp-5/)  
 
+## Text-based Emotion Recognition:
+- [XLM-EMO: Multilingual Emotion Prediction in Social Media Text](https://github.com/MilaNLProc/xlm-emo)  
+
 ## Chatbot:
 - [Rasa Chatbot](https://github.com/RasaHQ/rasa) [**Great**]      
 - [Learn how to Build and Deploy a Chatbot in Minutes using Rasa](https://www.analyticsvidhya.com/blog/2019/04/learn-build-chatbot-rasa-nlp-ipl/)   
