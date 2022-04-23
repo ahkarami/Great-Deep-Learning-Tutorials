@@ -100,6 +100,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Text Classification with BERT Tokenizer](https://stackabuse.com/text-classification-with-bert-tokenizer-and-tf-2-0-in-python/)   
 - [Bert Text Classification](https://github.com/Shivampanwar/Bert-text-classification)  
 - [Persian Semantic Search](https://github.com/m3hrdadfi/semantic-search)  
+- [Toward fine-tuning a state of the art Natural Language Inference (NLI) model for Persian](https://haddadhesam.medium.com/toward-fine-tuning-a-state-of-the-art-natural-language-inference-nli-model-for-persian-4d538ea4525d)  
 
 ### Siamese Netowrks and Dual BERT for Multi Text Classification:  
 - [Siamese and Dual BERT for Multi-text Classification](https://towardsdatascience.com/siamese-and-dual-bert-for-multi-text-classification-c6552d435533)    
