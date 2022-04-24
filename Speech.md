@@ -82,6 +82,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Persian Attention Based G2P](https://github.com/hajix/G2P#attention-based-grapheme-to-phoneme)  
 - [Tihu Dictionary for Persian Language](https://github.com/tihu-nlp/tihudict)  
 
+## Fundamental Notes in Speech Processing:
+- [MFCC Tutorial](http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/)  
+
 ## ASR Error Correction:
 - [FastCorrect](https://arxiv.org/pdf/2105.03842.pdf)  
 
@@ -115,6 +118,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 
 ## Speech Emotion Recognition:
 - [Speech Emotion Recognition via wav2vec2](https://github.com/audeering/w2v2-how-to)  
+- [Speech Emotions Recognition with Convolutional Neural Networks](https://www.analyticsvidhya.com/blog/2021/07/speech-emotions-recognition-with-convolutional-neural-networks/)  
 
 ## Annotation Tools:
 - [audino: open source audio annotation tool](https://github.com/midas-research/audino)   
