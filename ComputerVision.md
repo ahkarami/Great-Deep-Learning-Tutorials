@@ -293,3 +293,4 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Imagenet 1000 class indices to human readable labels](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a)  
 
 - [streamlit Make Images & Faces as Comic one!!](https://share.streamlit.io/nathannguyen-dev/comic_me_v1/main.py)   
+- [How DALL-E 2 could solve major computer vision challenges](https://venturebeat.com/2022/04/16/how-dall-e-2-could-solve-major-computer-vision-challenges/)  
