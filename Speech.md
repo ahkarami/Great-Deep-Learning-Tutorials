@@ -85,6 +85,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 ## Fundamental Notes in Speech Processing:
 - [MFCC Tutorial](http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/)  
 
+## Great Kaldi Tutorials:
+- [Kaldi Install for Dummies](https://www.assemblyai.com/blog/kaldi-install-for-dummies/)  
+
 ## ASR Error Correction:
 - [FastCorrect](https://arxiv.org/pdf/2105.03842.pdf)  
 
