@@ -39,6 +39,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [YourTTS: Zero-Shot Multi-Speaker TTS](https://github.com/edresson/yourtts)  
 - [YourTTS: Zero-Shot Multi-Speaker Text Synthesis and Voice Conversion](https://coqui.ai/blog/tts/yourtts-zero-shot-text-synthesis-low-resource-languages/)  
 - [Nix-TTS](https://github.com/rendchevi/nix-tts)  
+- [TorToiSe](https://github.com/neonbjb/tortoise-tts)  
 
 ## Automatic Speech Recognition (ASR) & Speech to Text (STT):
 - [OpenSpeech](https://github.com/openspeech-team/openspeech) [Great]   
