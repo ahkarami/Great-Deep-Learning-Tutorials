@@ -88,6 +88,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 
 ## Great Kaldi Tutorials:
 - [Kaldi Install for Dummies](https://www.assemblyai.com/blog/kaldi-install-for-dummies/)  
+- [Kaldi Speech Recognition for Beginners a Simple Tutorial](https://www.assemblyai.com/blog/kaldi-speech-recognition-for-beginners-a-simple-tutorial/)  
 
 ## ASR Error Correction:
 - [FastCorrect](https://arxiv.org/pdf/2105.03842.pdf)  
