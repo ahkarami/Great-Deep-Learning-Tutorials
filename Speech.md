@@ -125,6 +125,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 ## Speech Emotion Recognition:
 - [Speech Emotion Recognition via wav2vec2](https://github.com/audeering/w2v2-how-to)  
 - [Speech Emotions Recognition with Convolutional Neural Networks](https://www.analyticsvidhya.com/blog/2021/07/speech-emotions-recognition-with-convolutional-neural-networks/)  
+- [ShEMO Data Set](https://github.com/mansourehk/ShEMO)  
 
 ## Annotation Tools:
 - [audino: open source audio annotation tool](https://github.com/midas-research/audino)   
