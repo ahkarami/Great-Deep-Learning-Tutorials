@@ -79,6 +79,10 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## Best Practices for Training Deep Models:
 
+### PyTorch Lightening Notes & Accumulate Gradients:
+- [PyTorch Lightening: Effective Training Techniques](https://pytorch-lightning.readthedocs.io/en/latest/advanced/training_tricks.html)  
+- [Gradient Accumulation in PyTorch](https://kozodoi.me/python/deep%20learning/pytorch/tutorial/2021/02/19/gradient-accumulation.html)  
+  
 ### Loss Functions:
 - [Loss Functions Explained](https://medium.com/deep-learning-demystified/loss-functions-explained-3098e8ff2b27)  
 
