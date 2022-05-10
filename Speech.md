@@ -65,6 +65,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Assembly AI ASR api](https://www.assemblyai.com/)  
 - [BigSSL: Large-Scale Semi-Supervised Learning for Automatic Speech Recognition](https://arxiv.org/pdf/2109.13226.pdf)  
 - [Tencent AI Lab: 3M-ASR](https://github.com/tencent-ailab/3m-asr)  
+- [wav2seq](https://github.com/asappresearch/wav2seq)  
 
 ### Persian ASR Repos:
 - [wav2vec2-fa](https://github.com/Hamtech-ai/wav2vec2-fa)  
