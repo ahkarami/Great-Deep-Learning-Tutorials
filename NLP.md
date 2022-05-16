@@ -205,4 +205,4 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 
 ## Other NLP Topics:
 - [HybridNLP - Tutorial on Hybrid Techniques for Knowledge-based NLP](https://github.com/hybridnlp/tutorial)  
-
+- [Top 10 GPT-3 Tools Easing Content Creation Work in 2022](https://www.analyticsinsight.net/top-10-gpt-3-tools-easing-content-creation-work-in-2022/) [Interesting]  
