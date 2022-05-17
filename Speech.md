@@ -88,6 +88,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 ## Fundamental Notes in Speech Processing:
 - [MFCC Tutorial](http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/)  
 - [Sequence Modeling With CTC](https://distill.pub/2017/ctc/)  
+- [Explanation of Connectionist Temporal Classification](https://sid2697.github.io/Blog_Sid/algorithm/2019/10/19/CTC-Loss.html)  
 
 ## Great Kaldi Tutorials:
 - [Kaldi Install for Dummies](https://www.assemblyai.com/blog/kaldi-install-for-dummies/)  
