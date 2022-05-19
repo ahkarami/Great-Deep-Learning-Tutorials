@@ -86,6 +86,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Tihu Dictionary for Persian Language](https://github.com/tihu-nlp/tihudict)  
 
 ## Fundamental Notes in Speech Processing:
+- [Deep Learning for Audio (DLA)](https://github.com/markovka17/dla) [**Great Course**]  
 - [MFCC Tutorial](http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/)  
 - [Sequence Modeling With CTC](https://distill.pub/2017/ctc/)  
 - [Explanation of Connectionist Temporal Classification](https://sid2697.github.io/Blog_Sid/algorithm/2019/10/19/CTC-Loss.html)  
