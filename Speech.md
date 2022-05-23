@@ -85,6 +85,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Persian_G2P - link2](https://github.com/AzamRabiee/Persian_G2P)   
 - [Persian Attention Based G2P](https://github.com/hajix/G2P#attention-based-grapheme-to-phoneme)  
 - [Tihu Dictionary for Persian Language](https://github.com/tihu-nlp/tihudict)  
+- [CharsiuG2P: Multilingual G2P in over 100 languages](https://github.com/lingjzhu/CharsiuG2P)  
 
 ## Fundamental Notes in Speech Processing:
 - [Deep Learning for Audio (DLA)](https://github.com/markovka17/dla) [**Great Course**]  
@@ -140,4 +141,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 ## Some ASR Datasets:
 - [Peoples Speech](https://mlcommons.org/en/peoples-speech/)  
 - [Multilingual Spoken Words](https://mlcommons.org/en/multilingual-spoken-words/)  
-  
+
+# Other:
+- [Neural Target Speech Extraction (TSE)](https://butspeechfit.github.io/tse_tutorial/)  
+
