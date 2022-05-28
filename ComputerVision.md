@@ -247,6 +247,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Generate Anime Style Face Using DCGAN and Explore Its Latent Feature Representation](https://towardsdatascience.com/generate-anime-style-face-using-dcgan-and-explore-its-latent-feature-representation-ae0e905f3974)  
 - [StyleGAN2](https://github.com/EvgenyKashin/stylegan2-distillation)  
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab)   
+- [imagen-pytorch: Google's Text-to-Image Neural Network](https://github.com/lucidrains/imagen-pytorch) [Great]  
 
 ## Image Super-Resolution:
 - [Image Super-Resolution: A Comprehensive Review](https://blog.paperspace.com/image-super-resolution/)  
