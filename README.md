@@ -187,6 +187,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Ignite - GitHub](https://github.com/pytorch/ignite) [_Great_]    
 - [Ignite - Web Page](https://pytorch.org/ignite/)  
 - [TorchMetrics](https://torchmetrics.readthedocs.io/en/latest/)  
+- [Ludwig AI: Data-centric declarative deep learning framework](https://github.com/ludwig-ai/ludwig) [**Great**]  
 
 ## Annotation Tools:  
 - [label-studio](https://github.com/heartexlabs/label-studio)   
