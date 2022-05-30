@@ -16,6 +16,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [How to decide on learning rate](https://towardsdatascience.com/how-to-decide-on-learning-rate-6b6996510c98)  
 - [Overview of State-of-the-art Machine Learning Algorithms per Discipline per Task](https://towardsdatascience.com/overview-state-of-the-art-machine-learning-algorithms-per-discipline-per-task-c1a16a66b8bb)  
 - [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses)  
+- [UVA Deep Learning II Course](https://uvadl2c.github.io/)  
 - [PyTorch Book](https://github.com/chenyuntc/pytorch-book)  
 
 ## Deep Learning Useful Resources for Computer Vision:  
