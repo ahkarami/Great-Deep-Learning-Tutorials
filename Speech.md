@@ -68,6 +68,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Tencent AI Lab: 3M-ASR](https://github.com/tencent-ailab/3m-asr)  
 - [wav2seq](https://github.com/asappresearch/wav2seq)  
 - [WavPrompt: speech understanding that leveraging the few-shot learning](https://github.com/Hertin/WavPrompt)  
+- [Recent Advances in End-to-End Automatic Speech Recognition](https://www.nowpublishers.com/article/Details/SIP-2021-0050) [Interesting Survey]  
 
 ### Persian ASR Repos:
 - [wav2vec2-fa](https://github.com/Hamtech-ai/wav2vec2-fa)  
