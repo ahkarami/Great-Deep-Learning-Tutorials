@@ -112,6 +112,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Soxan: Wav2Vec2 for speech recognition](https://github.com/m3hrdadfi/soxan)  
 
 ## Voice Activity Detection:
+- [Silero VAD](https://github.com/snakers4/silero-vad)  
 - [Voice Activity Detection: Identifying whether someone is speaking or not](https://maelfabien.github.io/project/Speech_proj/#) [**Great**]    
 - [py-webrtcvad: Python WebRTC Voice Activity Detector (VAD)](https://github.com/wiseman/py-webrtcvad) [also, it seems that it can segment audio files]   
 
