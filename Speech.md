@@ -148,4 +148,5 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 
 # Other:
 - [Neural Target Speech Extraction (TSE)](https://butspeechfit.github.io/tse_tutorial/)  
+- [Audio Self-supervised Learning: A Survey](https://arxiv.org/abs/2203.01205)  
 - [AI Audio Startups](https://github.com/csteinmetz1/ai-audio-startups)  
