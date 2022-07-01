@@ -193,6 +193,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [HarfBuzz - a text shaping library](https://github.com/harfbuzz/harfbuzz) [_Useful_]  
 - [PruneBERT - Hugging Face](https://github.com/huggingface/transformers/tree/master/examples/movement-pruning)  
 - [spacy-streamlit: spaCy building blocks for Streamlit apps](https://github.com/explosion/spacy-streamlit)  
+- [HuggingFace Evaluate Library](https://github.com/huggingface/evaluate)  
 - [NeMo - toolkit for Conversational AI](https://github.com/NVIDIA/NeMo) [_Excellent_]  
 
 ## Data Annotation Tools:
