@@ -41,6 +41,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Nix-TTS](https://github.com/rendchevi/nix-tts)  
 - [TorToiSe](https://github.com/neonbjb/tortoise-tts)  
 - [Amazon TTS Group's Research](https://www.amazon.science/blog/amazon-text-to-speech-groups-research-at-icassp-2022)  
+- [NVIDIA RADTTS](https://github.com/NVIDIA/radtts)  
 
 ## Automatic Speech Recognition (ASR) & Speech to Text (STT):
 - [OpenSpeech](https://github.com/openspeech-team/openspeech) [Great]   
