@@ -203,6 +203,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ## NLP Courses:
 - [HuggingFace Course](https://github.com/huggingface/course)  
 - [NLP Zero to One: Full Course](https://medium.com/nerd-for-tech/nlp-zero-to-one-full-course-4f8e1902c379)  
+- [Stanford CS25: Transformers United](https://web.stanford.edu/class/cs25/)  
 
 ## Other NLP Topics:
 - [HybridNLP - Tutorial on Hybrid Techniques for Knowledge-based NLP](https://github.com/hybridnlp/tutorial)  
