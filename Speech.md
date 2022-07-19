@@ -70,6 +70,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [wav2seq](https://github.com/asappresearch/wav2seq)  
 - [WavPrompt: speech understanding that leveraging the few-shot learning](https://github.com/Hertin/WavPrompt)  
 - [Recent Advances in End-to-End Automatic Speech Recognition](https://www.nowpublishers.com/article/Details/SIP-2021-0050) [Interesting Survey]  
+- [SpeechT5](https://github.com/microsoft/SpeechT5) [Interesting]  
 
 ### Persian ASR Repos:
 - [wav2vec2-fa](https://github.com/Hamtech-ai/wav2vec2-fa)  
@@ -146,9 +147,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 ## Annotation Tools:
 - [audino: open source audio annotation tool](https://github.com/midas-research/audino)   
 
-## Some ASR Datasets:
+## Some ASR & Speech Datasets:
 - [Peoples Speech](https://mlcommons.org/en/peoples-speech/)  
 - [Multilingual Spoken Words](https://mlcommons.org/en/multilingual-spoken-words/)  
+- [PodcastMix: A dataset for separating music and speech in podcasts](https://github.com/MTG/Podcastmix)  
 
 # Other:
 - [Neural Target Speech Extraction (TSE)](https://butspeechfit.github.io/tse_tutorial/)  
