@@ -90,6 +90,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Persian Attention Based G2P](https://github.com/hajix/G2P#attention-based-grapheme-to-phoneme)  
 - [Tihu Dictionary for Persian Language](https://github.com/tihu-nlp/tihudict)  
 - [CharsiuG2P: Multilingual G2P in over 100 languages](https://github.com/lingjzhu/CharsiuG2P)  
+- [Transphone: zero-shot learning based grapheme-to-phoneme model for 8k languages](https://github.com/xinjli/transphone)  
 
 ## Fundamental Notes in Speech Processing:
 - [Deep Learning for Audio (DLA)](https://github.com/markovka17/dla) [**Great Course**]  
