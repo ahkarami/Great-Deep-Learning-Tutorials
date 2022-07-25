@@ -18,6 +18,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses)  
 - [UVA Deep Learning II Course](https://uvadl2c.github.io/)  
 - [PyTorch Book](https://github.com/chenyuntc/pytorch-book)  
+- [Fast.ai Course: Practical Deep Learning for Coders](https://course.fast.ai/Lessons/lesson1.html) [**Great**]  
 - [Neuromatch Deep Learning Course](https://deeplearning.neuromatch.io/tutorials/intro.html) [**Great**]  
 
 ## Deep Learning Useful Resources for Computer Vision:  
