@@ -214,6 +214,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [GStreamer: Multimedia Framework](https://github.com/GStreamer/gstreamer)   
 - [NÜWA: text to video synthesis](https://github.com/lucidrains/nuwa-pytorch)  
 - [Awesome Video Datasets](https://github.com/xiaobai1217/Awesome-Video-Datasets)  
+- [Iranian Movies Kaggle Dataset](https://www.kaggle.com/datasets/arianghasemi/iranian-movies)  
 - [Kinetics 400 Data Set - Download Link via DropBox](https://www.dropbox.com/s/wcs01mlqdgtq4gn/compress.tar.gz?dl=1)  
 
 
