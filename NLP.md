@@ -86,6 +86,11 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [minGPT](https://github.com/karpathy/minGPT)  
 - [MEND: Fast Model Editing at Scale](https://github.com/eric-mitchell/mend) [**Excellent Work**]   
 
+### Excellent & Easy to Learn Resources for Learning Transformers:
+- [e2eml transformers from scratch](https://e2eml.school/transformers.html) [**Excellent**]  
+- [annotated-transformer: Learning transformers from code](http://nlp.seas.harvard.edu/annotated-transformer/#a-first-example)  
+- [Transformers Recipe](https://github.com/dair-ai/Transformers-Recipe)  
+
 ### Persian based Transformer Models:
 - [ALBERT-Persian](https://github.com/m3hrdadfi/albert-persian)  
 - [ALBERT-Persian Demo Page](https://albert-lab.m3hrdadfi.me/)  
