@@ -99,7 +99,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Explanation of Connectionist Temporal Classification](https://sid2697.github.io/Blog_Sid/algorithm/2019/10/19/CTC-Loss.html)  
 - [D2L Beam Search](https://d2l.ai/chapter_recurrent-modern/beam-search.html)  
 - [D2L Attention Mechanisms](https://d2l.ai/chapter_attention-mechanisms/index.html)  
-- [Introduction to Speech Processing](https://wiki.aalto.fi/display/ITSP/Introduction+to+Speech+Processing)  
+- [Introduction to Speech Processing](https://wiki.aalto.fi/display/ITSP/Introduction+to+Speech+Processing) [Good]  
+- [Audio Signal Proessing for Machine Learning](https://github.com/musikalkemist/AudioSignalProcessingForML)  
 
 ## Great Kaldi Tutorials:
 - [Kaldi Install for Dummies](https://www.assemblyai.com/blog/kaldi-install-for-dummies/)  
