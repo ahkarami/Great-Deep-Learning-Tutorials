@@ -101,12 +101,12 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [D2L Attention Mechanisms](https://d2l.ai/chapter_attention-mechanisms/index.html)  
 - [Introduction to Speech Processing](https://wiki.aalto.fi/display/ITSP/Introduction+to+Speech+Processing) [Good]  
 - [Audio Signal Proessing for Machine Learning](https://github.com/musikalkemist/AudioSignalProcessingForML)  
+- [Deep Learning For Audio With Python](https://github.com/musikalkemist/DeepLearningForAudioWithPython)  
 
 ## Great Kaldi Tutorials:
 - [Kaldi Install for Dummies](https://www.assemblyai.com/blog/kaldi-install-for-dummies/)  
 - [Kaldi Speech Recognition for Beginners a Simple Tutorial](https://www.assemblyai.com/blog/kaldi-speech-recognition-for-beginners-a-simple-tutorial/)  
 - [Tutorial on Kaldi for Brandeis ASR course](https://github.com/keighrim/kaldi-yesno-tutorial)  
-- [Deep Learning For Audio With Python](https://github.com/musikalkemist/DeepLearningForAudioWithPython)  
 
 ## ASR Error Correction:
 - [FastCorrect](https://arxiv.org/pdf/2105.03842.pdf)  
