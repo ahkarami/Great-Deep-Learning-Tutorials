@@ -53,6 +53,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [word embeddings with ELMo](https://medium.com/saarthi-ai/elmo-for-contextual-word-embedding-for-text-classification-24c9693b0045)  
 - [Doc2Vec - Gensim](https://radimrehurek.com/gensim/models/doc2vec.html)  
 
+## Self-Supervised Learning in NLP:
+- [https://amitness.com/2020/05/self-supervised-learning-nlp/](https://amitness.com/2020/05/self-supervised-learning-nlp/)  
+
 ## RNN, LSTM, and GRU:
 - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
 - [Illustrated Guide to LSTM’s and GRU’s](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)  
