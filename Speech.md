@@ -141,6 +141,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 ## Active Learning in ASR:
 - [Active learning in speech recognition](https://alphacephei.com/nsh/2021/07/13/active-learning.html)   
 
+## Audio Pretraining, Representation Learning, and Self-Supervised Pretraining:
+- [CLAP: Contrastive Language-Audio Pretraining](https://github.com/LAION-AI/CLAP)  
+
 ## Audio Augmentation:
 - [Audiomentations: Audio Data Augmentation](https://github.com/iver56/audiomentations)  
 
