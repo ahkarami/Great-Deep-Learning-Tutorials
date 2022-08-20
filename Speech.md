@@ -138,6 +138,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 ## Spoken Language Recognition:
 - [Spoken Language Recognition based on Kaldi](https://github.com/igorsitdikov/lid_kaldi)  
 
+## Keyword Spotting & Speech Command Recognition:
+- [PyTorch based toolkit for speech command recognition](https://github.com/idiap/sparch)  
+
 ## Active Learning in ASR:
 - [Active learning in speech recognition](https://alphacephei.com/nsh/2021/07/13/active-learning.html)   
 
