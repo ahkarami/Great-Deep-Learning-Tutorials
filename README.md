@@ -142,6 +142,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [TensorFlow is dead, long live TensorFlow!](https://hackernoon.com/tensorflow-is-dead-long-live-tensorflow-49d3e975cf04)  
 
 ## Great Libraries:
+- [The Unified Machine Learning Framework](https://github.com/unifyai/ivy)  
 - [Skorch - A scikit-learn compatible neural network library that wraps PyTorch](https://github.com/skorch-dev/skorch)  
 - [Hummingbird - traditional ML models into tensor computations via PyTorch](https://github.com/microsoft/hummingbird)  
 - [BoTorch - Bayesian Optimization in PyTorch](https://botorch.org/)  
