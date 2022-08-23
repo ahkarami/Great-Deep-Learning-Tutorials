@@ -79,6 +79,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 
 ### `Adapters` Method instead of fine-tuning for Large-Scale ASR models:
 - [NeMo Adapters Tutorial](https://github.com/NVIDIA/NeMo/blob/main/tutorials/02_NeMo_Adapters.ipynb)  
+- [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)  
 
 ## Speech Translation:
 - [Facebook XLS-R-2B-22-16 Demo](https://huggingface.co/spaces/facebook/XLS-R-2B-22-16)  
