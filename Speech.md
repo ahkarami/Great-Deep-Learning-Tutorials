@@ -76,6 +76,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 ### Persian ASR Repos:
 - [wav2vec2-fa](https://github.com/Hamtech-ai/wav2vec2-fa)  
 - [Shenasa-ai Speech2Text](https://github.com/shenasa-ai/speech2text)  
+- [SOTA Persian ASR on Common Voice](https://paperswithcode.com/sota/speech-recognition-on-common-voice-persian)  
 
 ### `Adapters` Method instead of fine-tuning for Large-Scale ASR models:
 - [NeMo Adapters Tutorial](https://github.com/NVIDIA/NeMo/blob/main/tutorials/02_NeMo_Adapters.ipynb)  
