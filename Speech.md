@@ -78,6 +78,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Shenasa-ai Speech2Text](https://github.com/shenasa-ai/speech2text)  
 - [SOTA Persian ASR on Common Voice](https://paperswithcode.com/sota/speech-recognition-on-common-voice-persian)  
 - [Wav2Vec2 Large-xlsr Persian](https://huggingface.co/m3hrdadfi/wav2vec2-large-xlsr-persian)  
+- [Wav2Vec2 Large-xlsr Persian (v3)](https://huggingface.co/m3hrdadfi/wav2vec2-large-xlsr-persian-v3)  
 
 ### `Adapters` Method instead of fine-tuning for Large-Scale ASR models:
 - [NeMo Adapters Tutorial](https://github.com/NVIDIA/NeMo/blob/main/tutorials/02_NeMo_Adapters.ipynb)  
