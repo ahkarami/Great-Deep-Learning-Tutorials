@@ -124,6 +124,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 
 ## Source Separation:
 - [Deezer source separation library](https://github.com/deezer/spleeter) [Great]   
+- [Music Source Separation Challenge](https://github.com/haoheliu/2021-ISMIR-MSS-Challenge-CWS-PResUNet)  
 
 ## Sound & Audio Classification:
 - [Soxan: Wav2Vec2 for speech recognition](https://github.com/m3hrdadfi/soxan)  
