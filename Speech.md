@@ -150,6 +150,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 
 ## Keyword Spotting & Speech Command Recognition:
 - [PyTorch based toolkit for speech command recognition](https://github.com/idiap/sparch)  
+- [Multilingual Few-Shot Keyword Spotting in PyTorch](https://github.com/alefiury/multilingual_kws_pytorch)  
 
 ## Active Learning in ASR:
 - [Active learning in speech recognition](https://alphacephei.com/nsh/2021/07/13/active-learning.html)   
