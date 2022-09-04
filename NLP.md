@@ -55,6 +55,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 
 ## Self-Supervised Learning in NLP:
 - [https://amitness.com/2020/05/self-supervised-learning-nlp/](https://amitness.com/2020/05/self-supervised-learning-nlp/)  
+- [COSINE: Fine-Tuning Pre-trained Language Model with Weak Supervision](https://github.com/yueyu1030/COSINE)  
 
 ## RNN, LSTM, and GRU:
 - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
