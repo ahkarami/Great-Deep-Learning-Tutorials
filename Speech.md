@@ -80,6 +80,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Wav2Vec2 Large-xlsr Persian](https://huggingface.co/m3hrdadfi/wav2vec2-large-xlsr-persian)  
 - [Wav2Vec2 Large-xlsr Persian (v3)](https://huggingface.co/m3hrdadfi/wav2vec2-large-xlsr-persian-v3)  
 
+### Great Resources for Persian ASR Normalization:
+- [Wav2Vec2 Large XLSR Persian v3](https://huggingface.co/m3hrdadfi/wav2vec2-large-xlsr-persian-v3)  
+
 ### `Adapters` Method instead of fine-tuning for Large-Scale ASR models:
 - [NeMo Adapters Tutorial](https://github.com/NVIDIA/NeMo/blob/main/tutorials/02_NeMo_Adapters.ipynb)  
 - [Paper: Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)  
