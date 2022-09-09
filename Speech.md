@@ -83,6 +83,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 ### Great Resources for Persian ASR Normalization:
 - [Wav2Vec2 Large XLSR Persian v3](https://huggingface.co/m3hrdadfi/wav2vec2-large-xlsr-persian-v3)  
 - [num2fawords: Convert a number into Persian word form](https://github.com/5j9/num2fawords)  
+- [Parsivar: A Language Processing Toolkit for Persian](https://github.com/ICTRC/Parsivar)  
 
 ### `Adapters` Method instead of fine-tuning for Large-Scale ASR models:
 - [NeMo Adapters Tutorial](https://github.com/NVIDIA/NeMo/blob/main/tutorials/02_NeMo_Adapters.ipynb)  
