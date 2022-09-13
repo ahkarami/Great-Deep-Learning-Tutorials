@@ -43,6 +43,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Amazon TTS Group's Research](https://www.amazon.science/blog/amazon-text-to-speech-groups-research-at-icassp-2022)  
 - [NVIDIA RADTTS](https://github.com/NVIDIA/radtts)  
 - [CanTTS: a single-speaker Cantonese speech dataset for TTS](https://github.com/parami-ai/CanTTS)  
+- [Lightning Fast Speech2](https://github.com/MiniXC/LightningFastSpeech2)  
 - [ProDiff: Progressive Fast Diffusion Model For High-Quality TTS](https://github.com/Rongjiehuang/ProDiff)  
 
 ## Automatic Speech Recognition (ASR) & Speech to Text (STT):
