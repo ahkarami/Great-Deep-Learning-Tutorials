@@ -88,6 +88,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Parsivar: A Language Processing Toolkit for Persian](https://github.com/ICTRC/Parsivar)  
 - [num2words](https://github.com/savoirfairelinux/num2words)  
 
+### Persian based Raw Text Data Sets for LM Training:
+- [naab-raw](https://huggingface.co/datasets/SLPL/naab-raw)  
+
 ### `Adapters` Method instead of fine-tuning for Large-Scale ASR models:
 - [NeMo Adapters Tutorial](https://github.com/NVIDIA/NeMo/blob/main/tutorials/02_NeMo_Adapters.ipynb)  
 - [Paper: Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)  
