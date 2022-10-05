@@ -70,6 +70,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [OpenAI CLIP](https://github.com/openai/CLIP)  
 - [Transformers: from NLP to CV](https://github.com/IbrahimSobh/Transformers) [**Very Great & Excellent**]   
 
+### Language-Vision Intelligence:
+- [Salesforce LAVIS: A Library for Language-Vision Intelligence](https://github.com/salesforce/LAVIS)  
+
 ## Detection & Segmentation:
 ## Object Detection:
 - [Object Detection for Dummies Part 1](https://lilianweng.github.io/lil-log/2017/10/29/object-recognition-for-dummies-part-1.html)  
