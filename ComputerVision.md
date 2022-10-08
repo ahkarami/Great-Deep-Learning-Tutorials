@@ -166,6 +166,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [TextFuseNet](https://github.com/ying09/TextFuseNet)  
 - [Transformer-OCR](https://github.com/fengxinjie/Transformer-OCR)  
 - [Microsoft TrOCR](https://github.com/microsoft/unilm/tree/master/trocr)  
+- [vedastr: open source scene text recognition toolbox](https://github.com/Media-Smart/vedastr)  
 
 ### Persian OCR:  
 - [Persian Dataset](https://github.com/persiandataset)  
