@@ -68,6 +68,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [fairseq](https://github.com/pytorch/fairseq)   
 - [TensorFlowASR](https://github.com/TensorSpeech/TensorFlowASR) [Good]    
 - [Assembly AI ASR api](https://www.assemblyai.com/)  
+- [Assembly AI: Building an End-to-End Speech Recognition Model in PyTorch](https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch/) [Great]  
 - [BigSSL: Large-Scale Semi-Supervised Learning for Automatic Speech Recognition](https://arxiv.org/pdf/2109.13226.pdf)  
 - [Tencent AI Lab: 3M-ASR](https://github.com/tencent-ailab/3m-asr)  
 - [wav2seq](https://github.com/asappresearch/wav2seq)  
