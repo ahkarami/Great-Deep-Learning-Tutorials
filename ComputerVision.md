@@ -49,6 +49,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [NFNets - PyTorch](https://github.com/vballoli/nfnets-pytorch)  
 - [EfficientNetV2](https://arxiv.org/pdf/2104.00298.pdf)  
 - [Deit: Data-Efficient architectures and training for Image classification](https://github.com/facebookresearch/deit)  
+- [How to Train State-Of-The-Art Models Using TorchVision’s Latest Primitives](https://pytorch.org/blog/how-to-train-state-of-the-art-models-using-torchvision-latest-primitives/) [_Excellent_]  
 
 ### Data Augmentation for Image Classification:
 - [Image Augmentation](https://github.com/aleju/imgaug)  
