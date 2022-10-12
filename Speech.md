@@ -22,6 +22,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [ESPnet: end-to-end speech processing toolkit](https://github.com/espnet/espnet)  
 - [WeNet](https://github.com/wenet-e2e/wenet) [Great]  
 - [WeNet Android App](https://github.com/wenet-e2e/wenet/tree/main/runtime/device/android/wenet)   
+- [K2: FSA/FST algorithms, differentiable, with PyTorch compatibility](https://github.com/k2-fsa/k2)  
 - [Microsoft NeuralSpeech](https://github.com/microsoft/NeuralSpeech)  
 - [Great Speech Tutorials: alphacephei](https://alphacephei.com/nsh/)  
 - [NeMo - toolkit for Conversational AI](https://github.com/NVIDIA/NeMo) [_Excellent_]  
