@@ -198,6 +198,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [TorchMetrics](https://torchmetrics.readthedocs.io/en/latest/)  
 - [Ludwig AI: Data-centric declarative deep learning framework](https://github.com/ludwig-ai/ludwig) [**Great**]  
 - [PyTorch Kineto: CPU+GPU Profiling library](https://github.com/pytorch/kineto/)  
+- [PyTorch Profiler](https://pytorch.org/docs/master/profiler.html)  
 
 ## Annotation Tools:  
 - [label-studio](https://github.com/heartexlabs/label-studio)   
