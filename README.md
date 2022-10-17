@@ -22,6 +22,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Neuromatch Deep Learning Course](https://deeplearning.neuromatch.io/tutorials/intro.html) [**Great**]  
 - [labmlai: 59 Implementations/tutorials of deep learning papers with side-by-side notes](https://github.com/labmlai/annotated_deep_learning_paper_implementations) [**Great**]  
 - [labml.ai](https://nn.labml.ai/index.html)  
+- [FightingCV-Paper-Reading: understand the most advanced research work in an easier way](https://github.com/xmu-xiaoma666/FightingCV-Paper-Reading)  
 
 ## Deep Learning Useful Resources for Computer Vision:  
 - [Great Deep Learning Resources for Computer Vision Tasks](https://github.com/ahkarami/Great-Deep-Learning-Tutorials/blob/master/ComputerVision.md) [_Excellent_]  
