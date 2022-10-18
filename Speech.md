@@ -46,6 +46,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [CanTTS: a single-speaker Cantonese speech dataset for TTS](https://github.com/parami-ai/CanTTS)  
 - [Lightning Fast Speech2](https://github.com/MiniXC/LightningFastSpeech2)  
 - [ProDiff: Progressive Fast Diffusion Model For High-Quality TTS](https://github.com/Rongjiehuang/ProDiff)  
+- [TF light model (Mozilla tacotron2)](https://github.com/mozilla/TTS/blob/master/notebooks/DDC_TTS_and_MultiBand_MelGAN_TFLite_Example.ipynb)  
 
 ## Automatic Speech Recognition (ASR) & Speech to Text (STT):
 - [OpenSpeech](https://github.com/openspeech-team/openspeech) [Great]   
