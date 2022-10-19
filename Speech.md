@@ -36,6 +36,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [MelGAN - TTS - version2](https://github.com/seungwonpark/melgan)  
 - [FastSpeech - TTS - version1](https://github.com/xcmyz/FastSpeech)  
 - [FastSpeech - TTS - version2](https://github.com/ming024/FastSpeech2)  
+- [Speedy Speech](https://github.com/janvainer/speedyspeech)  
 - [Mozilla - TTS](https://github.com/mozilla/TTS)  
 - [YourTTS: Zero-Shot Multi-Speaker TTS](https://github.com/edresson/yourtts)  
 - [YourTTS: Zero-Shot Multi-Speaker Text Synthesis and Voice Conversion](https://coqui.ai/blog/tts/yourtts-zero-shot-text-synthesis-low-resource-languages/)  
