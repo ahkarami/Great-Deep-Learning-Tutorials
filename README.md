@@ -131,6 +131,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ### Evaluation Metrics:
 - [Performance Metrics for Classification Problems in ML](https://medium.com/@MohammedS/performance-metrics-for-classification-problems-in-machine-learning-part-i-b085d432082b)  
 
+### Validating ML Models:
+- [Deepchecks: Validating ML Models & Data](https://github.com/deepchecks/deepchecks)  
+
 ## Conferences News:
 - [Latest Computer Vision Trends from CVPR 2019](https://towardsdatascience.com/latest-computer-vision-trends-from-cvpr-2019-c07806dd570b)  
 - [Interesting 2019 CVPR papers](https://medium.com/@mattmiesnieks/interesting-2019-cvpr-papers-865e303db5ca)  
