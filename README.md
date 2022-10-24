@@ -177,6 +177,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [ClearML - ML/DL development and production suite](https://github.com/allegroai/clearml)  
 - [Lime: Explaining the predictions of any ML classifier](https://github.com/marcotcr/lime)   
 - [Microsoft UniLM AI](https://github.com/microsoft/unilm) [Great]   
+- [mlnotify: No need to keep checking your training](https://github.com/aporia-ai/mlnotify)  
 - [NVIDIA NeMo -  toolkit for creating Conversational AI (ASR, TTS, and NLP)](https://github.com/NVIDIA/NeMo)  
 
 ## Great Models:
