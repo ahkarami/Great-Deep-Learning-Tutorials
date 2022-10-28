@@ -78,6 +78,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [WavPrompt: speech understanding that leveraging the few-shot learning](https://github.com/Hertin/WavPrompt)  
 - [Recent Advances in End-to-End Automatic Speech Recognition](https://www.nowpublishers.com/article/Details/SIP-2021-0050) [Interesting Survey]  
 - [SpeechT5](https://github.com/microsoft/SpeechT5) [Interesting]  
+- [TransFusion: Transcribing Speech with Multinomial Diffusion](https://github.com/RF5/transfusion-asr)  
 - [Openai whisper ASR Model](https://github.com/openai/whisper) [Interesting]  
 
 ### Persian ASR Repos:
