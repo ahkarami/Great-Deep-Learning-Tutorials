@@ -56,6 +56,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Auto Gluon AI](https://auto.gluon.ai/stable/index.html#)  
 - [AWS Auto Gluon](https://github.com/awslabs/autogluon)  
 
+## Diffusion Models:
+- [Diffusion Models via lilianweng](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)  
+
 ## Deep Reasoning:
 - [What’s Next For AI? Enter: Deep Reasoning](https://towardsdatascience.com/whats-next-for-ai-enter-deep-reasoning-fae8b131962a)  
 - [Deep Learning approaches to understand Human Reasoning](https://towardsdatascience.com/deep-learning-approaches-to-understand-human-reasoning-46f1805d454d)  
