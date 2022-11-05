@@ -103,6 +103,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Paper: Efficient Adapter Transfer of Self-Supervised Speech Models for Automatic Speech Recognition](https://arxiv.org/pdf/2202.03218.pdf)  
 - [Paper: Exploiting Adapters for Cross-lingual Low-resource Speech Recognition](https://arxiv.org/pdf/2105.11905.pdf)  
 
+## Diffusion based Methods:
+- [Full-band General Audio Synthesis With Score-based Diffusion](https://diffusionaudiosynthesis.github.io/)  
+
 ## Speech Translation:
 - [Facebook XLS-R-2B-22-16 Demo](https://huggingface.co/spaces/facebook/XLS-R-2B-22-16)  
 - [Facebook wav2vec2-xls-r-2b-22-to-16](https://huggingface.co/facebook/wav2vec2-xls-r-2b-22-to-16)  
