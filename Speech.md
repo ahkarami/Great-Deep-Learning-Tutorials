@@ -104,6 +104,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Paper: Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/pdf/1902.00751.pdf)  
 - [Paper: Efficient Adapter Transfer of Self-Supervised Speech Models for Automatic Speech Recognition](https://arxiv.org/pdf/2202.03218.pdf)  
 - [Paper: Exploiting Adapters for Cross-lingual Low-resource Speech Recognition](https://arxiv.org/pdf/2105.11905.pdf)  
+- [Paper: Tiny-Attention Adapter: Contexts Are More Important Than the Number of Parameters](https://arxiv.org/abs/2211.01979)  
 
 ## Diffusion based Methods:
 - [Full-band General Audio Synthesis With Score-based Diffusion](https://diffusionaudiosynthesis.github.io/)  
