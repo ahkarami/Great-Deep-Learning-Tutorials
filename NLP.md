@@ -92,6 +92,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [NVIDIA FasterTransformer: Transformer related optimization, including BERT & GPT](https://github.com/NVIDIA/FasterTransformer)  
 - [Deploying GPT-J and T5 with FasterTransformer and Triton Inference Server](https://developer.nvidia.com/blog/deploying-gpt-j-and-t5-with-fastertransformer-and-triton-inference-server/?ncid=so-link-499508#cid=dl05_so-link_en-us) [Interesting]  
 - [MEND: Fast Model Editing at Scale](https://github.com/eric-mitchell/mend) [**Excellent Work**]   
+- [BorealisAI Transformers I: Introduction](https://www.borealisai.com/research-blogs/tutorial-14-transformers-i-introduction/)  
 
 ### Excellent & Easy to Learn Resources for Learning Transformers:
 - [e2eml transformers from scratch](https://e2eml.school/transformers.html) [**Excellent**]  
