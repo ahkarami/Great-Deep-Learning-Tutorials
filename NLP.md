@@ -32,6 +32,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [ParsiNLU: Comprehensive suit of high-level NLP tasks for Persian language](https://github.com/persiannlp/parsinlu)   
 - [FarsTail: A Persian Natural Language Inference Dataset](https://github.com/dml-qom/FarsTail)  
 - [wordfreq: Access a database of word frequencies](https://github.com/rspeer/wordfreq)  
+- [Persian Stop Words List](https://github.com/kharazi/persian-stopwords)  
 
 ## Text Representation:
 - [Beyond Word Embeddings Part 1](https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f)  
