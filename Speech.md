@@ -50,6 +50,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [TF light model (Mozilla tacotron2)](https://github.com/mozilla/TTS/blob/master/notebooks/DDC_TTS_and_MultiBand_MelGAN_TFLite_Example.ipynb)  
 - [Lightweight end-to-end TTS](https://github.com/MasayaKawamura/MB-iSTFT-VITS)  
 - [SiFiGAN](https://github.com/chomeyama/SiFiGAN)  
+- [Neon TTS Plugin Coqui](https://huggingface.co/spaces/neongeckocom/neon-tts-plugin-coqui)  
 
 ## Automatic Speech Recognition (ASR) & Speech to Text (STT):
 - [OpenSpeech](https://github.com/openspeech-team/openspeech) [Great]   
