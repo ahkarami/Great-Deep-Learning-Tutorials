@@ -220,5 +220,6 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [SAM: Sharpness-Aware Minimization for Efficiently Improving Generalization](https://github.com/google-research/sam)  
 - [Qualcomm Discusses Secret Dataset Generation Data](https://www.qualcomm.com/news/onq/2021/09/16/qa-ai-researcher-roland-memisevic-discusses-secret-dataset-generation-data)   
 - [State of AI Report 2021](https://www.stateof.ai/)  
+- [Project Blink: AI-powered video editing on the web](https://labs.adobe.com/projects/blink/)  
 - [PyTorch Incremental Learning](https://github.com/yaoyao-liu/class-incremental-learning)  
 - [Google People + AI Research (PAIR)](https://pair.withgoogle.com/) [Interesting business based AI topics]  
