@@ -195,6 +195,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 
 ## Annotation Tools:
 - [audino: open source audio annotation tool](https://github.com/midas-research/audino)   
+- [ASR Corpus Creator](https://github.com/egorsmkv/asr-corpus-creator)  
 
 ## Audio Compression:
 - [EnCodec: High Fidelity Neural Audio Compression](https://github.com/facebookresearch/encodec)  
