@@ -204,6 +204,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Peoples Speech](https://mlcommons.org/en/peoples-speech/)  
 - [Multilingual Spoken Words](https://mlcommons.org/en/multilingual-spoken-words/)  
 - [PodcastMix: A dataset for separating music and speech in podcasts](https://github.com/MTG/Podcastmix)  
+- [Quran Speech to Text Dataset](https://www.openslr.org/132/)  
 
 # Other:
 - [Neural Target Speech Extraction (TSE)](https://butspeechfit.github.io/tse_tutorial/)  
