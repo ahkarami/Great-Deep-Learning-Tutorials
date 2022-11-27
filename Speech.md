@@ -51,6 +51,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Lightweight end-to-end TTS](https://github.com/MasayaKawamura/MB-iSTFT-VITS)  
 - [SiFiGAN](https://github.com/chomeyama/SiFiGAN)  
 - [Neon TTS Plugin Coqui](https://huggingface.co/spaces/neongeckocom/neon-tts-plugin-coqui)  
+- [VocBench: A Neural Vocoder Benchmark for Speech Synthesis](https://github.com/facebookresearch/vocoder-benchmark)  
 
 ## Automatic Speech Recognition (ASR) & Speech to Text (STT):
 - [OpenSpeech](https://github.com/openspeech-team/openspeech) [Great]   
