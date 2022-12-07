@@ -214,3 +214,4 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Facestar: High quality audio-visual recordings of human conversational speech](https://github.com/facebookresearch/facestar)  
 - [Fast Infinite Waveform Music Generation](https://github.com/marcoppasini/musika)  
 - [Nvidia Speech AI Summit 2022](https://www.nvidia.com/en-us/events/speech-ai-summit/)  
+- [Poly AI](https://poly.ai/) [Interesting Company]  
