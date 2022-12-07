@@ -84,6 +84,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [SpeechT5](https://github.com/microsoft/SpeechT5) [Interesting]  
 - [TransFusion: Transcribing Speech with Multinomial Diffusion](https://github.com/RF5/transfusion-asr)  
 - [Openai whisper ASR Model](https://github.com/openai/whisper) [Interesting]  
+- [Openai whisper ASR Model Blog](https://openai.com/blog/whisper/)  
 
 ### ASR Language Modeling:
 - [An Empirical Study of Language Model Integration for Transducer based Speech Recognition](https://arxiv.org/pdf/2203.16776.pdf)  
