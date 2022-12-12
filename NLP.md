@@ -201,8 +201,11 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [papers with code: chatbot](https://paperswithcode.com/task/chatbot)   
 - [Proudly Leading the Chatbot](https://www.analyticsinsight.net/ankush-sabharwal-proudly-leading-the-chatbot-sphere-with-strategical-innovations-and-implementations/)  
 - [Real Python: Build a Chatbot with Python ChatterBot](https://realpython.com/build-a-chatbot-python-chatterbot/)  
+
+### OpenAI ChatGPT:  
 - [OpenAI ChatGPT](https://openai.com/blog/chatgpt/) [Amazing]  
 - [Description of How OpenAI ChatGPT Works: Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://github.com/huggingface/blog/blob/main/rlhf.md)  
+- [How ChatGPT was Trained](https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-chatgpt-activity-7007019154666909696-T5WM/?utm_source=share&utm_medium=member_android)  
 
 ## NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
