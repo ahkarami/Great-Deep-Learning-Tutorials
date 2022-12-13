@@ -15,6 +15,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [An overview of gradient descent optimization algorithms](https://ruder.io/optimizing-gradient-descent/) [_Useful_]  
 - [How to decide on learning rate](https://towardsdatascience.com/how-to-decide-on-learning-rate-6b6996510c98)  
 - [Overview of State-of-the-art Machine Learning Algorithms per Discipline per Task](https://towardsdatascience.com/overview-state-of-the-art-machine-learning-algorithms-per-discipline-per-task-c1a16a66b8bb)  
+- [Practical Machine Learning](https://github.com/youssefHosni/Practical-Machine-Learning)  
 - [Awesome Machine Learning and AI Courses](https://github.com/luspr/awesome-ml-courses)  
 - [UVA Deep Learning II Course](https://uvadl2c.github.io/)  
 - [PyTorch Book](https://github.com/chenyuntc/pytorch-book)  
