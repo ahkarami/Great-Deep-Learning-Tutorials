@@ -15,6 +15,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Data Science
 - [Comparing Python Clustering Algorithms](https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html)  
 - [Modular Active Learning framework](https://github.com/modAL-python/modAL)   
 - [pycaret: An open-source, low-code machine learning library in Python](https://github.com/pycaret/pycaret) [Good]  
+- [Lazy Predict](https://github.com/shankarpandala/lazypredict) [Good]  
 - [AutoXGB: XGBoost + Optuna](https://github.com/abhishekkrthakur/autoxgb) [Good]    
 - [shap-hypetune: Hyperparameters Tuning and Features Selection for Gradient Boosting Models](https://github.com/cerlymarco/shap-hypetune)  
 - [Deepnote: Great data science notebook](https://deepnote.com/)   
