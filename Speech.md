@@ -143,6 +143,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Audio Signal Proessing for Machine Learning](https://github.com/musikalkemist/AudioSignalProcessingForML)  
 - [Deep Learning For Audio With Python](https://github.com/musikalkemist/DeepLearningForAudioWithPython)  
 - [Deep learning (audio) application: From design to deployment](https://github.com/musikalkemist/Deep-Learning-Audio-Application-From-Design-to-Deployment)  
+- [ASR 2022](https://github.com/besacier/ASR2022)  
 
 ## Great Kaldi Tutorials:
 - [Kaldi Install for Dummies](https://www.assemblyai.com/blog/kaldi-install-for-dummies/)  
