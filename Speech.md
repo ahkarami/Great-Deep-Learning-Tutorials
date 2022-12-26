@@ -204,6 +204,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 ## Audio Compression:
 - [EnCodec: High Fidelity Neural Audio Compression](https://github.com/facebookresearch/encodec)  
 - [AI Powered Audio Compression Technique](https://ai.facebook.com/blog/ai-powered-audio-compression-technique/)  
+## Audio Variational Autoencoder (VAE):
+- [AudioVAE: VAE implementation for audio data](https://github.com/nikuson/AudioVAE)  
+
 ## Some ASR & Speech Datasets:
 - [Peoples Speech](https://mlcommons.org/en/peoples-speech/)  
 - [Multilingual Spoken Words](https://mlcommons.org/en/multilingual-spoken-words/)  
