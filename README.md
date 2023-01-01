@@ -25,6 +25,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [labml.ai](https://nn.labml.ai/index.html)  
 - [FightingCV-Paper-Reading: understand the most advanced research work in an easier way](https://github.com/xmu-xiaoma666/FightingCV-Paper-Reading)  
 - [Learn PyTorch for Deep Learning: Zero to Mastery Course](https://github.com/mrdbourke/pytorch-deep-learning) [**Excellent**]  
+- [Alpha Signal: Latest Research in Machine Learning](https://alphasignal.ai/)  
 
 ## Deep Learning Useful Resources for Computer Vision:  
 - [Great Deep Learning Resources for Computer Vision Tasks](https://github.com/ahkarami/Great-Deep-Learning-Tutorials/blob/master/ComputerVision.md) [_Excellent_]  
