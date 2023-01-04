@@ -87,3 +87,4 @@ A Great Collection of Deep Learning Tutorials and Repositories for Data Science
 - [Neural Collaborative Filtering](https://towardsdatascience.com/neural-collaborative-filtering-96cef1009401)  
 - [AWS Personalized Recommendation Model](https://aws.amazon.com/personalize/)  
 - [Microsoft Recommenders](https://github.com/microsoft/recommenders) [Great]  
+- [Monolith: Real Time Recommendation System of TikTok](https://arxiv.org/pdf/2209.07663.pdf)  
