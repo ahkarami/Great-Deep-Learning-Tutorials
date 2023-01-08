@@ -24,6 +24,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Natural Language Processing With spaCy in Python](https://realpython.com/natural-language-processing-spacy-python/)  [_Great_]  
 - [NLP Papers](https://github.com/AliAkbarBadri/nlp-papers)   
 - [A Great NLP Course](https://lena-voita.github.io/nlp_course.html)  
+- [KerasNLP: Modular NLP Workflows for Keras](https://github.com/keras-team/keras-nlp)  
 
 ## General Persian based libraries:
 - [Parsivar: library for Persian text preprocessing](https://github.com/ICTRC/Parsivar)   
