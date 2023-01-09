@@ -83,6 +83,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Recent Advances in End-to-End Automatic Speech Recognition](https://www.nowpublishers.com/article/Details/SIP-2021-0050) [Interesting Survey]  
 - [SpeechT5](https://github.com/microsoft/SpeechT5) [Interesting]  
 - [TransFusion: Transcribing Speech with Multinomial Diffusion](https://github.com/RF5/transfusion-asr)  
+- [Alibaba FunASR](https://github.com/alibaba-damo-academy/FunASR)  
 - [Openai whisper ASR Model](https://github.com/openai/whisper) [Interesting]  
 - [Openai whisper ASR Model Blog](https://openai.com/blog/whisper/)  
 - [Explanation of OpenAI whisper ASR Model](https://www.linkedin.com/posts/aladdin-persson-a95384153_a-couple-of-months-ago-openai-released-its-activity-7009429017552375808-6zCI/?utm_source=share&utm_medium=member_android)  
