@@ -155,6 +155,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Facebook AI: GSLM](https://www.marktechpost.com/2021/09/09/facebook-ai-introduces-gslm-generative-spoken-language-model-a-textless-nlp-model-that-breaks-free-completely-of-the-dependence-on-text-for-training/)   
 - [Language Modeling Great Tutorial](https://lena-voita.github.io/nlp_course/language_modeling.html)   
 - [GALACTICA: general-purpose scientific language model](https://github.com/paperswithcode/galai) [Great]  
+- [Distributed Training of Language Models with Reinforcement Learning via Human Feedback (RLHF)](https://github.com/CarperAI/trlx) [**Excellent**]  
 
 ## Text & Document Classification:
 - [hedwig - PyTorch deep learning models for document classification](https://github.com/castorini/hedwig)  
