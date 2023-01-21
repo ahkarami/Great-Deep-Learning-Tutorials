@@ -98,6 +98,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [SOTA Persian ASR on Common Voice](https://paperswithcode.com/sota/speech-recognition-on-common-voice-persian)  
 - [Wav2Vec2 Large-xlsr Persian](https://huggingface.co/m3hrdadfi/wav2vec2-large-xlsr-persian)  
 - [Wav2Vec2 Large-xlsr Persian (v3)](https://huggingface.co/m3hrdadfi/wav2vec2-large-xlsr-persian-v3)  
+- [~ 200 Hours Persian ASR Data Set of Shenasa Company](https://github.com/shenasa-ai/speech2text)  
 
 ### Great Resources for Persian ASR Normalization:
 - [Wav2Vec2 Large XLSR Persian v3](https://huggingface.co/m3hrdadfi/wav2vec2-large-xlsr-persian-v3)  
