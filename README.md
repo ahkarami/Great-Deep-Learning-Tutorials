@@ -95,6 +95,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 
 ## Best Practices for Training Deep Models:
 
+### General Notes for Training Deep Models:
+- [Deep Learning Tuning Playbook](https://github.com/google-research/tuning_playbook)  
+
 ### PyTorch Lightening Notes & Accumulate Gradients:
 - [PyTorch Lightening: Effective Training Techniques](https://pytorch-lightning.readthedocs.io/en/latest/advanced/training_tricks.html)  
 - [Gradient Accumulation in PyTorch](https://kozodoi.me/python/deep%20learning/pytorch/tutorial/2021/02/19/gradient-accumulation.html)  
