@@ -41,6 +41,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ## Deep Learning & Machine Learning Useful Resources for General Data Science Tasks:  
 - [Great Deep Learning Resources for Data Science Tasks](https://github.com/ahkarami/Great-Deep-Learning-Tutorials/blob/master/DataScience.md) [_Excellent_]  
 
+## General Notes about Generative AI:
+- [Generative AI in action: real-world applications and examples](https://lablab.ai/blog/generative-ai-in-action-real-world-applications-and-examples)  
+
 ## Quantization & Distillation of Deep Learning Models:
 - [Quantization](https://nervanasystems.github.io/distiller/quantization/)  
 - [Neural Network Distiller](https://github.com/NervanaSystems/distiller/)  
