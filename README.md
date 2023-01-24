@@ -236,4 +236,5 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [State of AI Report 2021](https://www.stateof.ai/)  
 - [Project Blink: AI-powered video editing on the web](https://labs.adobe.com/projects/blink/)  
 - [PyTorch Incremental Learning](https://github.com/yaoyao-liu/class-incremental-learning)  
+- [Google Research, 2022 & Beyond: Language, Vision and Generative Models](https://ai.googleblog.com/2023/01/google-research-2022-beyond-language.html?m=1&fbclid=PAAabtVizCEKhFC2kttHKozuEz4FX1cphjNDQVVL-kFZHA11GP9AVJ6rl9W-k)  
 - [Google People + AI Research (PAIR)](https://pair.withgoogle.com/) [Interesting business based AI topics]  
