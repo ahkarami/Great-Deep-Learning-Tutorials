@@ -206,6 +206,12 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Proudly Leading the Chatbot](https://www.analyticsinsight.net/ankush-sabharwal-proudly-leading-the-chatbot-sphere-with-strategical-innovations-and-implementations/)  
 - [Real Python: Build a Chatbot with Python ChatterBot](https://realpython.com/build-a-chatbot-python-chatterbot/)  
 
+### Chatbot Evaluation Metrics:
+- [Chatbot Analytics: 9 Key Metrics](https://www.tidio.com/blog/chatbot-analytics/)  
+- [Chatbot Statistics for 2023](https://www.tidio.com/blog/chatbot-statistics/)  
+- [Chatbot Analytics 101: Essential Metrics to Track](https://blog.hootsuite.com/chatbot-analytics/)  
+- [12 Metrics For Chatbot Analytics](https://www.kommunicate.io/blog/metrics-for-chatbot-analytics/)  
+
 ### OpenAI ChatGPT:  
 - [OpenAI ChatGPT](https://openai.com/blog/chatgpt/) [Amazing]  
 - [Description of How OpenAI ChatGPT Works: Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://github.com/huggingface/blog/blob/main/rlhf.md)  
