@@ -211,6 +211,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Chatbot Statistics for 2023](https://www.tidio.com/blog/chatbot-statistics/)  
 - [Chatbot Analytics 101: Essential Metrics to Track](https://blog.hootsuite.com/chatbot-analytics/)  
 - [12 Metrics For Chatbot Analytics](https://www.kommunicate.io/blog/metrics-for-chatbot-analytics/)  
+- [Chatbot Evaluation Metrics](https://github.com/ahkarami/Great-Deep-Learning-Tutorials/blob/master/NLP/Chatbot_Evaluation_Metrics.md) [**Great**]  
 
 ### OpenAI ChatGPT:  
 - [OpenAI ChatGPT](https://openai.com/blog/chatgpt/) [Amazing]  
