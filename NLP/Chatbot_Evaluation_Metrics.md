@@ -7,7 +7,7 @@ The common evaluation metrics for AI-based chatbots include:
 
 -   **Perplexity:** a measure of how well a language model predicts the next word in a sentence. It is calculated as the exponentiated average log-probability of the test set, with lower values indicating a better model [1, 2].  
     
--   **BLEU:** BLEU (Bilingual Evaluation Understudy) is a measure of the similarity between the predicted response and the reference response. It compares the n-grams (i.e. sequence of words) in the predicted response to the n-grams in the reference response, and calculates a score based on how many n-grams match. A higher BLEU score indicates a higher degree of similarity between the predicted response and the reference response.  
+-   **BLEU:** BLEU (Bilingual Evaluation Understudy) is a measure of the similarity between the predicted response and the reference response. It compares the n-grams (i.e. sequence of words) in the predicted response to the n-grams in the reference response, and calculates a score based on how many n-grams match. A higher BLEU score indicates a higher degree of similarity between the predicted response and the reference response [3-5].  
     
 -   **METEOR:** METEOR (Metric for Evaluation of Translation with Explicit ORdering) is a measure of the similarity between the predicted response and the reference response, which also takes into account synonyms and stemming. It uses an alignment algorithm to align the words in the predicted response and reference response, and calculates a score based on how many aligned words match. A higher METEOR score indicates a higher degree of similarity between the predicted response and the reference response.  
     
@@ -56,3 +56,6 @@ When evaluating a whole chatbot system, which includes both the natural language
 ## References:
 - [1](https://en.wikipedia.org/wiki/Perplexity)  
 - [2](https://medium.com/nlplanet/two-minutes-nlp-perplexity-explained-with-simple-probabilities-6cdc46884584)  
+- [3](https://cloud.google.com/translate/automl/docs/evaluate#:~:text=BLEU%20(BiLingual%20Evaluation%20Understudy)%20is,of%20high%20quality%20reference%20translations.)  
+- [4](https://en.wikipedia.org/wiki/BLEU)  
+- [5](https://www.geeksforgeeks.org/nlp-bleu-score-for-evaluating-neural-machine-translation-python/)  
