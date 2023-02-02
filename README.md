@@ -69,6 +69,9 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Diffusion Models Papers Survey Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)  
 - [Phenaki: a text-to-video model](https://github.com/LAION-AI/phenaki)  
 
+## Multimodal Deep Learning:
+- [Multimodal Deep Learning Paper](https://arxiv.org/abs/2301.04856)  
+
 ## Deep Reasoning:
 - [What’s Next For AI? Enter: Deep Reasoning](https://towardsdatascience.com/whats-next-for-ai-enter-deep-reasoning-fae8b131962a)  
 - [Deep Learning approaches to understand Human Reasoning](https://towardsdatascience.com/deep-learning-approaches-to-understand-human-reasoning-46f1805d454d)  
