@@ -11,7 +11,7 @@ The common evaluation metrics for AI-based chatbots include:
     
 -   **METEOR:** METEOR (Metric for Evaluation of Translation with Explicit ORdering) is a measure of the similarity between the predicted response and the reference response, which also takes into account synonyms and stemming. It uses an alignment algorithm to align the words in the predicted response and reference response, and calculates a score based on how many aligned words match. A higher METEOR score indicates a higher degree of similarity between the predicted response and the reference response [6-8].  
     
--   **ROUGE:** ROUGE (Recall-Oriented Understudy for Gisting Evaluation) is a measure of the similarity between the predicted response and the reference response, which can be used for summarization tasks. It compares the n-grams in the predicted response to the n-grams in the reference response, and calculates a recall score based on how many n-grams in the predicted response also appear in the reference response. A higher ROUGE score indicates a higher degree of similarity between the predicted response and the reference response.  
+-   **ROUGE:** ROUGE (Recall-Oriented Understudy for Gisting Evaluation) is a measure of the similarity between the predicted response and the reference response, which can be used for summarization tasks. It compares the n-grams in the predicted response to the n-grams in the reference response, and calculates a recall score based on how many n-grams in the predicted response also appear in the reference response. A higher ROUGE score indicates a higher degree of similarity between the predicted response and the reference response [9-11].  
     
 -   **Embedding Average cosine Similarity (EACS):** EACS (Embedding Average cosine Similarity) is a measure of the semantic similarity between the predicted response and the reference response, which is based on word embeddings. It calculates the cosine similarity between the average word embeddings of the predicted response and the reference response. A higher EACS score indicates a higher degree of semantic similarity between the predicted response and the reference response.  
     
@@ -62,3 +62,6 @@ When evaluating a whole chatbot system, which includes both the natural language
 - [6](https://huggingface.co/spaces/evaluate-metric/meteor)  
 - [7](https://en.wikipedia.org/wiki/METEOR)  
 - [8](https://machinelearninginterview.com/topics/machine-learning/meteor-for-machine-translation/)  
+- [9](https://en.wikipedia.org/wiki/ROUGE_(metric))  
+- [10](https://huggingface.co/spaces/evaluate-metric/rouge)  
+- [11](https://github.com/neural-dialogue-metrics/rouge)  
