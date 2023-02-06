@@ -13,7 +13,7 @@ The common evaluation metrics for AI-based chatbots include:
     
 -   **ROUGE:** ROUGE (Recall-Oriented Understudy for Gisting Evaluation) is a measure of the similarity between the predicted response and the reference response, which can be used for summarization tasks. It compares the n-grams in the predicted response to the n-grams in the reference response, and calculates a recall score based on how many n-grams in the predicted response also appear in the reference response. A higher ROUGE score indicates a higher degree of similarity between the predicted response and the reference response [9-11].  
     
--   **Embedding Average cosine Similarity (EACS):** EACS (Embedding Average cosine Similarity) is a measure of the semantic similarity between the predicted response and the reference response, which is based on word embeddings. It calculates the cosine similarity between the average word embeddings of the predicted response and the reference response. A higher EACS score indicates a higher degree of semantic similarity between the predicted response and the reference response.  
+-   **Embedding Average cosine Similarity (EACS):** EACS (Embedding Average cosine Similarity) is a measure of the semantic similarity between the predicted response and the reference response, which is based on word embeddings. It calculates the cosine similarity between the average word embeddings of the predicted response and the reference response. A higher EACS score indicates a higher degree of semantic similarity between the predicted response and the reference response [12-16].  
     
 -   **Intent accuracy:** Intent accuracy is a measure of how well the chatbot recognizes the user's intent. It is calculated as the proportion of user inputs that are correctly classified by the chatbot's intent recognition module.  
     
@@ -65,3 +65,8 @@ When evaluating a whole chatbot system, which includes both the natural language
 - [9](https://en.wikipedia.org/wiki/ROUGE_(metric))  
 - [10](https://huggingface.co/spaces/evaluate-metric/rouge)  
 - [11](https://github.com/neural-dialogue-metrics/rouge)  
+- [12](https://paulminogue.com/posts/0de56ac8-914a-4056-9bf9-005572959bb1)  
+- [13](https://studymachinelearning.com/cosine-similarity-text-similarity-metric/)  
+- [14](https://intellica-ai.medium.com/comparison-of-different-word-embeddings-on-text-similarity-a-use-case-in-nlp-e83e08469c1c)  
+- [15](https://arxiv.org/abs/2205.05092)  
+- [16](https://stats.stackexchange.com/questions/415382/evaluating-word-embeddings-expected-cosine-distance)  
