@@ -219,6 +219,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Description of How OpenAI ChatGPT Works: Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://github.com/huggingface/blog/blob/main/rlhf.md)  
 - [How ChatGPT was Trained](https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-chatgpt-activity-7007019154666909696-T5WM/?utm_source=share&utm_medium=member_android)  
 - [ChatGPT Android SDK](https://github.com/skydoves/chatgpt-android/releases)  
+- [ChatGPT awesome apps](https://www.linkedin.com/posts/tarrysingh_chatgpt-activity-7017947289721655296-7-pK/?utm_source=share&utm_medium=member_android)  
 
 ## NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
