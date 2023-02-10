@@ -22,6 +22,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Data Science
 - [khanacademy statistics course](https://www.khanacademy.org/math/ap-statistics) [_Good_]   
 - [NumPy Exercises](https://www.w3resource.com/python-exercises/numpy/index.php)  [_Good_]  
 - [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)  
+- [Vaex: high performance Python library for DataFrames](https://github.com/vaexio/vaex) [Great]  
 
 ## The best exploratory data analysis (EDA) Tools:
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling)  
@@ -66,6 +67,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Data Science
 
 ## Working with Tabular Data:
 - [Yandex RTDL Library](https://github.com/yandex-research/rtdl)   
+- [Vaex: high performance Python library for DataFrames](https://github.com/vaexio/vaex) [Great]  
 
 ## Data Science Interview Notes:
 - [Cracking the Data Science Interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview)  
