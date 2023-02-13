@@ -93,6 +93,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Auto Regex: Converting English description to Regex](https://www.autoregex.xyz/) [Good]  
 - [minGPT](https://github.com/karpathy/minGPT)  
 - [NVIDIA FasterTransformer: Transformer related optimization, including BERT & GPT](https://github.com/NVIDIA/FasterTransformer)  
+- [OpenNMT CTranslate2: Fast inference engine for Transformer models](https://github.com/OpenNMT/CTranslate2/)  
 - [Deploying GPT-J and T5 with FasterTransformer and Triton Inference Server](https://developer.nvidia.com/blog/deploying-gpt-j-and-t5-with-fastertransformer-and-triton-inference-server/?ncid=so-link-499508#cid=dl05_so-link_en-us) [Interesting]  
 - [MEND: Fast Model Editing at Scale](https://github.com/eric-mitchell/mend) [**Excellent Work**]   
 - [BorealisAI Transformers I: Introduction](https://www.borealisai.com/research-blogs/tutorial-14-transformers-i-introduction/)  
