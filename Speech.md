@@ -228,3 +228,4 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Fast Infinite Waveform Music Generation](https://github.com/marcoppasini/musika)  
 - [Nvidia Speech AI Summit 2022](https://www.nvidia.com/en-us/events/speech-ai-summit/)  
 - [Poly AI](https://poly.ai/) [Interesting Company]  
+- [uberduck: Open Source Voice AI Community](https://uberduck.ai/)  
