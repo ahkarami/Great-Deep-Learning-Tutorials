@@ -99,6 +99,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [BorealisAI Transformers I: Introduction](https://www.borealisai.com/research-blogs/tutorial-14-transformers-i-introduction/)  
 - [OpenAI Best Practices for Deploying Language Models](https://openai.com/blog/best-practices-for-deploying-language-models/)  
 - [OPT-IML](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML)  
+- [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761) [Great]  
+- [Toolformer GitHub](https://github.com/lucidrains/toolformer-pytorch)  
 - [Cramming: Training a Language Model on a Single GPU in One Day](https://github.com/jonasgeiping/cramming) [**Great**]  
 
 ### Excellent & Easy to Learn Resources for Learning Transformers:
