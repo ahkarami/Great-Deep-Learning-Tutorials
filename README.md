@@ -28,6 +28,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained) [**Excellent**]  
 - [Alpha Signal: Latest Research in Machine Learning](https://alphasignal.ai/)  
 - [Harvard CS197: AI Research Experiences - The Course Book](https://docs.google.com/document/u/0/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/mobilebasic#heading=h.bko37p9m9o8g) [**Excellent**]  
+- [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT](https://arxiv.org/abs/2302.09419)  
 
 ## Deep Learning Useful Resources for Computer Vision:  
 - [Great Deep Learning Resources for Computer Vision Tasks](https://github.com/ahkarami/Great-Deep-Learning-Tutorials/blob/master/ComputerVision.md) [_Excellent_]  
