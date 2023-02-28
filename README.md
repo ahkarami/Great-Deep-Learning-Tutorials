@@ -112,6 +112,12 @@ A Great Collection of Deep Learning Tutorials and Repositories
 ### Loss Functions:
 - [Loss Functions Explained](https://medium.com/deep-learning-demystified/loss-functions-explained-3098e8ff2b27)  
 
+### Imbalanced Dataset Handling:
+- [deal with an imbalanced dataset using weightedrandomsampler](https://androidkt.com/deal-with-an-imbalanced-dataset-using-weightedrandomsampler-in-pytorch/)  
+- [imbalanced-dataset-sampler](https://github.com/ufoym/imbalanced-dataset-sampler) [Great]  
+- [demystifying pytorchs weightedrandomsampler](https://towardsdatascience.com/demystifying-pytorchs-weightedrandomsampler-by-example-a68aceccb452)  
+- [weighted random sampler oversample or undersample](https://stackoverflow.com/questions/67799246/weighted-random-sampler-oversample-or-undersample)  
+
 ### Weight Initialization:
 - [Deep Learning Best Practices (1) - Weight Initialization](https://medium.com/usf-msds/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)  
 
