@@ -107,6 +107,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Toolformer GitHub](https://github.com/lucidrains/toolformer-pytorch)  
 - [Amazon Multimodal Chain-of-Thought Reasoning in Language Models](https://github.com/amazon-science/mm-cot)  
 - [LLaMA-based ChatGPT Training](https://github.com/nebuly-ai/nebullvm/tree/main/apps/accelerate/chatllama) [Great]  
+- [The Wisdom of Hindsight Makes Language Models Better Instruction Followers](https://arxiv.org/abs/2302.05206)  
 
 
 ### Excellent & Easy to Learn Resources for Learning Transformers:
