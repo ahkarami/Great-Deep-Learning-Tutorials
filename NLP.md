@@ -119,6 +119,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [PEFT: State-of-the-art Parameter-Efficient Fine-Tuning](https://github.com/huggingface/peft) [**Great**]   
 - [PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware](https://huggingface.co/blog/peft) [**Great**]  
 - [Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)  
+- [bitsandbytes: 8-bit CUDA functions for PyTorch](https://github.com/TimDettmers/bitsandbytes)  
+- [Alpaca-LoRA: Low-Rank LLaMA Instruct-Tuning on consumer hardware](https://github.com/tloen/alpaca-lora) [Great]  
 
 ### Excellent & Easy to Learn Resources for Learning Transformers:
 - [e2eml transformers from scratch](https://e2eml.school/transformers.html) [**Excellent**]  
