@@ -104,6 +104,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [OpenAI Best Practices for Deploying Language Models](https://openai.com/blog/best-practices-for-deploying-language-models/)  
 - [OPT-IML](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML)  
 
+### Reinforcement Learning from Human Feedback (RLHF):
+- [RLHF Tutorial](https://vinija.ai/toolkit/RLHF/)  
+
 ### Large Language Models (LLMs):
 - [LLaMA](https://github.com/facebookresearch/llama)  
 - [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761) [Great]  
@@ -245,6 +248,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [ChatGPT awesome apps](https://www.linkedin.com/posts/tarrysingh_chatgpt-activity-7017947289721655296-7-pK/?utm_source=share&utm_medium=member_android)  
 - [A Categorical Archive of ChatGPT Failures](https://arxiv.org/abs/2302.03494)  
 - [Is ChatGPT a General-Purpose Natural Language Processing Task Solver?](https://arxiv.org/abs/2302.06476)  
+- [ChatGPT for customer service](https://www.intercom.com/ai-bot)  
 
 ## NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
