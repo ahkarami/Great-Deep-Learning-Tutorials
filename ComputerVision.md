@@ -72,6 +72,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [OpenAI CLIP](https://github.com/openai/CLIP)  
 - [Transformers: from NLP to CV](https://github.com/IbrahimSobh/Transformers) [**Very Great & Excellent**]   
 
+### Vision-Language Models:
+- [Prismer: A Vision-Language Model](https://github.com/NVlabs/prismer)  
+
 ### Language-Vision Intelligence:
 - [Salesforce LAVIS: A Library for Language-Vision Intelligence](https://github.com/salesforce/LAVIS)  
 
