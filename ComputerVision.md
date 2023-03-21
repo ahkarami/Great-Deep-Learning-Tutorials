@@ -229,6 +229,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Kinetics 400 Data Set - Download Link via DropBox](https://www.dropbox.com/s/wcs01mlqdgtq4gn/compress.tar.gz?dl=1)  
 
 
+## Text-to-Video: 
+- [Text to Video Synthesis](https://huggingface.co/spaces/damo-vilab/modelscope-text-to-video-synthesis)  
+
 ## Optical Flow: 
 - [RAFT](https://github.com/princeton-vl/RAFT)  
 
