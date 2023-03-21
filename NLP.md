@@ -127,6 +127,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)  
 - [bitsandbytes: 8-bit CUDA functions for PyTorch](https://github.com/TimDettmers/bitsandbytes)  
 - [Alpaca-LoRA: Low-Rank LLaMA Instruct-Tuning on consumer hardware](https://github.com/tloen/alpaca-lora) [Great]  
+- [LLaMA & Alpaca Tutorial: “ChatGPT” On Your Local Computer](https://medium.com/@martin-thissen/llama-alpaca-chatgpt-on-your-local-computer-tutorial-17adda704c23)  
+- [A step-by-step guide to building a chatbot based on your own documents with GPT](https://bootcamp.uxdesign.cc/a-step-by-step-guide-to-building-a-chatbot-based-on-your-own-documents-with-gpt-2d550534eea5)  
 
 ### Excellent & Easy to Learn Resources for Learning Transformers:
 - [e2eml transformers from scratch](https://e2eml.school/transformers.html) [**Excellent**]  
