@@ -118,6 +118,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Stanford Alpaca: An Instruction-following LLaMA model](https://github.com/tatsu-lab/stanford_alpaca)  
 - [Alpaca: A Strong, Replicable Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)  
 - [Fine-Tune Alpaca in Arabic](https://www.linkedin.com/posts/yassine-boukhari-006748217_alpaca-a-strong-replicable-instruction-following-activity-7043223149710036992-YUJb?utm_source=share&utm_medium=member_android)  
+- [TRL: Transformer Reinforcement Learning](https://github.com/lvwerra/trl)  
 
 ### Training & Using Large Language Models (LLMs) on Low Resource Machines:
 - [Cramming: Training a Language Model on a Single GPU in One Day](https://github.com/jonasgeiping/cramming) [**Great**]  
@@ -128,7 +129,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [bitsandbytes: 8-bit CUDA functions for PyTorch](https://github.com/TimDettmers/bitsandbytes)  
 - [Alpaca-LoRA: Low-Rank LLaMA Instruct-Tuning on consumer hardware](https://github.com/tloen/alpaca-lora) [Great]  
 - [LLaMA & Alpaca Tutorial: “ChatGPT” On Your Local Computer](https://medium.com/@martin-thissen/llama-alpaca-chatgpt-on-your-local-computer-tutorial-17adda704c23)  
-- [A step-by-step guide to building a chatbot based on your own documents with GPT](https://bootcamp.uxdesign.cc/a-step-by-step-guide-to-building-a-chatbot-based-on-your-own-documents-with-gpt-2d550534eea5)  
+- [Dalai: The simplest way to run LLaMA on your local machine](https://github.com/cocktailpeanut/dalai)  
+- [llama.cpp: Port of Facebook's LLaMA model in C/C++](https://github.com/ggerganov/llama.cpp)  
+
 
 ### Excellent & Easy to Learn Resources for Learning Transformers:
 - [e2eml transformers from scratch](https://e2eml.school/transformers.html) [**Excellent**]  
@@ -236,6 +239,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [papers with code: chatbot](https://paperswithcode.com/task/chatbot)   
 - [Proudly Leading the Chatbot](https://www.analyticsinsight.net/ankush-sabharwal-proudly-leading-the-chatbot-sphere-with-strategical-innovations-and-implementations/)  
 - [Real Python: Build a Chatbot with Python ChatterBot](https://realpython.com/build-a-chatbot-python-chatterbot/)  
+- [A step-by-step guide to building a chatbot based on your own documents with GPT](https://bootcamp.uxdesign.cc/a-step-by-step-guide-to-building-a-chatbot-based-on-your-own-documents-with-gpt-2d550534eea5)  
 
 ### Chatbot Evaluation Metrics:
 - [Chatbot Analytics: 9 Key Metrics](https://www.tidio.com/blog/chatbot-analytics/)  
