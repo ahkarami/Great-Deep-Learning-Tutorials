@@ -53,6 +53,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Neon TTS Plugin Coqui](https://huggingface.co/spaces/neongeckocom/neon-tts-plugin-coqui)  
 - [VocBench: A Neural Vocoder Benchmark for Speech Synthesis](https://github.com/facebookresearch/vocoder-benchmark)  
 - [MQTTS: Quantized Approach for Text to Speech Synthesis](https://github.com/b04901014/MQTTS)  
+- [VITS Fast Fine-tuning: fast speaker adaptation TTS](https://github.com/Plachtaa/VITS-fast-fine-tuning)  
+- [Larynx: A fast, local neural TTS](https://github.com/rhasspy/larynx2)  
 
 ## Automatic Speech Recognition (ASR) & Speech to Text (STT):
 - [OpenSpeech](https://github.com/openspeech-team/openspeech) [Great]   
