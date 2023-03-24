@@ -131,6 +131,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LLaMA & Alpaca Tutorial: “ChatGPT” On Your Local Computer](https://medium.com/@martin-thissen/llama-alpaca-chatgpt-on-your-local-computer-tutorial-17adda704c23)  
 - [Dalai: The simplest way to run LLaMA on your local machine](https://github.com/cocktailpeanut/dalai)  
 - [llama.cpp: Port of Facebook's LLaMA model in C/C++](https://github.com/ggerganov/llama.cpp)  
+- [SparseGPT: Remove 100 Billion Parameters of LLMs](https://neuralmagic.com/blog/sparsegpt-remove-100-billion-parameters-for-free/)  
 
 
 ### Excellent & Easy to Learn Resources for Learning Transformers:
