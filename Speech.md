@@ -55,6 +55,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [MQTTS: Quantized Approach for Text to Speech Synthesis](https://github.com/b04901014/MQTTS)  
 - [VITS Fast Fine-tuning: fast speaker adaptation TTS](https://github.com/Plachtaa/VITS-fast-fine-tuning)  
 - [Larynx: A fast, local neural TTS](https://github.com/rhasspy/larynx2)  
+- [BigVGAN: A Universal Neural Vocoder with Large-Scale Training](https://github.com/NVIDIA/BigVGAN)  
 
 ## Automatic Speech Recognition (ASR) & Speech to Text (STT):
 - [OpenSpeech](https://github.com/openspeech-team/openspeech) [Great]   
