@@ -119,6 +119,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Alpaca: A Strong, Replicable Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)  
 - [Fine-Tune Alpaca in Arabic](https://www.linkedin.com/posts/yassine-boukhari-006748217_alpaca-a-strong-replicable-instruction-following-activity-7043223149710036992-YUJb?utm_source=share&utm_medium=member_android)  
 - [TRL: Transformer Reinforcement Learning](https://github.com/lvwerra/trl)  
+- [Large Language Model (LLM) Primers Tutorial](https://www.linkedin.com/posts/amanc_artificialintelligence-machinelearning-ai-activity-7045245910850695168-Fp9K/?utm_source=share&utm_medium=member_android) [Great]  
 
 ### Training & Using Large Language Models (LLMs) on Low Resource Machines:
 - [Cramming: Training a Language Model on a Single GPU in One Day](https://github.com/jonasgeiping/cramming) [**Great**]  
@@ -258,7 +259,11 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [ChatGPT awesome apps](https://www.linkedin.com/posts/tarrysingh_chatgpt-activity-7017947289721655296-7-pK/?utm_source=share&utm_medium=member_android)  
 - [A Categorical Archive of ChatGPT Failures](https://arxiv.org/abs/2302.03494)  
 - [Is ChatGPT a General-Purpose Natural Language Processing Task Solver?](https://arxiv.org/abs/2302.06476)  
+- [aman.ai chatGPT Tutorial](https://aman.ai/primers/ai/chatGPT/) [Great]  
 - [ChatGPT for customer service](https://www.intercom.com/ai-bot)  
+- [Chatgpt Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)  
+- [Trending AI Tools](https://galionaitools.blogspot.com/2023/03/trending-ai-tools.html)  
+- [Merlin: OpenAI ChatGPT Plus extension on all websites](https://merlin.foyer.work/)  
 
 ## NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
