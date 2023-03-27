@@ -133,6 +133,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Dalai: The simplest way to run LLaMA on your local machine](https://github.com/cocktailpeanut/dalai)  
 - [llama.cpp: Port of Facebook's LLaMA model in C/C++](https://github.com/ggerganov/llama.cpp)  
 - [SparseGPT: Remove 100 Billion Parameters of LLMs](https://neuralmagic.com/blog/sparsegpt-remove-100-billion-parameters-for-free/)  
+- [xFormers: Toolbox to Accelerate Research on Transformers](https://github.com/facebookresearch/xformers)  
 
 
 ### Excellent & Easy to Learn Resources for Learning Transformers:
