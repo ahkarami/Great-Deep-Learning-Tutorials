@@ -131,7 +131,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Alpaca-LoRA: Low-Rank LLaMA Instruct-Tuning on consumer hardware](https://github.com/tloen/alpaca-lora) [Great]  
 - [LLaMA & Alpaca Tutorial: “ChatGPT” On Your Local Computer](https://medium.com/@martin-thissen/llama-alpaca-chatgpt-on-your-local-computer-tutorial-17adda704c23)  
 - [Dalai: The simplest way to run LLaMA on your local machine](https://github.com/cocktailpeanut/dalai)  
+- [pyllama](https://github.com/juncongmoo/pyllama)  
+- [Alpaca-LoRA-Serve](https://github.com/deep-diver/Alpaca-LoRA-Serve)  
 - [llama.cpp: Port of Facebook's LLaMA model in C/C++](https://github.com/ggerganov/llama.cpp)  
+- [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)  
 - [SparseGPT: Remove 100 Billion Parameters of LLMs](https://neuralmagic.com/blog/sparsegpt-remove-100-billion-parameters-for-free/)  
 - [xFormers: Toolbox to Accelerate Research on Transformers](https://github.com/facebookresearch/xformers)  
 
