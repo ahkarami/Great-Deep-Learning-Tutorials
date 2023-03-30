@@ -120,6 +120,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Fine-Tune Alpaca in Arabic](https://www.linkedin.com/posts/yassine-boukhari-006748217_alpaca-a-strong-replicable-instruction-following-activity-7043223149710036992-YUJb?utm_source=share&utm_medium=member_android)  
 - [TRL: Transformer Reinforcement Learning](https://github.com/lvwerra/trl)  
 - [Large Language Model (LLM) Primers Tutorial](https://www.linkedin.com/posts/amanc_artificialintelligence-machinelearning-ai-activity-7045245910850695168-Fp9K/?utm_source=share&utm_medium=member_android) [Great]  
+- [Dolly](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)  
+- [ColossalAI: Library for LLMs](https://github.com/hpcaitech/ColossalAI)  
+- [LangChain: Library for Building applications with LLMs](https://github.com/hwchase17/langchain)  
 
 ### Training & Using Large Language Models (LLMs) on Low Resource Machines:
 - [Cramming: Training a Language Model on a Single GPU in One Day](https://github.com/jonasgeiping/cramming) [**Great**]  
@@ -137,6 +140,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)  
 - [SparseGPT: Remove 100 Billion Parameters of LLMs](https://neuralmagic.com/blog/sparsegpt-remove-100-billion-parameters-for-free/)  
 - [xFormers: Toolbox to Accelerate Research on Transformers](https://github.com/facebookresearch/xformers)  
+- [LLaMA-Adapter: Efficient Fine-tuning of LLaMA (Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters)](https://github.com/ZrrSkywalker/LLaMA-Adapter)  
+- [GPT4All](https://github.com/nomic-ai/gpt4all) [Great]  
 
 
 ### Excellent & Easy to Learn Resources for Learning Transformers:
