@@ -104,6 +104,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [BorealisAI Transformers I: Introduction](https://www.borealisai.com/research-blogs/tutorial-14-transformers-i-introduction/)  
 - [OpenAI Best Practices for Deploying Language Models](https://openai.com/blog/best-practices-for-deploying-language-models/)  
 - [OPT-IML](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML)  
+- [Transformer Taxonomy](https://kipp.ly/blog/transformer-taxonomy/) [Great]  
 
 ### Reinforcement Learning from Human Feedback (RLHF):
 - [RLHF Tutorial](https://vinija.ai/toolkit/RLHF/)  
@@ -121,8 +122,11 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [TRL: Transformer Reinforcement Learning](https://github.com/lvwerra/trl)  
 - [Large Language Model (LLM) Primers Tutorial](https://www.linkedin.com/posts/amanc_artificialintelligence-machinelearning-ai-activity-7045245910850695168-Fp9K/?utm_source=share&utm_medium=member_android) [Great]  
 - [Dolly](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)  
+
+### Frameworks for Training Large Language Models (LLMs):
 - [ColossalAI: Library for LLMs](https://github.com/hpcaitech/ColossalAI)  
 - [LangChain: Library for Building applications with LLMs](https://github.com/hwchase17/langchain)  
+- [OpenFlamingo](https://github.com/mlfoundations/open_flamingo)  
 
 ### Training & Using Large Language Models (LLMs) on Low Resource Machines:
 - [Cramming: Training a Language Model on a Single GPU in One Day](https://github.com/jonasgeiping/cramming) [**Great**]  
@@ -142,6 +146,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [xFormers: Toolbox to Accelerate Research on Transformers](https://github.com/facebookresearch/xformers)  
 - [LLaMA-Adapter: Efficient Fine-tuning of LLaMA (Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters)](https://github.com/ZrrSkywalker/LLaMA-Adapter)  
 - [GPT4All](https://github.com/nomic-ai/gpt4all) [Great]  
+- [Vicuna web page](https://vicuna.lmsys.org/) [Great]   
+- [Vicuna GitHub: FastChat](https://github.com/lm-sys/FastChat)  
 
 
 ### Excellent & Easy to Learn Resources for Learning Transformers:
