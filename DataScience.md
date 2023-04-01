@@ -90,3 +90,4 @@ A Great Collection of Deep Learning Tutorials and Repositories for Data Science
 - [AWS Personalized Recommendation Model](https://aws.amazon.com/personalize/)  
 - [Microsoft Recommenders](https://github.com/microsoft/recommenders) [Great]  
 - [Monolith: Real Time Recommendation System of TikTok](https://arxiv.org/pdf/2209.07663.pdf)  
+- [Twitter's Recommendation Algorithm](https://github.com/twitter/the-algorithm-ml)  
