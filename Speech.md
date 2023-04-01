@@ -225,6 +225,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Multilingual Spoken Words](https://mlcommons.org/en/multilingual-spoken-words/)  
 - [PodcastMix: A dataset for separating music and speech in podcasts](https://github.com/MTG/Podcastmix)  
 - [Quran Speech to Text Dataset](https://www.openslr.org/132/)  
+- [WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset](https://github.com/xinhaomei/wavcaps)  
 
 # Other:
 - [Neural Target Speech Extraction (TSE)](https://butspeechfit.github.io/tse_tutorial/)  
