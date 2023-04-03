@@ -122,10 +122,12 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [TRL: Transformer Reinforcement Learning](https://github.com/lvwerra/trl)  
 - [Large Language Model (LLM) Primers Tutorial](https://www.linkedin.com/posts/amanc_artificialintelligence-machinelearning-ai-activity-7045245910850695168-Fp9K/?utm_source=share&utm_medium=member_android) [Great]  
 - [Dolly](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)  
+- [Microsoft JARVIS & HuggingGPT](https://github.com/microsoft/JARVIS) [Interesting]  
 
 ### Frameworks for Training Large Language Models (LLMs):
 - [ColossalAI: Library for LLMs](https://github.com/hpcaitech/ColossalAI)  
 - [LangChain: Library for Building applications with LLMs](https://github.com/hwchase17/langchain)  
+- [LangChain Chat](https://github.com/hwchase17/chat-langchain)  
 - [OpenFlamingo](https://github.com/mlfoundations/open_flamingo)  
 
 ### Training & Using Large Language Models (LLMs) on Low Resource Machines:
