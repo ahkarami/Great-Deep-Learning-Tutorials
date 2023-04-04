@@ -268,7 +268,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [ParlAI Evaluation Metrics for Chatbot](https://github.com/facebookresearch/ParlAI/blob/14a10258bf90218341e0253d1c5a88c9d2cd013f/docs/source/tutorial_metrics.md)  
 - [Chatbot Evaluation Metrics](https://github.com/ahkarami/Great-Deep-Learning-Tutorials/blob/master/NLP/Chatbot_Evaluation_Metrics.md) [**Great**]  
 
-### OpenAI ChatGPT:  
+### OpenAI ChatGPT & Its Applications:  
 - [OpenAI ChatGPT](https://openai.com/blog/chatgpt/) [Amazing]  
 - [Description of How OpenAI ChatGPT Works: Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://github.com/huggingface/blog/blob/main/rlhf.md)  
 - [How ChatGPT was Trained](https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-chatgpt-activity-7007019154666909696-T5WM/?utm_source=share&utm_medium=member_android)  
@@ -281,6 +281,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Chatgpt Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)  
 - [Trending AI Tools](https://galionaitools.blogspot.com/2023/03/trending-ai-tools.html)  
 - [Merlin: OpenAI ChatGPT Plus extension on all websites](https://merlin.foyer.work/)  
+- [Adrenaline](https://useadrenaline.com/app)  
 
 ## NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
