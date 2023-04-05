@@ -129,6 +129,14 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LangChain: Library for Building applications with LLMs](https://github.com/hwchase17/langchain)  
 - [LangChain Chat](https://github.com/hwchase17/chat-langchain)  
 - [OpenFlamingo](https://github.com/mlfoundations/open_flamingo)  
+- [Deepset Haystack Framework](https://github.com/deepset-ai/haystack)  
+
+### Build NLP Applications Powered by LLMs (Different Methods for Augmenting Knowledge to LLMs):
+- [Ask a Book Questions with LangChain PpenAI](https://bennycheung.github.io/ask-a-book-questions-with-langchain-openai) [Great]  
+- [OpenAI Web QA Embeddings](https://platform.openai.com/docs/tutorials/web-qa-embeddings)  
+- [Deepset Haystack Framework](https://github.com/deepset-ai/haystack)  
+- [Stanford Retrieval-based NLP](https://ai.stanford.edu/blog/retrieval-based-NLP/)  
+- [Hypothetical Document Embeddings (HyDE)](https://www.linkedin.com/posts/activity-7048838677438861312-8MFD/?utm_source=share&utm_medium=member_android)  
 
 ### Training & Using Large Language Models (LLMs) on Low Resource Machines:
 - [Cramming: Training a Language Model on a Single GPU in One Day](https://github.com/jonasgeiping/cramming) [**Great**]  
@@ -282,6 +290,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Trending AI Tools](https://galionaitools.blogspot.com/2023/03/trending-ai-tools.html)  
 - [Merlin: OpenAI ChatGPT Plus extension on all websites](https://merlin.foyer.work/)  
 - [Adrenaline](https://useadrenaline.com/app)  
+- [Using LLMs as agents that orchestrate tools](https://www.linkedin.com/posts/moritz-laurer_augmented-language-models-a-survey-activity-7047924951625953281-0XDj/?utm_source=share&utm_medium=member_android) [Interesting]  
 
 ## NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
