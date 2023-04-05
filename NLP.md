@@ -131,8 +131,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [OpenFlamingo](https://github.com/mlfoundations/open_flamingo)  
 - [Deepset Haystack Framework](https://github.com/deepset-ai/haystack)  
 
-### Build NLP Applications Powered by LLMs (Different Methods for Augmenting Knowledge to LLMs):
-- [Ask a Book Questions with LangChain PpenAI](https://bennycheung.github.io/ask-a-book-questions-with-langchain-openai) [Great]  
+### Building NLP Applications Powered by LLMs (Different Methods for Augmenting Knowledge to LLMs):
+- [Ask a Book Questions with LangChain OpenAI](https://bennycheung.github.io/ask-a-book-questions-with-langchain-openai) [Great]  
 - [OpenAI Web QA Embeddings](https://platform.openai.com/docs/tutorials/web-qa-embeddings)  
 - [Deepset Haystack Framework](https://github.com/deepset-ai/haystack)  
 - [Stanford Retrieval-based NLP](https://ai.stanford.edu/blog/retrieval-based-NLP/)  
