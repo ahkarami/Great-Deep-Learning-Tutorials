@@ -158,6 +158,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [GPT4All](https://github.com/nomic-ai/gpt4all) [Great]  
 - [Vicuna web page](https://vicuna.lmsys.org/) [Great]   
 - [Vicuna GitHub: FastChat](https://github.com/lm-sys/FastChat)  
+- [PetGPT](https://github.com/maziarraissi/PetGPT)  
 
 
 ### Excellent & Easy to Learn Resources for Learning Transformers:
@@ -291,6 +292,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Merlin: OpenAI ChatGPT Plus extension on all websites](https://merlin.foyer.work/)  
 - [Adrenaline](https://useadrenaline.com/app)  
 - [Using LLMs as agents that orchestrate tools](https://www.linkedin.com/posts/moritz-laurer_augmented-language-models-a-survey-activity-7047924951625953281-0XDj/?utm_source=share&utm_medium=member_android) [Interesting]  
+- [ChatGPT API Using Python](https://www.machinelearning-basics.com/2023/04/chatgpt-api-using-python.html?m=1)  
 
 ## NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
