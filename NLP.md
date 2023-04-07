@@ -123,13 +123,16 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Large Language Model (LLM) Primers Tutorial](https://www.linkedin.com/posts/amanc_artificialintelligence-machinelearning-ai-activity-7045245910850695168-Fp9K/?utm_source=share&utm_medium=member_android) [Great]  
 - [Dolly](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)  
 - [Microsoft JARVIS & HuggingGPT](https://github.com/microsoft/JARVIS) [Interesting]  
+- [open-source LLMs](https://www.linkedin.com/posts/sahar-mor_artificialintelligence-machinelearning-activity-7049789761728770049-QLsv/?utm_source=share&utm_medium=member_android)  
 
 ### Frameworks for Training Large Language Models (LLMs):
 - [ColossalAI: Library for LLMs](https://github.com/hpcaitech/ColossalAI)  
 - [LangChain: Library for Building applications with LLMs](https://github.com/hwchase17/langchain)  
 - [LangChain Chat](https://github.com/hwchase17/chat-langchain)  
+- [LangChain 101](https://www.linkedin.com/posts/munjal-patel_llm-chatgpt-machinelearning-activity-7049757220300800000-hH7I/?utm_source=share&utm_medium=member_android)  
 - [OpenFlamingo](https://github.com/mlfoundations/open_flamingo)  
 - [Deepset Haystack Framework](https://github.com/deepset-ai/haystack)  
+- [LMQL: A query language for programming LLMs](https://github.com/eth-sri/lmql)  
 
 ### Building NLP Applications Powered by LLMs (Different Methods for Augmenting Knowledge to LLMs):
 - [Ask a Book Questions with LangChain OpenAI](https://bennycheung.github.io/ask-a-book-questions-with-langchain-openai) [Great]  
@@ -159,6 +162,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Vicuna web page](https://vicuna.lmsys.org/) [Great]   
 - [Vicuna GitHub: FastChat](https://github.com/lm-sys/FastChat)  
 - [PetGPT](https://github.com/maziarraissi/PetGPT)  
+- [GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM)  
+- [baize Chatbot](https://github.com/project-baize/baize-chatbot)  
+- [Koala](https://github.com/young-geng/EasyLM#koala)  
+- [Lit-LLaMA](https://github.com/Lightning-AI/lit-llama)  
 
 
 ### Excellent & Easy to Learn Resources for Learning Transformers:
