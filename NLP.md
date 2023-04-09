@@ -25,6 +25,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [NLP Papers](https://github.com/AliAkbarBadri/nlp-papers)   
 - [A Great NLP Course](https://lena-voita.github.io/nlp_course.html)  
 - [KerasNLP: Modular NLP Workflows for Keras](https://github.com/keras-team/keras-nlp)  
+- [NLP Test: Deliver Safe & Effective Models](https://github.com/JohnSnowLabs/nlptest)  
 
 ## General Persian based libraries:
 - [Parsivar: library for Persian text preprocessing](https://github.com/ICTRC/Parsivar)   
