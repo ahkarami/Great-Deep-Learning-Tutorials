@@ -227,6 +227,14 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Quran Speech to Text Dataset](https://www.openslr.org/132/)  
 - [WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset](https://github.com/xinhaomei/wavcaps)  
 
+# Interesting Ideas about Startups with ASR:
+It is interesting how quickly people implement ideas. Like the one of `podcast transcript` with Whisper. Here is a selection:  
+- [podscript](https://podscript.ai/)  
+- [podtext](https://podtext.ai/)  
+- [podscription](https://podscription.app/)  
+- [podsearch](https://podsearch.page/)  
+- [Some Discussion Notes about above links](https://news.ycombinator.com/item?id=34727695)  
+
 # Other:
 - [Neural Target Speech Extraction (TSE)](https://butspeechfit.github.io/tse_tutorial/)  
 - [Audio Self-supervised Learning: A Survey](https://arxiv.org/abs/2203.01205)  
