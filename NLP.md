@@ -142,6 +142,14 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Stanford Retrieval-based NLP](https://ai.stanford.edu/blog/retrieval-based-NLP/)  
 - [Hypothetical Document Embeddings (HyDE)](https://www.linkedin.com/posts/activity-7048838677438861312-8MFD/?utm_source=share&utm_medium=member_android)  
 
+### Vector Database Libraries:
+- [weaviate](https://weaviate.io/)  
+- [weaviate GitHub](https://github.com/weaviate/weaviate)  
+- [chroma](https://github.com/chroma-core/chroma)  
+- [pinecone](https://www.pinecone.io/)  
+- [rektor-db](https://github.com/codediodeio/rektor-db)  
+- [pgvector](https://github.com/pgvector/pgvector)  
+
 ### Training & Using Large Language Models (LLMs) on Low Resource Machines:
 - [Cramming: Training a Language Model on a Single GPU in One Day](https://github.com/jonasgeiping/cramming) [**Great**]  
 - [Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](https://huggingface.co/blog/trl-peft) [**Great**]    
@@ -167,6 +175,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [baize Chatbot](https://github.com/project-baize/baize-chatbot)  
 - [Koala](https://github.com/young-geng/EasyLM#koala)  
 - [Lit-LLaMA](https://github.com/Lightning-AI/lit-llama)  
+- [Auto-GPT](https://github.com/Torantulino/Auto-GPT)  
+- [xTuring](https://github.com/stochasticai/xTuring)  
+- [GPTCache](https://github.com/zilliztech/gptcache)  
 
 
 ### Excellent & Easy to Learn Resources for Learning Transformers:
