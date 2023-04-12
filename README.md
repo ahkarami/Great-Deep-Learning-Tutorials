@@ -206,6 +206,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Microsoft UniLM AI](https://github.com/microsoft/unilm) [Great]   
 - [mlnotify: No need to keep checking your training](https://github.com/aporia-ai/mlnotify)  
 - [NVIDIA NeMo -  toolkit for creating Conversational AI (ASR, TTS, and NLP)](https://github.com/NVIDIA/NeMo)  
+- [Microsoft DeepSpeed](https://github.com/microsoft/DeepSpeed)  
 
 ## Great Models:
 - [ResNext WSL](https://pytorch.org/hub/facebookresearch_WSL-Images_resnext/) [_Great Pretrained Model_]  
