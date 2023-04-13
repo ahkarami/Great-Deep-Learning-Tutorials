@@ -179,6 +179,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT)  
 - [xTuring](https://github.com/stochasticai/xTuring)  
 - [GPTCache](https://github.com/zilliztech/gptcache)  
+- [Dolly-v2-12B](https://huggingface.co/databricks/dolly-v2-12b)  
 
 
 ### Excellent & Easy to Learn Resources for Learning Transformers:
