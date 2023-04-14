@@ -181,6 +181,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [GPTCache](https://github.com/zilliztech/gptcache)  
 - [Dolly-v2-12B](https://huggingface.co/databricks/dolly-v2-12b)  
 
+### LLM Applications:
+- [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)  
 
 ### Excellent & Easy to Learn Resources for Learning Transformers:
 - [e2eml transformers from scratch](https://e2eml.school/transformers.html) [**Excellent**]  
