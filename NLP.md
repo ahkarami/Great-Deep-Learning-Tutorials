@@ -184,6 +184,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ### LLM Applications:
 - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)  
 
+### Prompt Engineering:
+- [Different Kinds of Prompt Engineering](https://www.linkedin.com/posts/munjal-patel_generativeai-largelanguagemodels-llm-activity-7051862874935197696-2E_J/?utm_source=share&utm_medium=member_android)  
+
 ### Excellent & Easy to Learn Resources for Learning Transformers:
 - [e2eml transformers from scratch](https://e2eml.school/transformers.html) [**Excellent**]  
 - [annotated-transformer: Learning transformers from code](http://nlp.seas.harvard.edu/annotated-transformer/#a-first-example)  
