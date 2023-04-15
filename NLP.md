@@ -180,6 +180,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [xTuring](https://github.com/stochasticai/xTuring)  
 - [GPTCache](https://github.com/zilliztech/gptcache)  
 - [Dolly-v2-12B](https://huggingface.co/databricks/dolly-v2-12b)  
+- [Web LLM](https://github.com/mlc-ai/web-llm)  
 
 ### LLM Applications:
 - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)  
