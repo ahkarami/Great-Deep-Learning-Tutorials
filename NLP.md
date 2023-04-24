@@ -188,6 +188,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 
 ### Prompt Engineering:
 - [Different Kinds of Prompt Engineering](https://www.linkedin.com/posts/munjal-patel_generativeai-largelanguagemodels-llm-activity-7051862874935197696-2E_J/?utm_source=share&utm_medium=member_android)  
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)  
 
 ### Excellent & Easy to Learn Resources for Learning Transformers:
 - [e2eml transformers from scratch](https://e2eml.school/transformers.html) [**Excellent**]  
