@@ -76,6 +76,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 ### Vision-Language Models:
 - [Prismer: A Vision-Language Model](https://github.com/NVlabs/prismer)  
 - [ViperGPT: Visual Inference via Python Execution for Reasoning](https://github.com/cvlab-columbia/viper)  
+- [LLaVA: Large Language and Vision Assistant](https://llava-vl.github.io/)  
 
 ### Language-Vision Intelligence:
 - [Salesforce LAVIS: A Library for Language-Vision Intelligence](https://github.com/salesforce/LAVIS)  
