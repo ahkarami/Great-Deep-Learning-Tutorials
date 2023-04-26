@@ -125,6 +125,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Dolly](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)  
 - [Microsoft JARVIS & HuggingGPT](https://github.com/microsoft/JARVIS) [Interesting]  
 - [open-source LLMs](https://www.linkedin.com/posts/sahar-mor_artificialintelligence-machinelearning-activity-7049789761728770049-QLsv/?utm_source=share&utm_medium=member_android)  
+- [GPT4Free](https://github.com/xtekky/gpt4free)  
 
 ### Frameworks for Training Large Language Models (LLMs):
 - [ColossalAI: Library for LLMs](https://github.com/hpcaitech/ColossalAI)  
