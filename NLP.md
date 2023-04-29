@@ -128,7 +128,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [GPT4Free](https://github.com/xtekky/gpt4free)  
 - [HuggingChat](https://huggingface.co/chat/)  
 
-### Frameworks for Training Large Language Models (LLMs):
+### Frameworks for Training & Using Large Language Models (LLMs):
 - [ColossalAI: Library for LLMs](https://github.com/hpcaitech/ColossalAI)  
 - [LangChain: Library for Building applications with LLMs](https://github.com/hwchase17/langchain)  
 - [LangChain Chat](https://github.com/hwchase17/chat-langchain) 
@@ -138,6 +138,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Deepset Haystack Framework](https://github.com/deepset-ai/haystack)  
 - [LMQL: A query language for programming LLMs](https://github.com/eth-sri/lmql)  
 - [LLM Training Frameworks List](https://www.linkedin.com/posts/aboniasojasingarayar_llm-gpt3-framework-activity-7047449940192591872-3VYc/?utm_source=share&utm_medium=member_android)  
+- [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)  
 
 ### Building NLP Applications Powered by LLMs (Different Methods for Augmenting Knowledge to LLMs):
 - [Ask a Book Questions with LangChain OpenAI](https://bennycheung.github.io/ask-a-book-questions-with-langchain-openai) [Great]  
