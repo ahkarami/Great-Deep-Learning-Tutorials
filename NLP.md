@@ -127,6 +127,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [open-source LLMs](https://www.linkedin.com/posts/sahar-mor_artificialintelligence-machinelearning-activity-7049789761728770049-QLsv/?utm_source=share&utm_medium=member_android)  
 - [GPT4Free](https://github.com/xtekky/gpt4free)  
 - [HuggingChat](https://huggingface.co/chat/)  
+- [LaMini-LM: A Diverse Herd of Distilled Models](https://github.com/mbzuai-nlp/LaMini-LM/)  
 
 ### Frameworks for Training & Using Large Language Models (LLMs):
 - [ColossalAI: Library for LLMs](https://github.com/hpcaitech/ColossalAI)  
