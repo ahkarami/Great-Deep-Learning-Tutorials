@@ -104,6 +104,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Yolo-v5 vs EfficientDet](https://blog.roboflow.com/yolov5-is-here/)  
 - [MMRotate: OpenMMLab Rotated Object Detection](https://github.com/open-mmlab/mmrotate) [**Great**]  
 - [YOLO v7](https://github.com/WongKinYiu/yolov7)  
+- [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)  
+- [Yolov8 Tracking](https://github.com/mikel-brostrom/yolov8_tracking)  
+- [YOLO-NAS](https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md)  
 
 ### Augmentation for Object Detection & Instance Segmentation:
 - [Albumentations - Great Library for image augmentation and transformations](https://github.com/albumentations-team/albumentations)    
