@@ -129,6 +129,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [HuggingChat](https://huggingface.co/chat/)  
 - [LaMini-LM: A Diverse Herd of Distilled Models](https://github.com/mbzuai-nlp/LaMini-LM/)  
 - [RedPajama-Data: An Open Source Recipe to Reproduce LLaMA training dataset](https://github.com/togethercomputer/RedPajama-Data)  
+- [BigCode](https://huggingface.co/bigcode)  
 
 ### Frameworks for Training & Using Large Language Models (LLMs):
 - [ColossalAI: Library for LLMs](https://github.com/hpcaitech/ColossalAI)  
@@ -187,6 +188,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [GPTCache](https://github.com/zilliztech/gptcache)  
 - [Dolly-v2-12B](https://huggingface.co/databricks/dolly-v2-12b)  
 - [Web LLM](https://github.com/mlc-ai/web-llm)  
+
+### LLMs on Mobile Devices:
+- [MLC LLM](https://github.com/mlc-ai/mlc-llm)  
 
 ### LLM Applications:
 - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)  
