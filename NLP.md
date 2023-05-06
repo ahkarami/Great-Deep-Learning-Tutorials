@@ -130,6 +130,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LaMini-LM: A Diverse Herd of Distilled Models](https://github.com/mbzuai-nlp/LaMini-LM/)  
 - [RedPajama-Data: An Open Source Recipe to Reproduce LLaMA training dataset](https://github.com/togethercomputer/RedPajama-Data)  
 - [BigCode](https://huggingface.co/bigcode)  
+- [OpenLLaMA](https://github.com/openlm-research/open_llama)  
 
 ### Frameworks for Training & Using Large Language Models (LLMs):
 - [ColossalAI: Library for LLMs](https://github.com/hpcaitech/ColossalAI)  
