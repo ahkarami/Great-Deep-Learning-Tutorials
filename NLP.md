@@ -131,6 +131,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [RedPajama-Data: An Open Source Recipe to Reproduce LLaMA training dataset](https://github.com/togethercomputer/RedPajama-Data)  
 - [BigCode](https://huggingface.co/bigcode)  
 - [OpenLLaMA](https://github.com/openlm-research/open_llama)  
+- [MPT-7B Model with Commercial Licence](https://huggingface.co/mosaicml/mpt-7b/blob/main/README.md)  
+- [MPT-7B Story Writer](https://huggingface.co/mosaicml/mpt-7b-storywriter)  
+- [MPT-7B](https://github.com/mosaicml/llm-foundry)  
 
 ### Frameworks for Training & Using Large Language Models (LLMs):
 - [ColossalAI: Library for LLMs](https://github.com/hpcaitech/ColossalAI)  
