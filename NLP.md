@@ -134,6 +134,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [MPT-7B Model with Commercial Licence](https://huggingface.co/mosaicml/mpt-7b/blob/main/README.md)  
 - [MPT-7B Story Writer](https://huggingface.co/mosaicml/mpt-7b-storywriter)  
 - [MPT-7B](https://github.com/mosaicml/llm-foundry)  
+- [MPT-7B Blog](https://www.mosaicml.com/blog/mpt-7b)  
 - [Open LLMs](https://github.com/eugeneyan/open-llms)  
 
 ### Frameworks for Training & Using Large Language Models (LLMs):
