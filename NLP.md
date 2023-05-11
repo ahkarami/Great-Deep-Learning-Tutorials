@@ -337,6 +337,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Adrenaline](https://useadrenaline.com/app)  
 - [Using LLMs as agents that orchestrate tools](https://www.linkedin.com/posts/moritz-laurer_augmented-language-models-a-survey-activity-7047924951625953281-0XDj/?utm_source=share&utm_medium=member_android) [Interesting]  
 - [ChatGPT API Using Python](https://www.machinelearning-basics.com/2023/04/chatgpt-api-using-python.html?m=1)  
+- [Notes on the cost of ChatGPT](https://www.linkedin.com/posts/laurencevanelegem_sam-altman-ceo-of-openai-dropped-a-at-activity-7061987804548870144-RF9y/?utm_source=share&utm_medium=member_android)  
 
 ## NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
