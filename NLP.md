@@ -144,11 +144,13 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LangChain Chat](https://github.com/hwchase17/chat-langchain) 
 - [LangChain Crash Course](https://www.youtube.com/watch?v=LbT1yp6quS8)  
 - [LangChain 101](https://www.linkedin.com/posts/munjal-patel_llm-chatgpt-machinelearning-activity-7049757220300800000-hH7I/?utm_source=share&utm_medium=member_android)  
+- [LangChain Resources](https://www.linkedin.com/posts/sonali-pattnaik_generativeai-ai-activity-7063160223967973376-3K0P/?utm_source=share&utm_medium=member_android)  
 - [OpenFlamingo](https://github.com/mlfoundations/open_flamingo)  
 - [Deepset Haystack Framework](https://github.com/deepset-ai/haystack)  
 - [LMQL: A query language for programming LLMs](https://github.com/eth-sri/lmql)  
 - [LLM Training Frameworks List](https://www.linkedin.com/posts/aboniasojasingarayar_llm-gpt3-framework-activity-7047449940192591872-3VYc/?utm_source=share&utm_medium=member_android)  
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)  
+- [Lamini: The LLM engine for rapidly customizing models](https://github.com/lamini-ai/lamini)  
 
 ### LLMs Courses & Tutorials:
 - [LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)  
