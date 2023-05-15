@@ -154,6 +154,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 
 ### LLMs Courses & Tutorials:
 - [LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)  
+- [LLM University](https://docs.cohere.com/docs/llmu)  
+
+### LLMs Ranking:
+- [Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-10-leaderboard/)  
 
 ### Building NLP Applications Powered by LLMs (Different Methods for Augmenting Knowledge to LLMs):
 - [Ask a Book Questions with LangChain OpenAI](https://bennycheung.github.io/ask-a-book-questions-with-langchain-openai) [Great]  
