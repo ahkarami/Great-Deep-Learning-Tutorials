@@ -170,6 +170,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [weaviate](https://weaviate.io/)  
 - [weaviate GitHub](https://github.com/weaviate/weaviate)  
 - [chroma](https://github.com/chroma-core/chroma)  
+- [Qdrant: Vector Database for AI Applications](https://github.com/qdrant/qdrant)  
 - [pinecone](https://www.pinecone.io/)  
 - [rektor-db](https://github.com/codediodeio/rektor-db)  
 - [pgvector](https://github.com/pgvector/pgvector)  
