@@ -138,6 +138,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Open LLMs](https://github.com/eugeneyan/open-llms)  
 - [Google PaLM 2](https://ai.google/discover/palm2)  
 
+### 100K Tokens LLMs:
+- [Claude LLM](https://www.linkedin.com/posts/itamar-g1_anthropic-openais-biggest-rivalry-just-activity-7063773334831775744-cQ4L/?utm_source=share&utm_medium=member_android)  
+
 ### Frameworks for Training & Using Large Language Models (LLMs):
 - [ColossalAI: Library for LLMs](https://github.com/hpcaitech/ColossalAI)  
 - [LangChain: Library for Building applications with LLMs](https://github.com/hwchase17/langchain)  
