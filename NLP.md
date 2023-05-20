@@ -137,6 +137,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [MPT-7B Blog](https://www.mosaicml.com/blog/mpt-7b)  
 - [Open LLMs](https://github.com/eugeneyan/open-llms)  
 - [Google PaLM 2](https://ai.google/discover/palm2)  
+- [ChatALL](https://github.com/sunner/ChatALL)  
 
 ### 100K Tokens LLMs:
 - [Claude LLM](https://www.linkedin.com/posts/itamar-g1_anthropic-openais-biggest-rivalry-just-activity-7063773334831775744-cQ4L/?utm_source=share&utm_medium=member_android)  
@@ -154,6 +155,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LLM Training Frameworks List](https://www.linkedin.com/posts/aboniasojasingarayar_llm-gpt3-framework-activity-7047449940192591872-3VYc/?utm_source=share&utm_medium=member_android)  
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)  
 - [Lamini: The LLM engine for rapidly customizing models](https://github.com/lamini-ai/lamini)  
+- [Scikit-LLM: Sklearn Meets Large Language Models](https://github.com/iryna-kondr/scikit-llm)  
 
 ### LLMs Courses & Tutorials:
 - [LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)  
