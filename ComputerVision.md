@@ -270,6 +270,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [StyleGAN2](https://github.com/EvgenyKashin/stylegan2-distillation)  
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab)   
 - [imagen-pytorch: Google's Text-to-Image Neural Network](https://github.com/lucidrains/imagen-pytorch) [Great]  
+- [DragGAN](https://github.com/XingangPan/DragGAN)  
 
 ## Image Super-Resolution:
 - [Image Super-Resolution: A Comprehensive Review](https://blog.paperspace.com/image-super-resolution/)  
