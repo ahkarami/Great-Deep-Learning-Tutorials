@@ -137,6 +137,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [MPT-7B Blog](https://www.mosaicml.com/blog/mpt-7b)  
 - [Open LLMs](https://github.com/eugeneyan/open-llms)  
 - [Google PaLM 2](https://ai.google/discover/palm2)  
+- [BLOOMChat](https://github.com/sambanova/bloomchat)  
 - [ChatALL](https://github.com/sunner/ChatALL)  
 
 ### 100K Tokens LLMs:
@@ -220,6 +221,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ### Prompt Engineering:
 - [Different Kinds of Prompt Engineering](https://www.linkedin.com/posts/munjal-patel_generativeai-largelanguagemodels-llm-activity-7051862874935197696-2E_J/?utm_source=share&utm_medium=member_android)  
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)  
+
+### LLM-based Recommender Systems:
+- [ChatGPT-based Recommender Systems](https://blog.reachsumit.com/posts/2023/05/chatgpt-for-recsys/)  
 
 ### Excellent & Easy to Learn Resources for Learning Transformers:
 - [e2eml transformers from scratch](https://e2eml.school/transformers.html) [**Excellent**]  
