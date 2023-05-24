@@ -57,6 +57,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Larynx: A fast, local neural TTS](https://github.com/rhasspy/larynx2)  
 - [BigVGAN: A Universal Neural Vocoder with Large-Scale Training](https://github.com/NVIDIA/BigVGAN)  
 - [Bark: Text-Prompted Generative Audio Model](https://github.com/suno-ai/bark)  
+- [FaceBook Massively Multilingual Speech (MMS)](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)  
 
 ## Automatic Speech Recognition (ASR) & Speech to Text (STT):
 - [OpenSpeech](https://github.com/openspeech-team/openspeech) [Great]   
@@ -95,6 +96,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Explanation of OpenAI whisper ASR Model](https://www.linkedin.com/posts/aladdin-persson-a95384153_a-couple-of-months-ago-openai-released-its-activity-7009429017552375808-6zCI/?utm_source=share&utm_medium=member_android)  
 - [High-performance inference of Whisper ASR Model](https://github.com/Const-me/Whisper)  
 - [Google Universal Speech Model (USM)](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html?m=1)  
+- [FaceBook Massively Multilingual Speech (MMS)](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)  
 
 ### ASR Language Modeling:
 - [An Empirical Study of Language Model Integration for Transducer based Speech Recognition](https://arxiv.org/pdf/2203.16776.pdf)  
