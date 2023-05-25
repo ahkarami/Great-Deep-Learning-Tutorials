@@ -211,6 +211,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [GPTCache](https://github.com/zilliztech/gptcache)  
 - [Dolly-v2-12B](https://huggingface.co/databricks/dolly-v2-12b)  
 - [Web LLM](https://github.com/mlc-ai/web-llm)  
+- [QLoRA: Efficient Finetuning of Quantized LLMs](https://github.com/artidoro/qlora)  
 
 ### LLMs on Mobile Devices:
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm)  
