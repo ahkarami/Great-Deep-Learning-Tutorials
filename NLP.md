@@ -183,6 +183,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [pinecone](https://www.pinecone.io/)  
 - [rektor-db](https://github.com/codediodeio/rektor-db)  
 - [pgvector](https://github.com/pgvector/pgvector)  
+- [LlamaIndex: comprehensive toolkit to perform data augmentation for LLMs](https://github.com/jerryjliu/llama_index)  
 
 ### Training & Using Large Language Models (LLMs) on Low Resource Machines:
 - [Cramming: Training a Language Model on a Single GPU in One Day](https://github.com/jonasgeiping/cramming) [**Great**]  
