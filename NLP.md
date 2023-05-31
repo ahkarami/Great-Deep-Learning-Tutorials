@@ -159,6 +159,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Lamini: The LLM engine for rapidly customizing models](https://github.com/lamini-ai/lamini)  
 - [Scikit-LLM: Sklearn Meets Large Language Models](https://github.com/iryna-kondr/scikit-llm)  
 - [Chainlit](https://github.com/Chainlit/chainlit)  
+- [HuggingFace Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents)  
 
 ### LLMs Courses & Tutorials:
 - [LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)  
@@ -209,6 +210,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM)  
 - [baize Chatbot](https://github.com/project-baize/baize-chatbot)  
 - [Koala](https://github.com/young-geng/EasyLM#koala)  
+- [Gorilla: An API store for LLMs](https://github.com/ShishirPatil/gorilla)  
 - [Lit-LLaMA](https://github.com/Lightning-AI/lit-llama)  
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT)  
 - [xTuring](https://github.com/stochasticai/xTuring)  
