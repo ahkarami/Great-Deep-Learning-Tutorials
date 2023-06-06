@@ -140,6 +140,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [BLOOMChat](https://github.com/sambanova/bloomchat)  
 - [ChatALL](https://github.com/sunner/ChatALL)  
 - [Falcon LLM](https://falconllm.tii.ae/)  
+- [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon) [Great]  
 
 ### 100K Tokens LLMs:
 - [Claude LLM](https://www.linkedin.com/posts/itamar-g1_anthropic-openais-biggest-rivalry-just-activity-7063773334831775744-cQ4L/?utm_source=share&utm_medium=member_android)  
