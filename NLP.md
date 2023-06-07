@@ -176,6 +176,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Deepset Haystack Framework](https://github.com/deepset-ai/haystack)  
 - [Stanford Retrieval-based NLP](https://ai.stanford.edu/blog/retrieval-based-NLP/)  
 - [Hypothetical Document Embeddings (HyDE)](https://www.linkedin.com/posts/activity-7048838677438861312-8MFD/?utm_source=share&utm_medium=member_android)  
+- [ChatDB: Augmenting LLMs with Databases](https://chatdatabase.github.io/)  
 
 ### Vector Database Libraries:
 - [weaviate](https://weaviate.io/)  
