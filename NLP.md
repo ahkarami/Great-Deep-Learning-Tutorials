@@ -220,6 +220,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Dolly-v2-12B](https://huggingface.co/databricks/dolly-v2-12b)  
 - [Web LLM](https://github.com/mlc-ai/web-llm)  
 - [QLoRA: Efficient Finetuning of Quantized LLMs](https://github.com/artidoro/qlora)  
+- [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://github.com/mit-han-lab/llm-awq)  
 
 ### LLMs on Mobile Devices:
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm)  
