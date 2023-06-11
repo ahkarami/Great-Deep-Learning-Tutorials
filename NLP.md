@@ -236,6 +236,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ### LLM-based Recommender Systems:
 - [ChatGPT-based Recommender Systems](https://blog.reachsumit.com/posts/2023/05/chatgpt-for-recsys/)  
 
+### LLM Data Sets:
+- [SlimPajama: A 627B token cleaned and deduplicated version of RedPajama](https://www.cerebras.net/blog/slimpajama-a-627b-token-cleaned-and-deduplicated-version-of-redpajama)  
+
 ### Excellent & Easy to Learn Resources for Learning Transformers:
 - [e2eml transformers from scratch](https://e2eml.school/transformers.html) [**Excellent**]  
 - [annotated-transformer: Learning transformers from code](http://nlp.seas.harvard.edu/annotated-transformer/#a-first-example)  
