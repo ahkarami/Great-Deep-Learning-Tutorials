@@ -60,7 +60,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [VISSL - VIsion library for state-of-the-art Self-Supervised Learning](https://vissl.ai/)  
 - [VISSL - GitHub](https://github.com/facebookresearch/vissl)  
 - [DINO: Self-Supervised Vision Transformers](https://github.com/facebookresearch/dino)  
-- [DINOv2: Learning Robust Visual Features without Supervision](https://github.com/facebookresearch/dinov2)  
+- [DINOv2: Learning Robust Visual Features without Supervision](https://github.com/facebookresearch/dinov2)
+- [I-JEPA (the Image-based Joint-Embedding Predictive Architecture)](https://github.com/facebookresearch/ijepa)  
 
 ## Transformers in Computer Vision:
 - [Vision Transformers Tutorial](https://blog.paperspace.com/vision-transformers/) [**Great**]   
