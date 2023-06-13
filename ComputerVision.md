@@ -73,10 +73,11 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [OpenAI CLIP](https://github.com/openai/CLIP)  
 - [Transformers: from NLP to CV](https://github.com/IbrahimSobh/Transformers) [**Very Great & Excellent**]   
 
-### Vision-Language Models:
+### Vision-Language Models (LLMs in Image & Computer Vision):
 - [Prismer: A Vision-Language Model](https://github.com/NVlabs/prismer)  
 - [ViperGPT: Visual Inference via Python Execution for Reasoning](https://github.com/cvlab-columbia/viper)  
 - [LLaVA: Large Language and Vision Assistant](https://llava-vl.github.io/)  
+- [ImageBind-LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM)  
 
 ### Language-Vision Intelligence:
 - [Salesforce LAVIS: A Library for Language-Vision Intelligence](https://github.com/salesforce/LAVIS)  
