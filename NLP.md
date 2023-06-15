@@ -159,7 +159,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)  
 - [Lamini: The LLM engine for rapidly customizing models](https://github.com/lamini-ai/lamini)  
 - [Scikit-LLM: Sklearn Meets Large Language Models](https://github.com/iryna-kondr/scikit-llm)  
-- [Chainlit](https://github.com/Chainlit/chainlit)  
+- [Chainlit](https://github.com/Chainlit/chainlit)
+- [LangKit: an open-source text metrics toolkit for monitoring language models](https://github.com/whylabs/langkit)  
 - [HuggingFace Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents)  
 
 ### LLMs Courses & Tutorials:
