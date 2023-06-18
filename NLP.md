@@ -162,7 +162,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Scikit-LLM: Sklearn Meets Large Language Models](https://github.com/iryna-kondr/scikit-llm)  
 - [Chainlit](https://github.com/Chainlit/chainlit)
 - [LangKit: an open-source text metrics toolkit for monitoring language models](https://github.com/whylabs/langkit)  
-- [HuggingFace Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents)  
+- [HuggingFace Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents)
+- [privateGPT: Ask questions to your documents using the power of LLMs](https://github.com/imartinez/privateGPT)  
 
 ### LLMs Courses & Tutorials:
 - [LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)  
