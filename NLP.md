@@ -138,8 +138,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [MPT-7B Blog](https://www.mosaicml.com/blog/mpt-7b)  
 - [Open LLMs](https://github.com/eugeneyan/open-llms)  
 - [Google PaLM 2](https://ai.google/discover/palm2)  
-- [BLOOMChat](https://github.com/sambanova/bloomchat)  
-- [ChatALL](https://github.com/sunner/ChatALL)  
+- [BLOOMChat](https://github.com/sambanova/bloomchat)
+- [LLMs Practical Guide](https://github.com/Mooler0410/LLMsPracticalGuide)  
+- [ChatALL](https://github.com/sunner/ChatALL) [Great]   
 - [Falcon LLM](https://falconllm.tii.ae/)  
 - [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon) [Great]  
 
