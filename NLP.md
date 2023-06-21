@@ -139,7 +139,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Open LLMs](https://github.com/eugeneyan/open-llms)  
 - [Google PaLM 2](https://ai.google/discover/palm2)  
 - [BLOOMChat](https://github.com/sambanova/bloomchat)
-- [LLMs Practical Guide](https://github.com/Mooler0410/LLMsPracticalGuide)  
+- [LLMs Practical Guide](https://github.com/Mooler0410/LLMsPracticalGuide)
+- [FrugalGPT](https://www.linkedin.com/posts/sanyambhutani_saving-98-llm-usage-costs-stanford-activity-7062420577357037568-t0a8/?utm_source=share&utm_medium=member_android)  
 - [ChatALL](https://github.com/sunner/ChatALL) [Great]   
 - [Falcon LLM](https://falconllm.tii.ae/)  
 - [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon) [Great]  
