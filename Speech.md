@@ -98,8 +98,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Google Universal Speech Model (USM)](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html?m=1)  
 - [FaceBook Massively Multilingual Speech (MMS)](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)  
 
-### ASR Language Modeling:
+### Speech Language Modeling:
 - [An Empirical Study of Language Model Integration for Transducer based Speech Recognition](https://arxiv.org/pdf/2203.16776.pdf)  
+- [AudioPaLM](https://google-research.github.io/seanet/audiopalm/examples/)  
 
 ### Persian ASR Repos:
 - [wav2vec2-fa](https://github.com/Hamtech-ai/wav2vec2-fa)  
