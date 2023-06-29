@@ -157,6 +157,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LangChain Crash Course](https://www.youtube.com/watch?v=LbT1yp6quS8)  
 - [LangChain 101](https://www.linkedin.com/posts/munjal-patel_llm-chatgpt-machinelearning-activity-7049757220300800000-hH7I/?utm_source=share&utm_medium=member_android)  
 - [LangChain Resources](https://www.linkedin.com/posts/sonali-pattnaik_generativeai-ai-activity-7063160223967973376-3K0P/?utm_source=share&utm_medium=member_android)  
+- [LangChain & Vector Databases in Production Course](https://learn.activeloop.ai/courses/langchain)  
 - [OpenFlamingo](https://github.com/mlfoundations/open_flamingo)  
 - [Deepset Haystack Framework](https://github.com/deepset-ai/haystack)  
 - [LMQL: A query language for programming LLMs](https://github.com/eth-sri/lmql)  
