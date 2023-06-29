@@ -108,7 +108,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Transformer Taxonomy](https://kipp.ly/blog/transformer-taxonomy/) [Great]  
 
 ### Reinforcement Learning from Human Feedback (RLHF):
-- [RLHF Tutorial](https://vinija.ai/concepts/RLHF/)  
+- [RLHF Tutorial](https://vinija.ai/concepts/RLHF/)
+- [New method instead of RLHF: Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://www.linkedin.com/posts/yoelzeldes_to-get-llms-as-good-as-openais-gpt-4-is-activity-7078958558519656451-N6Wo/?utm_source=share&utm_medium=member_android)  
 
 ### Large Language Models (LLMs):
 - [LLaMA](https://github.com/facebookresearch/llama)  
