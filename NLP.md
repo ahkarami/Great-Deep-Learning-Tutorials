@@ -175,6 +175,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ### LLMs Courses & Tutorials:
 - [LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)  
 - [LLM University](https://docs.cohere.com/docs/llmu)  
+- [List of LLM Courses](https://www.linkedin.com/posts/srijankr_ai-llm-activity-7080929772523966464-Le4u/?utm_source=share&utm_medium=member_android)  
 
 ### LLMs Ranking:
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)  
