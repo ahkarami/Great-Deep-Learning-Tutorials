@@ -80,6 +80,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [LLaVA: Large Language and Vision Assistant](https://llava-vl.github.io/)  
 - [ImageBind-LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM)  
 
+### Multi-Modal LLMs:
+- [CoDi: Any-to-Any Generation via Composable Diffusion](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)  
+
 ### Language-Vision Intelligence:
 - [Salesforce LAVIS: A Library for Language-Vision Intelligence](https://github.com/salesforce/LAVIS)  
 
