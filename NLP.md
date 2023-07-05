@@ -232,7 +232,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [xTuring](https://github.com/stochasticai/xTuring)  
 - [GPTCache](https://github.com/zilliztech/gptcache)  
 - [Dolly-v2-12B](https://huggingface.co/databricks/dolly-v2-12b)  
-- [Web LLM](https://github.com/mlc-ai/web-llm)  
+- [Web LLM](https://github.com/mlc-ai/web-llm)
+- [P-tuning v2](https://github.com/THUDM/P-tuning-v2)  
 - [QLoRA: Efficient Finetuning of Quantized LLMs](https://github.com/artidoro/qlora)  
 - [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://github.com/mit-han-lab/llm-awq)  
 
