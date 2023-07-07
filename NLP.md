@@ -145,7 +145,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [ChatALL](https://github.com/sunner/ChatALL) [Great]   
 - [Falcon LLM](https://falconllm.tii.ae/)  
 - [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon) [Great]  
-- [Open LLMs](https://github.com/eugeneyan/open-llms) [Great]  
+- [Open LLMs](https://github.com/eugeneyan/open-llms) [Great]
+- [OpenLLMs: Less is More for Open-source Models](https://github.com/imoneoi/openchat) [Great]  
 
 ### 100K Tokens LLMs:
 - [Claude LLM](https://www.linkedin.com/posts/itamar-g1_anthropic-openais-biggest-rivalry-just-activity-7063773334831775744-cQ4L/?utm_source=share&utm_medium=member_android)
@@ -180,7 +181,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 
 ### LLMs Ranking:
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)  
-- [Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-10-leaderboard/)  
+- [Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-10-leaderboard/)
+- [AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)  
 
 ### Building NLP Applications Powered by LLMs (Different Methods for Augmenting Knowledge to LLMs):
 - [Ask a Book Questions with LangChain OpenAI](https://bennycheung.github.io/ask-a-book-questions-with-langchain-openai) [Great]  
