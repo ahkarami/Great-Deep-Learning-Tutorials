@@ -81,7 +81,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [ImageBind-LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM)  
 
 ### Multi-Modal LLMs:
-- [CoDi: Any-to-Any Generation via Composable Diffusion](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)  
+- [CoDi: Any-to-Any Generation via Composable Diffusion](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)
+- [kosmos-2: Grounding Multimodal Large Language Models to the World](https://github.com/microsoft/unilm/tree/master/kosmos-2)  
 
 ### Language-Vision Intelligence:
 - [Salesforce LAVIS: A Library for Language-Vision Intelligence](https://github.com/salesforce/LAVIS)  
