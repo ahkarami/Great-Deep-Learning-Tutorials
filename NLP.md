@@ -175,7 +175,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [HuggingFace Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents)
 - [privateGPT: Ask questions to your documents using the power of LLMs](https://github.com/imartinez/privateGPT)  
 - [Spacy LLM](https://github.com/explosion/spacy-llm)  
-- [Lit-GPT](https://github.com/Lightning-AI/lit-gpt)  
+- [Lit-GPT](https://github.com/Lightning-AI/lit-gpt)
+- [GPTCache: A Library for Creating Semantic Cache for LLM Queries](https://github.com/zilliztech/GPTCache/tree/main)  
 
 ### LLMs Courses & Tutorials:
 - [LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)  
