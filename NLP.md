@@ -151,6 +151,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ### 100K Tokens LLMs:
 - [Claude LLM](https://www.linkedin.com/posts/itamar-g1_anthropic-openais-biggest-rivalry-just-activity-7063773334831775744-cQ4L/?utm_source=share&utm_medium=member_android)
 - [Some Notes about the 100K Claude LLM Model](https://www.linkedin.com/posts/sahar-mor_claude-a-gpt-competitor-from-anthropic-activity-7062811160168841216-z4u9/?utm_source=share&utm_medium=member_android)
+- [Anthropic's Claude-2](https://www.anthropic.com/index/claude-2)  
+- [Claude-2, Anthropic's ChatGPT competitor](https://www.linkedin.com/posts/ugcPost-7084607703137857537-K9Ln?utm_source=share&utm_medium=member_desktop)  
 - [LongNet: Scaling Transformers to 1B Tokens](https://arxiv.org/abs/2307.02486)
 - [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/abs//2307.03172)  
 - [Notes about How Language Models Use Long Contexts](https://www.linkedin.com/posts/sebastianraschka_llm-ai-machinelearning-activity-7083427280605089792-MS_N/?utm_source=share&utm_medium=member_android)  
