@@ -178,6 +178,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Lit-GPT](https://github.com/Lightning-AI/lit-gpt)
 - [GPTCache: A Library for Creating Semantic Cache for LLM Queries](https://github.com/zilliztech/GPTCache/tree/main)  
 
+### LLMS for Coding:
+- [CodeGen](https://github.com/salesforce/CodeGen)  
+
 ### LLMs Courses & Tutorials:
 - [LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)  
 - [LLM University](https://docs.cohere.com/docs/llmu)  
