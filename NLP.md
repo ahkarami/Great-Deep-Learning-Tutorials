@@ -156,7 +156,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Claude-2, Anthropic's ChatGPT competitor](https://www.linkedin.com/posts/ugcPost-7084607703137857537-K9Ln?utm_source=share&utm_medium=member_desktop)  
 - [LongNet: Scaling Transformers to 1B Tokens](https://arxiv.org/abs/2307.02486)
 - [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/abs//2307.03172)  
-- [Notes about How Language Models Use Long Contexts](https://www.linkedin.com/posts/sebastianraschka_llm-ai-machinelearning-activity-7083427280605089792-MS_N/?utm_source=share&utm_medium=member_android)  
+- [Notes about How Language Models Use Long Contexts](https://www.linkedin.com/posts/sebastianraschka_llm-ai-machinelearning-activity-7083427280605089792-MS_N/?utm_source=share&utm_medium=member_android)
+- [Scaling LLaMA and GPTNeoX to >8k input context](https://www.linkedin.com/posts/gante_scaling-llama-and-gptneox-to-8k-input-context-activity-7085545793050320896-8OKi/?utm_source=share&utm_medium=member_android)  
 
 ### Frameworks for Training & Using Large Language Models (LLMs):
 - [ColossalAI: Library for LLMs](https://github.com/hpcaitech/ColossalAI)  
