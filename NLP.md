@@ -175,6 +175,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Lamini: The LLM engine for rapidly customizing models](https://github.com/lamini-ai/lamini)  
 - [Scikit-LLM: Sklearn Meets Large Language Models](https://github.com/iryna-kondr/scikit-llm)  
 - [Chainlit](https://github.com/Chainlit/chainlit)
+- [ChatUI](https://github.com/alibaba/ChatUI)  
 - [LangKit: an open-source text metrics toolkit for monitoring language models](https://github.com/whylabs/langkit)  
 - [HuggingFace Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents)
 - [privateGPT: Ask questions to your documents using the power of LLMs](https://github.com/imartinez/privateGPT)  
