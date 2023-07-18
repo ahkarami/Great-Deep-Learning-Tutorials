@@ -147,7 +147,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon) [Great]  
 - [Open LLMs](https://github.com/eugeneyan/open-llms) [Great]
 - [OpenLLMs: Less is More for Open-source Models](https://github.com/imoneoi/openchat) [Great]
-- [LLaMA2](https://www.llama2.ai/)  
+- [LLaMA2](https://www.llama2.ai/)
+- [source code of llama2-chatbot](https://github.com/a16z-infra/llama2-chatbot/tree/main)  
 - [Notes about OpenAI's GPT-4 Model](https://www.linkedin.com/posts/aleksagordic_openais-gpt-4-details-have-apparently-been-activity-7085226267712614400-T1d3/?utm_source=share&utm_medium=member_android)  
 
 ### 100K Tokens LLMs:
@@ -176,7 +177,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Lamini: The LLM engine for rapidly customizing models](https://github.com/lamini-ai/lamini)  
 - [Scikit-LLM: Sklearn Meets Large Language Models](https://github.com/iryna-kondr/scikit-llm)  
 - [Chainlit](https://github.com/Chainlit/chainlit)
-- [ChatUI](https://github.com/alibaba/ChatUI)  
+- [ChatUI](https://github.com/alibaba/ChatUI)
+- [Streamlit-Chat](https://github.com/AI-Yash/st-chat)  
 - [LangKit: an open-source text metrics toolkit for monitoring language models](https://github.com/whylabs/langkit)  
 - [HuggingFace Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents)
 - [privateGPT: Ask questions to your documents using the power of LLMs](https://github.com/imartinez/privateGPT)  
