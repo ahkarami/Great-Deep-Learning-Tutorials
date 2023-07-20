@@ -407,7 +407,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [ChatGPT API Using Python](https://www.machinelearning-basics.com/2023/04/chatgpt-api-using-python.html?m=1)  
 - [parthean: A Startup about Financial Expert via ChatGPT](https://www.parthean.com/)  
 - [Notes on the cost of ChatGPT](https://www.linkedin.com/posts/laurencevanelegem_sam-altman-ceo-of-openai-dropped-a-at-activity-7061987804548870144-RF9y/?utm_source=share&utm_medium=member_android)  
-- [Ortus - your YouTube AI buddy](https://chrome.google.com/webstore/detail/ortus-your-youtube-ai-bud/jmpepfdhkjkknfpnfohnmnjoceepcbmp)  
+- [Ortus - your YouTube AI buddy](https://chrome.google.com/webstore/detail/ortus-your-youtube-ai-bud/jmpepfdhkjkknfpnfohnmnjoceepcbmp)
+- [How Is ChatGPT’s Behavior Changing over Time?](https://www.linkedin.com/posts/svpino_gpt-4-is-getting-worse-over-time-not-better-activity-7087379892077481984-uORp?utm_source=share&utm_medium=member_android)
+- [LLM Drifts: How Is ChatGPT’s Behavior Changing over Time?](https://github.com/lchen001/LLMDrift)  
 
 ## NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
