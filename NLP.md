@@ -185,7 +185,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [privateGPT: Ask questions to your documents using the power of LLMs](https://github.com/imartinez/privateGPT)  
 - [Spacy LLM](https://github.com/explosion/spacy-llm)  
 - [Lit-GPT](https://github.com/Lightning-AI/lit-gpt)
-- [GPTCache: A Library for Creating Semantic Cache for LLM Queries](https://github.com/zilliztech/GPTCache/tree/main)  
+- [GPTCache: A Library for Creating Semantic Cache for LLM Queries](https://github.com/zilliztech/GPTCache/tree/main)
+- [AutoTrain-Advanced](https://github.com/huggingface/autotrain-advanced)  
 
 ### LLMS for Coding:
 - [CodeGen](https://github.com/salesforce/CodeGen)  
