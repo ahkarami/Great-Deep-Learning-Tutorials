@@ -152,6 +152,15 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [source code of llama2-chatbot](https://github.com/a16z-infra/llama2-chatbot/tree/main)  
 - [Notes about OpenAI's GPT-4 Model](https://www.linkedin.com/posts/aleksagordic_openais-gpt-4-details-have-apparently-been-activity-7085226267712614400-T1d3/?utm_source=share&utm_medium=member_android)  
 
+### LLaMA2 Related Links:
+- [A colab gradio web UI for running Large Language Models](https://github.com/camenduru/text-generation-webui-colab) [Great]  
+- [llama-2-7b-chat-GPTQ-4bit](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/llama-2-7b-chat-GPTQ-4bit.ipynb)
+- [camenduru](https://github.com/camenduru)
+- [llama-2 philschmid](https://www.philschmid.de/llama-2)
+- [fine-tuning LLMs with TRL](https://www.linkedin.com/posts/lvwerra_it-crazy-how-far-the-ml-field-has-come-when-activity-7087699813009383425-Sr1y/?utm_source=share&utm_medium=member_android)
+- [lora tuning peft finetuning llama2](https://huggingface.co/docs/trl/main/en/lora_tuning_peft#finetuning-llama2-model)
+- [LLaMA2 with PEFT](https://www.linkedin.com/posts/gante_unleash-the-true-llama-2-potential-from-day-activity-7087363261666328577-38jV/?utm_source=share&utm_medium=member_android)
+
 ### 100K Tokens LLMs:
 - [Claude LLM](https://www.linkedin.com/posts/itamar-g1_anthropic-openais-biggest-rivalry-just-activity-7063773334831775744-cQ4L/?utm_source=share&utm_medium=member_android)
 - [Some Notes about the 100K Claude LLM Model](https://www.linkedin.com/posts/sahar-mor_claude-a-gpt-competitor-from-anthropic-activity-7062811160168841216-z4u9/?utm_source=share&utm_medium=member_android)
