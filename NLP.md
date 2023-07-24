@@ -228,7 +228,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [pinecone](https://www.pinecone.io/)  
 - [rektor-db](https://github.com/codediodeio/rektor-db)  
 - [pgvector](https://github.com/pgvector/pgvector)  
-- [LlamaIndex: comprehensive toolkit to perform data augmentation for LLMs](https://github.com/jerryjliu/llama_index)  
+- [LlamaIndex: comprehensive toolkit to perform data augmentation for LLMs](https://github.com/jerryjliu/llama_index)
+- [jina-ai VectorDB](https://github.com/jina-ai/vectordb)  
 
 ### Prevent Hallucinations from LLMs:
 - [Deep Dive Into LLM Hallucinations Across Generative Tasks](https://www.rungalileo.io/blog/deep-dive-into-llm-hallucinations-across-generative-tasks)  
