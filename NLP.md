@@ -150,7 +150,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [OpenLLMs: Less is More for Open-source Models](https://github.com/imoneoi/openchat) [Great]
 - [LLaMA2](https://www.llama2.ai/)
 - [source code of llama2-chatbot](https://github.com/a16z-infra/llama2-chatbot/tree/main)  
-- [Notes about OpenAI's GPT-4 Model](https://www.linkedin.com/posts/aleksagordic_openais-gpt-4-details-have-apparently-been-activity-7085226267712614400-T1d3/?utm_source=share&utm_medium=member_android)  
+- [Notes about OpenAI's GPT-4 Model](https://www.linkedin.com/posts/aleksagordic_openais-gpt-4-details-have-apparently-been-activity-7085226267712614400-T1d3/?utm_source=share&utm_medium=member_android)
+- [OpenChat: Less is More for Open-source Models](https://huggingface.co/openchat/openchat)  
 
 ### LLaMA2 Related Links:
 - [A colab gradio web UI for running Large Language Models](https://github.com/camenduru/text-generation-webui-colab) [Great]  
