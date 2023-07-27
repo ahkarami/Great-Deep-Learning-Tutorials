@@ -151,7 +151,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LLaMA2](https://www.llama2.ai/)
 - [source code of llama2-chatbot](https://github.com/a16z-infra/llama2-chatbot/tree/main)  
 - [Notes about OpenAI's GPT-4 Model](https://www.linkedin.com/posts/aleksagordic_openais-gpt-4-details-have-apparently-been-activity-7085226267712614400-T1d3/?utm_source=share&utm_medium=member_android)
-- [OpenChat: Less is More for Open-source Models](https://huggingface.co/openchat/openchat)  
+- [GPT-4 is getting worse over time](https://www.linkedin.com/posts/svpino_gpt-4-is-getting-worse-over-time-not-better-activity-7087379892077481984-uORp/?utm_source=share&utm_medium=member_android)  
+- [OpenChat: Less is More for Open-source Models](https://huggingface.co/openchat/openchat)
 
 ### LLaMA2 Related Links:
 - [A colab gradio web UI for running Large Language Models](https://github.com/camenduru/text-generation-webui-colab) [Great]  
@@ -211,7 +212,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ### LLMs Ranking:
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)  
 - [Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-10-leaderboard/)
-- [AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)  
+- [AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)
+- [CanAiCode Leaderboard](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results)  
 
 ### Building NLP Applications Powered by LLMs (Different Methods for Augmenting Knowledge to LLMs):
 - [Ask a Book Questions with LangChain OpenAI](https://bennycheung.github.io/ask-a-book-questions-with-langchain-openai) [Great]  
