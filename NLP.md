@@ -162,7 +162,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [fine-tuning LLMs with TRL](https://www.linkedin.com/posts/lvwerra_it-crazy-how-far-the-ml-field-has-come-when-activity-7087699813009383425-Sr1y/?utm_source=share&utm_medium=member_android)
 - [lora tuning peft finetuning llama2](https://huggingface.co/docs/trl/main/en/lora_tuning_peft#finetuning-llama2-model)
 - [LLaMA2 with PEFT](https://www.linkedin.com/posts/gante_unleash-the-true-llama-2-potential-from-day-activity-7087363261666328577-38jV/?utm_source=share&utm_medium=member_android)
-- [Baby LLaMA2 in C](https://github.com/karpathy/llama2.c)  
+- [Baby LLaMA2 in C](https://github.com/karpathy/llama2.c)
+- [Releasing LLongMA-2 16k](https://www.linkedin.com/posts/enrico-shippole-495521b8_conceptofmindllongma-2-13b-16k-hugging-activity-7090718505183928320-DYtD/?utm_source=share&utm_medium=member_android)
+- [LLaMA2 API in Hugging Face Inference](https://www.linkedin.com/feed/update/urn:li:activity:7089986843839979521/?utm_source=share&utm_medium=member_android)  
 
 ### 100K Tokens LLMs:
 - [Claude LLM](https://www.linkedin.com/posts/itamar-g1_anthropic-openais-biggest-rivalry-just-activity-7063773334831775744-cQ4L/?utm_source=share&utm_medium=member_android)
