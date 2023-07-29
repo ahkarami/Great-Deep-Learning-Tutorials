@@ -281,7 +281,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 
 ### LLM Applications & APIs:
 - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)  
-- [Bard API](https://github.com/dsdanielpark/Bard-API)  
+- [Bard API](https://github.com/dsdanielpark/Bard-API)
+- [Amazon Bedrock: build and scale generative AI applications](https://aws.amazon.com/bedrock/) [**Great**]  
 
 ### Prompt Engineering:
 - [Different Kinds of Prompt Engineering](https://www.linkedin.com/posts/munjal-patel_generativeai-largelanguagemodels-llm-activity-7051862874935197696-2E_J/?utm_source=share&utm_medium=member_android)  
