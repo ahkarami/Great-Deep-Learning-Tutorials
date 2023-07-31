@@ -226,7 +226,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Hypothetical Document Embeddings (HyDE)](https://www.linkedin.com/posts/activity-7048838677438861312-8MFD/?utm_source=share&utm_medium=member_android)  
 - [ChatDB: Augmenting LLMs with Databases](https://chatdatabase.github.io/)
 - [ChatNode](https://www.chatnode.ai/)  
-- [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)  
+- [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
+- [Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines](https://github.com/explodinggradients/ragas)  
 
 ### Vector Database Libraries:
 - [weaviate](https://weaviate.io/)  
