@@ -153,7 +153,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Notes about OpenAI's GPT-4 Model](https://www.linkedin.com/posts/aleksagordic_openais-gpt-4-details-have-apparently-been-activity-7085226267712614400-T1d3/?utm_source=share&utm_medium=member_android)
 - [GPT-4 is getting worse over time](https://www.linkedin.com/posts/svpino_gpt-4-is-getting-worse-over-time-not-better-activity-7087379892077481984-uORp/?utm_source=share&utm_medium=member_android)  
 - [OpenChat: Less is More for Open-source Models](https://huggingface.co/openchat/openchat)
-- [Instruction Tuning Datasets](https://github.com/raunak-agarwal/instruction-datasets)  
+- [Instruction Tuning Datasets](https://github.com/raunak-agarwal/instruction-datasets)
+- [ToolLLM](https://www.linkedin.com/posts/omarsar_enabling-llms-with-tool-use-capabilities-activity-7093299751571320832-1WHU/?utm_source=share&utm_medium=member_android)  
 
 ### LLaMA2 Related Links:
 - [A colab gradio web UI for running Large Language Models](https://github.com/camenduru/text-generation-webui-colab) [Great]  
