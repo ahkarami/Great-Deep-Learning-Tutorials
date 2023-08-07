@@ -179,7 +179,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/abs//2307.03172)  
 - [Notes about How Language Models Use Long Contexts](https://www.linkedin.com/posts/sebastianraschka_llm-ai-machinelearning-activity-7083427280605089792-MS_N/?utm_source=share&utm_medium=member_android)
 - [Scaling LLaMA and GPTNeoX to >8k input context](https://www.linkedin.com/posts/gante_scaling-llama-and-gptneox-to-8k-input-context-activity-7085545793050320896-8OKi/?utm_source=share&utm_medium=member_android)
-- [Unofficial Claude-API](https://github.com/KoushikNavuluri/Claude-API)  
+- [Unofficial Claude-API](https://github.com/KoushikNavuluri/Claude-API)
+- [Claude Unofficial API](https://github.com/Explosion-Scratch/claude-unofficial-api)  
 
 ### Frameworks for Training & Using Large Language Models (LLMs):
 - [ColossalAI: Library for LLMs](https://github.com/hpcaitech/ColossalAI)  
