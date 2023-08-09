@@ -247,6 +247,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LlamaIndex: comprehensive toolkit to perform data augmentation for LLMs](https://github.com/jerryjliu/llama_index)
 - [jina-ai VectorDB](https://github.com/jina-ai/vectordb)  
 
+### Great Embedding Models for Search (for Augmenting External Knowledge into ChatBot Vector DB):
+- [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)  
+
 ### Prevent Hallucinations from LLMs:
 - [Deep Dive Into LLM Hallucinations Across Generative Tasks](https://www.rungalileo.io/blog/deep-dive-into-llm-hallucinations-across-generative-tasks)  
 
