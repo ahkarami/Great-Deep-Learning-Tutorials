@@ -168,7 +168,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Releasing LLongMA-2 16k](https://www.linkedin.com/posts/enrico-shippole-495521b8_conceptofmindllongma-2-13b-16k-hugging-activity-7090718505183928320-DYtD/?utm_source=share&utm_medium=member_android)
 - [LLaMA2 API in Hugging Face Inference](https://www.linkedin.com/feed/update/urn:li:activity:7089986843839979521/?utm_source=share&utm_medium=member_android)
 - [LLaMA2 API in Monster API](https://monsterapi.ai/llama-2-7b-chat-api)  
-- [LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory)  
+- [LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
+- [Hermes-LLongMA-2 8k](https://www.linkedin.com/posts/enrico-shippole-495521b8_conceptofmindhermes-llongma-2-13b-8k-hugging-activity-7092178977217282049-JZB8/?utm_source=share&utm_medium=member_android)
+- [Training Llama 2](https://www.linkedin.com/posts/bhavsarpratik_llama2-finetuning-genai-activity-7092496767870509056-RojZ/?utm_source=share&utm_medium=member_android)  
 
 ### 100K Tokens LLMs:
 - [Claude LLM](https://www.linkedin.com/posts/itamar-g1_anthropic-openais-biggest-rivalry-just-activity-7063773334831775744-cQ4L/?utm_source=share&utm_medium=member_android)
