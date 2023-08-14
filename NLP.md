@@ -211,7 +211,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [GPTCache: A Library for Creating Semantic Cache for LLM Queries](https://github.com/zilliztech/GPTCache/tree/main)
 - [AutoTrain-Advanced](https://github.com/huggingface/autotrain-advanced)
 - [Monster API: API for using & fine-tuning LLMs](https://monsterapi.ai/)
-- [AnythingLLM: A full-stack personalized AI assistant](https://github.com/Mintplex-Labs/anything-llm)  
+- [AnythingLLM: A full-stack personalized AI assistant](https://github.com/Mintplex-Labs/anything-llm)
+- [EasyLLM: helpful tools and methods for working with LLMs](https://github.com/philschmid/easyllm)  
 
 ### LLMS for Coding:
 - [CodeGen](https://github.com/salesforce/CodeGen)  
