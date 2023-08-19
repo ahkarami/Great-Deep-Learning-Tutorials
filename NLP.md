@@ -202,6 +202,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Chainlit](https://github.com/Chainlit/chainlit)
 - [ChatUI](https://github.com/alibaba/ChatUI)
 - [Streamlit-Chat](https://github.com/AI-Yash/st-chat)
+- [Gradio: Creating a Streaming chatbot fast](https://www.gradio.app/guides/creating-a-chatbot-fast#streaming-chatbots)  
 - [Streamlit-Weaviate Connection: provides a custom streamlit connection to query data from weaviate](https://github.com/weaviate/st-weaviate-connection/tree/main)  
 - [LangKit: an open-source text metrics toolkit for monitoring language models](https://github.com/whylabs/langkit)  
 - [HuggingFace Transformers Agents](https://huggingface.co/docs/transformers/transformers_agents)
