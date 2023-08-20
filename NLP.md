@@ -170,7 +170,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LLaMA2 API in Monster API](https://monsterapi.ai/llama-2-7b-chat-api)  
 - [LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
 - [Hermes-LLongMA-2 8k](https://www.linkedin.com/posts/enrico-shippole-495521b8_conceptofmindhermes-llongma-2-13b-8k-hugging-activity-7092178977217282049-JZB8/?utm_source=share&utm_medium=member_android)
-- [Training Llama 2](https://www.linkedin.com/posts/bhavsarpratik_llama2-finetuning-genai-activity-7092496767870509056-RojZ/?utm_source=share&utm_medium=member_android)  
+- [Training Llama 2](https://www.linkedin.com/posts/bhavsarpratik_llama2-finetuning-genai-activity-7092496767870509056-RojZ/?utm_source=share&utm_medium=member_android)
+- [Llama-2-7B-32K-Instruct — and fine-tuning for Llama-2 models with Together API](https://together.ai/blog/llama-2-7b-32k-instruct)  
 
 ### 100K Tokens LLMs:
 - [Claude LLM](https://www.linkedin.com/posts/itamar-g1_anthropic-openais-biggest-rivalry-just-activity-7063773334831775744-cQ4L/?utm_source=share&utm_medium=member_android)
@@ -255,8 +256,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ### Great Embedding Models for Search (for Augmenting External Knowledge into ChatBot Vector DB):
 - [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)  
 
-### Prevent Hallucinations from LLMs:
-- [Deep Dive Into LLM Hallucinations Across Generative Tasks](https://www.rungalileo.io/blog/deep-dive-into-llm-hallucinations-across-generative-tasks)  
+### Prevent Hallucinations from LLMs & Controling their outputs:
+- [Deep Dive Into LLM Hallucinations Across Generative Tasks](https://www.rungalileo.io/blog/deep-dive-into-llm-hallucinations-across-generative-tasks)
+- [Controlled Generation Tools](https://www.linkedin.com/posts/pascalbiese_genai-llms-opensource-activity-7097185067885576192-Uv8Z/?utm_source=share&utm_medium=member_android)  
 
 ### Training & Using Large Language Models (LLMs) on Low Resource Machines:
 - [Cramming: Training a Language Model on a Single GPU in One Day](https://github.com/jonasgeiping/cramming) [**Great**]  
