@@ -258,7 +258,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 
 ### Prevent Hallucinations from LLMs & Controling their outputs:
 - [Deep Dive Into LLM Hallucinations Across Generative Tasks](https://www.rungalileo.io/blog/deep-dive-into-llm-hallucinations-across-generative-tasks)
-- [Controlled Generation Tools](https://www.linkedin.com/posts/pascalbiese_genai-llms-opensource-activity-7097185067885576192-Uv8Z/?utm_source=share&utm_medium=member_android)  
+- [Controlled Generation Tools](https://www.linkedin.com/posts/pascalbiese_genai-llms-opensource-activity-7097185067885576192-Uv8Z/?utm_source=share&utm_medium=member_android)
+- [Guidance: Controlling LLMs](https://github.com/guidance-ai/guidance)  
 
 ### Training & Using Large Language Models (LLMs) on Low Resource Machines:
 - [Cramming: Training a Language Model on a Single GPU in One Day](https://github.com/jonasgeiping/cramming) [**Great**]  
