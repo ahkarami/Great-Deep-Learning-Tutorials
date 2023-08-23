@@ -97,7 +97,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [High-performance inference of Whisper ASR Model](https://github.com/Const-me/Whisper)  
 - [Google Universal Speech Model (USM)](https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html?m=1)  
 - [FaceBook Massively Multilingual Speech (MMS)](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
-- [SeamlessM4T: GithUb](https://github.com/facebookresearch/seamless_communication)
+- [SeamlessM4T: Github](https://github.com/facebookresearch/seamless_communication)
 - [SeamlessM4T: Meta AI Blog](https://ai.meta.com/blog/seamless-m4t/)
 - [SeamlessM4T: Paper](https://dl.fbaipublicfiles.com/seamless/seamless_m4t_paper.pdf)  
 - [SeamlessM4T: Demo](https://seamless.metademolab.com/demo)  
