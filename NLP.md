@@ -215,7 +215,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Monster API: API for using & fine-tuning LLMs](https://monsterapi.ai/)
 - [AnythingLLM: A full-stack personalized AI assistant](https://github.com/Mintplex-Labs/anything-llm)
 - [EasyLLM: helpful tools and methods for working with LLMs](https://github.com/philschmid/easyllm)
-- [gpt-llm-trainer: input a description of your task, and fine-tune a LLaMA 2 model for you](https://github.com/mshumer/gpt-llm-trainer)  
+- [gpt-llm-trainer: input a description of your task, and fine-tune a LLaMA 2 model for you](https://github.com/mshumer/gpt-llm-trainer)
+- [Embedchain: a framework to easily create LLM powered bots](https://github.com/embedchain/embedchain)  
 
 ### LLMS for Coding:
 - [CodeGen](https://github.com/salesforce/CodeGen)  
