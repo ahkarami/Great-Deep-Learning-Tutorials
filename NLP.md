@@ -219,7 +219,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Embedchain: a framework to easily create LLM powered bots](https://github.com/embedchain/embedchain)  
 
 ### LLMS for Coding:
-- [CodeGen](https://github.com/salesforce/CodeGen)  
+- [CodeGen](https://github.com/salesforce/CodeGen)
+- [Code Llama](https://github.com/facebookresearch/codellama)
+- [Code Llama Notes](https://www.linkedin.com/posts/aleksagordic_nice-meta-ai-just-announced-code-llama-activity-7100559934764810240-Un2i/?utm_source=share&utm_medium=member_android)  
 
 ### LLMs Courses & Tutorials:
 - [LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)  
