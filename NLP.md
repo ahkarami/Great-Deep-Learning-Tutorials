@@ -299,7 +299,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [P-tuning v2](https://github.com/THUDM/P-tuning-v2)  
 - [QLoRA: Efficient Finetuning of Quantized LLMs](https://github.com/artidoro/qlora)  
 - [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://github.com/mit-han-lab/llm-awq)
-- [GPTQ Quantization Method in Transformers](https://www.linkedin.com/posts/marc-sun_opensource-llm-quantization-activity-7100102215582797824-td7E?utm_source=share&utm_medium=member_desktop)  
+- [GPTQ Quantization Method in Transformers](https://www.linkedin.com/posts/marc-sun_opensource-llm-quantization-activity-7100102215582797824-td7E?utm_source=share&utm_medium=member_desktop)
+- [Optimize open LLMs using GPTQ and Hugging Face Optimum](https://www.linkedin.com/feed/update/urn:li:activity:7103049470908485632/?utm_source=share&utm_medium=member_android)  
 
 ### LLMs on Mobile Devices:
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm)  
