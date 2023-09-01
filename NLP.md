@@ -403,7 +403,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Edit Distance](https://www.geeksforgeeks.org/edit-distance-dp-5/)  
 
 ## Text-based Emotion Recognition:
-- [XLM-EMO: Multilingual Emotion Prediction in Social Media Text](https://github.com/MilaNLProc/xlm-emo)  
+- [XLM-EMO: Multilingual Emotion Prediction in Social Media Text](https://github.com/MilaNLProc/xlm-emo)
+
+## Machine Translation:
+- [Open-NLLB: No Language Left Behind (NLLB), models capable of delivering high-quality translations directly between any pair of 200+ languages](https://github.com/gordicaleksa/Open-NLLB)  
 
 ## Chatbot:
 - [Rasa Chatbot](https://github.com/RasaHQ/rasa) [**Great**]      
