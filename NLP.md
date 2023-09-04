@@ -217,8 +217,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [EasyLLM: helpful tools and methods for working with LLMs](https://github.com/philschmid/easyllm)
 - [gpt-llm-trainer: input a description of your task, and fine-tune a LLaMA 2 model for you](https://github.com/mshumer/gpt-llm-trainer)
 - [Embedchain: a framework to easily create LLM powered bots](https://github.com/embedchain/embedchain)
-- [PandasAI](https://github.com/gventuri/pandas-ai)  
-- [GPT Engineer: Specify what you want it to build, the AI asks for clarification, and then builds it](https://github.com/AntonOsika/gpt-engineer)  
+- [PandasAI](https://github.com/gventuri/pandas-ai) [It is not related strictly in this section, but it is interesting]  
+- [GPT Engineer: Specify what you want it to build, the AI asks for clarification, and then builds it](https://github.com/AntonOsika/gpt-engineer)
+- [Ludwig: a low-code framework for building custom AI models like LLMs](https://github.com/ludwig-ai/ludwig)  
 
 ### LLMS for Coding:
 - [CodeGen](https://github.com/salesforce/CodeGen)
