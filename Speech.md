@@ -57,7 +57,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Larynx: A fast, local neural TTS](https://github.com/rhasspy/larynx2)  
 - [BigVGAN: A Universal Neural Vocoder with Large-Scale Training](https://github.com/NVIDIA/BigVGAN)  
 - [Bark: Text-Prompted Generative Audio Model](https://github.com/suno-ai/bark)  
-- [FaceBook Massively Multilingual Speech (MMS)](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)  
+- [FaceBook Massively Multilingual Speech (MMS)](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
+- [AudioLDM2: unified framework for text-to-audio generation](https://github.com/haoheliu/AudioLDM2)  
 
 ## Automatic Speech Recognition (ASR) & Speech to Text (STT):
 - [OpenSpeech](https://github.com/openspeech-team/openspeech) [Great]   
