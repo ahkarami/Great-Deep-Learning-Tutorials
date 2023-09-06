@@ -303,7 +303,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [QLoRA: Efficient Finetuning of Quantized LLMs](https://github.com/artidoro/qlora)  
 - [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://github.com/mit-han-lab/llm-awq)
 - [GPTQ Quantization Method in Transformers](https://www.linkedin.com/posts/marc-sun_opensource-llm-quantization-activity-7100102215582797824-td7E?utm_source=share&utm_medium=member_desktop)
-- [Optimize open LLMs using GPTQ and Hugging Face Optimum](https://www.linkedin.com/feed/update/urn:li:activity:7103049470908485632/?utm_source=share&utm_medium=member_android)  
+- [Optimize open LLMs using GPTQ and Hugging Face Optimum](https://www.linkedin.com/feed/update/urn:li:activity:7103049470908485632/?utm_source=share&utm_medium=member_android)
+- [GPTQ vs. bitsandbytes (BNB)](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_quantization-makes-fine-tuning-and-deploying-activity-7104480375841636352-_dgY?utm_source=share&utm_medium=member_desktop)  
+- [BNB Blog: Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
+- [GPTQ Blog: Making LLMs lighter with AutoGPTQ and transformers](https://huggingface.co/blog/gptq-integration)  
 
 ### LLMs on Mobile Devices:
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm)  
