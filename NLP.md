@@ -173,7 +173,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Training Llama 2](https://www.linkedin.com/posts/bhavsarpratik_llama2-finetuning-genai-activity-7092496767870509056-RojZ/?utm_source=share&utm_medium=member_android)
 - [Llama-2-7B-32K-Instruct — and fine-tuning for Llama-2 models with Together API](https://together.ai/blog/llama-2-7b-32k-instruct)  
 
-### 100K Tokens LLMs:
+### Long Context Windpw LLMs (e.g., 100K Tokens LLMs):
 - [Claude LLM](https://www.linkedin.com/posts/itamar-g1_anthropic-openais-biggest-rivalry-just-activity-7063773334831775744-cQ4L/?utm_source=share&utm_medium=member_android)
 - [Some Notes about the 100K Claude LLM Model](https://www.linkedin.com/posts/sahar-mor_claude-a-gpt-competitor-from-anthropic-activity-7062811160168841216-z4u9/?utm_source=share&utm_medium=member_android)
 - [Anthropic's Claude-2](https://www.anthropic.com/index/claude-2)  
@@ -260,8 +260,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LlamaIndex: comprehensive toolkit to perform data augmentation for LLMs](https://github.com/jerryjliu/llama_index)
 - [jina-ai VectorDB](https://github.com/jina-ai/vectordb)  
 
-### Great Embedding Models for Search (for Augmenting External Knowledge into ChatBot Vector DB):
-- [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)  
+### Great Embedding Models for Search (for Augmenting External Knowledge into ChatBot Vector DB) [Retrieval Augmented Generation (RAG)]:
+- [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
+- [Word and sentence embeddings is how LLMs understand text](https://www.linkedin.com/posts/sahar-mor_word-and-sentence-embeddings-is-how-llms-activity-7105921473978015744-R0Nm?utm_source=share&utm_medium=member_desktop)  
+- [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)
 
 ### Prevent Hallucinations from LLMs & Controling their outputs:
 - [Deep Dive Into LLM Hallucinations Across Generative Tasks](https://www.rungalileo.io/blog/deep-dive-into-llm-hallucinations-across-generative-tasks)
