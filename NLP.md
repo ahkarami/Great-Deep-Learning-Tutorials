@@ -173,7 +173,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Training Llama 2](https://www.linkedin.com/posts/bhavsarpratik_llama2-finetuning-genai-activity-7092496767870509056-RojZ/?utm_source=share&utm_medium=member_android)
 - [Llama-2-7B-32K-Instruct — and fine-tuning for Llama-2 models with Together API](https://together.ai/blog/llama-2-7b-32k-instruct)  
 
-### Long Context Windpw LLMs (e.g., 100K Tokens LLMs):
+### Long Context Window LLMs (e.g., 100K Tokens LLMs):
 - [Claude LLM](https://www.linkedin.com/posts/itamar-g1_anthropic-openais-biggest-rivalry-just-activity-7063773334831775744-cQ4L/?utm_source=share&utm_medium=member_android)
 - [Some Notes about the 100K Claude LLM Model](https://www.linkedin.com/posts/sahar-mor_claude-a-gpt-competitor-from-anthropic-activity-7062811160168841216-z4u9/?utm_source=share&utm_medium=member_android)
 - [Anthropic's Claude-2](https://www.anthropic.com/index/claude-2)  
@@ -183,7 +183,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Notes about How Language Models Use Long Contexts](https://www.linkedin.com/posts/sebastianraschka_llm-ai-machinelearning-activity-7083427280605089792-MS_N/?utm_source=share&utm_medium=member_android)
 - [Scaling LLaMA and GPTNeoX to >8k input context](https://www.linkedin.com/posts/gante_scaling-llama-and-gptneox-to-8k-input-context-activity-7085545793050320896-8OKi/?utm_source=share&utm_medium=member_android)
 - [Unofficial Claude-API](https://github.com/KoushikNavuluri/Claude-API)
-- [Claude Unofficial API](https://github.com/Explosion-Scratch/claude-unofficial-api)  
+- [Claude Unofficial API](https://github.com/Explosion-Scratch/claude-unofficial-api)
+- [YARN & LongLlaMa](https://www.linkedin.com/posts/pramodith_generativeai-llm-gpt-activity-7104772654313656321-QC5D?utm_source=share&utm_medium=member_desktop)  
 
 ### Frameworks for Training & Using Large Language Models (LLMs):
 - [ColossalAI: Library for LLMs](https://github.com/hpcaitech/ColossalAI)  
