@@ -154,7 +154,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [GPT-4 is getting worse over time](https://www.linkedin.com/posts/svpino_gpt-4-is-getting-worse-over-time-not-better-activity-7087379892077481984-uORp/?utm_source=share&utm_medium=member_android)  
 - [OpenChat: Less is More for Open-source Models](https://huggingface.co/openchat/openchat)
 - [Instruction Tuning Datasets](https://github.com/raunak-agarwal/instruction-datasets)
-- [ToolLLM](https://www.linkedin.com/posts/omarsar_enabling-llms-with-tool-use-capabilities-activity-7093299751571320832-1WHU/?utm_source=share&utm_medium=member_android)  
+- [ToolLLM](https://www.linkedin.com/posts/omarsar_enabling-llms-with-tool-use-capabilities-activity-7093299751571320832-1WHU/?utm_source=share&utm_medium=member_android)
+- [Falcon 180B](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_falcon-180b-released-tii-just-released-activity-7105166508376367105-P7ws?utm_source=share&utm_medium=member_desktop)  
 
 ### LLaMA2 Related Links:
 - [A colab gradio web UI for running Large Language Models](https://github.com/camenduru/text-generation-webui-colab) [Great]  
@@ -220,7 +221,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Embedchain: a framework to easily create LLM powered bots](https://github.com/embedchain/embedchain)
 - [PandasAI](https://github.com/gventuri/pandas-ai) [It is not related strictly in this section, but it is interesting]  
 - [GPT Engineer: Specify what you want it to build, the AI asks for clarification, and then builds it](https://github.com/AntonOsika/gpt-engineer)
-- [Ludwig: a low-code framework for building custom AI models like LLMs](https://github.com/ludwig-ai/ludwig)  
+- [Ludwig: a low-code framework for building custom AI models like LLMs](https://github.com/ludwig-ai/ludwig)
+- [open-interpreter](https://github.com/KillianLucas/open-interpreter)  
 
 ### LLMS for Coding:
 - [CodeGen](https://github.com/salesforce/CodeGen)
@@ -265,6 +267,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 - [Word and sentence embeddings is how LLMs understand text](https://www.linkedin.com/posts/sahar-mor_word-and-sentence-embeddings-is-how-llms-activity-7105921473978015744-R0Nm?utm_source=share&utm_medium=member_desktop)  
 - [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)
+- [E5 embedding vs OpenAI Ada](https://www.linkedin.com/posts/andrew-iain-jardine_hosting-a-text-embedding-model-that-is-better-activity-7106338837479510016-zvBW?utm_source=share&utm_medium=member_desktop)  
 
 ### Prevent Hallucinations from LLMs & Controling their outputs:
 - [Deep Dive Into LLM Hallucinations Across Generative Tasks](https://www.rungalileo.io/blog/deep-dive-into-llm-hallucinations-across-generative-tasks)
@@ -309,7 +312,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Optimize open LLMs using GPTQ and Hugging Face Optimum](https://www.linkedin.com/feed/update/urn:li:activity:7103049470908485632/?utm_source=share&utm_medium=member_android)
 - [GPTQ vs. bitsandbytes (BNB)](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_quantization-makes-fine-tuning-and-deploying-activity-7104480375841636352-_dgY?utm_source=share&utm_medium=member_desktop)  
 - [BNB Blog: Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
-- [GPTQ Blog: Making LLMs lighter with AutoGPTQ and transformers](https://huggingface.co/blog/gptq-integration)  
+- [GPTQ Blog: Making LLMs lighter with AutoGPTQ and transformers](https://huggingface.co/blog/gptq-integration)
+- [TensorRT-LLM](https://www.linkedin.com/posts/tunguz_llm-h100-languagemodels-activity-7106253824910139392-WZRM?utm_source=share&utm_medium=member_desktop)  
 
 ### LLMs on Mobile Devices:
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm)  
