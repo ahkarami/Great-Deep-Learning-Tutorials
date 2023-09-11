@@ -155,7 +155,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [OpenChat: Less is More for Open-source Models](https://huggingface.co/openchat/openchat)
 - [Instruction Tuning Datasets](https://github.com/raunak-agarwal/instruction-datasets)
 - [ToolLLM](https://www.linkedin.com/posts/omarsar_enabling-llms-with-tool-use-capabilities-activity-7093299751571320832-1WHU/?utm_source=share&utm_medium=member_android)
-- [Falcon 180B](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_falcon-180b-released-tii-just-released-activity-7105166508376367105-P7ws?utm_source=share&utm_medium=member_desktop)  
+- [Falcon 180B](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_falcon-180b-released-tii-just-released-activity-7105166508376367105-P7ws?utm_source=share&utm_medium=member_desktop)
+- [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409)  
 
 ### LLaMA2 Related Links:
 - [A colab gradio web UI for running Large Language Models](https://github.com/camenduru/text-generation-webui-colab) [Great]  
