@@ -315,7 +315,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [GPTQ vs. bitsandbytes (BNB)](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_quantization-makes-fine-tuning-and-deploying-activity-7104480375841636352-_dgY?utm_source=share&utm_medium=member_desktop)  
 - [BNB Blog: Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
 - [GPTQ Blog: Making LLMs lighter with AutoGPTQ and transformers](https://huggingface.co/blog/gptq-integration)
-- [TensorRT-LLM](https://www.linkedin.com/posts/tunguz_llm-h100-languagemodels-activity-7106253824910139392-WZRM?utm_source=share&utm_medium=member_desktop)  
+- [TensorRT-LLM](https://www.linkedin.com/posts/tunguz_llm-h100-languagemodels-activity-7106253824910139392-WZRM?utm_source=share&utm_medium=member_desktop)
+- [Overview of 🤗 Transformers Quantization: GPTQ vs bitsandbytes](https://huggingface.co/blog/overview-quantization-transformers)  
 
 ### LLMs on Mobile Devices:
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm)  
