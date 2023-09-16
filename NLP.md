@@ -187,7 +187,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Scaling LLaMA and GPTNeoX to >8k input context](https://www.linkedin.com/posts/gante_scaling-llama-and-gptneox-to-8k-input-context-activity-7085545793050320896-8OKi/?utm_source=share&utm_medium=member_android)
 - [Unofficial Claude-API](https://github.com/KoushikNavuluri/Claude-API)
 - [Claude Unofficial API](https://github.com/Explosion-Scratch/claude-unofficial-api)
-- [YARN & LongLlaMa](https://www.linkedin.com/posts/pramodith_generativeai-llm-gpt-activity-7104772654313656321-QC5D?utm_source=share&utm_medium=member_desktop)  
+- [YARN & LongLlaMa](https://www.linkedin.com/posts/pramodith_generativeai-llm-gpt-activity-7104772654313656321-QC5D?utm_source=share&utm_medium=member_desktop)
+- [YaRN: Efficient Context Window Extension of LLMs](https://github.com/jquesnelle/yarn)  
 
 ### Frameworks for Training & Using Large Language Models (LLMs):
 - [ColossalAI: Library for LLMs](https://github.com/hpcaitech/ColossalAI)  
