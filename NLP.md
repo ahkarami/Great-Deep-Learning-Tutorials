@@ -275,7 +275,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ### Prevent Hallucinations from LLMs & Controling their outputs:
 - [Deep Dive Into LLM Hallucinations Across Generative Tasks](https://www.rungalileo.io/blog/deep-dive-into-llm-hallucinations-across-generative-tasks)
 - [Controlled Generation Tools](https://www.linkedin.com/posts/pascalbiese_genai-llms-opensource-activity-7097185067885576192-Uv8Z/?utm_source=share&utm_medium=member_android)
-- [Guidance: Controlling LLMs](https://github.com/guidance-ai/guidance)  
+- [Guidance: Controlling LLMs](https://github.com/guidance-ai/guidance)
+- [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)  
 
 ### Training & Using Large Language Models (LLMs) on Low Resource Machines:
 - [Cramming: Training a Language Model on a Single GPU in One Day](https://github.com/jonasgeiping/cramming) [**Great**]  
@@ -336,7 +337,11 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [ChatGPT-based Recommender Systems](https://blog.reachsumit.com/posts/2023/05/chatgpt-for-recsys/)  
 
 ### LLM Data Sets:
-- [SlimPajama: A 627B token cleaned and deduplicated version of RedPajama](https://www.cerebras.net/blog/slimpajama-a-627b-token-cleaned-and-deduplicated-version-of-redpajama)  
+- [SlimPajama: A 627B token cleaned and deduplicated version of RedPajama](https://www.cerebras.net/blog/slimpajama-a-627b-token-cleaned-and-deduplicated-version-of-redpajama)
+
+### LLM based Agents:
+- [MetaGPT: Multi-Agent Framework](https://github.com/geekan/MetaGPT)
+- [DevOpsGPT: AI-Driven Software Development Automation Solution](https://github.com/kuafuai/DevOpsGPT)  
 
 ### Excellent & Easy to Learn Resources for Learning Transformers:
 - [e2eml transformers from scratch](https://e2eml.school/transformers.html) [**Excellent**]  
