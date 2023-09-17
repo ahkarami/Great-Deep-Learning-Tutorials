@@ -188,7 +188,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Unofficial Claude-API](https://github.com/KoushikNavuluri/Claude-API)
 - [Claude Unofficial API](https://github.com/Explosion-Scratch/claude-unofficial-api)
 - [YARN & LongLlaMa](https://www.linkedin.com/posts/pramodith_generativeai-llm-gpt-activity-7104772654313656321-QC5D?utm_source=share&utm_medium=member_desktop)
-- [YaRN: Efficient Context Window Extension of LLMs](https://github.com/jquesnelle/yarn)  
+- [YaRN: Efficient Context Window Extension of LLMs](https://github.com/jquesnelle/yarn)
+- [LLMs get lost when the context becomes too long: Lost in the Middle: How Language Models Use Long Contexts](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_are-vector-databases-here-to-stay-yes-activity-7085908435686285312-QVfB?utm_source=share&utm_medium=member_desktop) [**Very Important**]  
 
 ### Frameworks for Training & Using Large Language Models (LLMs):
 - [ColossalAI: Library for LLMs](https://github.com/hpcaitech/ColossalAI)  
