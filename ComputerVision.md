@@ -185,7 +185,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Transformer-OCR](https://github.com/fengxinjie/Transformer-OCR)  
 - [Microsoft TrOCR](https://github.com/microsoft/unilm/tree/master/trocr)  
 - [vedastr: open source scene text recognition toolbox](https://github.com/Media-Smart/vedastr)  
-- [Goodbye OCR - Welcome Donut from MIT](https://www.linkedin.com/posts/aagarwal29_sagemaker-donut-mit-activity-7067002244352651265-yvfo/?utm_source=share&utm_medium=member_android)  
+- [Goodbye OCR - Welcome Donut from MIT](https://www.linkedin.com/posts/aagarwal29_sagemaker-donut-mit-activity-7067002244352651265-yvfo/?utm_source=share&utm_medium=member_android)
+- [Nougat: Neural Optical Understanding for Academic Documents](https://github.com/facebookresearch/nougat)  
 
 ### Persian OCR:  
 - [Persian Dataset](https://github.com/persiandataset)  
