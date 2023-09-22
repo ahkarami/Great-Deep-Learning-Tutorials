@@ -137,7 +137,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Full-band General Audio Synthesis With Score-based Diffusion](https://diffusionaudiosynthesis.github.io/)  
 
 ## Audio Generation:
-- [Unconditional Audio Generation Benchmark](https://github.com/gzhu06/Unconditional-Audio-Generation-Benchmark)  
+- [Unconditional Audio Generation Benchmark](https://github.com/gzhu06/Unconditional-Audio-Generation-Benchmark)
+- [Realtime Voice Changer](https://github.com/w-okada/voice-changer/tree/master)  
 
 ## Speech Translation:
 - [Facebook XLS-R-2B-22-16 Demo](https://huggingface.co/spaces/facebook/XLS-R-2B-22-16)  
