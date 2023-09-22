@@ -255,7 +255,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [ChatDB: Augmenting LLMs with Databases](https://chatdatabase.github.io/)
 - [ChatNode](https://www.chatnode.ai/)  
 - [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
-- [Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines](https://github.com/explodinggradients/ragas)  
+- [Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines](https://github.com/explodinggradients/ragas)
+- [Fine tuning vs. RAG for LLMs](https://www.linkedin.com/posts/alexander-ratner-038ba239_lots-of-debate-on-fine-tuning-vs-rag-for-activity-7103836027957506048-AjoJ?utm_source=share&utm_medium=member_desktop)  
 
 ### Vector Database Libraries:
 - [weaviate](https://weaviate.io/)  
