@@ -190,7 +190,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Claude Unofficial API](https://github.com/Explosion-Scratch/claude-unofficial-api)
 - [YARN & LongLlaMa](https://www.linkedin.com/posts/pramodith_generativeai-llm-gpt-activity-7104772654313656321-QC5D?utm_source=share&utm_medium=member_desktop)
 - [YaRN: Efficient Context Window Extension of LLMs](https://github.com/jquesnelle/yarn)
-- [LLMs get lost when the context becomes too long: Lost in the Middle: How Language Models Use Long Contexts](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_are-vector-databases-here-to-stay-yes-activity-7085908435686285312-QVfB?utm_source=share&utm_medium=member_desktop) [**Very Important**]  
+- [LLMs get lost when the context becomes too long: Lost in the Middle: How Language Models Use Long Contexts](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_are-vector-databases-here-to-stay-yes-activity-7085908435686285312-QVfB?utm_source=share&utm_medium=member_desktop) [**Very Important**]
+- [LongLoRA: Efficient Fine-tuning of Long-Context LLMs](https://www.linkedin.com/posts/omarsar_longlora-efficient-fine-tuning-of-long-context-activity-7111000280615325699-SVEE?utm_source=share&utm_medium=member_desktop)  
+- [LongLoRA: Efficient Fine-tuning of Long-Context LLMs (another post)](https://www.linkedin.com/posts/haotian-tang_expanding-the-context-size-of-large-language-activity-7110806911775641600-nShH?utm_source=share&utm_medium=member_desktop)  
 
 ### Frameworks for Training & Using Large Language Models (LLMs):
 - [ColossalAI: Library for LLMs](https://github.com/hpcaitech/ColossalAI)  
