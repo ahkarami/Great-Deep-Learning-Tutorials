@@ -229,7 +229,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [PandasAI](https://github.com/gventuri/pandas-ai) [It is not related strictly in this section, but it is interesting]  
 - [GPT Engineer: Specify what you want it to build, the AI asks for clarification, and then builds it](https://github.com/AntonOsika/gpt-engineer)
 - [Ludwig: a low-code framework for building custom AI models like LLMs](https://github.com/ludwig-ai/ludwig)
-- [open-interpreter](https://github.com/KillianLucas/open-interpreter)  
+- [open-interpreter](https://github.com/KillianLucas/open-interpreter)
+- [kani: is a lightweight and highly hackable framework for chat-based language models with tool usage/function calling](https://github.com/zhudotexe/kani)
+- [Kani colab samples](https://colab.research.google.com/github/zhudotexe/kani/blob/main/examples/colab_examples.ipynb)
+- [Kani Linkedin Post](https://www.linkedin.com/posts/chris-callison-burch-40bb87b7_my-phd-students-have-build-a-really-great-activity-7110728026971115520-T16F?utm_source=share&utm_medium=member_desktop)  
 
 ### LLMS for Coding:
 - [CodeGen](https://github.com/salesforce/CodeGen)
