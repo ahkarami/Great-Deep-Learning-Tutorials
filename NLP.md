@@ -354,9 +354,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [DevOpsGPT: AI-Driven Software Development Automation Solution](https://github.com/kuafuai/DevOpsGPT)
 - [LLM Agent Survey](https://github.com/Paitesanshi/LLM-Agent-Survey)  
 
-### Notes about Cost of Training and Using LLMs:
+### Notes about Cost & Price of Training and Using LLMs:
 - [Cost to Deploy LLaMA2 vs. ChatGPT](https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7109561666324885504-ySeC?utm_source=share&utm_medium=member_desktop) [Very Important]  
-- [Anyscale Training Cost](https://www.linkedin.com/posts/robert-nishihara-b6465444_im-so-proud-of-what-we-launched-last-week-activity-7113021412084219904-WFbP?utm_source=share&utm_medium=member_desktop)  
+- [Anyscale Training Cost](https://www.linkedin.com/posts/robert-nishihara-b6465444_im-so-proud-of-what-we-launched-last-week-activity-7113021412084219904-WFbP?utm_source=share&utm_medium=member_desktop)
+- [LLMs APIs Pricing Benchmark: pricing of AWS Bedrock, OpenAI, Microsoft Azure](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_yesterday-amazon-web-services-aws-released-activity-7113454144216031233-LYuF?utm_source=share&utm_medium=member_desktop)  
 
 ### Excellent & Easy to Learn Resources for Learning Transformers:
 - [e2eml transformers from scratch](https://e2eml.school/transformers.html) [**Excellent**]  
