@@ -342,7 +342,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Different Kinds of Prompt Engineering](https://www.linkedin.com/posts/munjal-patel_generativeai-largelanguagemodels-llm-activity-7051862874935197696-2E_J/?utm_source=share&utm_medium=member_android)  
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [PromptTools: tools for prompt testing and experimentation](https://github.com/hegelai/prompttools)
-- [Prompt engineering for Claude's long context window](https://www.anthropic.com/index/prompting-long-context)  
+- [Prompt engineering for Claude's long context window](https://www.anthropic.com/index/prompting-long-context)
+- [Chain of Verification Prompt engineering method](https://www.linkedin.com/posts/xamatriain_a-week-ago-meta-presented-a-new-prompt-engineering-activity-7114351307183820800-MsgT?utm_source=share&utm_medium=member_desktop)  
 
 ### LLM-based Recommender Systems:
 - [ChatGPT-based Recommender Systems](https://blog.reachsumit.com/posts/2023/05/chatgpt-for-recsys/)  
