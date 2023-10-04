@@ -286,7 +286,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Controlled Generation Tools](https://www.linkedin.com/posts/pascalbiese_genai-llms-opensource-activity-7097185067885576192-Uv8Z/?utm_source=share&utm_medium=member_android)
 - [Guidance: Controlling LLMs](https://github.com/guidance-ai/guidance)
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)
-- [Minimising Hallucinations in LLM Applications: NeMo Guradrails Video Tutorial](https://www.linkedin.com/posts/sanyambhutani_minimising-hallucinations-in-llm-applications-activity-7104810583304077312-w983?utm_source=share&utm_medium=member_desktop)  
+- [Minimising Hallucinations in LLM Applications: NeMo Guradrails Video Tutorial](https://www.linkedin.com/posts/sanyambhutani_minimising-hallucinations-in-llm-applications-activity-7104810583304077312-w983?utm_source=share&utm_medium=member_desktop)
+- [Mitigate Hallucination in LLMs](https://www.linkedin.com/posts/vinija_mitigate-hallucination-in-llms-as-activity-7114468991330390016-O0BZ?utm_source=share&utm_medium=member_desktop)  
 
 ### Training & Using Large Language Models (LLMs) on Low Resource Machines:
 - [Cramming: Training a Language Model on a Single GPU in One Day](https://github.com/jonasgeiping/cramming) [**Great**]  
