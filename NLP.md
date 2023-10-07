@@ -156,6 +156,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Instruction Tuning Datasets](https://github.com/raunak-agarwal/instruction-datasets)
 - [ToolLLM](https://www.linkedin.com/posts/omarsar_enabling-llms-with-tool-use-capabilities-activity-7093299751571320832-1WHU/?utm_source=share&utm_medium=member_android)
 - [Falcon 180B](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_falcon-180b-released-tii-just-released-activity-7105166508376367105-P7ws?utm_source=share&utm_medium=member_desktop)
+- [Fine-tune Falcon 180B using QLoRA and Flash Attention on Amazon SageMaker](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_fine-tune-falcon-180b-with-qlora-and-flash-activity-7107387875515580416-zhSe?utm_source=share&utm_medium=member_desktop)  
 - [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409)
 - [Favourite LLM Authors](https://www.linkedin.com/posts/sanyambhutani_curated-list-of-my-favourite-llm-authors-activity-7105896422226423808-Unev?utm_source=share&utm_medium=member_desktop)
 - [Optimizing your LLM in production](https://huggingface.co/blog/optimize-llm) [Important]  
