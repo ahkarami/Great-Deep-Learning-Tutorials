@@ -107,7 +107,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [OPT-IML](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML)
 - [RetNet: an Alternative to Transformers](https://www.linkedin.com/posts/aleksagordic_an-alternative-to-transformers-whoa-activity-7087790555190980608-66ZM?utm_source=share&utm_medium=member_android)  
 - [Transformer Taxonomy](https://kipp.ly/blog/transformer-taxonomy/) [Great]
-- [Generative AI exists because of the transformer: Great Visula Explanation](https://ig.ft.com/generative-ai/) [Great]  
+- [Generative AI exists because of the transformer: Great Visual Explanation](https://ig.ft.com/generative-ai/) [Great]  
 
 ### Reinforcement Learning from Human Feedback (RLHF):
 - [RLHF Tutorial](https://vinija.ai/concepts/RLHF/)
