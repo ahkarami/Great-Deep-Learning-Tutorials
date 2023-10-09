@@ -358,7 +358,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ### LLM based Agents:
 - [MetaGPT: Multi-Agent Framework](https://github.com/geekan/MetaGPT)
 - [DevOpsGPT: AI-Driven Software Development Automation Solution](https://github.com/kuafuai/DevOpsGPT)
-- [LLM Agent Survey](https://github.com/Paitesanshi/LLM-Agent-Survey)  
+- [LLM Agent Survey](https://github.com/Paitesanshi/LLM-Agent-Survey)
+- [Microsoft AutoGen development of LLM applications using multiple agents](https://github.com/microsoft/autogen)  
 
 ### Notes about Cost & Price of Training and Using LLMs:
 - [Cost to Deploy LLaMA2 vs. ChatGPT](https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7109561666324885504-ySeC?utm_source=share&utm_medium=member_desktop) [Very Important]  
