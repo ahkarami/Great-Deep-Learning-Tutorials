@@ -111,7 +111,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 
 ### Reinforcement Learning from Human Feedback (RLHF):
 - [RLHF Tutorial](https://vinija.ai/concepts/RLHF/)
-- [New method instead of RLHF: Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://www.linkedin.com/posts/yoelzeldes_to-get-llms-as-good-as-openais-gpt-4-is-activity-7078958558519656451-N6Wo/?utm_source=share&utm_medium=member_android)  
+- [New method instead of RLHF: Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://www.linkedin.com/posts/yoelzeldes_to-get-llms-as-good-as-openais-gpt-4-is-activity-7078958558519656451-N6Wo/?utm_source=share&utm_medium=member_android)
+- [Finetuning an LLM: RLHF and alternatives (Part I)](https://argilla.io/blog/mantisnlp-rlhf-part-1/)
+- [Finetuning an LLM: RLHF and alternatives (Part II)](https://argilla.io/blog/mantisnlp-rlhf-part-2/)
+- [Finetuning an LLM: RLHF and alternatives (Part III)](https://argilla.io/blog/mantisnlp-rlhf-part-3/)  
 
 ### Large Language Models (LLMs):
 - [LLaMA](https://github.com/facebookresearch/llama)  
@@ -234,7 +237,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [open-interpreter](https://github.com/KillianLucas/open-interpreter)
 - [kani: is a lightweight and highly hackable framework for chat-based language models with tool usage/function calling](https://github.com/zhudotexe/kani)
 - [Kani colab samples](https://colab.research.google.com/github/zhudotexe/kani/blob/main/examples/colab_examples.ipynb)
-- [Kani Linkedin Post](https://www.linkedin.com/posts/chris-callison-burch-40bb87b7_my-phd-students-have-build-a-really-great-activity-7110728026971115520-T16F?utm_source=share&utm_medium=member_desktop)  
+- [Kani Linkedin Post](https://www.linkedin.com/posts/chris-callison-burch-40bb87b7_my-phd-students-have-build-a-really-great-activity-7110728026971115520-T16F?utm_source=share&utm_medium=member_desktop)
+- [Argilla: the open-source data curation platform for LLMs](https://github.com/argilla-io/argilla)  
 
 ### LLMS for Coding:
 - [CodeGen](https://github.com/salesforce/CodeGen)
