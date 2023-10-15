@@ -270,7 +270,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines](https://github.com/explodinggradients/ragas)
 - [Fine tuning vs. RAG for LLMs](https://www.linkedin.com/posts/alexander-ratner-038ba239_lots-of-debate-on-fine-tuning-vs-rag-for-activity-7103836027957506048-AjoJ?utm_source=share&utm_medium=member_desktop)
 - [Building RAG-based LLM Applications for Production (Part 1)](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1) [Good]
-- [Verba: The Golden RAGtriever, user-friendly interface for Retrieval-Augmented Generation (RAG) applications](https://github.com/weaviate/Verba)  
+- [Verba: The Golden RAGtriever, user-friendly interface for Retrieval-Augmented Generation (RAG) applications](https://github.com/weaviate/Verba)
+- [DocsGPT: GPT-powered chat for documentation, chat with your documents](https://github.com/arc53/DocsGPT)  
 
 ### Vector Database Libraries:
 - [weaviate](https://weaviate.io/)  
