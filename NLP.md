@@ -340,7 +340,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [BNB Blog: Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
 - [GPTQ Blog: Making LLMs lighter with AutoGPTQ and transformers](https://huggingface.co/blog/gptq-integration)
 - [TensorRT-LLM](https://www.linkedin.com/posts/tunguz_llm-h100-languagemodels-activity-7106253824910139392-WZRM?utm_source=share&utm_medium=member_desktop)
-- [Overview of 🤗 Transformers Quantization: GPTQ vs bitsandbytes](https://huggingface.co/blog/overview-quantization-transformers)  
+- [Overview of 🤗 Transformers Quantization: GPTQ vs bitsandbytes](https://huggingface.co/blog/overview-quantization-transformers)
+- [LoRA Exchange (LoRAX): Serve 100s of Fine-Tuned LLMs for the Cost of 1](https://predibase.com/blog/lora-exchange-lorax-serve-100s-of-fine-tuned-llms-for-the-cost-of-one)  
+- [Introducing LoRAX](https://www.linkedin.com/posts/travisaddair_lora-exchange-lorax-serve-100s-of-fine-tuned-activity-7120819275442896896-vlI_?utm_source=share&utm_medium=member_desktop)  
 
 ### LLMs on Mobile Devices:
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm)  
