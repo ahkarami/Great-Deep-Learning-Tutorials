@@ -200,7 +200,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LLMs get lost when the context becomes too long: Lost in the Middle: How Language Models Use Long Contexts](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_are-vector-databases-here-to-stay-yes-activity-7085908435686285312-QVfB?utm_source=share&utm_medium=member_desktop) [**Very Important**]
 - [LongLoRA: Efficient Fine-tuning of Long-Context LLMs](https://www.linkedin.com/posts/omarsar_longlora-efficient-fine-tuning-of-long-context-activity-7111000280615325699-SVEE?utm_source=share&utm_medium=member_desktop)  
 - [LongLoRA: Efficient Fine-tuning of Long-Context LLMs (another post)](https://www.linkedin.com/posts/haotian-tang_expanding-the-context-size-of-large-language-activity-7110806911775641600-nShH?utm_source=share&utm_medium=member_desktop)
-- [Efficient Streaming LLMs with Attention Sinks for infinite-length inputs](https://github.com/mit-han-lab/streaming-llm)  
+- [Efficient Streaming LLMs with Attention Sinks for infinite-length inputs](https://github.com/mit-han-lab/streaming-llm)
+- [MemGPT: Teaching LLMs memory management for unbounded context](https://github.com/cpacker/MemGPT)  
 
 ### Frameworks for Training & Using Large Language Models (LLMs):
 - [ColossalAI: Library for LLMs](https://github.com/hpcaitech/ColossalAI)  
