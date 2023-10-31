@@ -244,7 +244,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Kani Linkedin Post](https://www.linkedin.com/posts/chris-callison-burch-40bb87b7_my-phd-students-have-build-a-really-great-activity-7110728026971115520-T16F?utm_source=share&utm_medium=member_desktop)
 - [Argilla: the open-source data curation platform for LLMs](https://github.com/argilla-io/argilla)
 - [LiteLLM: Call all LLM APIs using the OpenAI format](https://github.com/BerriAI/litellm)
-- [LLM Finetuning with PEFT](https://github.com/ashishpatel26/LLM-Finetuning)  
+- [LLM Finetuning with PEFT](https://github.com/ashishpatel26/LLM-Finetuning)
+- [ChatGPT-AutoExpert: Supercharged Custom Instructions for ChatGPT](https://github.com/spdustin/ChatGPT-AutoExpert)  
 
 ### LLMS for Coding:
 - [CodeGen](https://github.com/salesforce/CodeGen)
