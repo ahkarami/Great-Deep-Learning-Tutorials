@@ -528,7 +528,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Ortus - your YouTube AI buddy](https://chrome.google.com/webstore/detail/ortus-your-youtube-ai-bud/jmpepfdhkjkknfpnfohnmnjoceepcbmp)
 - [How Is ChatGPT’s Behavior Changing over Time?](https://www.linkedin.com/posts/svpino_gpt-4-is-getting-worse-over-time-not-better-activity-7087379892077481984-uORp?utm_source=share&utm_medium=member_android)
 - [LLM Drifts: How Is ChatGPT’s Behavior Changing over Time?](https://github.com/lchen001/LLMDrift)
-- [ChatGPT app Builder](https://www.linkedin.com/posts/zainkahn_absolute-madness-openai-ceo-sam-altman-activity-7128011745868050432-Ox5K?utm_source=share&utm_medium=member_desktop)  
+- [ChatGPT app Builder](https://www.linkedin.com/posts/zainkahn_absolute-madness-openai-ceo-sam-altman-activity-7128011745868050432-Ox5K?utm_source=share&utm_medium=member_desktop)
+- [GPT4 Turbo 128k analysis Notes (its price)](https://www.linkedin.com/posts/reuvencohen_i-finally-got-a-chance-to-play-with-the-new-activity-7128179916512104448-SlEX?utm_source=share&utm_medium=member_desktop)  
 
 ## NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
