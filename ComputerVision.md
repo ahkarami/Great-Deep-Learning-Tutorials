@@ -319,6 +319,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Subreddit Media Downloader](https://github.com/Psycoguana/SubredditMediaDownloader)  
 - [pigeon: Quickly annotate data on Jupyter](https://github.com/agermanidis/pigeon)  
 
+## LLMs for Vision Tasks:
+- [Draw UI via Generative AI](https://www.linkedin.com/posts/eric-vyacheslav-156273169_this-will-change-the-whole-industry-draw-a-ui-activity-7130527961169969153-JAi5?utm_source=share&utm_medium=member_desktop)  
+
 ## Other:
 
 ### Color Channel Order:
