@@ -257,7 +257,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LLM University](https://docs.cohere.com/docs/llmu)  
 - [List of LLM Courses](https://www.linkedin.com/posts/srijankr_ai-llm-activity-7080929772523966464-Le4u/?utm_source=share&utm_medium=member_android)
 - [Anti-hype LLM reading list](https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
-- [Microsoft Generative AI Course](https://github.com/microsoft/generative-ai-for-beginners)  
+- [Microsoft Generative AI Course](https://github.com/microsoft/generative-ai-for-beginners)
+- [Best Resources for learning to work with LLMs](https://www.linkedin.com/posts/whats-ai_github-louisfb01start-llms-a-complete-activity-7133590058229456896-WEf0?utm_source=share&utm_medium=member_desktop)  
+- [Start with Large Language Models (LLMs) - Become an expert for free!](https://github.com/louisfb01/start-llms) [Interesting]   
 
 ### LLMs Ranking:
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)  
