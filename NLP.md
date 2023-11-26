@@ -13,7 +13,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Pretrained PyTorch models for BERT](https://github.com/huggingface/pytorch-pretrained-BERT)  
 - [Library of state-of-the-art pretrained models for NLP](https://github.com/huggingface/pytorch-transformers#quick-tour) [_Excellent_]  
 - [DistilBERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
-- [FastBert](https://arxiv.org/abs/2311.10770)  
+- [FastBert](https://arxiv.org/abs/2311.10770)
+- [FastBert Linkedin Post](https://www.linkedin.com/posts/activity-7132888497119485952-GMsV?utm_source=share&utm_medium=member_desktop)  
 - [PyTorch Hub - BERT](https://pytorch.org/hub/huggingface_pytorch-pretrained-bert_bert/)  
 - [A Simple Guide On Using BERT for Binary Text Classification](https://medium.com/swlh/a-simple-guide-on-using-bert-for-text-classification-bbf041ac8d04)  
 - [Core ML 3 implementation of BERT for Question answering](https://github.com/huggingface/swift-coreml-transformers)  
