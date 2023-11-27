@@ -268,7 +268,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)  
 - [Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-10-leaderboard/)
 - [AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)
-- [CanAiCode Leaderboard](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results)  
+- [CanAiCode Leaderboard](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results)
+- [Small LLMs Performance Ranking](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_how-big-do-llms-need-to-be-able-to-reason-activity-7134108036473741312-2jxI?utm_source=share&utm_medium=member_desktop)  
 
 ### Building NLP Applications Powered by LLMs (Different Methods for Augmenting Knowledge to LLMs (or Retrieval-Augmented Generation (RAG) applications)):
 - [Ask a Book Questions with LangChain OpenAI](https://bennycheung.github.io/ask-a-book-questions-with-langchain-openai) [Great]  
