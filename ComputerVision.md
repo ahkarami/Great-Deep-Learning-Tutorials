@@ -36,7 +36,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [TSNE-Visualization of large dataset images using pre-trained networks in Tensorflow and Keras](https://e3oroush.github.io/tsne-visualization/)  [_Great_] 
 
 ### UMAP Visualization:
-- [Understanding UMAP](https://pair-code.github.io/understanding-umap/)  
+- [Understanding UMAP](https://pair-code.github.io/understanding-umap/)
+
+### EDA and visualization of Image/Video Datasets:
+- [fastdup: a powerful free tool designed to rapidly extract valuable insights from your image & video datasets](https://github.com/visual-layer/fastdup)  
 
 ## Image Classification Models:
 - [GhostNet (CVPR 2020) in PyTorch and TensorFlow](https://blog.paperspace.com/ghostnet-cvpr-2020/)  
