@@ -356,7 +356,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LoRA Exchange (LoRAX): Serve 100s of Fine-Tuned LLMs for the Cost of 1](https://predibase.com/blog/lora-exchange-lorax-serve-100s-of-fine-tuned-llms-for-the-cost-of-one)  
 - [Introducing LoRAX](https://www.linkedin.com/posts/travisaddair_lora-exchange-lorax-serve-100s-of-fine-tuned-activity-7120819275442896896-vlI_?utm_source=share&utm_medium=member_desktop)
 - [DeepSparse: Sparsity-aware deep learning inference runtime for CPUs](https://github.com/neuralmagic/deepsparse)
-- [Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms) [**Great**]  
+- [Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms) [**Great**]
+- [Dare method for improving LLMs performance](https://www.linkedin.com/posts/andrew-iain-jardine_llm-opensource-llms-activity-7134896163698208768-0Gyf?utm_source=share&utm_medium=member_desktop)  
 
 ### LLMs on Mobile Devices:
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm)  
