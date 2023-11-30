@@ -376,6 +376,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Chain of Verification Prompt engineering method](https://www.linkedin.com/posts/xamatriain_a-week-ago-meta-presented-a-new-prompt-engineering-activity-7114351307183820800-MsgT?utm_source=share&utm_medium=member_desktop)
 - [Analogical Prompting](https://huggingface.co/papers/2310.01714)
 - [Prompt Flow: Build high-quality LLM apps](https://github.com/microsoft/promptflow)
+- [Contrastive Chain-of-Thought Prompting (CCoT)](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_improve-chain-of-thought-prompting-by-adding-activity-7133477395944091648-TKlQ?utm_source=share&utm_medium=member_desktop)  
 - [New Prompting Techniques](https://www.linkedin.com/posts/pramodith_promptengineering-llm-activity-7134507333530836992-evPU?utm_source=share&utm_medium=member_desktop)  
 
 ### LLM-based Recommender Systems:
