@@ -103,6 +103,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [SeamlessM4T: Paper](https://dl.fbaipublicfiles.com/seamless/seamless_m4t_paper.pdf)  
 - [SeamlessM4T: Demo](https://seamless.metademolab.com/demo)  
 - [SeamlessM4T: HuggingFace Demo](https://huggingface.co/spaces/facebook/seamless_m4t)
+- [SeamlessM4T v2](https://www.linkedin.com/posts/aiatmeta_today-were-sharing-the-next-milestone-in-activity-7136104235166830592-7ROv?utm_source=share&utm_medium=member_desktop)  
 - [HuggingFace Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)  
 
 ### Speech Language Modeling:
