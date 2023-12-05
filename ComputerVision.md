@@ -91,7 +91,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Salesforce LAVIS: A Library for Language-Vision Intelligence](https://github.com/salesforce/LAVIS)  
 
 ## Generative AI in Image and Computer Vision:
-- [Dream Gaussian: Generative Gaussian Splatting for Efficient 3D Content Creation](https://github.com/dreamgaussian/dreamgaussian)  
+- [Dream Gaussian: Generative Gaussian Splatting for Efficient 3D Content Creation](https://github.com/dreamgaussian/dreamgaussian)
+- [Stable Diffusion Video](https://www.linkedin.com/posts/eric-vyacheslav-156273169_stability-just-released-stable-diffusion-activity-7133533117700521984-JWpc?utm_source=share&utm_medium=member_desktop)  
 
 ## Detection & Segmentation:
 ## Object Detection:
