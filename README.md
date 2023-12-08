@@ -210,7 +210,8 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [mlnotify: No need to keep checking your training](https://github.com/aporia-ai/mlnotify)  
 - [NVIDIA NeMo -  toolkit for creating Conversational AI (ASR, TTS, and NLP)](https://github.com/NVIDIA/NeMo)  
 - [Microsoft DeepSpeed](https://github.com/microsoft/DeepSpeed)  
-- [Mojo: a new programming language for AI developers](https://www.modular.com/mojo)  
+- [Mojo: a new programming language for AI developers](https://www.modular.com/mojo)
+- [MLX: An array framework for Apple silicon](https://github.com/ml-explore/mlx)  
 
 ## Great Models:
 - [ResNext WSL](https://pytorch.org/hub/facebookresearch_WSL-Images_resnext/) [_Great Pretrained Model_]  
