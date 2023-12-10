@@ -364,7 +364,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Practical Tips for Finetuning LLMs Using LoRA (Low-Rank Adaptation)](https://magazine.sebastianraschka.com/p/practical-tips-for-finetuning-llms) [**Great**]
 - [Dare method for improving LLMs performance](https://www.linkedin.com/posts/andrew-iain-jardine_llm-opensource-llms-activity-7134896163698208768-0Gyf?utm_source=share&utm_medium=member_desktop)
 - [Small model that surpass the GPT4](https://www.linkedin.com/posts/clementdelangue_open-models-now-starting-to-surpass-gpt4-activity-7137904570898264064-LSmc?utm_source=share&utm_medium=member_desktop) [Interesting]
-- [Efficient LLMs Survey](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) [Great]  
+- [Efficient LLMs Survey](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) [Great]
+- [LoRAX (LoRA eXchange): Framework that allows users to serve thousands of fine-tuned models on a single GPU](https://github.com/predibase/lorax)  
 
 ### LLMs on Mobile Devices:
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm)  
