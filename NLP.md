@@ -210,6 +210,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Efficient Streaming LLMs with Attention Sinks for infinite-length inputs](https://github.com/mit-han-lab/streaming-llm)
 - [MemGPT: Teaching LLMs memory management for unbounded context](https://github.com/cpacker/MemGPT)  
 
+### Small Language Models (SLMs):
+- [Microsoft Phi-2 Model (with 2.7B Parameters)](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)  
+
 ### Frameworks for Training & Using Large Language Models (LLMs):
 - [ColossalAI: Library for LLMs](https://github.com/hpcaitech/ColossalAI)  
 - [LangChain: Library for Building applications with LLMs](https://github.com/hwchase17/langchain)  
