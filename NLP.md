@@ -389,7 +389,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Analogical Prompting](https://huggingface.co/papers/2310.01714)
 - [Prompt Flow: Build high-quality LLM apps](https://github.com/microsoft/promptflow)
 - [Contrastive Chain-of-Thought Prompting (CCoT)](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_improve-chain-of-thought-prompting-by-adding-activity-7133477395944091648-TKlQ?utm_source=share&utm_medium=member_desktop)  
-- [New Prompting Techniques](https://www.linkedin.com/posts/pramodith_promptengineering-llm-activity-7134507333530836992-evPU?utm_source=share&utm_medium=member_desktop)  
+- [New Prompting Techniques](https://www.linkedin.com/posts/pramodith_promptengineering-llm-activity-7134507333530836992-evPU?utm_source=share&utm_medium=member_desktop)
+- [Openai Prompt Engineering Guide - Linkedin Post](https://www.linkedin.com/posts/eric-vyacheslav-156273169_game-changer-open-ai-just-released-their-activity-7141454141683343360-eunF?utm_source=share&utm_medium=member_desktop)  
+- [Openai Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)  
 
 ### LLM-based Recommender Systems:
 - [ChatGPT-based Recommender Systems](https://blog.reachsumit.com/posts/2023/05/chatgpt-for-recsys/)  
