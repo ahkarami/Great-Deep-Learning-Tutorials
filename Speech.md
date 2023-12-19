@@ -24,7 +24,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [WeNet Android App](https://github.com/wenet-e2e/wenet/tree/main/runtime/device/android/wenet)   
 - [K2: FSA/FST algorithms, differentiable, with PyTorch compatibility](https://github.com/k2-fsa/k2)  
 - [Microsoft NeuralSpeech](https://github.com/microsoft/NeuralSpeech)  
-- [Great Speech Tutorials: alphacephei](https://alphacephei.com/nsh/)  
+- [Great Speech Tutorials: alphacephei](https://alphacephei.com/nsh/)
+- [open-mmlab Amphion: An Open-Source Audio, Music, and Speech Generation Toolkit](https://github.com/open-mmlab/Amphion)  
 - [NeMo - toolkit for Conversational AI](https://github.com/NVIDIA/NeMo) [_Excellent_]  
 
 ## Text to Speech (TTS):
