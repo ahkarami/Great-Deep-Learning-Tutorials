@@ -189,7 +189,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Training Llama 2](https://www.linkedin.com/posts/bhavsarpratik_llama2-finetuning-genai-activity-7092496767870509056-RojZ/?utm_source=share&utm_medium=member_android)
 - [Llama-2-7B-32K-Instruct — and fine-tuning for Llama-2 models with Together API](https://together.ai/blog/llama-2-7b-32k-instruct)
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
-- [LLaMA-Factory Notes](https://www.linkedin.com/posts/rorcde_llama-factory-ai-library-of-the-day-llama-activity-7138958059506143234-t5p2?utm_source=share&utm_medium=member_desktop)  
+- [LLaMA-Factory Notes](https://www.linkedin.com/posts/rorcde_llama-factory-ai-library-of-the-day-llama-activity-7138958059506143234-t5p2?utm_source=share&utm_medium=member_desktop)
+- [Purple llama by Meta - Link1](https://github.com/facebookresearch/PurpleLlama)
+- [Purple llama by Meta - Link2](https://www.linkedin.com/posts/aiatmeta_announcing-purple-llama-towards-open-trust-activity-7138536031858937857-edXE?utm_source=share&utm_medium=member_desktop)  
+- [Purple llama by Meta - Link3](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_purple-llama-just-got-released-by-meta-activity-7138538944115200001-WKAR?utm_source=share&utm_medium=member_desktop)  
 
 ### Long Context Window LLMs (e.g., 100K Tokens LLMs):
 - [Claude LLM](https://www.linkedin.com/posts/itamar-g1_anthropic-openais-biggest-rivalry-just-activity-7063773334831775744-cQ4L/?utm_source=share&utm_medium=member_android)
