@@ -30,7 +30,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [NLP Test: Deliver Safe & Effective Models](https://github.com/JohnSnowLabs/nlptest)
 - [SetFit: Efficient Few-shot Learning with Sentence Transformers](https://github.com/huggingface/setfit)  
 
-## General Persian based libraries:
+## General Persian based libraries & Data Sets:
 - [Parsivar: library for Persian text preprocessing](https://github.com/ICTRC/Parsivar)   
 - [Hazm](https://github.com/sobhe/hazm)  
 - [persianNLP](https://github.com/persiannlp)  
@@ -38,7 +38,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [FarsTail: A Persian Natural Language Inference Dataset](https://github.com/dml-qom/FarsTail)  
 - [wordfreq: Access a database of word frequencies](https://github.com/rspeer/wordfreq)  
 - [Persian Stop Words List](https://github.com/kharazi/persian-stopwords)  
-- [Persian Stop Words List in Hazm Repo](https://github.com/sobhe/hazm/blob/master/hazm/data/stopwords.dat)  
+- [Persian Stop Words List in Hazm Repo](https://github.com/sobhe/hazm/blob/master/hazm/data/stopwords.dat)
+- [PCoQA: Persian Conversational Question Answering Dataset](https://github.com/HamedHematian/PCoQA)  
 
 ## Text Representation:
 - [Beyond Word Embeddings Part 1](https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f)  
