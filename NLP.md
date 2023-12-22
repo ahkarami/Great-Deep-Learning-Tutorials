@@ -283,7 +283,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Chatbot Arena Leaderboard](https://lmsys.org/blog/2023-05-10-leaderboard/)
 - [AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)
 - [CanAiCode Leaderboard](https://huggingface.co/spaces/mike-ravkine/can-ai-code-results)
-- [Small LLMs Performance Ranking](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_how-big-do-llms-need-to-be-able-to-reason-activity-7134108036473741312-2jxI?utm_source=share&utm_medium=member_desktop)  
+- [Small LLMs Performance Ranking](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_how-big-do-llms-need-to-be-able-to-reason-activity-7134108036473741312-2jxI?utm_source=share&utm_medium=member_desktop)
+- [Chatbot Arena: Benchmarking LLMs in the Wild](https://huggingface.co/spaces/lmsys/chatbot-arena) [**Great**]
+- [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)  
 
 ### Building NLP Applications Powered by LLMs (Different Methods for Augmenting Knowledge to LLMs (or Retrieval-Augmented Generation (RAG) applications)):
 - [Ask a Book Questions with LangChain OpenAI](https://bennycheung.github.io/ask-a-book-questions-with-langchain-openai) [Great]  
@@ -374,7 +376,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Dare method for improving LLMs performance](https://www.linkedin.com/posts/andrew-iain-jardine_llm-opensource-llms-activity-7134896163698208768-0Gyf?utm_source=share&utm_medium=member_desktop)
 - [Small model that surpass the GPT4](https://www.linkedin.com/posts/clementdelangue_open-models-now-starting-to-surpass-gpt4-activity-7137904570898264064-LSmc?utm_source=share&utm_medium=member_desktop) [Interesting]
 - [Efficient LLMs Survey](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) [Great]
-- [LoRAX (LoRA eXchange): Framework that allows users to serve thousands of fine-tuned models on a single GPU](https://github.com/predibase/lorax)  
+- [LoRAX (LoRA eXchange): Framework that allows users to serve thousands of fine-tuned models on a single GPU](https://github.com/predibase/lorax)
+- [PowerInfer: High-speed LLMs Serving on PCs with Consumer-grade GPUs](https://github.com/SJTU-IPADS/PowerInfer)  
 
 ### LLMs on Mobile Devices:
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm)  
