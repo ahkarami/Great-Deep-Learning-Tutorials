@@ -171,6 +171,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Mixtral - a SOTA Mixture of Experts](https://huggingface.co/blog/mixtral)  
 - [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409)
 - [Favourite LLM Authors](https://www.linkedin.com/posts/sanyambhutani_curated-list-of-my-favourite-llm-authors-activity-7105896422226423808-Unev?utm_source=share&utm_medium=member_desktop)
+- [Open Source LLMs for Commercial Use](https://www.linkedin.com/posts/armand-ruiz_top-open-source-llms-available-for-commercial-activity-7137772625468002304-jkMM?utm_source=share&utm_medium=member_desktop)  
 - [Optimizing your LLM in production](https://huggingface.co/blog/optimize-llm) [Important]  
 
 ### LLaMA2 Related Links:
