@@ -27,7 +27,8 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Learn PyTorch for Deep Learning: Zero to Mastery Course](https://github.com/mrdbourke/pytorch-deep-learning) [**Excellent**]  
 - [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained) [**Excellent**]  
 - [Alpha Signal: Latest Research in Machine Learning](https://alphasignal.ai/)  
-- [Harvard CS197: AI Research Experiences - The Course Book](https://docs.google.com/document/u/0/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/mobilebasic#heading=h.bko37p9m9o8g) [**Excellent**]  
+- [Harvard CS197: AI Research Experiences - The Course Book](https://docs.google.com/document/u/0/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/mobilebasic#heading=h.bko37p9m9o8g) [**Excellent**]
+- [Deep learning jupyter notebook book](https://udlbook.github.io/udlbook/)  
 - [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT](https://arxiv.org/abs/2302.09419)  
 
 ## Deep Learning Useful Resources for Computer Vision:  
