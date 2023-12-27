@@ -543,7 +543,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [ParlAI Evaluation Metrics for Chatbot](https://github.com/facebookresearch/ParlAI/blob/14a10258bf90218341e0253d1c5a88c9d2cd013f/docs/source/tutorial_metrics.md)  
 - [Chatbot Evaluation Metrics](https://github.com/ahkarami/Great-Deep-Learning-Tutorials/blob/master/NLP/Chatbot_Evaluation_Metrics.md) [**Great**]
 - [Databricks' report on LLM evaluation methods](https://www.linkedin.com/posts/activity-7107825117379907584-m17h?utm_source=share&utm_medium=member_desktop)
-- [AgentBench: Evaluating LLMs as Agents](https://github.com/THUDM/AgentBench)  
+- [AgentBench: Evaluating LLMs as Agents](https://github.com/THUDM/AgentBench)
+- [Prometheus: Using GPT4 as SLMs Evaluator](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_using-powerful-llms-gpt-4-as-an-evaluator-activity-7131951255119110145-RH86?utm_source=share&utm_medium=member_desktop)  
 
 ### OpenAI ChatGPT & Its Applications:  
 - [OpenAI ChatGPT](https://openai.com/blog/chatgpt/) [Amazing]  
