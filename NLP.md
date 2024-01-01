@@ -173,7 +173,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Favourite LLM Authors](https://www.linkedin.com/posts/sanyambhutani_curated-list-of-my-favourite-llm-authors-activity-7105896422226423808-Unev?utm_source=share&utm_medium=member_desktop)
 - [Open Source LLMs for Commercial Use](https://www.linkedin.com/posts/armand-ruiz_top-open-source-llms-available-for-commercial-activity-7137772625468002304-jkMM?utm_source=share&utm_medium=member_desktop)  
 - [Optimizing your LLM in production](https://huggingface.co/blog/optimize-llm) [Important]
-- [In Context Vectors (ICV): an alternative to Few-Shot Learning and Finetuning techniques like LoRA to improve an LLMs performance](https://www.linkedin.com/posts/pramodith_in-context-vectors-icv-is-an-alternative-activity-7131970618467471360-67Z3?utm_source=share&utm_medium=member_desktop)  
+- [In Context Vectors (ICV): an alternative to Few-Shot Learning and Finetuning techniques like LoRA to improve an LLMs performance](https://www.linkedin.com/posts/pramodith_in-context-vectors-icv-is-an-alternative-activity-7131970618467471360-67Z3?utm_source=share&utm_medium=member_desktop)
+- [NexusRavan v2 13B Fuction Calling LLM Surpassing GPT-4](https://www.linkedin.com/posts/nexusflow-ai_nexusravenv2-opensource-genai-activity-7137805301323362304-U2Pl?utm_source=share&utm_medium=member_desktop)  
 
 ### LLaMA2 Related Links:
 - [A colab gradio web UI for running Large Language Models](https://github.com/camenduru/text-generation-webui-colab) [Great]  
