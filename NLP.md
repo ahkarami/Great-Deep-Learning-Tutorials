@@ -197,7 +197,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Purple llama by Meta - Link1](https://github.com/facebookresearch/PurpleLlama)
 - [Purple llama by Meta - Link2](https://www.linkedin.com/posts/aiatmeta_announcing-purple-llama-towards-open-trust-activity-7138536031858937857-edXE?utm_source=share&utm_medium=member_desktop)  
 - [Purple llama by Meta - Link3](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_purple-llama-just-got-released-by-meta-activity-7138538944115200001-WKAR?utm_source=share&utm_medium=member_desktop)
-- [TinyLLaMa-1.1B](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0)  
+- [TinyLLaMa-1.1B](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0)
+- [Can llama learn new language?](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_is-it-possible-to-teach-llms-a-different-activity-7148653756165812226--l7o?utm_source=share&utm_medium=member_desktop)  
 
 ### Long Context Window LLMs (e.g., 100K Tokens LLMs):
 - [Claude LLM](https://www.linkedin.com/posts/itamar-g1_anthropic-openais-biggest-rivalry-just-activity-7063773334831775744-cQ4L/?utm_source=share&utm_medium=member_android)
