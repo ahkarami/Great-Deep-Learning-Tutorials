@@ -177,6 +177,12 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [NexusRavan v2 13B Fuction Calling LLM Surpassing GPT-4](https://www.linkedin.com/posts/nexusflow-ai_nexusravenv2-opensource-genai-activity-7137805301323362304-U2Pl?utm_source=share&utm_medium=member_desktop)
 - [Mixtral in colab](https://github.com/dvmazur/mixtral-offloading/blob/master/notebooks/demo.ipynb) [Great]  
 
+### Merge LLMs:
+- [Linkedin Post](https://www.linkedin.com/posts/maxime-labonne_merge-large-language-models-with-mergekit-activity-7150044812337901569-3zIu?utm_source=share&utm_medium=member_android)  
+- [Colab Notebook](https://colab.research.google.com/drive/1obulZ1ROXHjYLn6PPZJwRR6GzgQogxxb)
+- [Main Github of Mergekit](https://github.com/cg123/mergekit)  
+- [huggingface merge-models blog post](https://huggingface.co/blog/mlabonne/merge-models)   
+
 ### LLaMA2 Related Links:
 - [A colab gradio web UI for running Large Language Models](https://github.com/camenduru/text-generation-webui-colab) [Great]  
 - [llama-2-7b-chat-GPTQ-4bit](https://colab.research.google.com/github/camenduru/text-generation-webui-colab/blob/main/llama-2-7b-chat-GPTQ-4bit.ipynb)
