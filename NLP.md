@@ -273,6 +273,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LLM Finetuning with PEFT](https://github.com/ashishpatel26/LLM-Finetuning)
 - [ChatGPT-AutoExpert: Supercharged Custom Instructions for ChatGPT](https://github.com/spdustin/ChatGPT-AutoExpert)  
 
+### Codes for fine-tuning LLMs:
+- [LLM Finetuning with PEFT Colab Notebooks](https://github.com/ashishpatel26/LLM-Finetuning)  
+
 ### LLMS for Coding:
 - [CodeGen](https://github.com/salesforce/CodeGen)
 - [Code Llama](https://github.com/facebookresearch/codellama)
