@@ -108,6 +108,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [SeamlessM4T v2](https://www.linkedin.com/posts/aiatmeta_today-were-sharing-the-next-milestone-in-activity-7136104235166830592-7ROv?utm_source=share&utm_medium=member_desktop)  
 - [HuggingFace Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)  
 
+### ASR with LLMs:
+- [Listening with LLM](https://paul.mou.dev/posts/2023-12-31-listening-with-llm/)  
+
 ### Speech Language Modeling:
 - [An Empirical Study of Language Model Integration for Transducer based Speech Recognition](https://arxiv.org/pdf/2203.16776.pdf)  
 - [AudioPaLM](https://google-research.github.io/seanet/audiopalm/examples/)  
