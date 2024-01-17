@@ -5,7 +5,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Great NLP Posts](http://jalammar.github.io/)  
 - [Awesome NLP Paper Discussions - Hugging Face](https://github.com/huggingface/awesome-papers) [_Excellent_]  
 - [Ten trends in Deep learning NLP](https://blog.floydhub.com/ten-trends-in-deep-learning-nlp/)  
-- [Attention in RNNs](https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05)  
+- [Attention in RNNs](https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05)
+- [Understanding self-attention and other types of attention mechanisms](https://www.linkedin.com/posts/sebastianraschka_understanding-and-coding-self-attention-activity-7152300807080546304-uu21?utm_source=share&utm_medium=member_desktop)  
 - [BERT - TensorFlow](https://github.com/google-research/bert)  
 - [Understanding XLNet](https://www.borealisai.com/en/blog/understanding-xlnet/)  
 - [XLNet - TensorFlow](https://github.com/zihangdai/xlnet)  
