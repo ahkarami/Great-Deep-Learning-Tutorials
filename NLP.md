@@ -299,7 +299,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Learning Resources about LLMs](https://www.linkedin.com/posts/pauliusztin_machinelearning-mlops-datascience-activity-7135530424767819777-ui-5?utm_source=share&utm_medium=member_desktop)
 - [The Transformer Layer by Layer Course](https://mlbootcamp.ai/course.html?guid=d105240a-94e1-405b-be80-60056659c24c)
 - [The Transformer Layer by Layer Course: Linkedin](https://www.linkedin.com/posts/juan-olano-b9a330112_artificialintelligence-transformers-onlinelearning-activity-7137158122715897856-cneV?utm_source=share&utm_medium=member_desktop)
-- [Hands-on LLMs Course](https://github.com/iusztinpaul/hands-on-llms)  
+- [Hands-on LLMs Course](https://github.com/iusztinpaul/hands-on-llms)
+- [Brev.dev Notebooks: Fine-tuning mistral, mixtral, phi-2 and etc](https://github.com/brevdev/notebooks/tree/main) [**Excellent**]  
 
 ### LLMs Ranking:
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)  
