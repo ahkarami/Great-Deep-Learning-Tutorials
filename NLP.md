@@ -404,7 +404,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Small model that surpass the GPT4](https://www.linkedin.com/posts/clementdelangue_open-models-now-starting-to-surpass-gpt4-activity-7137904570898264064-LSmc?utm_source=share&utm_medium=member_desktop) [Interesting]
 - [Efficient LLMs Survey](https://github.com/AIoT-MLSys-Lab/Efficient-LLMs-Survey) [Great]
 - [LoRAX (LoRA eXchange): Framework that allows users to serve thousands of fine-tuned models on a single GPU](https://github.com/predibase/lorax)
-- [PowerInfer: High-speed LLMs Serving on PCs with Consumer-grade GPUs](https://github.com/SJTU-IPADS/PowerInfer)  
+- [PowerInfer: High-speed LLMs Serving on PCs with Consumer-grade GPUs](https://github.com/SJTU-IPADS/PowerInfer)
+- [LoRA From Scratch Implementation](https://www.linkedin.com/posts/sebastianraschka_code-lora-from-scratch-a-lightning-studio-activity-7155241298227060736-QRul?utm_source=share&utm_medium=member_desktop)  
 
 ### LLMs on Mobile Devices:
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm)  
