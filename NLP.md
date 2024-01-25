@@ -279,9 +279,11 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ### Codes for fine-tuning LLMs:
 - [LLM Finetuning with PEFT Colab Notebooks](https://github.com/ashishpatel26/LLM-Finetuning)
 - [Self Instruct TRL for LLMs](https://github.com/yizhongw/self-instruct)
-- [Self Instruct TRL for LLMs - Link2](https://huggingface.co/docs/trl/sft_trainer)  
+- [Self Instruct TRL for LLMs - Link2](https://huggingface.co/docs/trl/sft_trainer)
+- [How to Fine-Tune LLMs in 2024 with Hugging Face](https://www.philschmid.de/fine-tune-llms-in-2024-with-trl)
+- [Fine tune LLMs in your own hardware via PyTorch team (great)](https://pytorch.org/blog/finetune-llms/?utm_content=278057355&utm_medium=social&utm_source=linkedin&hss_channel=lcp-78618366)  
 
-### LLMS for Coding:
+### LLMs for Coding:
 - [CodeGen](https://github.com/salesforce/CodeGen)
 - [Code Llama](https://github.com/facebookresearch/codellama)
 - [Code Llama Notes](https://www.linkedin.com/posts/aleksagordic_nice-meta-ai-just-announced-code-llama-activity-7100559934764810240-Un2i/?utm_source=share&utm_medium=member_android)  
