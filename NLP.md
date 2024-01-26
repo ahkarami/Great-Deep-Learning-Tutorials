@@ -166,10 +166,6 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [ToolLLM](https://www.linkedin.com/posts/omarsar_enabling-llms-with-tool-use-capabilities-activity-7093299751571320832-1WHU/?utm_source=share&utm_medium=member_android)
 - [Falcon 180B](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_falcon-180b-released-tii-just-released-activity-7105166508376367105-P7ws?utm_source=share&utm_medium=member_desktop)
 - [Fine-tune Falcon 180B using QLoRA and Flash Attention on Amazon SageMaker](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_fine-tune-falcon-180b-with-qlora-and-flash-activity-7107387875515580416-zhSe?utm_source=share&utm_medium=member_desktop)
-- [Mistral AI models](https://github.com/mistralai/mistral-src)
-- [Is Mistral's first model a good replacement for OpenAI?](https://blog.quivr.app/is-mistral-a-good-replacement-for-openai/)
-- [Mistral Mixture of Experts (MoE) Model](https://www.linkedin.com/posts/liorsinclair_big-news-mistral-just-released-an-open-source-activity-7139323993253228544-5coS?utm_source=share&utm_medium=member_desktop)
-- [Mixtral - a SOTA Mixture of Experts](https://huggingface.co/blog/mixtral)  
 - [Large Language Models as Optimizers](https://arxiv.org/abs/2309.03409)
 - [Favourite LLM Authors](https://www.linkedin.com/posts/sanyambhutani_curated-list-of-my-favourite-llm-authors-activity-7105896422226423808-Unev?utm_source=share&utm_medium=member_desktop)
 - [Open Source LLMs for Commercial Use](https://www.linkedin.com/posts/armand-ruiz_top-open-source-llms-available-for-commercial-activity-7137772625468002304-jkMM?utm_source=share&utm_medium=member_desktop)  
@@ -209,6 +205,16 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [TinyLLaMa-1.1B](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0)
 - [Can llama learn new language?](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_is-it-possible-to-teach-llms-a-different-activity-7148653756165812226--l7o?utm_source=share&utm_medium=member_desktop)
 - [Persian LLaMa](https://huggingface.co/spaces/mostafaamiri/persianllama)  
+
+### Mistral & Mixtral Models Related Links:
+- [Mistral AI models](https://github.com/mistralai/mistral-src)
+- [Is Mistral's first model a good replacement for OpenAI?](https://blog.quivr.app/is-mistral-a-good-replacement-for-openai/)
+- [Mistral Mixture of Experts (MoE) Model](https://www.linkedin.com/posts/liorsinclair_big-news-mistral-just-released-an-open-source-activity-7139323993253228544-5coS?utm_source=share&utm_medium=member_desktop)
+- [Mixtral - a SOTA Mixture of Experts](https://huggingface.co/blog/mixtral)
+- [Mistraltrx](https://www.linkedin.com/posts/allen-roush-27721011b_cultrixmistraltrix-v1-hugging-face-activity-7149086757945298944-T7IA?utm_source=share&utm_medium=member_desktop)
+- [Nous-Hermes-Mixtral model](https://www.linkedin.com/posts/maxime-labonne_nousresearch-just-released-nous-hermes-activity-7152787405815566337-4aTY?utm_source=share&utm_medium=member_desktop)  
+- [Brev.dev Notebooks: Fine-tuning mistral, mixtral, phi-2 and etc](https://github.com/brevdev/notebooks/tree/main) [**Excellent**]
+- [Optimized LLM inference api for mistral-7b using vllm and AWQ](https://lightning.ai/lightning-ai/studios/optimized-llm-inference-api-for-mistral-7b-using-vllm?view=public&section=blogs) [**Excellent**]
 
 ### Long Context Window LLMs (e.g., 100K Tokens LLMs):
 - [Claude LLM](https://www.linkedin.com/posts/itamar-g1_anthropic-openais-biggest-rivalry-just-activity-7063773334831775744-cQ4L/?utm_source=share&utm_medium=member_android)
@@ -302,8 +308,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [The Transformer Layer by Layer Course](https://mlbootcamp.ai/course.html?guid=d105240a-94e1-405b-be80-60056659c24c)
 - [The Transformer Layer by Layer Course: Linkedin](https://www.linkedin.com/posts/juan-olano-b9a330112_artificialintelligence-transformers-onlinelearning-activity-7137158122715897856-cneV?utm_source=share&utm_medium=member_desktop)
 - [Hands-on LLMs Course](https://github.com/iusztinpaul/hands-on-llms)
-- [Direct Preference Optimization (DPO) Method for LLMs Tutorial](https://huggingface.co/blog/pref-tuning)  
-- [Brev.dev Notebooks: Fine-tuning mistral, mixtral, phi-2 and etc](https://github.com/brevdev/notebooks/tree/main) [**Excellent**]  
+- [Direct Preference Optimization (DPO) Method for LLMs Tutorial](https://huggingface.co/blog/pref-tuning)
+- [Brev.dev Notebooks: Fine-tuning mistral, mixtral, phi-2 and etc](https://github.com/brevdev/notebooks/tree/main) [**Excellent**]
 
 ### LLMs Ranking:
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)  
