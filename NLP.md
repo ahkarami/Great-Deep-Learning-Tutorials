@@ -172,7 +172,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Optimizing your LLM in production](https://huggingface.co/blog/optimize-llm) [Important]
 - [In Context Vectors (ICV): an alternative to Few-Shot Learning and Finetuning techniques like LoRA to improve an LLMs performance](https://www.linkedin.com/posts/pramodith_in-context-vectors-icv-is-an-alternative-activity-7131970618467471360-67Z3?utm_source=share&utm_medium=member_desktop)
 - [NexusRavan v2 13B Fuction Calling LLM Surpassing GPT-4](https://www.linkedin.com/posts/nexusflow-ai_nexusravenv2-opensource-genai-activity-7137805301323362304-U2Pl?utm_source=share&utm_medium=member_desktop)
-- [Phixtral model](https://www.linkedin.com/posts/maxime-labonne_phixtral-i-made-the-first-efficient-mixture-activity-7150758415961620481-v0qx?utm_source=share&utm_medium=member_desktop)  
+- [Phixtral model](https://www.linkedin.com/posts/maxime-labonne_phixtral-i-made-the-first-efficient-mixture-activity-7150758415961620481-v0qx?utm_source=share&utm_medium=member_desktop)
+- [Can LLMs improve themselves? Self-play fine-tuning (SPIN)](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_can-llms-improve-themselves-self-play-fine-tuning-activity-7150501901665542144-mk4K?utm_source=share&utm_medium=member_desktop)  
 - [Mixtral in colab](https://github.com/dvmazur/mixtral-offloading/blob/master/notebooks/demo.ipynb) [Great]  
 
 ### Merge LLMs:
@@ -212,7 +213,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Mistral Mixture of Experts (MoE) Model](https://www.linkedin.com/posts/liorsinclair_big-news-mistral-just-released-an-open-source-activity-7139323993253228544-5coS?utm_source=share&utm_medium=member_desktop)
 - [Mixtral - a SOTA Mixture of Experts](https://huggingface.co/blog/mixtral)
 - [Mistraltrx](https://www.linkedin.com/posts/allen-roush-27721011b_cultrixmistraltrix-v1-hugging-face-activity-7149086757945298944-T7IA?utm_source=share&utm_medium=member_desktop)
-- [Nous-Hermes-Mixtral model](https://www.linkedin.com/posts/maxime-labonne_nousresearch-just-released-nous-hermes-activity-7152787405815566337-4aTY?utm_source=share&utm_medium=member_desktop)  
+- [Nous-Hermes-Mixtral model](https://www.linkedin.com/posts/maxime-labonne_nousresearch-just-released-nous-hermes-activity-7152787405815566337-4aTY?utm_source=share&utm_medium=member_desktop)
+- [Mixtral in colab](https://github.com/dvmazur/mixtral-offloading/blob/master/notebooks/demo.ipynb) [Great]  
 - [Brev.dev Notebooks: Fine-tuning mistral, mixtral, phi-2 and etc](https://github.com/brevdev/notebooks/tree/main) [**Excellent**]
 - [Optimized LLM inference api for mistral-7b using vllm and AWQ](https://lightning.ai/lightning-ai/studios/optimized-llm-inference-api-for-mistral-7b-using-vllm?view=public&section=blogs) [**Excellent**]
 
