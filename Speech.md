@@ -162,7 +162,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [CharsiuG2P: Multilingual G2P in over 100 languages](https://github.com/lingjzhu/CharsiuG2P)  
 - [Transphone: zero-shot learning based grapheme-to-phoneme model for 8k languages](https://github.com/xinjli/transphone)  
 
-## Fundamental Notes in Speech Processing:
+## Fundamental Notes in Speech Processing & Courses:
 - [Deep Learning for Audio (DLA)](https://github.com/markovka17/dla) [**Great Course**]  
 - [MFCC Tutorial](http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/)  
 - [Sequence Modeling With CTC](https://distill.pub/2017/ctc/)  
@@ -173,7 +173,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Audio Signal Proessing for Machine Learning](https://github.com/musikalkemist/AudioSignalProcessingForML)  
 - [Deep Learning For Audio With Python](https://github.com/musikalkemist/DeepLearningForAudioWithPython)  
 - [Deep learning (audio) application: From design to deployment](https://github.com/musikalkemist/Deep-Learning-Audio-Application-From-Design-to-Deployment)  
-- [ASR 2022](https://github.com/besacier/ASR2022)  
+- [ASR 2022](https://github.com/besacier/ASR2022)
+- [Hugging Face Audio course](https://huggingface.co/learn/audio-course/chapter0/introduction)  
 
 ## Great Kaldi Tutorials:
 - [Kaldi Install for Dummies](https://www.assemblyai.com/blog/kaldi-install-for-dummies/)  
@@ -235,6 +236,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 ## Audio Compression:
 - [EnCodec: High Fidelity Neural Audio Compression](https://github.com/facebookresearch/encodec)  
 - [AI Powered Audio Compression Technique](https://ai.facebook.com/blog/ai-powered-audio-compression-technique/)  
+
 ## Audio Variational Autoencoder (VAE):
 - [AudioVAE: VAE implementation for audio data](https://github.com/nikuson/AudioVAE)  
 
