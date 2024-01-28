@@ -218,6 +218,11 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Brev.dev Notebooks: Fine-tuning mistral, mixtral, phi-2 and etc](https://github.com/brevdev/notebooks/tree/main) [**Excellent**]
 - [Optimized LLM inference api for mistral-7b using vllm and AWQ](https://lightning.ai/lightning-ai/studios/optimized-llm-inference-api-for-mistral-7b-using-vllm?view=public&section=blogs) [**Excellent**]
 
+### Yi Models:
+- [Yi Github](https://github.com/01-ai/Yi)
+- [Yi Website](https://01.ai/)
+- [Yi-VL-6B HuggingFace](https://huggingface.co/01-ai/Yi-VL-6B)  
+
 ### Long Context Window LLMs (e.g., 100K Tokens LLMs):
 - [Claude LLM](https://www.linkedin.com/posts/itamar-g1_anthropic-openais-biggest-rivalry-just-activity-7063773334831775744-cQ4L/?utm_source=share&utm_medium=member_android)
 - [Some Notes about the 100K Claude LLM Model](https://www.linkedin.com/posts/sahar-mor_claude-a-gpt-competitor-from-anthropic-activity-7062811160168841216-z4u9/?utm_source=share&utm_medium=member_android)
@@ -235,7 +240,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LongLoRA: Efficient Fine-tuning of Long-Context LLMs](https://www.linkedin.com/posts/omarsar_longlora-efficient-fine-tuning-of-long-context-activity-7111000280615325699-SVEE?utm_source=share&utm_medium=member_desktop)  
 - [LongLoRA: Efficient Fine-tuning of Long-Context LLMs (another post)](https://www.linkedin.com/posts/haotian-tang_expanding-the-context-size-of-large-language-activity-7110806911775641600-nShH?utm_source=share&utm_medium=member_desktop)
 - [Efficient Streaming LLMs with Attention Sinks for infinite-length inputs](https://github.com/mit-han-lab/streaming-llm)
-- [MemGPT: Teaching LLMs memory management for unbounded context](https://github.com/cpacker/MemGPT)  
+- [MemGPT: Teaching LLMs memory management for unbounded context](https://github.com/cpacker/MemGPT)
+- [Llmlingua Prompt Compress](https://www.linkedin.com/posts/sahar-mor_microsoft-recently-published-a-new-technique-activity-7151596182379597825-7ego?utm_source=share&utm_medium=member_desktop) [Interesting]  
 
 ### Small Language Models (SLMs):
 - [Microsoft Phi-2 Model (with 2.7B Parameters)](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)  
