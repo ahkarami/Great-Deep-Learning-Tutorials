@@ -173,6 +173,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [In Context Vectors (ICV): an alternative to Few-Shot Learning and Finetuning techniques like LoRA to improve an LLMs performance](https://www.linkedin.com/posts/pramodith_in-context-vectors-icv-is-an-alternative-activity-7131970618467471360-67Z3?utm_source=share&utm_medium=member_desktop)
 - [NexusRavan v2 13B Fuction Calling LLM Surpassing GPT-4](https://www.linkedin.com/posts/nexusflow-ai_nexusravenv2-opensource-genai-activity-7137805301323362304-U2Pl?utm_source=share&utm_medium=member_desktop)
 - [Phixtral model](https://www.linkedin.com/posts/maxime-labonne_phixtral-i-made-the-first-efficient-mixture-activity-7150758415961620481-v0qx?utm_source=share&utm_medium=member_desktop)
+- [Eagle-7B LLM: 100% attention-free RNN Model!](https://www.linkedin.com/posts/maxime-labonne_rwkv-released-eagle-7b-its-an-llm-that-activity-7157700712330661888-cdd1?utm_source=share&utm_medium=member_desktop)
+- [Eagle-7B LLM: Blog Post](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)   
 - [Can LLMs improve themselves? Self-play fine-tuning (SPIN)](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_can-llms-improve-themselves-self-play-fine-tuning-activity-7150501901665542144-mk4K?utm_source=share&utm_medium=member_desktop)  
 - [Mixtral in colab](https://github.com/dvmazur/mixtral-offloading/blob/master/notebooks/demo.ipynb) [Great]  
 
