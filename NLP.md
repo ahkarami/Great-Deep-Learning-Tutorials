@@ -182,7 +182,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Linkedin Post](https://www.linkedin.com/posts/maxime-labonne_merge-large-language-models-with-mergekit-activity-7150044812337901569-3zIu?utm_source=share&utm_medium=member_android)  
 - [Colab Notebook](https://colab.research.google.com/drive/1obulZ1ROXHjYLn6PPZJwRR6GzgQogxxb)
 - [Main Github of Mergekit](https://github.com/cg123/mergekit)  
-- [huggingface merge-models blog post](https://huggingface.co/blog/mlabonne/merge-models)   
+- [huggingface merge-models blog post](https://huggingface.co/blog/mlabonne/merge-models)
+- [Making the NeuralBeagle14-7B LLM Model (via Merging models and other methods)](https://www.linkedin.com/posts/maxime-labonne_heres-how-i-made-the-new-best-performing-activity-7153302680780640256-1Sv7?utm_source=share&utm_medium=member_desktop)
+- [Merge Large Language Models with mergekit](https://towardsdatascience.com/merge-large-language-models-with-mergekit-2118fb392b54)
+- [Fine-tune a Mistral-7b model with Direct Preference Optimization](https://towardsdatascience.com/fine-tune-a-mistral-7b-model-with-direct-preference-optimization-708042745aac)  
 
 ### LLaMA2 Related Links:
 - [A colab gradio web UI for running Large Language Models](https://github.com/camenduru/text-generation-webui-colab) [Great]  
