@@ -175,7 +175,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Phixtral model](https://www.linkedin.com/posts/maxime-labonne_phixtral-i-made-the-first-efficient-mixture-activity-7150758415961620481-v0qx?utm_source=share&utm_medium=member_desktop)
 - [Eagle-7B LLM: 100% attention-free RNN Model!](https://www.linkedin.com/posts/maxime-labonne_rwkv-released-eagle-7b-its-an-llm-that-activity-7157700712330661888-cdd1?utm_source=share&utm_medium=member_desktop)
 - [Eagle-7B LLM: Blog Post](https://blog.rwkv.com/p/eagle-7b-soaring-past-transformers)   
-- [Can LLMs improve themselves? Self-play fine-tuning (SPIN)](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_can-llms-improve-themselves-self-play-fine-tuning-activity-7150501901665542144-mk4K?utm_source=share&utm_medium=member_desktop)  
+- [Can LLMs improve themselves? Self-play fine-tuning (SPIN)](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_can-llms-improve-themselves-self-play-fine-tuning-activity-7150501901665542144-mk4K?utm_source=share&utm_medium=member_desktop)
+- [AI2 OLMo Model: Linkedin Post](https://www.linkedin.com/posts/natolambert_allenaiolmo-7b-hugging-face-activity-7158834284689035264-vfu7?utm_source=share&utm_medium=member_desktop)
+- [AI2 OLMo Model: HuggingFace](https://huggingface.co/allenai/OLMo-7B)
+- [AI2 OLMo Model: Original Blog post](https://www.interconnects.ai/p/olmo)  
 - [Mixtral in colab](https://github.com/dvmazur/mixtral-offloading/blob/master/notebooks/demo.ipynb) [Great]  
 
 ### Merge LLMs:
