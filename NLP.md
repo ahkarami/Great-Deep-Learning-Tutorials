@@ -430,7 +430,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LoRAX (LoRA eXchange): Framework that allows users to serve thousands of fine-tuned models on a single GPU](https://github.com/predibase/lorax)
 - [PowerInfer: High-speed LLMs Serving on PCs with Consumer-grade GPUs](https://github.com/SJTU-IPADS/PowerInfer)
 - [LoRA From Scratch Implementation](https://www.linkedin.com/posts/sebastianraschka_code-lora-from-scratch-a-lightning-studio-activity-7155241298227060736-QRul?utm_source=share&utm_medium=member_desktop)
-- [Proxy-Tuning (new method for fine-tuning LLMs)](https://www.linkedin.com/posts/sebastianraschka_theres-a-new-promising-method-for-finetuning-activity-7153788017017544705-ADC7?utm_source=share&utm_medium=member_desktop)  
+- [Proxy-Tuning (new method for fine-tuning LLMs)](https://www.linkedin.com/posts/sebastianraschka_theres-a-new-promising-method-for-finetuning-activity-7153788017017544705-ADC7?utm_source=share&utm_medium=member_desktop)
+- [AutoQuantize (GGUF, AWQ, EXL2, GPTQ) Colab Notebook](https://colab.research.google.com/drive/1Li3USnl3yoYctqJLtYux3LAIy4Bnnv3J?usp=sharing) [Great]  
 
 ### LLMs on Mobile Devices:
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm)  
