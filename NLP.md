@@ -621,7 +621,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [GPT4 Turbo 128k analysis Notes (its price)](https://www.linkedin.com/posts/reuvencohen_i-finally-got-a-chance-to-play-with-the-new-activity-7128179916512104448-SlEX?utm_source=share&utm_medium=member_desktop)
 - [Designer GPT: website creator](https://www.linkedin.com/posts/eric-vyacheslav-156273169_this-is-crazy-designergpt-is-a-new-gpt-that-activity-7129833701873438720-lQuN?utm_source=share&utm_medium=member_desktop)
 - [OpenAI DevDay Breakout Sessions Videos](https://www.linkedin.com/posts/openai_openai-devday-breakout-sessions-youtube-activity-7130298061599195137-vbyY?utm_source=share&utm_medium=member_desktop)
-- [GPT Seed Parameter Notes](https://www.linkedin.com/posts/sahar-mor_openai-released-a-feature-that-mitigates-activity-7130940108974788608-vkDW?utm_source=share&utm_medium=member_desktop)  
+- [GPT Seed Parameter Notes](https://www.linkedin.com/posts/sahar-mor_openai-released-a-feature-that-mitigates-activity-7130940108974788608-vkDW?utm_source=share&utm_medium=member_desktop)
+- [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)  
 
 ## Google Bard & Gemini:  
 - [Google DeepMind Gemini](https://www.linkedin.com/posts/googledeepmind_introducing-gemini-googles-largest-and-activity-7138182085441118208--M-h?utm_source=share&utm_medium=member_desktop)
