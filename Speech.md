@@ -59,7 +59,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [BigVGAN: A Universal Neural Vocoder with Large-Scale Training](https://github.com/NVIDIA/BigVGAN)  
 - [Bark: Text-Prompted Generative Audio Model](https://github.com/suno-ai/bark)  
 - [FaceBook Massively Multilingual Speech (MMS)](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
-- [AudioLDM2: unified framework for text-to-audio generation](https://github.com/haoheliu/AudioLDM2)  
+- [AudioLDM2: unified framework for text-to-audio generation](https://github.com/haoheliu/AudioLDM2)
+- [MetaVoice-1B: a 1.2B parameter base model trained on 100K hours of speech for TTS](https://github.com/metavoiceio/metavoice-src)  
 
 ## Automatic Speech Recognition (ASR) & Speech to Text (STT):
 - [OpenSpeech](https://github.com/openspeech-team/openspeech) [Great]   
@@ -105,7 +106,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [SeamlessM4T: Paper](https://dl.fbaipublicfiles.com/seamless/seamless_m4t_paper.pdf)  
 - [SeamlessM4T: Demo](https://seamless.metademolab.com/demo)  
 - [SeamlessM4T: HuggingFace Demo](https://huggingface.co/spaces/facebook/seamless_m4t)
-- [SeamlessM4T v2](https://www.linkedin.com/posts/aiatmeta_today-were-sharing-the-next-milestone-in-activity-7136104235166830592-7ROv?utm_source=share&utm_medium=member_desktop)  
+- [SeamlessM4T v2](https://www.linkedin.com/posts/aiatmeta_today-were-sharing-the-next-milestone-in-activity-7136104235166830592-7ROv?utm_source=share&utm_medium=member_desktop)
+- [WhisperFusion: Whisper + Mistral](https://github.com/collabora/WhisperFusion)  
 - [HuggingFace Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)  
 
 ### ASR with LLMs:
