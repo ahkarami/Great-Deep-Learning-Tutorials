@@ -107,7 +107,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [SeamlessM4T: Demo](https://seamless.metademolab.com/demo)  
 - [SeamlessM4T: HuggingFace Demo](https://huggingface.co/spaces/facebook/seamless_m4t)
 - [SeamlessM4T v2](https://www.linkedin.com/posts/aiatmeta_today-were-sharing-the-next-milestone-in-activity-7136104235166830592-7ROv?utm_source=share&utm_medium=member_desktop)
-- [WhisperFusion: Whisper + Mistral](https://github.com/collabora/WhisperFusion)  
+- [WhisperFusion: Whisper + Mistral](https://github.com/collabora/WhisperFusion)
+- [NeMo Canary-1B ASR Model](https://huggingface.co/spaces/nvidia/canary-1b)
+- [NeMo Canary-1B Linkedin Post](https://www.linkedin.com/posts/stevehuanghe_nvidia-nemo-team-is-thrilled-to-announce-activity-7161407409448505344-HvrJ?utm_source=share&utm_medium=member_desktop)  
 - [HuggingFace Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)  
 
 ### ASR with LLMs:
