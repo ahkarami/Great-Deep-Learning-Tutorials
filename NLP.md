@@ -230,7 +230,13 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ### Yi Models:
 - [Yi Github](https://github.com/01-ai/Yi)
 - [Yi Website](https://01.ai/)
-- [Yi-VL-6B HuggingFace](https://huggingface.co/01-ai/Yi-VL-6B)  
+- [Yi-VL-6B HuggingFace](https://huggingface.co/01-ai/Yi-VL-6B)
+
+### Qwen Models:
+- [Introducing Qwen1.5 Blog Post](https://qwenlm.github.io/blog/qwen1.5/)
+- [Qwen1.5 Linkedin Post](https://www.linkedin.com/posts/andrew-iain-jardine_llm-opensource-llms-activity-7160905982523445248-_t5B?utm_source=share&utm_medium=member_desktop)
+- [Qwen1.5 HuggingFace](https://huggingface.co/collections/Qwen/qwen15-65c0a2f577b1ecb76d786524)
+- [Qwen2 HuggingFace](https://huggingface.co/docs/transformers/en/model_doc/qwen2)  
 
 ### Long Context Window LLMs (e.g., 100K Tokens LLMs):
 - [Claude LLM](https://www.linkedin.com/posts/itamar-g1_anthropic-openais-biggest-rivalry-just-activity-7063773334831775744-cQ4L/?utm_source=share&utm_medium=member_android)
