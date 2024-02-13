@@ -259,7 +259,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Llmlingua Prompt Compress](https://www.linkedin.com/posts/sahar-mor_microsoft-recently-published-a-new-technique-activity-7151596182379597825-7ego?utm_source=share&utm_medium=member_desktop) [Interesting]  
 
 ### Small Language Models (SLMs):
-- [Microsoft Phi-2 Model (with 2.7B Parameters)](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)  
+- [Microsoft Phi-2 Model (with 2.7B Parameters)](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
+- [Can "small" finetuned LLMs with less than 2B parameters outperform larger openly available LLMs (Mixtral, Llama 2 Chat) and proprietary LLMs (ChatGPT)?](https://www.linkedin.com/posts/sebastianraschka_can-small-finetuned-llms-with-less-than-activity-7162082013674500096-FuYV?utm_source=share&utm_medium=member_desktop)  
 
 ### Frameworks for Training & Using Large Language Models (LLMs):
 - [ColossalAI: Library for LLMs](https://github.com/hpcaitech/ColossalAI)  
