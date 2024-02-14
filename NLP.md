@@ -334,6 +334,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [The Transformer Layer by Layer Course: Linkedin](https://www.linkedin.com/posts/juan-olano-b9a330112_artificialintelligence-transformers-onlinelearning-activity-7137158122715897856-cneV?utm_source=share&utm_medium=member_desktop)
 - [Hands-on LLMs Course](https://github.com/iusztinpaul/hands-on-llms)
 - [Direct Preference Optimization (DPO) Method for LLMs Tutorial](https://huggingface.co/blog/pref-tuning)
+- [CS25: Transformers United V3 Courses - Autumn 2023](https://web.stanford.edu/class/cs25/)  
 - [Brev.dev Notebooks: Fine-tuning mistral, mixtral, phi-2 and etc](https://github.com/brevdev/notebooks/tree/main) [**Excellent**]
 
 ### LLMs Ranking:
