@@ -327,7 +327,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Best Resources for learning to work with LLMs](https://www.linkedin.com/posts/whats-ai_github-louisfb01start-llms-a-complete-activity-7133590058229456896-WEf0?utm_source=share&utm_medium=member_desktop)  
 - [Start with Large Language Models (LLMs) - Become an expert for free!](https://github.com/louisfb01/start-llms) [Interesting]
 - [Intro to LLMs: Andrej Karpathy 1 Hour Lecture](https://www.youtube.com/watch?v=zjkBMFhNj_g)
-- [LLM Course](https://github.com/mlabonne/llm-course) [good]
+- [LLM Course](https://github.com/mlabonne/llm-course) [**good**]
+- [LLM Course in ChatGPT Plus](https://www.linkedin.com/posts/maria-vechtomova_llm-gpt-activity-7160567161856360448-IFjd?utm_source=share&utm_medium=member_desktop)  
 - [Build a Large Language Model (From Scratch) great Course and Book Tutorial](https://github.com/rasbt/LLMs-from-scratch) [**Great**]  
 - [Learning Resources about LLMs](https://www.linkedin.com/posts/pauliusztin_machinelearning-mlops-datascience-activity-7135530424767819777-ui-5?utm_source=share&utm_medium=member_desktop)
 - [The Transformer Layer by Layer Course](https://mlbootcamp.ai/course.html?guid=d105240a-94e1-405b-be80-60056659c24c)
