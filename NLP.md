@@ -240,7 +240,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Qwen2 HuggingFace](https://huggingface.co/docs/transformers/en/model_doc/qwen2)  
 
 ### Gemma LLM Related Links (by Google):
-- [Gemma an open Gemini LLM released by Google! - Linkedin Post](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_welcome-gemma-googles-new-open-llm-activity-7166054332914741249-FY2D?utm_source=share&utm_medium=member_desktop)   
+- [Gemma an open Gemini LLM released by Google! - Linkedin Post](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_welcome-gemma-googles-new-open-llm-activity-7166054332914741249-FY2D?utm_source=share&utm_medium=member_desktop)
+- [Gemma - another linkedin post](https://www.linkedin.com/posts/andrew-iain-jardine_opensource-llm-llms-activity-7166054662612226048-h0Ap?utm_source=share&utm_medium=member_desktop)  
 
 ### Long Context Window LLMs (e.g., 100K Tokens LLMs):
 - [Claude LLM](https://www.linkedin.com/posts/itamar-g1_anthropic-openais-biggest-rivalry-just-activity-7063773334831775744-cQ4L/?utm_source=share&utm_medium=member_android)
