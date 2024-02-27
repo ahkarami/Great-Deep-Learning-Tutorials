@@ -244,7 +244,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Gemma - another linkedin post](https://www.linkedin.com/posts/andrew-iain-jardine_opensource-llm-llms-activity-7166054662612226048-h0Ap?utm_source=share&utm_medium=member_desktop)
 - [Google's Gemma Detailed Notes](https://www.linkedin.com/posts/sebastianraschka_googles-gemma-has-been-the-topic-of-the-activity-7167160406480805888-PSeR?utm_source=share&utm_medium=member_desktop)
 - [Gemma usage via TRL](https://www.linkedin.com/posts/younes-belkada-b1a903145_new-release-from-google-gemma-a-state-of-the-art-activity-7166065899978870784-50To?utm_source=share&utm_medium=member_desktop)
-- [Gemma usage in Hugging Face via OpenAI SDK](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_yesterday-google-released-gemma-an-open-activity-7166484882917961730-uuFB?utm_source=share&utm_medium=member_desktop)  
+- [Gemma usage in Hugging Face via OpenAI SDK](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_yesterday-google-released-gemma-an-open-activity-7166484882917961730-uuFB?utm_source=share&utm_medium=member_desktop)
+- [Does Gemma overfit the Open LLM Leaderboard?](https://www.linkedin.com/posts/maxime-labonne_does-gemma-overfit-the-open-llm-leaderboard-activity-7166220798427402242-lJFm?utm_source=share&utm_medium=member_desktop)  
 
 ### Long Context Window LLMs (e.g., 100K Tokens LLMs):
 - [Claude LLM](https://www.linkedin.com/posts/itamar-g1_anthropic-openais-biggest-rivalry-just-activity-7063773334831775744-cQ4L/?utm_source=share&utm_medium=member_android)
