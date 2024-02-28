@@ -179,7 +179,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Can LLMs improve themselves? Self-play fine-tuning (SPIN)](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_can-llms-improve-themselves-self-play-fine-tuning-activity-7150501901665542144-mk4K?utm_source=share&utm_medium=member_desktop)
 - [AI2 OLMo Model: Linkedin Post](https://www.linkedin.com/posts/natolambert_allenaiolmo-7b-hugging-face-activity-7158834284689035264-vfu7?utm_source=share&utm_medium=member_desktop)
 - [AI2 OLMo Model: HuggingFace](https://huggingface.co/allenai/OLMo-7B)
-- [AI2 OLMo Model: Original Blog post](https://www.interconnects.ai/p/olmo)  
+- [AI2 OLMo Model: Original Blog post](https://www.interconnects.ai/p/olmo)
+- [Some Notes about OLMo Model](https://www.linkedin.com/posts/sebastianraschka_ive-been-working-with-the-1b7b-olmo-models-activity-7166067492778360832-kc3T?utm_source=share&utm_medium=member_desktop)  
 - [Mixtral in colab](https://github.com/dvmazur/mixtral-offloading/blob/master/notebooks/demo.ipynb) [Great]  
 
 ### Merge LLMs:
