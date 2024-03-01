@@ -246,7 +246,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Google's Gemma Detailed Notes](https://www.linkedin.com/posts/sebastianraschka_googles-gemma-has-been-the-topic-of-the-activity-7167160406480805888-PSeR?utm_source=share&utm_medium=member_desktop)
 - [Gemma usage via TRL](https://www.linkedin.com/posts/younes-belkada-b1a903145_new-release-from-google-gemma-a-state-of-the-art-activity-7166065899978870784-50To?utm_source=share&utm_medium=member_desktop)
 - [Gemma usage in Hugging Face via OpenAI SDK](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_yesterday-google-released-gemma-an-open-activity-7166484882917961730-uuFB?utm_source=share&utm_medium=member_desktop)
-- [Does Gemma overfit the Open LLM Leaderboard?](https://www.linkedin.com/posts/maxime-labonne_does-gemma-overfit-the-open-llm-leaderboard-activity-7166220798427402242-lJFm?utm_source=share&utm_medium=member_desktop)  
+- [Does Gemma overfit the Open LLM Leaderboard?](https://www.linkedin.com/posts/maxime-labonne_does-gemma-overfit-the-open-llm-leaderboard-activity-7166220798427402242-lJFm?utm_source=share&utm_medium=member_desktop)
+- [Zehpyr 7B Gemma](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_zehpyr-7b-gemma-releasedwe-are-excited-activity-7169373526641070080-rTLD?utm_source=share&utm_medium=member_desktop)  
 
 ### 1-bit LLMs:
 - [1-bit LLMs (AlphaSignal Post)](https://www.linkedin.com/posts/liorsinclair_new-breakthrough-from-microsoft-1-bit-llms-activity-7168680301064384512-UeNv?utm_source=share&utm_medium=member_desktop)  
