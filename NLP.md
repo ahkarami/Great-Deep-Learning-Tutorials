@@ -248,6 +248,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Gemma usage in Hugging Face via OpenAI SDK](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_yesterday-google-released-gemma-an-open-activity-7166484882917961730-uuFB?utm_source=share&utm_medium=member_desktop)
 - [Does Gemma overfit the Open LLM Leaderboard?](https://www.linkedin.com/posts/maxime-labonne_does-gemma-overfit-the-open-llm-leaderboard-activity-7166220798427402242-lJFm?utm_source=share&utm_medium=member_desktop)  
 
+### 1-bit LLMs:
+- [1-bit LLMs (AlphaSignal Post)](https://www.linkedin.com/posts/liorsinclair_new-breakthrough-from-microsoft-1-bit-llms-activity-7168680301064384512-UeNv?utm_source=share&utm_medium=member_desktop)  
+- [1-bit Quantization](https://www.linkedin.com/posts/a-roucher_%3F-%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-activity-7168987208228540416-uhcm?utm_source=share&utm_medium=member_desktop)  
+
 ### Long Context Window LLMs (e.g., 100K Tokens LLMs):
 - [Claude LLM](https://www.linkedin.com/posts/itamar-g1_anthropic-openais-biggest-rivalry-just-activity-7063773334831775744-cQ4L/?utm_source=share&utm_medium=member_android)
 - [Some Notes about the 100K Claude LLM Model](https://www.linkedin.com/posts/sahar-mor_claude-a-gpt-competitor-from-anthropic-activity-7062811160168841216-z4u9/?utm_source=share&utm_medium=member_android)
