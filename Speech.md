@@ -249,7 +249,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Multilingual Spoken Words](https://mlcommons.org/en/multilingual-spoken-words/)  
 - [PodcastMix: A dataset for separating music and speech in podcasts](https://github.com/MTG/Podcastmix)  
 - [Quran Speech to Text Dataset](https://www.openslr.org/132/)  
-- [WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset](https://github.com/xinhaomei/wavcaps)  
+- [WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset](https://github.com/xinhaomei/wavcaps)
+- [YODAS dataset: massive youtube speech dataset with 370k hours across 140 languages (about 100TB)](https://huggingface.co/datasets/espnet/yodas)  
 
 # Interesting Ideas about Startups with ASR:
 It is interesting how quickly people implement ideas. Like the one of `podcast transcript` with Whisper. Here is a selection:  
