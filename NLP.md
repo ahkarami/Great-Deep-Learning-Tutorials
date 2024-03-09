@@ -364,7 +364,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Small LLMs Performance Ranking](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_how-big-do-llms-need-to-be-able-to-reason-activity-7134108036473741312-2jxI?utm_source=share&utm_medium=member_desktop)
 - [Chatbot Arena: Benchmarking LLMs in the Wild](https://huggingface.co/spaces/lmsys/chatbot-arena) [**Great**]
 - [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
-- [AI2 WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild](https://huggingface.co/spaces/allenai/WildBench) [**Great**]  
+- [AI2 WildBench: Benchmarking LLMs with Challenging Tasks from Real Users in the Wild](https://huggingface.co/spaces/allenai/WildBench) [**Great**]
+- [AI2 WildBench Linkedin Post](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_new-evaluation-benchmark-leaderboard-by-activity-7171853629325316096-67sr?utm_source=share&utm_medium=member_desktop)  
 
 ### Building NLP Applications Powered by LLMs (Different Methods for Augmenting Knowledge to LLMs (or Retrieval-Augmented Generation (RAG) applications)):
 - [Ask a Book Questions with LangChain OpenAI](https://bennycheung.github.io/ask-a-book-questions-with-langchain-openai) [Great]  
