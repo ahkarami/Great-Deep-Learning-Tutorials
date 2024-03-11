@@ -328,7 +328,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Self Instruct TRL for LLMs](https://github.com/yizhongw/self-instruct)
 - [Self Instruct TRL for LLMs - Link2](https://huggingface.co/docs/trl/sft_trainer)
 - [How to Fine-Tune LLMs in 2024 with Hugging Face](https://www.philschmid.de/fine-tune-llms-in-2024-with-trl)
-- [Fine tune LLMs in your own hardware via PyTorch team (great)](https://pytorch.org/blog/finetune-llms/?utm_content=278057355&utm_medium=social&utm_source=linkedin&hss_channel=lcp-78618366)  
+- [Fine tune LLMs in your own hardware via PyTorch team (great)](https://pytorch.org/blog/finetune-llms/?utm_content=278057355&utm_medium=social&utm_source=linkedin&hss_channel=lcp-78618366)
+- [RLHF in 2024 with DPO & Hugging Face](https://www.philschmid.de/dpo-align-llms-in-2024-with-trl)  
 
 ### LLMs for Coding:
 - [CodeGen](https://github.com/salesforce/CodeGen)
