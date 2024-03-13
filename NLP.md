@@ -190,7 +190,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [huggingface merge-models blog post](https://huggingface.co/blog/mlabonne/merge-models)
 - [Making the NeuralBeagle14-7B LLM Model (via Merging models and other methods)](https://www.linkedin.com/posts/maxime-labonne_heres-how-i-made-the-new-best-performing-activity-7153302680780640256-1Sv7?utm_source=share&utm_medium=member_desktop)
 - [Merge Large Language Models with mergekit](https://towardsdatascience.com/merge-large-language-models-with-mergekit-2118fb392b54)
-- [Fine-tune a Mistral-7b model with Direct Preference Optimization](https://towardsdatascience.com/fine-tune-a-mistral-7b-model-with-direct-preference-optimization-708042745aac)  
+- [Fine-tune a Mistral-7b model with Direct Preference Optimization](https://towardsdatascience.com/fine-tune-a-mistral-7b-model-with-direct-preference-optimization-708042745aac)
+- [AutoMerger](https://www.linkedin.com/posts/maxime-labonne_automerger-how-i-automated-the-model-merging-activity-7172890188430454786-Djs7?utm_source=share&utm_medium=member_desktop)  
 
 ### LLaMA2 Related Links:
 - [A colab gradio web UI for running Large Language Models](https://github.com/camenduru/text-generation-webui-colab) [Great]  
@@ -692,3 +693,4 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ## Other NLP Topics:
 - [HybridNLP - Tutorial on Hybrid Techniques for Knowledge-based NLP](https://github.com/hybridnlp/tutorial)  
 - [Top 10 GPT-3 Tools Easing Content Creation Work in 2022](https://www.analyticsinsight.net/top-10-gpt-3-tools-easing-content-creation-work-in-2022/) [Interesting]  
+- [Inflection-2.5 CahtBot](https://inflection.ai/inflection-2-5)  
