@@ -29,7 +29,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [A Great NLP Course](https://lena-voita.github.io/nlp_course.html)  
 - [KerasNLP: Modular NLP Workflows for Keras](https://github.com/keras-team/keras-nlp)  
 - [NLP Test: Deliver Safe & Effective Models](https://github.com/JohnSnowLabs/nlptest)
-- [Karpathy minbpe](https://github.com/karpathy/minbpe)  
+- [Karpathy minbpe](https://github.com/karpathy/minbpe)
+- [Karpathy's 2 Hours Tutorial for Building GPT Tokenizer](https://www.linkedin.com/posts/liorsinclair_andrej-karpathy-just-uploaded-a-new-2-hour-activity-7165765602492571650-io92?utm_source=share&utm_medium=member_desktop)  
 - [SetFit: Efficient Few-shot Learning with Sentence Transformers](https://github.com/huggingface/setfit)  
 
 ## General Persian based libraries & Data Sets:
