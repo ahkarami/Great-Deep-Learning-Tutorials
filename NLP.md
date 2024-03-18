@@ -183,7 +183,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [AI2 OLMo Model: HuggingFace](https://huggingface.co/allenai/OLMo-7B)
 - [AI2 OLMo Model: Original Blog post](https://www.interconnects.ai/p/olmo)
 - [Some Notes about OLMo Model](https://www.linkedin.com/posts/sebastianraschka_ive-been-working-with-the-1b7b-olmo-models-activity-7166067492778360832-kc3T?utm_source=share&utm_medium=member_desktop)  
-- [Mixtral in colab](https://github.com/dvmazur/mixtral-offloading/blob/master/notebooks/demo.ipynb) [Great]  
+- [Mixtral in colab](https://github.com/dvmazur/mixtral-offloading/blob/master/notebooks/demo.ipynb) [Great]
+- [Grok-1 LLM with 314B Size: Post1](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_elon-musk-kept-his-word-and-released-grok-activity-7175221121472983040-F7zS?utm_source=share&utm_medium=member_desktop)
+- [Grok-1 LLM: Post2](https://www.linkedin.com/posts/liorsinclair_big-news-grok-is-finally-open-source-with-activity-7175496738948968448--Ewx?utm_source=share&utm_medium=member_desktop)  
 
 ### Merge LLMs:
 - [Linkedin Post](https://www.linkedin.com/posts/maxime-labonne_merge-large-language-models-with-mergekit-activity-7150044812337901569-3zIu?utm_source=share&utm_medium=member_android)  
