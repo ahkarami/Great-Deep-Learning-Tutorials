@@ -389,7 +389,12 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Fine tuning vs. RAG for LLMs](https://www.linkedin.com/posts/alexander-ratner-038ba239_lots-of-debate-on-fine-tuning-vs-rag-for-activity-7103836027957506048-AjoJ?utm_source=share&utm_medium=member_desktop)
 - [Building RAG-based LLM Applications for Production (Part 1)](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1) [Good]
 - [Verba: The Golden RAGtriever, user-friendly interface for Retrieval-Augmented Generation (RAG) applications](https://github.com/weaviate/Verba)
-- [DocsGPT: GPT-powered chat for documentation, chat with your documents](https://github.com/arc53/DocsGPT)  
+- [DocsGPT: GPT-powered chat for documentation, chat with your documents](https://github.com/arc53/DocsGPT)
+- [RAFT: Retrieval Augmented Fine Tuning - Post1](https://www.linkedin.com/posts/pascalbiese_raft-the-best-of-rag-and-fine-tuning-combined-activity-7175089937036283904-ltQI?utm_source=share&utm_medium=member_desktop)
+- [RAFT: Retrieval Augmented Fine Tuning - Post2](https://www.linkedin.com/posts/tianjun-zhang-333bb2126_raft-a-new-way-to-teach-llms-to-be-better-activity-7174525633291587584-CO-h?utm_source=share&utm_medium=member_desktop)
+- [RAFT: Retrieval Augmented Fine Tuning - Microsoft Blog](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/ba-p/4084674)
+- [RAFT: Retrieval Augmented Fine Tuning - Berkeley Blog](https://gorilla.cs.berkeley.edu/blogs/9_raft.html)
+- [RAFT Code](https://github.com/ShishirPatil/gorilla/tree/main/raft)  
 
 ### Vector Database Libraries:
 - [weaviate](https://weaviate.io/)  
