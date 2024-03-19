@@ -326,7 +326,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Argilla: the open-source data curation platform for LLMs](https://github.com/argilla-io/argilla)
 - [LiteLLM: Call all LLM APIs using the OpenAI format](https://github.com/BerriAI/litellm)
 - [LLM Finetuning with PEFT](https://github.com/ashishpatel26/LLM-Finetuning)
-- [ChatGPT-AutoExpert: Supercharged Custom Instructions for ChatGPT](https://github.com/spdustin/ChatGPT-AutoExpert)  
+- [ChatGPT-AutoExpert: Supercharged Custom Instructions for ChatGPT](https://github.com/spdustin/ChatGPT-AutoExpert)
+- [unsloth library: 2-5X faster 70% less memory QLoRA & LoRA finetuning](https://github.com/unslothai/unsloth) [**Great for fine-tuning LLMs**]  
 
 ### Codes for fine-tuning LLMs:
 - [LLM Finetuning with PEFT Colab Notebooks](https://github.com/ashishpatel26/LLM-Finetuning)
