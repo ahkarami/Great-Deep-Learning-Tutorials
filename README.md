@@ -62,7 +62,8 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Knowledge Distillation in Deep Learning](https://medium.com/analytics-vidhya/knowledge-distillation-dark-knowledge-of-neural-network-9c1dfb418e6a)  
 - [Model Distillation Techniques for Deep Learning](https://heartbeat.fritz.ai/research-guide-model-distillation-techniques-for-deep-learning-4a100801c0eb)  
 - [MMRazor: model compression toolkit](https://github.com/open-mmlab/mmrazor) [Great]  
-- [FP8 Quantization: The Power of the Exponent](https://github.com/Qualcomm-AI-research/FP8-quantization)  
+- [FP8 Quantization: The Power of the Exponent](https://github.com/Qualcomm-AI-research/FP8-quantization)
+- [Quanto: a pytorch quantization toolkit](https://huggingface.co/blog/quanto-introduction) [**Great**]  
 
 ## AutoML:
 - [Auto Gluon AI](https://auto.gluon.ai/stable/index.html#)  
