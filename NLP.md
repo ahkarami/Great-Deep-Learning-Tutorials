@@ -327,6 +327,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LiteLLM: Call all LLM APIs using the OpenAI format](https://github.com/BerriAI/litellm)
 - [LLM Finetuning with PEFT](https://github.com/ashishpatel26/LLM-Finetuning)
 - [ChatGPT-AutoExpert: Supercharged Custom Instructions for ChatGPT](https://github.com/spdustin/ChatGPT-AutoExpert)
+- [PyTorch thunder (pytorch compiler for speed up training of LLMs) - Linkedin Post](https://www.linkedin.com/posts/sebastianraschka_we-just-open-sourced-thunder-a-new-compiler-activity-7176571765639245824-srIZ?utm_source=share&utm_medium=member_desktop)
+- [PyTorch Lightning Thunder](https://github.com/Lightning-AI/lightning-thunder)  
 - [unsloth library: 2-5X faster 70% less memory QLoRA & LoRA finetuning](https://github.com/unslothai/unsloth) [**Great for fine-tuning LLMs**]  
 
 ### Notes and Codes for Training and fine-tuning LLMs:
