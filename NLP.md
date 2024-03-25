@@ -195,7 +195,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Making the NeuralBeagle14-7B LLM Model (via Merging models and other methods)](https://www.linkedin.com/posts/maxime-labonne_heres-how-i-made-the-new-best-performing-activity-7153302680780640256-1Sv7?utm_source=share&utm_medium=member_desktop)
 - [Merge Large Language Models with mergekit](https://towardsdatascience.com/merge-large-language-models-with-mergekit-2118fb392b54)
 - [Fine-tune a Mistral-7b model with Direct Preference Optimization](https://towardsdatascience.com/fine-tune-a-mistral-7b-model-with-direct-preference-optimization-708042745aac)
-- [AutoMerger](https://www.linkedin.com/posts/maxime-labonne_automerger-how-i-automated-the-model-merging-activity-7172890188430454786-Djs7?utm_source=share&utm_medium=member_desktop)  
+- [AutoMerger](https://www.linkedin.com/posts/maxime-labonne_automerger-how-i-automated-the-model-merging-activity-7172890188430454786-Djs7?utm_source=share&utm_medium=member_desktop)
+- [Evolutionary LLM Merging - Post1](https://www.linkedin.com/posts/maxime-labonne_evolutionary-model-merge-sakana-ai-released-activity-7176527260097597440-52JT?utm_source=share&utm_medium=member_desktop)  
+- [Evolutionary LLM Merging - Post2](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_the-evolution-of-llms-model-merging-is-activity-7176561819933671424-NNNX?utm_source=share&utm_medium=member_desktop)  
 
 ### LLaMA2 Related Links:
 - [A colab gradio web UI for running Large Language Models](https://github.com/camenduru/text-generation-webui-colab) [Great]  
@@ -419,6 +421,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [M2-BERT-80M-32k-Retrieval](https://huggingface.co/togethercomputer/m2-bert-80M-32k-retrieval)
 - [Embedding Quantization - Post1](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_introducing-embedding-quantization-a-new-activity-7176971093646159872-hp9z?utm_source=share&utm_medium=member_desktop)  
 - [Embedding Quantization - Post2](https://www.linkedin.com/posts/tomaarsen_binary-and-scalar-embedding-quantization-activity-7176966403332132864-lJzH?utm_source=share&utm_medium=member_desktop)  
+- [Embedding Quantization - HuggingFace Blog Post](https://huggingface.co/blog/embedding-quantization)  
 
 ### Prevent Hallucinations from LLMs & Controling their outputs:
 - [Deep Dive Into LLM Hallucinations Across Generative Tasks](https://www.rungalileo.io/blog/deep-dive-into-llm-hallucinations-across-generative-tasks)
