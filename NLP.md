@@ -416,7 +416,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Word and sentence embeddings is how LLMs understand text](https://www.linkedin.com/posts/sahar-mor_word-and-sentence-embeddings-is-how-llms-activity-7105921473978015744-R0Nm?utm_source=share&utm_medium=member_desktop)  
 - [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)
 - [E5 embedding vs OpenAI Ada](https://www.linkedin.com/posts/andrew-iain-jardine_hosting-a-text-embedding-model-that-is-better-activity-7106338837479510016-zvBW?utm_source=share&utm_medium=member_desktop)
-- [M2-BERT-80M-32k-Retrieval](https://huggingface.co/togethercomputer/m2-bert-80M-32k-retrieval)  
+- [M2-BERT-80M-32k-Retrieval](https://huggingface.co/togethercomputer/m2-bert-80M-32k-retrieval)
+- [Embedding Quantization - Post1](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_introducing-embedding-quantization-a-new-activity-7176971093646159872-hp9z?utm_source=share&utm_medium=member_desktop)  
+- [Embedding Quantization - Post2](https://www.linkedin.com/posts/tomaarsen_binary-and-scalar-embedding-quantization-activity-7176966403332132864-lJzH?utm_source=share&utm_medium=member_desktop)  
 
 ### Prevent Hallucinations from LLMs & Controling their outputs:
 - [Deep Dive Into LLM Hallucinations Across Generative Tasks](https://www.rungalileo.io/blog/deep-dive-into-llm-hallucinations-across-generative-tasks)
