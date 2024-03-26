@@ -488,6 +488,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [AutoQuantize (GGUF, AWQ, EXL2, GPTQ) Colab Notebook](https://colab.research.google.com/drive/1Li3USnl3yoYctqJLtYux3LAIy4Bnnv3J?usp=sharing) [Great]
 - [DoRA: Weight-Decomposed Low-Rank Adaptation - Linkedin Post](https://www.linkedin.com/posts/sebastianraschka_while-everyone-is-talking-about-sora-theres-activity-7164268573756960770-N7Hu?utm_source=share&utm_medium=member_desktop)
 - [DoRA: Weight-Decomposed Low-Rank Adaptation - Paper](https://arxiv.org/abs/2402.09353)
+- [GaLore: Memory Efficient Fine-tuning Technique](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_galore-is-a-new-memory-efficient-fine-tuning-activity-7177599313294827521-kye2?utm_source=share&utm_medium=member_desktop)  
 - [Quanto: a pytorch quantization toolkit](https://huggingface.co/blog/quanto-introduction) [**Great**]  
 - [Quanto: Linkedin Post](https://www.linkedin.com/posts/dcorvoysier_quanto-a-pytorch-quantization-toolkit-activity-7175421050808078336-QcEM?utm_source=share&utm_medium=member_desktop)  
 
