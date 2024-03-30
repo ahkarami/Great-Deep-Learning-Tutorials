@@ -256,6 +256,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Does Gemma overfit the Open LLM Leaderboard?](https://www.linkedin.com/posts/maxime-labonne_does-gemma-overfit-the-open-llm-leaderboard-activity-7166220798427402242-lJFm?utm_source=share&utm_medium=member_desktop)
 - [Zehpyr 7B Gemma](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_zehpyr-7b-gemma-releasedwe-are-excited-activity-7169373526641070080-rTLD?utm_source=share&utm_medium=member_desktop)  
 
+### Jamba (SSM-Transformer Model):
+- [AI21 Labs Jamba Model](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_jamba-released-ai21-labs-just-released-the-activity-7179121093482315776-xbmX?utm_source=share&utm_medium=member_desktop)  
+- [Fine-tune jamba with TRL](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_yesterday-ai21-labs-released-jamba-the-first-activity-7179395299679858688-xiP9?utm_source=share&utm_medium=member_desktop)  
+
 ### 1-bit LLMs:
 - [1-bit LLMs (AlphaSignal Post)](https://www.linkedin.com/posts/liorsinclair_new-breakthrough-from-microsoft-1-bit-llms-activity-7168680301064384512-UeNv?utm_source=share&utm_medium=member_desktop)  
 - [1-bit Quantization](https://www.linkedin.com/posts/a-roucher_%3F-%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-activity-7168987208228540416-uhcm?utm_source=share&utm_medium=member_desktop)
