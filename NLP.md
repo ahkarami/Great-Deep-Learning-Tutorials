@@ -530,6 +530,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ### LLM-based Recommender Systems:
 - [ChatGPT-based Recommender Systems](https://blog.reachsumit.com/posts/2023/05/chatgpt-for-recsys/)  
 
+### LLMs for Tabular Data:
+- [Unleashing the Potential of Large Language Models for Predictive Tabular Tasks in Data Science](https://arxiv.org/abs/2403.20208)
+- [LLMs for Tabular Data - Linkedin post](https://www.linkedin.com/posts/pascalbiese_unleashing-the-potential-of-llms-for-tabular-activity-7180873134743449600-ChWm?utm_source=share&utm_medium=member_desktop) 
+
 ### LLM Data Sets:
 - [SlimPajama: A 627B token cleaned and deduplicated version of RedPajama](https://www.cerebras.net/blog/slimpajama-a-627b-token-cleaned-and-deduplicated-version-of-redpajama)
 
