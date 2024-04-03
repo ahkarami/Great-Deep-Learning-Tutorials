@@ -502,7 +502,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [DoRA: Weight-Decomposed Low-Rank Adaptation - Paper](https://arxiv.org/abs/2402.09353)
 - [GaLore: Memory Efficient Fine-tuning Technique](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_galore-is-a-new-memory-efficient-fine-tuning-activity-7177599313294827521-kye2?utm_source=share&utm_medium=member_desktop)  
 - [Quanto: a pytorch quantization toolkit](https://huggingface.co/blog/quanto-introduction) [**Great**]  
-- [Quanto: Linkedin Post](https://www.linkedin.com/posts/dcorvoysier_quanto-a-pytorch-quantization-toolkit-activity-7175421050808078336-QcEM?utm_source=share&utm_medium=member_desktop)  
+- [Quanto: Linkedin Post](https://www.linkedin.com/posts/dcorvoysier_quanto-a-pytorch-quantization-toolkit-activity-7175421050808078336-QcEM?utm_source=share&utm_medium=member_desktop)
+- [Deleting 40% of LLM Layers Without Drop in Accuracy](https://www.linkedin.com/posts/liorsinclair_researchers-just-developed-a-new-method-to-activity-7180929255411789826-z3TV?utm_source=share&utm_medium=member_desktop)
+- [The Unreasonable Ineffectiveness of the Deeper Layers](https://arxiv.org/html/2403.17887v1)  
 
 ### LLMs on Mobile Devices:
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm)  
