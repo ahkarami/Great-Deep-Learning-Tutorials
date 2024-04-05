@@ -264,7 +264,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 
 ### Jamba (SSM-Transformer Model):
 - [AI21 Labs Jamba Model](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_jamba-released-ai21-labs-just-released-the-activity-7179121093482315776-xbmX?utm_source=share&utm_medium=member_desktop)  
-- [Fine-tune jamba with TRL](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_yesterday-ai21-labs-released-jamba-the-first-activity-7179395299679858688-xiP9?utm_source=share&utm_medium=member_desktop)  
+- [Fine-tune jamba with TRL](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_yesterday-ai21-labs-released-jamba-the-first-activity-7179395299679858688-xiP9?utm_source=share&utm_medium=member_desktop)
+- [Fine-tune jamba code](https://www.linkedin.com/posts/maxime-labonne_jambatypus-v01-i-fine-tuned-a-jamba-activity-7181277758876962816-Z4zt?utm_source=share&utm_medium=member_desktop)  
 
 ### 1-bit LLMs:
 - [1-bit LLMs (AlphaSignal Post)](https://www.linkedin.com/posts/liorsinclair_new-breakthrough-from-microsoft-1-bit-llms-activity-7168680301064384512-UeNv?utm_source=share&utm_medium=member_desktop)  
