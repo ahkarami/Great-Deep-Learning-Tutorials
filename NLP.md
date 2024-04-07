@@ -251,7 +251,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Introducing Qwen1.5 Blog Post](https://qwenlm.github.io/blog/qwen1.5/)
 - [Qwen1.5 Linkedin Post](https://www.linkedin.com/posts/andrew-iain-jardine_llm-opensource-llms-activity-7160905982523445248-_t5B?utm_source=share&utm_medium=member_desktop)
 - [Qwen1.5 HuggingFace](https://huggingface.co/collections/Qwen/qwen15-65c0a2f577b1ecb76d786524)
-- [Qwen2 HuggingFace](https://huggingface.co/docs/transformers/en/model_doc/qwen2)  
+- [Qwen2 HuggingFace](https://huggingface.co/docs/transformers/en/model_doc/qwen2)
+- [Qwen MoE Model](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_new-moe-alert-qwen15-moe-a27b-just-activity-7179144882668630016-i-l5?utm_source=share&utm_medium=member_android)  
 
 ### Gemma LLM Related Links (by Google):
 - [Gemma an open Gemini LLM released by Google! - Linkedin Post](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_welcome-gemma-googles-new-open-llm-activity-7166054332914741249-FY2D?utm_source=share&utm_medium=member_desktop)
