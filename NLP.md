@@ -272,7 +272,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [1-bit LLMs (AlphaSignal Post)](https://www.linkedin.com/posts/liorsinclair_new-breakthrough-from-microsoft-1-bit-llms-activity-7168680301064384512-UeNv?utm_source=share&utm_medium=member_desktop)  
 - [1-bit Quantization](https://www.linkedin.com/posts/a-roucher_%3F-%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-activity-7168987208228540416-uhcm?utm_source=share&utm_medium=member_desktop)
 - [Some Notes about 1-bit LLMs (Their benefits and drawbacks)](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_the-era-of-1-bit-llms-what-does-that-mean-activity-7171533076668362753-Nl-F?utm_source=share&utm_medium=member_desktop)
-- [AutoBitnet (Train your 1.58-bit LLM based on LLama Architecture for free on Colab T4 GPU)](https://www.linkedin.com/posts/zaiinulabideen_autobitnet-train-your-158-bit-llm-based-activity-7182019658135326720-_qRp?utm_source=share&utm_medium=member_desktop)  
+- [AutoBitnet (Train your 1.58-bit LLM based on LLama Architecture for free on Colab T4 GPU)](https://www.linkedin.com/posts/zaiinulabideen_autobitnet-train-your-158-bit-llm-based-activity-7182019658135326720-_qRp?utm_source=share&utm_medium=member_desktop)
+- [Llama2 7b in 1-bit precision](https://www.linkedin.com/posts/maxime-labonne_1-bit-quantization-activity-7179068277548032000-I8gR?utm_source=share&utm_medium=member_desktop)  
 
 ### Long Context Window LLMs (e.g., 100K Tokens LLMs):
 - [Claude LLM](https://www.linkedin.com/posts/itamar-g1_anthropic-openais-biggest-rivalry-just-activity-7063773334831775744-cQ4L/?utm_source=share&utm_medium=member_android)
