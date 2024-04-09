@@ -259,7 +259,8 @@ It is interesting how quickly people implement ideas. Like the one of `podcast t
 - [podtext](https://podtext.ai/)  
 - [podscription](https://podscription.app/)  
 - [podsearch](https://podsearch.page/)  
-- [Some Discussion Notes about above links](https://news.ycombinator.com/item?id=34727695)  
+- [Some Discussion Notes about above links](https://news.ycombinator.com/item?id=34727695)
+- [Vapi: Voice AI for any application](https://vapi.ai/) [Great]  
 
 # Other:
 - [Neural Target Speech Extraction (TSE)](https://butspeechfit.github.io/tse_tutorial/)  
