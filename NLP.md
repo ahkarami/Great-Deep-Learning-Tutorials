@@ -541,6 +541,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Unleashing the Potential of Large Language Models for Predictive Tabular Tasks in Data Science](https://arxiv.org/abs/2403.20208)
 - [LLMs for Tabular Data - Linkedin post](https://www.linkedin.com/posts/pascalbiese_unleashing-the-potential-of-llms-for-tabular-activity-7180873134743449600-ChWm?utm_source=share&utm_medium=member_desktop) 
 
+### LLMs as Classifiers (finetuning LLMs for classification):
+- [LLMs as Classifiers Linkedin Post1](https://www.linkedin.com/posts/sebastianraschka_what-if-you-care-about-finetuning-llms-for-activity-7183808393155944448-CSR1?utm_source=share&utm_medium=member_desktop)  
+
 ### LLM Data Sets:
 - [SlimPajama: A 627B token cleaned and deduplicated version of RedPajama](https://www.cerebras.net/blog/slimpajama-a-627b-token-cleaned-and-deduplicated-version-of-redpajama)
 
