@@ -240,7 +240,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Mixtral in colab](https://github.com/dvmazur/mixtral-offloading/blob/master/notebooks/demo.ipynb) [Great]  
 - [Brev.dev Notebooks: Fine-tuning mistral, mixtral, phi-2 and etc](https://github.com/brevdev/notebooks/tree/main) [**Excellent**]
 - [Optimized LLM inference api for mistral-7b using vllm and AWQ](https://lightning.ai/lightning-ai/studios/optimized-llm-inference-api-for-mistral-7b-using-vllm?view=public&section=blogs) [**Excellent**]
-- [Run Mistral7b Quantized for free on any computer (CPU or GPU)](https://medium.com/artificial-corner/run-mistral7b-quantized-for-free-on-any-computer-2cadc18b45a2) [Interesting]  
+- [Run Mistral7b Quantized for free on any computer (CPU or GPU)](https://medium.com/artificial-corner/run-mistral7b-quantized-for-free-on-any-computer-2cadc18b45a2) [Interesting]
+- [Mixtral 8x22B a 176B MoE Model](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_new-open-model-from-mistral-ai-yesterday-activity-7183816273053523971-Vgse?utm_source=share&utm_medium=member_desktop)   
 
 ### Yi Models:
 - [Yi Github](https://github.com/01-ai/Yi)
