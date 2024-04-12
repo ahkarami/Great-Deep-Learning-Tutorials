@@ -504,6 +504,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LoRAX (LoRA eXchange): Framework that allows users to serve thousands of fine-tuned models on a single GPU](https://github.com/predibase/lorax)
 - [PowerInfer: High-speed LLMs Serving on PCs with Consumer-grade GPUs](https://github.com/SJTU-IPADS/PowerInfer)
 - [LoRA From Scratch Implementation](https://www.linkedin.com/posts/sebastianraschka_code-lora-from-scratch-a-lightning-studio-activity-7155241298227060736-QRul?utm_source=share&utm_medium=member_desktop)
+- [Improving LoRA (DoRA): Implementing Weight-Decomposed Low-Rank Adaptation (DoRA)](https://www.linkedin.com/posts/sebastianraschka_improving-lora-implementing-weight-decomposed-activity-7165053172175024128-bqwu?utm_source=share&utm_medium=member_desktop)
+- [DoRA Link2](https://magazine.sebastianraschka.com/p/lora-and-dora-from-scratch)  
 - [Proxy-Tuning (new method for fine-tuning LLMs)](https://www.linkedin.com/posts/sebastianraschka_theres-a-new-promising-method-for-finetuning-activity-7153788017017544705-ADC7?utm_source=share&utm_medium=member_desktop)
 - [AutoQuantize (GGUF, AWQ, EXL2, GPTQ) Colab Notebook](https://colab.research.google.com/drive/1Li3USnl3yoYctqJLtYux3LAIy4Bnnv3J?usp=sharing) [Great]
 - [DoRA: Weight-Decomposed Low-Rank Adaptation - Linkedin Post](https://www.linkedin.com/posts/sebastianraschka_while-everyone-is-talking-about-sora-theres-activity-7164268573756960770-N7Hu?utm_source=share&utm_medium=member_desktop)
