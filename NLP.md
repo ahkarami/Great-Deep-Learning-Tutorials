@@ -204,7 +204,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Mixture of Experts (MoEs) Explained](https://huggingface.co/blog/moe) [Great]
 - [Mixture of Experts (MoEs) Papers List](https://huggingface.co/collections/osanseviero/moes-papers-reading-list-65a83f8a9aec16459920ffe0)
 - [Mixture of Experts (MoEs) Linkedin Post](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_mixture-of-experts-explained-activity-7179478562398187520-dbzM?utm_source=share&utm_medium=member_desktop)
-- [Mixture-of-Depths - Post1](https://www.linkedin.com/posts/zaiinulabideen_crazy-ai-week-mixture-of-depths-qwen15-activity-7182746449921658880-aLVO?utm_source=share&utm_medium=member_desktop)  
+- [Mixture-of-Depths - Post1](https://www.linkedin.com/posts/zaiinulabideen_crazy-ai-week-mixture-of-depths-qwen15-activity-7182746449921658880-aLVO?utm_source=share&utm_medium=member_desktop)
+- [Mixture-of-Depths (MoD) - Post2](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_can-we-train-llms-to-allocate-flops-compute-activity-7182303286429917184-jkOm?utm_source=share&utm_medium=member_desktop)  
 
 ### LLaMA2 Related Links:
 - [A colab gradio web UI for running Large Language Models](https://github.com/camenduru/text-generation-webui-colab) [Great]  
