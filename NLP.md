@@ -232,6 +232,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Can llama learn new language?](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_is-it-possible-to-teach-llms-a-different-activity-7148653756165812226--l7o?utm_source=share&utm_medium=member_desktop)
 - [Persian LLaMa](https://huggingface.co/spaces/mostafaamiri/persianllama)  
 
+### LLaMA3 Related Links:
+- [LLaMA3 Linkedin Post1](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_welcome-llama-3-metas-new-open-llm-activity-7186762894989012992-SBLe?utm_source=share&utm_medium=member_desktop)
+- [Meta LLaMA3-8B](https://huggingface.co/meta-llama/Meta-Llama-3-8B)  
+
 ### Mistral & Mixtral Models Related Links:
 - [Mistral AI models](https://github.com/mistralai/mistral-src)
 - [Is Mistral's first model a good replacement for OpenAI?](https://blog.quivr.app/is-mistral-a-good-replacement-for-openai/)
