@@ -393,7 +393,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Hands-on LLMs Course](https://github.com/iusztinpaul/hands-on-llms)
 - [Direct Preference Optimization (DPO) Method for LLMs Tutorial](https://huggingface.co/blog/pref-tuning)
 - [CS25: Transformers United V3 Courses - Autumn 2023](https://web.stanford.edu/class/cs25/)
-- [CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2024/)  
+- [CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2024/)
+- [Visual and Animated Lecture about LLMs and Transformers and Deep Learning](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)  
 - [LLMs Roadmap](https://www.linkedin.com/posts/ba%C5%9Fak-tu%C4%9F%C3%A7e-eskili-61511b58_nlp-llms-gpt3-activity-7168168071356997632-V8yL?utm_source=share&utm_medium=member_desktop) [Great]  
 - [Brev.dev Notebooks: Fine-tuning mistral, mixtral, phi-2 and etc](https://github.com/brevdev/notebooks/tree/main) [**Excellent**]
 
