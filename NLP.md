@@ -237,6 +237,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Meta LLaMA3-8B](https://huggingface.co/meta-llama/Meta-Llama-3-8B)
 - [Fine tune LLaMA3](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_efficiently-fine-tune-llama-3-with-pytorch-activity-7188186109363859456-sYSR?utm_source=share&utm_medium=member_desktop)  
 
+### Phi-3 Related Links:
+- [Phi-3 Linkedin Post1](https://www.linkedin.com/posts/sebastianraschka_microsoft-just-casually-shared-theirnew-activity-7188544168380510208-AdDG?utm_source=share&utm_medium=member_desktop)  
+- [Phi-3 Linkedin Post2](https://www.linkedin.com/posts/julienchaumond_in-case-you-missed-it-earlier-this-week-activity-7189273186256003072-91B0?utm_source=share&utm_medium=member_desktop)  
+
 ### Mistral & Mixtral Models Related Links:
 - [Mistral AI models](https://github.com/mistralai/mistral-src)
 - [Is Mistral's first model a good replacement for OpenAI?](https://blog.quivr.app/is-mistral-a-good-replacement-for-openai/)
