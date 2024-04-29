@@ -455,7 +455,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Embedding Quantization - Post1](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_introducing-embedding-quantization-a-new-activity-7176971093646159872-hp9z?utm_source=share&utm_medium=member_desktop)  
 - [Embedding Quantization - Post2](https://www.linkedin.com/posts/tomaarsen_binary-and-scalar-embedding-quantization-activity-7176966403332132864-lJzH?utm_source=share&utm_medium=member_desktop)  
 - [Embedding Quantization - HuggingFace Blog Post](https://huggingface.co/blog/embedding-quantization)
-- [Quantization Fundamentals with Hugging Face Course](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_quantization-fundamentals-with-hugging-face-activity-7186335433843167232-sKV2?utm_source=share&utm_medium=member_desktop)  
+- [Quantization Fundamentals with Hugging Face Course](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_quantization-fundamentals-with-hugging-face-activity-7186335433843167232-sKV2?utm_source=share&utm_medium=member_desktop)
+- [Is Cosine-Similarity of Embeddings Really About Similarity?](https://www.linkedin.com/posts/alphasignal_is-cosine-similarity-of-embeddings-really-activity-7175543620651880449-ZoKw?utm_source=share&utm_medium=member_desktop)  
 
 ### Prevent Hallucinations from LLMs & Controling their outputs:
 - [Deep Dive Into LLM Hallucinations Across Generative Tasks](https://www.rungalileo.io/blog/deep-dive-into-llm-hallucinations-across-generative-tasks)
