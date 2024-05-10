@@ -534,7 +534,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Quanto: Linkedin Post](https://www.linkedin.com/posts/dcorvoysier_quanto-a-pytorch-quantization-toolkit-activity-7175421050808078336-QcEM?utm_source=share&utm_medium=member_desktop)
 - [Deleting 40% of LLM Layers Without Drop in Accuracy](https://www.linkedin.com/posts/liorsinclair_researchers-just-developed-a-new-method-to-activity-7180929255411789826-z3TV?utm_source=share&utm_medium=member_desktop)
 - [The Unreasonable Ineffectiveness of the Deeper Layers](https://arxiv.org/html/2403.17887v1)
-- [Continual Pretraining of LLMs](https://www.linkedin.com/posts/sebastianraschka_we-talk-a-lot-about-finetuning-llms-to-follow-activity-7174395744068464642-jPFI?utm_source=share&utm_medium=member_desktop)  
+- [Continual Pretraining of LLMs](https://www.linkedin.com/posts/sebastianraschka_we-talk-a-lot-about-finetuning-llms-to-follow-activity-7174395744068464642-jPFI?utm_source=share&utm_medium=member_desktop)
+- [NOLA: run 10,000 customized LLaMA2 (70B) (4bit) models on a single 48GB GPU](https://www.linkedin.com/posts/hpirsiav_iclr2024-iclr2024-activity-7192618595405725696-HZXu?utm_source=share&utm_medium=member_desktop)  
 
 ### LLMs on Mobile Devices:
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm)  
