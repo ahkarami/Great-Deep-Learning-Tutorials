@@ -580,6 +580,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Microsoft AutoGen development of LLM applications using multiple agents](https://github.com/microsoft/autogen)
 - [OpenDevin: autonomous AI software engineer](https://github.com/OpenDevin/OpenDevin)  
 
+### Deploying LLMs:
+- [ExecuTorch Post1](https://www.linkedin.com/posts/pytorch_introducing-executorch-alpha-executorch-activity-7191120577749831680-vYzE?utm_source=share&utm_medium=member_desktop)  
+
 ### Notes about Cost & Price of Training and Using LLMs:
 - [Cost to Deploy LLaMA2 vs. ChatGPT](https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7109561666324885504-ySeC?utm_source=share&utm_medium=member_desktop) [Very Important]  
 - [Anyscale Training Cost](https://www.linkedin.com/posts/robert-nishihara-b6465444_im-so-proud-of-what-we-launched-last-week-activity-7113021412084219904-WFbP?utm_source=share&utm_medium=member_desktop)
