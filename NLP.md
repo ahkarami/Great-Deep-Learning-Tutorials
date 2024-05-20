@@ -43,7 +43,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Persian Stop Words List](https://github.com/kharazi/persian-stopwords)  
 - [Persian Stop Words List in Hazm Repo](https://github.com/sobhe/hazm/blob/master/hazm/data/stopwords.dat)
 - [PCoQA: Persian Conversational Question Answering Dataset](https://github.com/HamedHematian/PCoQA)
-- [Khayyam Challenge (PersianMMLU): Is Your LLM Truly Wise to The Persian Language?](https://arxiv.org/html/2404.06644v1) [Good paper & dataset]  
+- [Khayyam Challenge (PersianMMLU): Is Your LLM Truly Wise to The Persian Language?](https://arxiv.org/html/2404.06644v1) [Good paper & dataset]
+- [Basalam Dataset via RadeAI Team](https://www.linkedin.com/posts/rade-ai_datascience-machinelearning-basalam-activity-7193561781280157696-NF8T?utm_source=share&utm_medium=member_desktop)  
 
 ## Text Representation:
 - [Beyond Word Embeddings Part 1](https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f)  
