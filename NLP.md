@@ -607,7 +607,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [ParsBigBird: Persian Bert For Long-Range Sequences](https://github.com/sajjjadayobi/ParsBigBird) [Great]    
 - [PersianQA](https://github.com/sajjjadayobi/PersianQA)   
 - [Persian (Farsi) Pre-trained Language Models](https://nlpdataset.ir/farsi/pre-trained_lm.html) [Great]
-- [Hezar: The all-in-one AI library for Persian, supporting a wide variety of tasks and modalities](https://github.com/hezarai/hezar) [**Great & Important**]  
+- [Hezar: The all-in-one AI library for Persian, supporting a wide variety of tasks and modalities](https://github.com/hezarai/hezar) [**Great & Important**]
+- [XLM-RoBERTa (Multilingual & supports Persian)](https://huggingface.co/FacebookAI/xlm-roberta-base)  
+- [TookaBERT by PartAI](https://huggingface.co/PartAI/TookaBERT-Large) [Great]  
 
 ## Transfer Learning with Transformers:
 - [Transfer Learning for NLP via BERT for Text Classification](https://www.analyticsvidhya.com/blog/2020/07/transfer-learning-for-nlp-fine-tuning-bert-for-text-classification/)  
