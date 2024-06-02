@@ -658,7 +658,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [hedwig - PyTorch deep learning models for document classification](https://github.com/castorini/hedwig)  
 
 ## Topic Modeling:
-- [Topic Modeling with BERT](https://towardsdatascience.com/topic-modeling-with-bert-779f7db187e6)  
+- [Topic Modeling with BERT](https://towardsdatascience.com/topic-modeling-with-bert-779f7db187e6)
+- [BERTopic: Great Library for Topic Modeling](https://github.com/MaartenGr/BERTopic) [Great]  
 
 ## Sentiment Analysis:
 - [Introduction to Deep Learning – Sentiment Analysis](https://nlpforhackers.io/deep-learning-introduction/)  
