@@ -260,7 +260,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Run Mistral7b Quantized for free on any computer (CPU or GPU)](https://medium.com/artificial-corner/run-mistral7b-quantized-for-free-on-any-computer-2cadc18b45a2) [Interesting]
 - [Mixtral 8x22B a 176B MoE Model](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_new-open-model-from-mistral-ai-yesterday-activity-7183816273053523971-Vgse?utm_source=share&utm_medium=member_desktop)
 - [Mistral-7B-Instruct-v0.3](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_mistralaimistral-7b-instruct-v03-hugging-activity-7199103875348320256-lJ_A?utm_source=share&utm_medium=member_android)
-- [Codestral: A model fluent in 80+ programming languages](https://mistral.ai/news/codestral/)  
+- [Codestral: A model fluent in 80+ programming languages](https://mistral.ai/news/codestral/)
+- [Mistral Finetune: the official repo and guide on how to fine-tune Mistral open-source models](https://github.com/mistralai/mistral-finetune)  
 
 ### Yi Models:
 - [Yi Github](https://github.com/01-ai/Yi)
