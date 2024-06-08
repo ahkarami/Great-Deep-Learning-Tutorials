@@ -466,7 +466,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Embedding Quantization - HuggingFace Blog Post](https://huggingface.co/blog/embedding-quantization)
 - [Quantization Fundamentals with Hugging Face Course](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_quantization-fundamentals-with-hugging-face-activity-7186335433843167232-sKV2?utm_source=share&utm_medium=member_desktop)
 - [Is Cosine-Similarity of Embeddings Really About Similarity?](https://www.linkedin.com/posts/alphasignal_is-cosine-similarity-of-embeddings-really-activity-7175543620651880449-ZoKw?utm_source=share&utm_medium=member_desktop)
-- [LLM2Vec](https://www.linkedin.com/posts/zaiinulabideen_lazy-llm2vec-convert-your-favorite-llm-activity-7193618083448553472-_Q2e?utm_source=share&utm_medium=member_desktop) [**Great**]  
+- [LLM2Vec](https://www.linkedin.com/posts/zaiinulabideen_lazy-llm2vec-convert-your-favorite-llm-activity-7193618083448553472-_Q2e?utm_source=share&utm_medium=member_desktop) [**Great**]
+- [Fine tuning embedding models for RAG (Linkedin post)](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_fine-tune-embedding-models-for-retrieval-activity-7203760204579028992-g7eW?utm_source=share&utm_medium=member_desktop)
+- [Fine tuning embedding models for RAG (Original Post)](https://www.philschmid.de/fine-tune-embedding-model-for-rag)  
 
 ### Prevent Hallucinations from LLMs & Controling their outputs:
 - [Deep Dive Into LLM Hallucinations Across Generative Tasks](https://www.rungalileo.io/blog/deep-dive-into-llm-hallucinations-across-generative-tasks)
