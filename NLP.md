@@ -576,7 +576,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LLMs for Tabular Data - Linkedin post](https://www.linkedin.com/posts/pascalbiese_unleashing-the-potential-of-llms-for-tabular-activity-7180873134743449600-ChWm?utm_source=share&utm_medium=member_desktop) 
 
 ### LLMs as Classifiers (finetuning LLMs for classification):
-- [LLMs as Classifiers Linkedin Post1](https://www.linkedin.com/posts/sebastianraschka_what-if-you-care-about-finetuning-llms-for-activity-7183808393155944448-CSR1?utm_source=share&utm_medium=member_desktop)  
+- [LLMs as Classifiers Linkedin Post1](https://www.linkedin.com/posts/sebastianraschka_what-if-you-care-about-finetuning-llms-for-activity-7183808393155944448-CSR1?utm_source=share&utm_medium=member_desktop)
+- [Training LLMs for Spam Classification](https://www.linkedin.com/posts/sebastianraschka_training-llms-for-spam-classification-i-activity-7197943692949676034-c6_j?utm_source=share&utm_medium=member_desktop)  
 
 ### LLM Data Sets:
 - [SlimPajama: A 627B token cleaned and deduplicated version of RedPajama](https://www.cerebras.net/blog/slimpajama-a-627b-token-cleaned-and-deduplicated-version-of-redpajama)
