@@ -381,7 +381,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [RLHF in 2024 with DPO & Hugging Face](https://www.philschmid.de/dpo-align-llms-in-2024-with-trl)
 - [A little guide to building Large Language Models in 2024 (PPT by HuggingFace Team)](https://docs.google.com/presentation/d/1IkzESdOwdmwvPxIELYJi8--K3EZ98_cL6c5ZcLKSyVg/edit?usp=sharing) [**Great**]
 - [Video Link1 of A little guide to building Large Language Models in 2024 (PPT by HuggingFace Team)](https://www.linkedin.com/posts/thom-wolf_75min-talk-i-finally-recorded-this-lecture-activity-7179106246505967617-0nzC?utm_source=share&utm_medium=member_desktop)
-- [Video Link2 of A little guide to building Large Language Models in 2024 (PPT by HuggingFace Team)](https://www.youtube.com/watch?v=2-SPH9hIKT8)  
+- [Video Link2 of A little guide to building Large Language Models in 2024 (PPT by HuggingFace Team)](https://www.youtube.com/watch?v=2-SPH9hIKT8)
+- [Understanding the instruction fine-tuning process in LLMs](https://www.linkedin.com/posts/sebastianraschka_if-you-are-looking-for-a-resource-to-understand-activity-7208093607122145280-6wFF?utm_source=share&utm_medium=member_desktop)  
 
 ### LLMs for Coding:
 - [CodeGen](https://github.com/salesforce/CodeGen)
