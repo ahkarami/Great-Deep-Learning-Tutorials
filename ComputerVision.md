@@ -330,6 +330,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [Draw UI via Generative AI](https://www.linkedin.com/posts/eric-vyacheslav-156273169_this-will-change-the-whole-industry-draw-a-ui-activity-7130527961169969153-JAi5?utm_source=share&utm_medium=member_desktop)
 - [Emu video & Emu edit meta's Models](https://www.linkedin.com/posts/aiatmeta_today-were-announcing-two-new-milestones-activity-7130948419409375232-7sAh?utm_source=share&utm_medium=member_desktop)  
 
+
+## NSFW (Not Safe for Work):
+- [Fine-Tuned Vision Transformer (ViT) for NSFW Image Classification](https://huggingface.co/Falconsai/nsfw_image_detection)  
+
 ## Other:
 
 ### Color Channel Order:
