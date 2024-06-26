@@ -61,7 +61,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [FaceBook Massively Multilingual Speech (MMS)](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
 - [AudioLDM2: unified framework for text-to-audio generation](https://github.com/haoheliu/AudioLDM2)
 - [MetaVoice-1B: a 1.2B parameter base model trained on 100K hours of speech for TTS](https://github.com/metavoiceio/metavoice-src)
-- [Parler TTS](https://www.linkedin.com/posts/yoach-lacombe_introducing-data-speech-a-fully-open-source-activity-7183864961905872896-1EBe?utm_source=share&utm_medium=member_desktop)  
+- [Parler TTS](https://www.linkedin.com/posts/yoach-lacombe_introducing-data-speech-a-fully-open-source-activity-7183864961905872896-1EBe?utm_source=share&utm_medium=member_desktop)
+- [IMS-Toucan TTS: the first TTS System in over 7000 languages](https://github.com/DigitalPhonetics/IMS-Toucan)  
 
 ## Automatic Speech Recognition (ASR) & Speech to Text (STT):
 - [OpenSpeech](https://github.com/openspeech-team/openspeech) [Great]   
