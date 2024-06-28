@@ -766,6 +766,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Google released Gemini](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_google-just-released-gemini-their-most-activity-7138191392861757440-djDD?utm_source=share&utm_medium=member_desktop)
 - [Google Gemini official released notes](https://blog.google/technology/ai/google-gemini-ai/?utm_source=linkedin&utm_medium=social&utm_campaign=GDMGemini)  
 
+## Anthropic Claude:  
+- [Anthropic Claude Tool Use](https://www.linkedin.com/posts/anthropicresearch_tool-use-is-now-available-in-beta-to-all-activity-7201976267171086336-oQ4K?utm_source=share&utm_medium=member_desktop)  
+
 ## NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
 - [Multi-label Text Classification using BERT](https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d)  
