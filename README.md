@@ -31,6 +31,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Deep learning jupyter notebook book](https://udlbook.github.io/udlbook/)  
 - [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT](https://arxiv.org/abs/2302.09419)
 - [interconnects.ai: Great AI Blog Posts & Podcasts](https://www.interconnects.ai/)  
+- [EfficientML Course](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) [Great]  
 
 ## Deep Learning Useful Resources for Computer Vision:  
 - [Great Deep Learning Resources for Computer Vision Tasks](https://github.com/ahkarami/Great-Deep-Learning-Tutorials/blob/master/ComputerVision.md) [_Excellent_]  
