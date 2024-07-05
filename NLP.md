@@ -285,7 +285,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Gemma usage in Hugging Face via OpenAI SDK](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_yesterday-google-released-gemma-an-open-activity-7166484882917961730-uuFB?utm_source=share&utm_medium=member_desktop)
 - [Does Gemma overfit the Open LLM Leaderboard?](https://www.linkedin.com/posts/maxime-labonne_does-gemma-overfit-the-open-llm-leaderboard-activity-7166220798427402242-lJFm?utm_source=share&utm_medium=member_desktop)
 - [Zehpyr 7B Gemma](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_zehpyr-7b-gemma-releasedwe-are-excited-activity-7169373526641070080-rTLD?utm_source=share&utm_medium=member_desktop)
-- [Gemma 2](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_gemma-2-releasedgoogle-just-released-the-activity-7212108484920651776-BR8s?utm_source=share&utm_medium=member_desktop)  
+- [Gemma 2](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_gemma-2-releasedgoogle-just-released-the-activity-7212108484920651776-BR8s?utm_source=share&utm_medium=member_desktop)
+- [Gemma2 Detailed Notes](https://www.linkedin.com/posts/sebastianraschka_whats-new-and-noteworthy-in-googles-newly-activity-7213528822384611329-sKv0?utm_source=share&utm_medium=member_desktop)  
 
 ### Jamba (SSM-Transformer Model):
 - [AI21 Labs Jamba Model](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_jamba-released-ai21-labs-just-released-the-activity-7179121093482315776-xbmX?utm_source=share&utm_medium=member_desktop)  
