@@ -603,7 +603,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LLMs APIs Pricing Benchmark: pricing of AWS Bedrock, OpenAI, Microsoft Azure](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_yesterday-amazon-web-services-aws-released-activity-7113454144216031233-LYuF?utm_source=share&utm_medium=member_desktop)
 - [LLM Token-based Price Sheet](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_claude-21-with-200k-context-just-got-released-activity-7132812689369657344-Rk_a?utm_source=share&utm_medium=member_desktop)
 - [LLM Pricing Table Sheet](https://docs.google.com/spreadsheets/d/1NX8ZW9Jnfpy88PC2d6Bwla87JRiv3GTeqwXoB4mKU_s/edit#gid=0)
-- [LLM Pricing Table Linkedin Post](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_updated-llm-pricing-table-earlier-today-activity-7170527176168042497-YgT4?utm_source=share&utm_medium=member_desktop)  
+- [LLM Pricing Table Linkedin Post](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_updated-llm-pricing-table-earlier-today-activity-7170527176168042497-YgT4?utm_source=share&utm_medium=member_desktop)
+- [Pricibg Sheet for Hosted LLMs](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_just-updated-my-pricing-sheet-for-hosted-activity-7213556290575368196-u71R?utm_source=share&utm_medium=member_desktop)  
 
 ### Excellent & Easy to Learn Resources for Learning Transformers:
 - [e2eml transformers from scratch](https://e2eml.school/transformers.html) [**Excellent**]  
