@@ -550,7 +550,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [The Unreasonable Ineffectiveness of the Deeper Layers](https://arxiv.org/html/2403.17887v1)
 - [Continual Pretraining of LLMs](https://www.linkedin.com/posts/sebastianraschka_we-talk-a-lot-about-finetuning-llms-to-follow-activity-7174395744068464642-jPFI?utm_source=share&utm_medium=member_desktop)
 - [NOLA: run 10,000 customized LLaMA2 (70B) (4bit) models on a single 48GB GPU](https://www.linkedin.com/posts/hpirsiav_iclr2024-iclr2024-activity-7192618595405725696-HZXu?utm_source=share&utm_medium=member_desktop)
-- [NOLA LLaMA3](https://www.linkedin.com/posts/s-hasan-abbas_syed-hasan-8503llama-3-8b-nola-hugging-activity-7193318944575762434-MD_T?utm_source=share&utm_medium=member_desktop)  
+- [NOLA LLaMA3](https://www.linkedin.com/posts/s-hasan-abbas_syed-hasan-8503llama-3-8b-nola-hugging-activity-7193318944575762434-MD_T?utm_source=share&utm_medium=member_desktop)
+- [LoRA Learns Less and Forgets Less in comparision to full finetuning](https://www.linkedin.com/posts/sebastianraschka_lora-learns-less-and-forgets-less-when-i-activity-7197576220585201664-KA4L?utm_source=share&utm_medium=member_desktop)  
 
 ### LLMs on Mobile Devices:
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm)  
