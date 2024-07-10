@@ -174,6 +174,7 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Summaries of CVPR papers on ShortScience.org](https://www.shortscience.org/venue?key=conf/cvpr)
 - [Summaries of ICCV papers on ShortScience.org](https://www.shortscience.org/venue?key=conf/iccv)
 - [Summaries of ECCV papers on ShortScience.org](https://www.shortscience.org/venue?key=conf/eccv)
+- [Meta ICLR 2024 Top Papers](https://www.linkedin.com/posts/aiatmeta_iclr2024-activity-7194398361943171074-XiVG?utm_source=share&utm_medium=member_android)  
 
 ## Deep Learning Frameworks and Infrustructures:
 - [set-up a Paperspace GPU Server](https://towardsdatascience.com/how-to-set-up-a-powerful-and-cost-efficient-gpu-server-for-deep-learning-aa1de0d4ea56)  
