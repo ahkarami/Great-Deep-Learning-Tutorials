@@ -475,7 +475,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LLM2Vec](https://www.linkedin.com/posts/zaiinulabideen_lazy-llm2vec-convert-your-favorite-llm-activity-7193618083448553472-_Q2e?utm_source=share&utm_medium=member_desktop) [**Great**]
 - [Fine tuning embedding models for RAG (Linkedin post)](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_fine-tune-embedding-models-for-retrieval-activity-7203760204579028992-g7eW?utm_source=share&utm_medium=member_desktop)
 - [Fine tuning embedding models for RAG (Original Post)](https://www.philschmid.de/fine-tune-embedding-model-for-rag)
-- [`all-MiniLM-L6-v2` --> Sentence-Transformers Model for Embedding](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)  
+- [`all-MiniLM-L6-v2` --> Sentence-Transformers Model for Embedding](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
+- [Learn How to Fine-tuning Embedding Models Course](https://marqo.ai/courses/fine-tuning-embedding-models) [**Great**]  
 
 ### Prevent Hallucinations from LLMs & Controling their outputs:
 - [Deep Dive Into LLM Hallucinations Across Generative Tasks](https://www.rungalileo.io/blog/deep-dive-into-llm-hallucinations-across-generative-tasks)
