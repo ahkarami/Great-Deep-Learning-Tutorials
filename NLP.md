@@ -448,7 +448,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [RAFT: Retrieval Augmented Fine Tuning - Post2](https://www.linkedin.com/posts/tianjun-zhang-333bb2126_raft-a-new-way-to-teach-llms-to-be-better-activity-7174525633291587584-CO-h?utm_source=share&utm_medium=member_desktop)
 - [RAFT: Retrieval Augmented Fine Tuning - Microsoft Blog](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/ba-p/4084674)
 - [RAFT: Retrieval Augmented Fine Tuning - Berkeley Blog](https://gorilla.cs.berkeley.edu/blogs/9_raft.html)
-- [RAFT Code](https://github.com/ShishirPatil/gorilla/tree/main/raft)  
+- [RAFT Code](https://github.com/ShishirPatil/gorilla/tree/main/raft)
+- [Long context LLMs vs RAG](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_how-good-are-llms-in-a-long-context-and-activity-7214185350959689728-cnfp?utm_source=share&utm_medium=member_android) [Interesting]  
 
 ### Vector Database Libraries:
 - [weaviate](https://weaviate.io/)  
