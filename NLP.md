@@ -418,7 +418,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Visual and Animated Lecture about LLMs and Transformers and Deep Learning](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)  
 - [LLMs Roadmap](https://www.linkedin.com/posts/ba%C5%9Fak-tu%C4%9F%C3%A7e-eskili-61511b58_nlp-llms-gpt3-activity-7168168071356997632-V8yL?utm_source=share&utm_medium=member_desktop) [Great]  
 - [Brev.dev Notebooks: Fine-tuning mistral, mixtral, phi-2 and etc](https://github.com/brevdev/notebooks/tree/main) [**Excellent**]
-- [LLM Summer School](https://www.linkedin.com/posts/sebastianraschka_a-suggestion-for-an-effective-11-step-llm-activity-7195778889384693762-2TB_?utm_source=share&utm_medium=member_android)  
+- [LLM Summer School](https://www.linkedin.com/posts/sebastianraschka_a-suggestion-for-an-effective-11-step-llm-activity-7195778889384693762-2TB_?utm_source=share&utm_medium=member_android)
+- [LLM Engineer's Handbook](https://www.linkedin.com/posts/maxime-labonne_super-proud-to-announce-my-new-book-the-activity-7219253497559425024-IVkc?utm_source=share&utm_medium=member_desktop)
+- [LLM Twin Course: Building Your Production-Ready AI Replica](https://github.com/decodingml/llm-twin-course)  
 
 ### LLMs Ranking:
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)  
