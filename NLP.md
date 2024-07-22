@@ -193,7 +193,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Grok-1 LLM: Post2](https://www.linkedin.com/posts/liorsinclair_big-news-grok-is-finally-open-source-with-activity-7175496738948968448--Ewx?utm_source=share&utm_medium=member_desktop)
 - [DBRX LLM](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 - [DBRX LLM: Post1](https://www.linkedin.com/posts/mateizaharia_at-databricks-weve-built-an-awesome-model-activity-7178738621099769857-v4X8?utm_source=share&utm_medium=member_desktop)
-- [DBRX LLM: Post2](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_new-state-of-the-art-open-llm-databricks-activity-7178748050117451776-Otgg?utm_source=share&utm_medium=member_desktop)  
+- [DBRX LLM: Post2](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_new-state-of-the-art-open-llm-databricks-activity-7178748050117451776-Otgg?utm_source=share&utm_medium=member_desktop)
+- [LLMs via Multi-Token Prediction](https://www.linkedin.com/posts/aiatmeta_new-research-from-fair-better-faster-large-activity-7194022959609438208-TH1u?utm_source=share&utm_medium=member_android)  
 
 ### Merge LLMs:
 - [Linkedin Post](https://www.linkedin.com/posts/maxime-labonne_merge-large-language-models-with-mergekit-activity-7150044812337901569-3zIu?utm_source=share&utm_medium=member_android)  
