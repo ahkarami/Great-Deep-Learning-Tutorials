@@ -580,7 +580,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Contrastive Chain-of-Thought Prompting (CCoT)](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_improve-chain-of-thought-prompting-by-adding-activity-7133477395944091648-TKlQ?utm_source=share&utm_medium=member_desktop)  
 - [New Prompting Techniques](https://www.linkedin.com/posts/pramodith_promptengineering-llm-activity-7134507333530836992-evPU?utm_source=share&utm_medium=member_desktop)
 - [Openai Prompt Engineering Guide - Linkedin Post](https://www.linkedin.com/posts/eric-vyacheslav-156273169_game-changer-open-ai-just-released-their-activity-7141454141683343360-eunF?utm_source=share&utm_medium=member_desktop)  
-- [Openai Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)  
+- [Openai Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
+- [Anthropic Claude Metaprompt Tool](https://www.linkedin.com/posts/sahar-mor_anthropic-released-a-useful-tool-that-turns-activity-7194705248039444480-7KtG?utm_source=share&utm_medium=member_desktop)  
 
 ### LLM-based Recommender Systems:
 - [ChatGPT-based Recommender Systems](https://blog.reachsumit.com/posts/2023/05/chatgpt-for-recsys/)  
