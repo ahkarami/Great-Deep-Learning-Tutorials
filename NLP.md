@@ -244,7 +244,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LLaMA3 Linkedin Post1](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_welcome-llama-3-metas-new-open-llm-activity-7186762894989012992-SBLe?utm_source=share&utm_medium=member_desktop)
 - [Meta LLaMA3-8B](https://huggingface.co/meta-llama/Meta-Llama-3-8B)
 - [Fine tune LLaMA3](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_efficiently-fine-tune-llama-3-with-pytorch-activity-7188186109363859456-sYSR?utm_source=share&utm_medium=member_desktop)
-- [LLaMA3 Long Context](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_llama-3-extended-to-almost-100000-token-activity-7189518531300904963-9Y9V?utm_source=share&utm_medium=member_desktop)  
+- [LLaMA3 Long Context](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_llama-3-extended-to-almost-100000-token-activity-7189518531300904963-9Y9V?utm_source=share&utm_medium=member_desktop)
+- [LLaMA3.1](https://ollama.com/library/llama3.1)  
 
 ### Phi-3 Related Links:
 - [Phi-3 Linkedin Post1](https://www.linkedin.com/posts/sebastianraschka_microsoft-just-casually-shared-theirnew-activity-7188544168380510208-AdDG?utm_source=share&utm_medium=member_desktop)  
