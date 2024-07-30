@@ -334,6 +334,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 ## NSFW (Not Safe for Work):
 - [Fine-Tuned Vision Transformer (ViT) for NSFW Image Classification](https://huggingface.co/Falconsai/nsfw_image_detection)  
 
+## Soccer & Football AI code:
+- [Football AI code](https://www.linkedin.com/posts/skalskip92_computervision-objectdetection-tracking-activity-7222143008358453248-1MY8?utm_source=share&utm_medium=member_desktop)  
+
 ## Other:
 
 ### Color Channel Order:
