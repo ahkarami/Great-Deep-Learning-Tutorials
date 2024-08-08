@@ -128,7 +128,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Finetuning an LLM: RLHF and alternatives (Part I)](https://argilla.io/blog/mantisnlp-rlhf-part-1/)
 - [Finetuning an LLM: RLHF and alternatives (Part II)](https://argilla.io/blog/mantisnlp-rlhf-part-2/)
 - [Finetuning an LLM: RLHF and alternatives (Part III)](https://argilla.io/blog/mantisnlp-rlhf-part-3/)
-- [How good is AI feedback?](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_how-good-is-ai-feedback-and-does-it-really-activity-7171174171413102592-eVs9?utm_source=share&utm_medium=member_desktop)  
+- [How good is AI feedback?](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_how-good-is-ai-feedback-and-does-it-really-activity-7171174171413102592-eVs9?utm_source=share&utm_medium=member_desktop)
+- [Direct Preference Optimization (DPO) for LLM Alignment (From Scratch)](https://github.com/rasbt/LLMs-from-scratch/blob/main/ch07/04_preference-tuning-with-dpo/dpo-from-scratch.ipynb)  
 
 ### Large Language Models (LLMs):
 - [LLaMA](https://github.com/facebookresearch/llama)  
