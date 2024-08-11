@@ -745,7 +745,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [papers with code: chatbot](https://paperswithcode.com/task/chatbot)   
 - [Proudly Leading the Chatbot](https://www.analyticsinsight.net/ankush-sabharwal-proudly-leading-the-chatbot-sphere-with-strategical-innovations-and-implementations/)  
 - [Real Python: Build a Chatbot with Python ChatterBot](https://realpython.com/build-a-chatbot-python-chatterbot/)  
-- [A step-by-step guide to building a chatbot based on your own documents with GPT](https://bootcamp.uxdesign.cc/a-step-by-step-guide-to-building-a-chatbot-based-on-your-own-documents-with-gpt-2d550534eea5)  
+- [A step-by-step guide to building a chatbot based on your own documents with GPT](https://bootcamp.uxdesign.cc/a-step-by-step-guide-to-building-a-chatbot-based-on-your-own-documents-with-gpt-2d550534eea5)
+- [Create a Chatbot for any GitHub repo](https://www.linkedin.com/posts/eric-vyacheslav-156273169_game-changer-you-can-now-create-a-chatbot-activity-7226604741261230081-Bthf?utm_source=share&utm_medium=member_desktop) [**Great**]  
 
 ### Chatbot & LLMs Evaluation Metrics:
 - [Chatbot Analytics: 9 Key Metrics](https://www.tidio.com/blog/chatbot-analytics/)  
