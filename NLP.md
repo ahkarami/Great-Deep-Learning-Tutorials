@@ -592,7 +592,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Openai Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
 - [Anthropic Claude Metaprompt Tool](https://www.linkedin.com/posts/sahar-mor_anthropic-released-a-useful-tool-that-turns-activity-7194705248039444480-7KtG?utm_source=share&utm_medium=member_desktop)
 - [Cohere Prompt Tuner: Prompt Optimization at Your Fingertips](https://cohere.com/blog/intro-prompt-tuner?utm_source=bensbites&utm_medium=newsletter&utm_campaign=daily-digest-talk-with-your-ai-besties)
-- [Quality Prompts: Use and evaluate prompting techniques quickly](https://github.com/sarthakrastogi/quality-prompts)  
+- [Quality Prompts: Use and evaluate prompting techniques quickly](https://github.com/sarthakrastogi/quality-prompts)
+- [Prompt Design at Character.AI](https://research.character.ai/prompt-design-at-character-ai/)  
 
 ### LLM-based Recommender Systems:
 - [ChatGPT-based Recommender Systems](https://blog.reachsumit.com/posts/2023/05/chatgpt-for-recsys/)  
