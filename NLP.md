@@ -472,7 +472,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [rektor-db](https://github.com/codediodeio/rektor-db)  
 - [pgvector](https://github.com/pgvector/pgvector)  
 - [LlamaIndex: comprehensive toolkit to perform data augmentation for LLMs](https://github.com/jerryjliu/llama_index)
-- [jina-ai VectorDB](https://github.com/jina-ai/vectordb)  
+- [jina-ai VectorDB](https://github.com/jina-ai/vectordb)
+- [sqlite-vec: A vector search SQLite extension](https://github.com/asg017/sqlite-vec)  
 
 ### Great Embedding Models for Search (for Augmenting External Knowledge into ChatBot Vector DB) [Retrieval Augmented Generation (RAG)]:
 - [Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
