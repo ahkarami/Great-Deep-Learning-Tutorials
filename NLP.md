@@ -402,7 +402,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Code Llama Notes](https://www.linkedin.com/posts/aleksagordic_nice-meta-ai-just-announced-code-llama-activity-7100559934764810240-Un2i/?utm_source=share&utm_medium=member_android)  
 
 ### LLMs as Front-End Engineers:
-- [Design2Code: How Far Are We From Automating Front-End Engineering?](https://arxiv.org/abs/2403.03163)  
+- [Design2Code: How Far Are We From Automating Front-End Engineering?](https://arxiv.org/abs/2403.03163)
+- [Llama Coder: Can generate full React apps](https://llamacoder.together.ai/)  
 
 ### LLMs Courses & Tutorials:
 - [LLM Bootcamp - Spring 2023](https://fullstackdeeplearning.com/llm-bootcamp/spring-2023/)  
