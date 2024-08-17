@@ -65,7 +65,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [IMS-Toucan TTS: the first TTS System in over 7000 languages](https://github.com/DigitalPhonetics/IMS-Toucan)
 - [E2 TTS](https://www.linkedin.com/posts/naoyuki-kanda-16a00511b_e2-tts-microsoft-research-activity-7211927392804593665-ATUA?utm_source=share&utm_medium=member_android)
 - [Mars5 TTS](https://www.linkedin.com/posts/vaibhavs10_mars5-tts-open-source-text-to-speech-with-activity-7211102752305819650-RJwf?utm_source=share&utm_medium=member_desktop)
-- [Nvidia NeMo T5-TTS Model](https://www.linkedin.com/posts/subhankar-19_addressing-hallucinations-in-speech-synthesis-activity-7214352391993765889-EGVu?utm_source=share&utm_medium=member_desktop)  
+- [Nvidia NeMo T5-TTS Model](https://www.linkedin.com/posts/subhankar-19_addressing-hallucinations-in-speech-synthesis-activity-7214352391993765889-EGVu?utm_source=share&utm_medium=member_desktop)
+- [Parler-TTS: fully open-source high-quality TTS](https://huggingface.co/collections/parler-tts/parler-tts-fully-open-source-high-quality-tts-66164ad285ba03e8ffde214c)  
 
 ## Automatic Speech Recognition (ASR) & Speech to Text (STT):
 - [OpenSpeech](https://github.com/openspeech-team/openspeech) [Great]   
