@@ -119,6 +119,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Google Chirp: Universal speech model (USM)](https://cloud.google.com/speech-to-text/v2/docs/chirp-model) [Great]  
 - [HuggingFace Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)  
 
+## Speech to Speech Models:
+- [Speech To Speech: an effort for an open-sourced and modular GPT4-o](https://github.com/huggingface/speech-to-speech)  
+
 ### ASR with LLMs:
 - [Listening with LLM](https://paul.mou.dev/posts/2023-12-31-listening-with-llm/)  
 
