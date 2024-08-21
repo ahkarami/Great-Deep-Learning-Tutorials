@@ -572,7 +572,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [NOLA LLaMA3](https://www.linkedin.com/posts/s-hasan-abbas_syed-hasan-8503llama-3-8b-nola-hugging-activity-7193318944575762434-MD_T?utm_source=share&utm_medium=member_desktop)
 - [LoRA Learns Less and Forgets Less in comparision to full finetuning](https://www.linkedin.com/posts/sebastianraschka_lora-learns-less-and-forgets-less-when-i-activity-7197576220585201664-KA4L?utm_source=share&utm_medium=member_desktop)
 - [Best Practices for Fine-Tuning & Training LLMs](https://www.linkedin.com/posts/aleksagordic_amazing-list-of-techniques-for-improving-activity-7215624025639645184-496W?utm_source=share&utm_medium=member_android)
-- [TorchChat](https://www.linkedin.com/posts/pytorch_llms-mobilellms-localai-activity-7224090140011380737-RHdH?utm_source=share&utm_medium=member_desktop)  
+- [TorchChat](https://www.linkedin.com/posts/pytorch_llms-mobilellms-localai-activity-7224090140011380737-RHdH?utm_source=share&utm_medium=member_desktop)
+- [Calculating GPU memory for serving LLMs](https://www.substratus.ai/blog/calculating-gpu-memory-for-llm)  
 
 ### LLMs on Mobile Devices:
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm)  
