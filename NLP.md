@@ -797,7 +797,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [GPT-4o Full Data Analysis](https://www.linkedin.com/posts/eric-vyacheslav-156273169_gpt-4o-can-do-full-data-analysis-from-a-single-activity-7196162441116860416--yzu?utm_source=share&utm_medium=member_desktop)
 - [GPT4-o Architecture](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_is-this-the-architecture-of-openai-gpt-4o-activity-7199759664836739073-gTEz?utm_source=share&utm_medium=member_desktop)
-- [Introducing Structured Outputs in the OpenAI API](https://openai.com/index/introducing-structured-outputs-in-the-api/)  
+- [Introducing Structured Outputs in the OpenAI API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
+- [LibreChat: Enhanced ChatGPT Clone](https://github.com/danny-avila/LibreChat) [**Great**]  
 
 ## Google Bard & Gemini:  
 - [Google DeepMind Gemini](https://www.linkedin.com/posts/googledeepmind_introducing-gemini-googles-largest-and-activity-7138182085441118208--M-h?utm_source=share&utm_medium=member_desktop)
