@@ -121,6 +121,11 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Google Chirp: Universal speech model (USM)](https://cloud.google.com/speech-to-text/v2/docs/chirp-model) [Great]  
 - [HuggingFace Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)  
 
+## AudioLLM:
+- [Qwen-Audio](https://github.com/QwenLM/Qwen-Audio)
+- [Qwen2-Audio](https://github.com/QwenLM/Qwen2-Audio)
+- [Qwen2-Audio Blog](https://qwenlm.github.io/blog/qwen2-audio/)  
+
 ## Speech to Speech Models:
 - [Speech To Speech: an effort for an open-sourced and modular GPT4-o](https://github.com/huggingface/speech-to-speech)  
 
