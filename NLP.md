@@ -463,7 +463,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [RAFT: Retrieval Augmented Fine Tuning - Berkeley Blog](https://gorilla.cs.berkeley.edu/blogs/9_raft.html)
 - [RAFT Code](https://github.com/ShishirPatil/gorilla/tree/main/raft)
 - [Long context LLMs vs RAG](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_how-good-are-llms-in-a-long-context-and-activity-7214185350959689728-cnfp?utm_source=share&utm_medium=member_android) [Interesting]
-- [RAGFlow: an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding](https://github.com/infiniflow/ragflow)  
+- [RAGFlow: an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding](https://github.com/infiniflow/ragflow)
+- [Two Step RAG: Speculative RAG: Enhancing retrieval augmented generation through drafting](https://research.google/blog/speculative-rag-enhancing-retrieval-augmented-generation-through-drafting/)  
 
 ### Vector Database Libraries:
 - [weaviate](https://weaviate.io/)  
