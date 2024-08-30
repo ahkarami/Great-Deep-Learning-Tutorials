@@ -82,7 +82,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [ViperGPT: Visual Inference via Python Execution for Reasoning](https://github.com/cvlab-columbia/viper)  
 - [LLaVA: Large Language and Vision Assistant](https://llava-vl.github.io/)  
 - [ImageBind-LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM)
-- [An Introduction to Vision-Language Modeling](https://www.linkedin.com/posts/aiatmeta_new-from-fair-an-introduction-to-vision-language-activity-7201264894791335938-8LnO?utm_source=share&utm_medium=member_desktop)  
+- [An Introduction to Vision-Language Modeling](https://www.linkedin.com/posts/aiatmeta_new-from-fair-an-introduction-to-vision-language-activity-7201264894791335938-8LnO?utm_source=share&utm_medium=member_desktop)
+- [A comprehensive tutorial on building Vision-Language Models (VLMs)](https://www.linkedin.com/posts/andresmarafioti_excited-to-share-that-our-idefics-3-and-activity-7234088501271502848-D-aY?utm_source=share&utm_medium=member_desktop)  
 
 ### Multi-Modal LLMs:
 - [CoDi: Any-to-Any Generation via Composable Diffusion](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)
