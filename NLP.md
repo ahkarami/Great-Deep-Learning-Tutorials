@@ -328,6 +328,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LongLoRA: Efficient Fine-tuning of Long-Context LLMs (another post)](https://www.linkedin.com/posts/haotian-tang_expanding-the-context-size-of-large-language-activity-7110806911775641600-nShH?utm_source=share&utm_medium=member_desktop)
 - [Efficient Streaming LLMs with Attention Sinks for infinite-length inputs](https://github.com/mit-han-lab/streaming-llm)
 - [MemGPT: Teaching LLMs memory management for unbounded context](https://github.com/cpacker/MemGPT)
+- [LongWriter: Unleashing 10,000+ Word Generation from Long Context LLMs](https://github.com/THUDM/LongWriter) [Interesting]  
 - [Llmlingua Prompt Compress](https://www.linkedin.com/posts/sahar-mor_microsoft-recently-published-a-new-technique-activity-7151596182379597825-7ego?utm_source=share&utm_medium=member_desktop) [Interesting]  
 
 ### Small Language Models (SLMs):
