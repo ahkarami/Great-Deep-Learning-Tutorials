@@ -74,7 +74,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [PyTorch External Attention](https://github.com/xmu-xiaoma666/External-Attention-pytorch) [**Great**]   
 - [MobileViT in PyTorch](https://github.com/chinhsuanwu/mobilevit-pytorch)    
 - [Clip-vit](https://huggingface.co/openai/clip-vit)  
-- [OpenAI CLIP](https://github.com/openai/CLIP)  
+- [OpenAI CLIP](https://github.com/openai/CLIP)
+- [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://www.arxiv.org/abs/2408.11039)  
 - [Transformers: from NLP to CV](https://github.com/IbrahimSobh/Transformers) [**Very Great & Excellent**]   
 
 ### Vision-Language Models (LLMs in Image & Computer Vision):
