@@ -398,6 +398,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Video Link2 of A little guide to building Large Language Models in 2024 (PPT by HuggingFace Team)](https://www.youtube.com/watch?v=2-SPH9hIKT8)
 - [Understanding the instruction fine-tuning process in LLMs](https://www.linkedin.com/posts/sebastianraschka_if-you-are-looking-for-a-resource-to-understand-activity-7208093607122145280-6wFF?utm_source=share&utm_medium=member_desktop)  
 
+### Reflection-Tuning of LLMs:
+- [Reflection-Tuning of LLMs](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_mindblowing-a-70b-open-meta-llama-3-better-activity-7237712642339926016-Cfm6?utm_source=share&utm_medium=member_desktop)  
+
 ### LLMs for Coding:
 - [CodeGen](https://github.com/salesforce/CodeGen)
 - [Code Llama](https://github.com/facebookresearch/codellama)
