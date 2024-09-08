@@ -401,6 +401,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ### Reflection-Tuning of LLMs:
 - [Reflection-Tuning of LLMs](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_mindblowing-a-70b-open-meta-llama-3-better-activity-7237712642339926016-Cfm6?utm_source=share&utm_medium=member_desktop)  
 
+### Memory Layer for LLMs:
+- [Memory layer for LLMs](https://www.linkedin.com/posts/liorsinclair_mem0-gained-20000-stars-on-github-in-30-activity-7237475167822585857-4Jbu?utm_source=share&utm_medium=member_desktop)
+- [Memory layer for LLMs - GitHub Repo](https://github.com/mem0ai/mem0)  
+
 ### LLMs for Coding:
 - [CodeGen](https://github.com/salesforce/CodeGen)
 - [Code Llama](https://github.com/facebookresearch/codellama)
