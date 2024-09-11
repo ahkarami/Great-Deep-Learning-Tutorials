@@ -127,7 +127,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Qwen2-Audio Blog](https://qwenlm.github.io/blog/qwen2-audio/)  
 
 ## Speech to Speech Models:
-- [Speech To Speech: an effort for an open-sourced and modular GPT4-o](https://github.com/huggingface/speech-to-speech)  
+- [Speech To Speech: an effort for an open-sourced and modular GPT4-o](https://github.com/huggingface/speech-to-speech)
+- [Huggingface Multilingual Speech to Speech Library](https://www.linkedin.com/posts/andresmarafioti_introducing-hugging-faces-multilingual-activity-7236625231505731585-Pbps?utm_source=share&utm_medium=member_desktop)  
 
 ### ASR with LLMs:
 - [Listening with LLM](https://paul.mou.dev/posts/2023-12-31-listening-with-llm/)  
