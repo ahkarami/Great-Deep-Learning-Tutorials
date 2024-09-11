@@ -610,7 +610,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Cohere Prompt Tuner: Prompt Optimization at Your Fingertips](https://cohere.com/blog/intro-prompt-tuner?utm_source=bensbites&utm_medium=newsletter&utm_campaign=daily-digest-talk-with-your-ai-besties)
 - [Quality Prompts: Use and evaluate prompting techniques quickly](https://github.com/sarthakrastogi/quality-prompts)
 - [Prompt Design at Character.AI](https://research.character.ai/prompt-design-at-character-ai/)
-- [Structured Prompting](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_structured-prompting-is-a-key-requirement-activity-7235928635633725440-0OG-?utm_source=share&utm_medium=member_desktop)  
+- [Structured Prompting](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_structured-prompting-is-a-key-requirement-activity-7235928635633725440-0OG-?utm_source=share&utm_medium=member_desktop)
+- [Writing with AI: Five ways professional writers are leveraging ChatGPT](https://openai.com/chatgpt/use-cases/writing-with-ai/)  
 
 ### LLM-based Recommender Systems:
 - [ChatGPT-based Recommender Systems](https://blog.reachsumit.com/posts/2023/05/chatgpt-for-recsys/)  
