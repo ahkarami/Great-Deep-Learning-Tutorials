@@ -810,6 +810,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [GPT-4o Full Data Analysis](https://www.linkedin.com/posts/eric-vyacheslav-156273169_gpt-4o-can-do-full-data-analysis-from-a-single-activity-7196162441116860416--yzu?utm_source=share&utm_medium=member_desktop)
 - [GPT4-o Architecture](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_is-this-the-architecture-of-openai-gpt-4o-activity-7199759664836739073-gTEz?utm_source=share&utm_medium=member_desktop)
 - [Introducing Structured Outputs in the OpenAI API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
+- [Learning to Reason with LLMs: OpenAI o1 Model](https://openai.com/index/learning-to-reason-with-llms/)  
 - [LibreChat: Enhanced ChatGPT Clone](https://github.com/danny-avila/LibreChat) [**Great**]  
 
 ## Google Bard & Gemini:  
