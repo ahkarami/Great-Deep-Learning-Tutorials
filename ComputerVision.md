@@ -124,7 +124,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [YOLO v7](https://github.com/WongKinYiu/yolov7)  
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)  
 - [Yolov8 Tracking](https://github.com/mikel-brostrom/yolov8_tracking)  
-- [YOLO-NAS](https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md)  
+- [YOLO-NAS](https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md)
+- [Object Detection Leaderboard](https://roboflow.github.io/model-leaderboard/)
+- [Object Detection Leaderboard Linkedin Post](https://www.linkedin.com/posts/skalskip92_computervision-objectdetection-opensource-activity-7239562459794096128-E6KR?utm_source=share&utm_medium=member_desktop)
 
 ### Augmentation for Object Detection & Instance Segmentation:
 - [Albumentations - Great Library for image augmentation and transformations](https://github.com/albumentations-team/albumentations)    
