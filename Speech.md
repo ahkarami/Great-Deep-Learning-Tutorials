@@ -265,6 +265,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 ## Audio Variational Autoencoder (VAE):
 - [AudioVAE: VAE implementation for audio data](https://github.com/nikuson/AudioVAE)  
 
+## Speaker Anonymization:
+- [Speaker Anonymization](https://github.com/DigitalPhonetics/speaker-anonymization)  
+
 ## Some ASR & Speech Datasets:
 - [Peoples Speech](https://mlcommons.org/en/peoples-speech/)  
 - [Multilingual Spoken Words](https://mlcommons.org/en/multilingual-spoken-words/)  
