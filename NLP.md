@@ -474,7 +474,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [RAFT Code](https://github.com/ShishirPatil/gorilla/tree/main/raft)
 - [Long context LLMs vs RAG](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_how-good-are-llms-in-a-long-context-and-activity-7214185350959689728-cnfp?utm_source=share&utm_medium=member_android) [Interesting]
 - [RAGFlow: an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding](https://github.com/infiniflow/ragflow)
-- [Two Step RAG: Speculative RAG: Enhancing retrieval augmented generation through drafting](https://research.google/blog/speculative-rag-enhancing-retrieval-augmented-generation-through-drafting/)  
+- [Two Step RAG: Speculative RAG: Enhancing retrieval augmented generation through drafting](https://research.google/blog/speculative-rag-enhancing-retrieval-augmented-generation-through-drafting/)
+- [Exploring Multimodal RAG with LlamaIndex and GPT-4 or the New Anthropic Sonnet Model](https://levelup.gitconnected.com/exploring-multimodal-rag-with-llamaindex-and-gpt-4-or-the-new-anthropic-sonnet-model-96705c877dbb)  
 
 ### Vector Database Libraries:
 - [weaviate](https://weaviate.io/)  
