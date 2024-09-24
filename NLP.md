@@ -819,7 +819,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ### OpenAI Learning to Reason & O1 Models:
 - [Learning to Reason with LLMs: OpenAI o1 Model](https://openai.com/index/learning-to-reason-with-llms/)
 - [How does OpenAI train the Strawberry (o1) model to spend more time thinking?](https://www.linkedin.com/posts/tom-yeh_openai-strawberry-aibyhand-activity-7240201012697833472-rrzD?utm_source=share&utm_medium=member_desktop)  
-- [Learning to Reason before you speak is how OpenAI o1 generates its response](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_learning-to-reason-before-you-speak-is-how-activity-7240629908559785984--wMj?utm_source=share&utm_medium=member_desktop)  
+- [Learning to Reason before you speak is how OpenAI o1 generates its response](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_learning-to-reason-before-you-speak-is-how-activity-7240629908559785984--wMj?utm_source=share&utm_medium=member_desktop)
+- [5 Papers that better understanding Openai o1 models](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_here-are-5-papers-you-want-to-read-to-understand-activity-7241017716214571008-eVba/?utm_source=share&utm_medium=member_android)  
 
 ## Google Bard & Gemini:  
 - [Google DeepMind Gemini](https://www.linkedin.com/posts/googledeepmind_introducing-gemini-googles-largest-and-activity-7138182085441118208--M-h?utm_source=share&utm_medium=member_desktop)
