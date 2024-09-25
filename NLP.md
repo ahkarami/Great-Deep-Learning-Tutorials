@@ -829,7 +829,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 
 ## Anthropic Claude:  
 - [Anthropic Claude Tool Use](https://www.linkedin.com/posts/anthropicresearch_tool-use-is-now-available-in-beta-to-all-activity-7201976267171086336-oQ4K?utm_source=share&utm_medium=member_desktop)
-- [Anthropic Prompt Generator](https://www.linkedin.com/posts/liorsinclair_anthropic-mightve-just-solved-prompt-engineering-activity-7196911121939795968-yray?utm_source=share&utm_medium=member_desktop)  
+- [Anthropic Prompt Generator](https://www.linkedin.com/posts/liorsinclair_anthropic-mightve-just-solved-prompt-engineering-activity-7196911121939795968-yray?utm_source=share&utm_medium=member_desktop)
+- [Switched to Claude 3.5](https://www.interconnects.ai/p/switched-to-claude-from-chatgpt)  
 
 ## NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
