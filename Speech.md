@@ -70,7 +70,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Nvidia NeMo T5-TTS Model](https://www.linkedin.com/posts/subhankar-19_addressing-hallucinations-in-speech-synthesis-activity-7214352391993765889-EGVu?utm_source=share&utm_medium=member_desktop)
 - [Parler-TTS: fully open-source high-quality TTS](https://huggingface.co/collections/parler-tts/parler-tts-fully-open-source-high-quality-tts-66164ad285ba03e8ffde214c)
 - [Fish Speech TTS Models](https://github.com/fishaudio/fish-speech)  
-- [Fish Speech V1.4: a leading text-to-speech (TTS) model](https://huggingface.co/fishaudio/fish-speech-1.4)  
+- [Fish Speech V1.4: a leading text-to-speech (TTS) model](https://huggingface.co/fishaudio/fish-speech-1.4)
+- [FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications](https://github.com/FireRedTeam/FireRedTTS)  
 
 ## Automatic Speech Recognition (ASR) & Speech to Text (STT):
 - [OpenSpeech](https://github.com/openspeech-team/openspeech) [Great]   
