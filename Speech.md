@@ -131,7 +131,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 
 ## Speech to Speech Models:
 - [Speech To Speech: an effort for an open-sourced and modular GPT4-o](https://github.com/huggingface/speech-to-speech)
-- [Huggingface Multilingual Speech to Speech Library](https://www.linkedin.com/posts/andresmarafioti_introducing-hugging-faces-multilingual-activity-7236625231505731585-Pbps?utm_source=share&utm_medium=member_desktop)  
+- [Huggingface Multilingual Speech to Speech Library](https://www.linkedin.com/posts/andresmarafioti_introducing-hugging-faces-multilingual-activity-7236625231505731585-Pbps?utm_source=share&utm_medium=member_desktop)
+- [Moshi Speech to Speech Model](https://www.linkedin.com/posts/andresmarafioti_%F0%9D%97%95%F0%9D%97%B6%F0%9D%97%B4-%F0%9D%97%BB%F0%9D%97%B2%F0%9D%98%84%F0%9D%98%80-kyutai-just-open-sourced-activity-7242210751275311104-PQEd?utm_source=share&utm_medium=member_desktop)
+- [Moshi Speech to Speech Model - Link2](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_kyutais-voice-model-moshi-is-here-moshi-activity-7242197402739253248-StiT/?utm_source=share&utm_medium=member_android)  
 
 ### ASR with LLMs:
 - [Listening with LLM](https://paul.mou.dev/posts/2023-12-31-listening-with-llm/)  
