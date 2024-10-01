@@ -121,7 +121,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [WhisperFusion: Whisper + Mistral](https://github.com/collabora/WhisperFusion)
 - [NeMo Canary-1B ASR Model](https://huggingface.co/spaces/nvidia/canary-1b)
 - [NeMo Canary-1B Linkedin Post](https://www.linkedin.com/posts/stevehuanghe_nvidia-nemo-team-is-thrilled-to-announce-activity-7161407409448505344-HvrJ?utm_source=share&utm_medium=member_desktop)
-- [Google Chirp: Universal speech model (USM)](https://cloud.google.com/speech-to-text/v2/docs/chirp-model) [Great]  
+- [Google Chirp: Universal speech model (USM)](https://cloud.google.com/speech-to-text/v2/docs/chirp-model) [Great]
+- [Whisper V3 Turbo Model Linkedin Post](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_openai-has-released-new-whisper-models-activity-7246765913331367936-NP3N?utm_source=share&utm_medium=member_desktop)  
 - [HuggingFace Open ASR Leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)  
 
 ## AudioLLM:
