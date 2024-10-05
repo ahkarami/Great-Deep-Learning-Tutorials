@@ -75,7 +75,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [MobileViT in PyTorch](https://github.com/chinhsuanwu/mobilevit-pytorch)    
 - [Clip-vit](https://huggingface.co/openai/clip-vit)  
 - [OpenAI CLIP](https://github.com/openai/CLIP)
-- [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://www.arxiv.org/abs/2408.11039)  
+- [Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model](https://www.arxiv.org/abs/2408.11039)
+- [CLOC: Contrastive Localized Language-Image Pre-Training](https://www.linkedin.com/posts/zhe-gan-a2229a78_clip-is-the-default-choice-for-most-multimodal-activity-7248009680340320256--dqE?utm_source=share&utm_medium=member_desktop)  
 - [Transformers: from NLP to CV](https://github.com/IbrahimSobh/Transformers) [**Very Great & Excellent**]   
 
 ### Vision-Language Models (LLMs in Image & Computer Vision):
