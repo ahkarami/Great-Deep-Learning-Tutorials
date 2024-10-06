@@ -280,6 +280,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [WavCaps: A ChatGPT-Assisted Weakly-Labelled Audio Captioning Dataset](https://github.com/xinhaomei/wavcaps)
 - [YODAS dataset: massive youtube speech dataset with 370k hours across 140 languages (about 100TB)](https://huggingface.co/datasets/espnet/yodas)  
 
+## Voice Conversion:
+- [Seed-VC: zero-shot voice conversion](https://github.com/Plachtaa/seed-vc)  
+
 # Interesting Ideas about Startups with ASR:
 It is interesting how quickly people implement ideas. Like the one of `podcast transcript` with Whisper. Here is a selection:  
 - [podscript](https://podscript.ai/)  
