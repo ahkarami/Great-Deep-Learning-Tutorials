@@ -300,4 +300,5 @@ It is interesting how quickly people implement ideas. Like the one of `podcast t
 - [Fast Infinite Waveform Music Generation](https://github.com/marcoppasini/musika)  
 - [Nvidia Speech AI Summit 2022](https://www.nvidia.com/en-us/events/speech-ai-summit/)  
 - [Poly AI](https://poly.ai/) [Interesting Company]  
-- [uberduck: Open Source Voice AI Community](https://uberduck.ai/)  
+- [uberduck: Open Source Voice AI Community](https://uberduck.ai/)
+- [How To Build An AI Customer Service Bot](https://www.youtube.com/watch?v=87ZX56RSamA)    
