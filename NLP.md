@@ -643,7 +643,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Microsoft AutoGen development of LLM applications using multiple agents](https://github.com/microsoft/autogen)
 - [OpenDevin: autonomous AI software engineer](https://github.com/OpenDevin/OpenDevin)
 - [Composio: the best toolset to integrate AI Agents](https://github.com/ComposioHQ/composio)
-- [MindSearch: An LLM-based Multi-agent Framework of Web Search Engine](https://github.com/InternLM/MindSearch)  
+- [MindSearch: An LLM-based Multi-agent Framework of Web Search Engine](https://github.com/InternLM/MindSearch)
+- [OpenAI Swarm Library for Multi-Agent](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_this-came-unexpected-openai-released-swarm-activity-7250841965519368192-oJ35?utm_source=share&utm_medium=member_desktop)  
 
 ### Deploying LLMs:
 - [ExecuTorch Post1](https://www.linkedin.com/posts/pytorch_introducing-executorch-alpha-executorch-activity-7191120577749831680-vYzE?utm_source=share&utm_medium=member_desktop)  
