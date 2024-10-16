@@ -821,7 +821,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [GPT4-o Architecture](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_is-this-the-architecture-of-openai-gpt-4o-activity-7199759664836739073-gTEz?utm_source=share&utm_medium=member_desktop)
 - [Introducing Structured Outputs in the OpenAI API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
 - [OpenAI Realtime-api](https://openai.com/index/introducing-the-realtime-api/)
-- [OpenAI Model Distillation in the API](https://openai.com/index/api-model-distillation/)  
+- [OpenAI Model Distillation in the API](https://openai.com/index/api-model-distillation/)
+- [OpenAI Prompt Caching](https://platform.openai.com/docs/guides/prompt-caching)  
 - [LibreChat: Enhanced ChatGPT Clone](https://github.com/danny-avila/LibreChat) [**Great**]  
 
 ### OpenAI Learning to Reason & O1 Models:
