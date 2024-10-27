@@ -133,6 +133,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Direct Preference Optimization (DPO) for LLM Alignment (From Scratch)](https://github.com/rasbt/LLMs-from-scratch/blob/main/ch07/04_preference-tuning-with-dpo/dpo-from-scratch.ipynb)  
 
 ### Large Language Models (LLMs):
+- [LLM Reading Papers](https://www.linkedin.com/posts/eric-vyacheslav-156273169_new-must-read-the-anti-hype-llm-reading-activity-7247244292568625152-DQsb?utm_source=share&utm_medium=member_desktop)  
 - [LLaMA](https://github.com/facebookresearch/llama)  
 - [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761) [Great]  
 - [Toolformer GitHub](https://github.com/lucidrains/toolformer-pytorch)  
