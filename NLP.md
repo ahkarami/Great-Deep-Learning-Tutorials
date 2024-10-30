@@ -598,6 +598,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Best Practices for Fine-Tuning & Training LLMs](https://www.linkedin.com/posts/aleksagordic_amazing-list-of-techniques-for-improving-activity-7215624025639645184-496W?utm_source=share&utm_medium=member_android)
 - [TorchChat](https://www.linkedin.com/posts/pytorch_llms-mobilellms-localai-activity-7224090140011380737-RHdH?utm_source=share&utm_medium=member_desktop)
 - [Calculating GPU memory for serving LLMs](https://www.substratus.ai/blog/calculating-gpu-memory-for-llm)
+- [How Much GPU Memory is Needed to Serve a Large Language Model (LLM)?](https://masteringllm.medium.com/how-much-gpu-memory-is-needed-to-serve-a-large-languagemodel-llm-b1899bb2ab5d)  
 - [CUDA-Free Inference for LLMs (PyTorch Blog)](https://pytorch.org/blog/cuda-free-inference-for-llms/?utm_content=306418724&utm_medium=social&utm_source=linkedin&hss_channel=lcp-78618366)  
 
 ### LLMs on Mobile Devices:
