@@ -873,7 +873,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [NLP Zero to One: Full Course](https://medium.com/nerd-for-tech/nlp-zero-to-one-full-course-4f8e1902c379)  
 - [Stanford CS25: Transformers United](https://web.stanford.edu/class/cs25/)  
 
-## Other NLP Topics:
+## Other NLP Topics & miscellaneous:
 - [HybridNLP - Tutorial on Hybrid Techniques for Knowledge-based NLP](https://github.com/hybridnlp/tutorial)  
 - [Top 10 GPT-3 Tools Easing Content Creation Work in 2022](https://www.analyticsinsight.net/top-10-gpt-3-tools-easing-content-creation-work-in-2022/) [Interesting]  
-- [Inflection-2.5 CahtBot](https://inflection.ai/inflection-2-5)  
+- [Inflection-2.5 CahtBot](https://inflection.ai/inflection-2-5)
+- [Research Paper Report Generating Agent](https://github.com/run-llama/llamacloud-demo/blob/main/examples/report_generation/research_paper_report_generation.ipynb)  
