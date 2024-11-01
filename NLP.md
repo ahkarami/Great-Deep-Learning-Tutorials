@@ -486,6 +486,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [PaperQA2: High accuracy RAG for answering questions from scientific documents with citations](https://github.com/Future-House/paper-qa)
 - [Sophisticated Controllable Agent for Complex RAG Tasks](https://github.com/NirDiamant/Controllable-RAG-Agent)  
 - [Anthropic's Cluade Introducing Contextual Retrieval RAG](https://www.anthropic.com/news/contextual-retrieval)
+- [Docling: Get your docs ready for gen AI](https://github.com/DS4SD/docling)  
 
 ### Vector Database Libraries:
 - [weaviate](https://weaviate.io/)  
