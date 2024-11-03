@@ -87,6 +87,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [ImageBind-LLM](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main/imagebind_LLM)
 - [An Introduction to Vision-Language Modeling](https://www.linkedin.com/posts/aiatmeta_new-from-fair-an-introduction-to-vision-language-activity-7201264894791335938-8LnO?utm_source=share&utm_medium=member_desktop)
 - [A comprehensive tutorial on building Vision-Language Models (VLMs)](https://www.linkedin.com/posts/andresmarafioti_excited-to-share-that-our-idefics-3-and-activity-7234088501271502848-D-aY?utm_source=share&utm_medium=member_desktop)
+- [Video Web Arena: agent models for OS and web control with memory](https://www.linkedin.com/posts/rogeriobonatti_new-agent-benchmarks-for-os-and-website-control-activity-7257095266980237315-nyqT?utm_source=share&utm_medium=member_desktop)  
 - [Qwen2-VL: To See the World More Clearly](https://qwenlm.github.io/blog/qwen2-vl/)  
 
 ### Multi-Modal LLMs:
