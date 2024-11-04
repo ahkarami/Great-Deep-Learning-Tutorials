@@ -25,6 +25,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [K2: FSA/FST algorithms, differentiable, with PyTorch compatibility](https://github.com/k2-fsa/k2)  
 - [Microsoft NeuralSpeech](https://github.com/microsoft/NeuralSpeech)  
 - [Great Speech Tutorials: alphacephei](https://alphacephei.com/nsh/)
+- [AssemblyAI Lead Speech AI Models](https://www.assemblyai.com/products?utm_source=alphasignal&utm_medium=newsletter_sponsor&utm_campaign=spotlight&utm_content=82624)  
 - [open-mmlab Amphion: An Open-Source Audio, Music, and Speech Generation Toolkit](https://github.com/open-mmlab/Amphion)
 - [HuggingFace Speech-to-Speech Library](https://github.com/huggingface/speech-to-speech) [**Great**]  
 - [HuggingFace Speech-to-Speech Library News](https://www.linkedin.com/posts/andresmarafioti_introducing-hugging-faces-speech-to-speech-activity-7231548059388723201-1wIe?utm_source=share&utm_medium=member_desktop)  
