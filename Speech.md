@@ -72,7 +72,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Speech Proces
 - [Parler-TTS: fully open-source high-quality TTS](https://huggingface.co/collections/parler-tts/parler-tts-fully-open-source-high-quality-tts-66164ad285ba03e8ffde214c)
 - [Fish Speech TTS Models](https://github.com/fishaudio/fish-speech)  
 - [Fish Speech V1.4: a leading text-to-speech (TTS) model](https://huggingface.co/fishaudio/fish-speech-1.4)
-- [FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications](https://github.com/FireRedTeam/FireRedTTS)  
+- [FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications](https://github.com/FireRedTeam/FireRedTTS)
+- [XTTS-v2](https://www.linkedin.com/posts/josh-r-meyer_its-been-almost-a-year-since-we-released-activity-7254933062004666368-FL6T?utm_source=share&utm_medium=member_desktop)  
 
 ## Automatic Speech Recognition (ASR) & Speech to Text (STT):
 - [OpenSpeech](https://github.com/openspeech-team/openspeech) [Great]   
