@@ -78,7 +78,8 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Phenaki: a text-to-video model](https://github.com/LAION-AI/phenaki)  
 
 ## Multimodal Deep Learning:
-- [Multimodal Deep Learning Book](https://arxiv.org/abs/2301.04856)  
+- [Multimodal Deep Learning Book](https://arxiv.org/abs/2301.04856)
+- [Understanding MultiModal LLMs](https://www.linkedin.com/posts/sebastianraschka_there-has-been-a-lot-of-new-research-on-the-activity-7258836067129139200-QJkr?utm_source=share&utm_medium=member_desktop)  
 
 ## Deep Reasoning:
 - [What’s Next For AI? Enter: Deep Reasoning](https://towardsdatascience.com/whats-next-for-ai-enter-deep-reasoning-fae8b131962a)  
