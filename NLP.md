@@ -488,6 +488,14 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Anthropic's Cluade Introducing Contextual Retrieval RAG](https://www.anthropic.com/news/contextual-retrieval)
 - [Docling: Get your docs ready for gen AI](https://github.com/DS4SD/docling)  
 
+### Graph RAG & Its Related Data Bases:
+- [ArangoDB: The Most Complete And Scalable Platform For Graph-Powered GenAI](https://arangodb.com/)  
+- [Microsoft GraphRAG](https://microsoft.github.io/graphrag/)  
+- [llamaindex Graph RAG](https://docs.llamaindex.ai/en/stable/examples/query_engine/knowledge_graph_rag_query_engine/)  
+- [Gephi: The Open Graph Viz Platform](https://gephi.org/)  
+- [JanusGraph: is a scalable graph database optimized for storing and querying graphs](https://janusgraph.org/)  
+- [cayley: Open Source Graph Data Base](https://cayley.io/)  
+
 ### Vector Database Libraries:
 - [weaviate](https://weaviate.io/)  
 - [weaviate GitHub](https://github.com/weaviate/weaviate)  
