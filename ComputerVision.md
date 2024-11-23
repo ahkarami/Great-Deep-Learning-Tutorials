@@ -358,3 +358,6 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [streamlit Make Images & Faces as Comic one!!](https://share.streamlit.io/nathannguyen-dev/comic_me_v1/main.py)   
 - [How DALL-E 2 could solve major computer vision challenges](https://venturebeat.com/2022/04/16/how-dall-e-2-could-solve-major-computer-vision-challenges/)  
 - [PyTorch jpeg Decoding on the GPU](https://pytorch.org/blog/pytorch-1.9-new-library-releases/#beta-jpeg-decoding-on-the-gpu)  
+
+### Miscellaneous:
+- [An image speaks a thousand words, but can everyone listen? On image transcreation for cultural relevance](https://arxiv.org/abs/2404.01247)  
