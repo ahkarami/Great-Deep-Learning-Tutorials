@@ -529,6 +529,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LLMs Embedding Course - Link1](https://github.com/anishiisc/Build_LLM_from_Scratch/tree/main)
 - [LLMs Embedding Course - Link2](https://www.linkedin.com/posts/ugcPost-7228118123390902272-oVu4/?utm_source=share&utm_medium=member_android)
 - [txtai: All-in-one embeddings database](https://github.com/neuml/txtai)
+- [NVIDIA NV-emb-2 embeddings](https://www.linkedin.com/posts/tunguz_ok-nvidia-nv-emb-2-embeddings-are-really-activity-7262862383885213696-MWVv?utm_source=share&utm_medium=member_desktop)  
 - [jina-embeddings-v3: Multilingual Embeddings With Task LoRA](https://huggingface.co/papers/2409.10173)  
 
 ### Prevent Hallucinations from LLMs & Controling their outputs:
