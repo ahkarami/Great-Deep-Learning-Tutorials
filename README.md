@@ -31,7 +31,8 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Deep learning jupyter notebook book](https://udlbook.github.io/udlbook/)  
 - [A Comprehensive Survey on Pretrained Foundation Models: A History from BERT to ChatGPT](https://arxiv.org/abs/2302.09419)
 - [interconnects.ai: Great AI Blog Posts & Podcasts](https://www.interconnects.ai/)
-- [The Fundamental of Modern Deep Learning with PyTorch (short Course)](https://www.linkedin.com/posts/sebastianraschka_github-rasbtpycon2024-tutorial-materials-activity-7196468139289677827-qUlf?utm_source=share&utm_medium=member_android)  
+- [The Fundamental of Modern Deep Learning with PyTorch (short Course)](https://www.linkedin.com/posts/sebastianraschka_github-rasbtpycon2024-tutorial-materials-activity-7196468139289677827-qUlf?utm_source=share&utm_medium=member_android)
+- [Google ML Crash Course](https://www.linkedin.com/posts/neilhoyne_google-lifeatgoogle-ai-activity-7262238201635868675-va5Q?utm_source=share&utm_medium=member_desktop)  
 - [EfficientML Course](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) [Great]
 - [Andrej Karpathy's Neural Networks: Zero to Hero Course](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)  
 
