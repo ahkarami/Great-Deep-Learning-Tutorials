@@ -496,7 +496,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Gephi: The Open Graph Viz Platform](https://gephi.org/)  
 - [JanusGraph: is a scalable graph database optimized for storing and querying graphs](https://janusgraph.org/)  
 - [cayley: Open Source Graph Data Base](https://cayley.io/)
-- [Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering (Paper)](https://arxiv.org/abs/2404.17723)  
+- [Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering (Paper)](https://arxiv.org/abs/2404.17723)
+- [The GraphRAG Manifesto: Adding Knowledge to GenAI](https://neo4j.com/blog/graphrag-manifesto/)  
+- [Neo4j for GenAI](https://neo4j.com/generativeai/)  
 
 ### Vector Database Libraries:
 - [weaviate](https://weaviate.io/)  
