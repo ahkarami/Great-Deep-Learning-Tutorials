@@ -889,6 +889,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [doccano is an open source text annotation tool](https://github.com/doccano/doccano) [**Great**]  
 - [doccano-divar](https://doccano.divar.ir/)  
 
+## Dataset Creator Tools:
+- [Nvidia create dataset from massive pdf files tool](https://www.linkedin.com/posts/liorsinclair_nvidia-just-released-a-powerful-pdf-extraction-ugcPost-7267580522359336962-GAQv?utm_source=share&utm_medium=member_android)  
+
 ## NLP Courses:
 - [HuggingFace Course](https://github.com/huggingface/course)  
 - [NLP Zero to One: Full Course](https://medium.com/nerd-for-tech/nlp-zero-to-one-full-course-4f8e1902c379)  
