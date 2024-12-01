@@ -487,7 +487,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [PaperQA2: High accuracy RAG for answering questions from scientific documents with citations](https://github.com/Future-House/paper-qa)
 - [Sophisticated Controllable Agent for Complex RAG Tasks](https://github.com/NirDiamant/Controllable-RAG-Agent)  
 - [Anthropic's Cluade Introducing Contextual Retrieval RAG](https://www.anthropic.com/news/contextual-retrieval)
-- [Docling: Get your docs ready for gen AI](https://github.com/DS4SD/docling)  
+- [Docling: Get your docs ready for gen AI](https://github.com/DS4SD/docling)
+- [Recent RAG Research from Google](https://www.linkedin.com/posts/jihoo-kim_rag-research-from-google-2024-ugcPost-7266537405904498689-wrac?utm_source=share&utm_medium=member_android)  
 
 ### Graph RAG & Its Related Data Bases:
 - [ArangoDB: The Most Complete And Scalable Platform For Graph-Powered GenAI](https://arangodb.com/)  
