@@ -873,7 +873,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Anthropic Message Batches API](https://www.anthropic.com/news/message-batches-api)
 - [Anthropic Message Batches API - Linkdin Post](https://www.linkedin.com/posts/anthropicresearch_introducing-the-message-batches-api-activity-7249461524996440066-xS37?utm_source=share&utm_medium=member_desktop)
 - [OpenAI Prompt Caching in GPT 4o and o1: How Does It Compare To Claude Prompt Caching?](https://blog.getbind.co/2024/10/03/openai-prompt-caching-how-does-it-compare-to-claude-prompt-caching/)
-- [Anthropic Blog: Transformer Circuits Thread](https://transformer-circuits.pub/)  
+- [Anthropic Blog: Transformer Circuits Thread](https://transformer-circuits.pub/)
+- [Anthropic MCP (Model Context Protocol)](https://modelcontextprotocol.io/quickstart)  
 
 ## NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
