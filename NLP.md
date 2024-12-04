@@ -625,8 +625,15 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ### LLM Applications & APIs:
 - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html)  
 - [Bard API](https://github.com/dsdanielpark/Bard-API)
-- [Amazon Bedrock: build and scale generative AI applications](https://aws.amazon.com/bedrock/) [**Great**]  
+- [Amazon Bedrock: build and scale generative AI applications](https://aws.amazon.com/bedrock/) [**Great**]
 
+### Natural Language to SQL:
+- [text to SQL Github Repos](https://github.com/topics/text-to-sql)  
+- [vanna](https://github.com/vanna-ai/vanna)  
+- [sqlchat](https://github.com/sqlchat/sqlchat)  
+- [dataherald](https://github.com/Dataherald/dataherald)  
+- [WrenAI](https://github.com/Canner/WrenAI)  
+  
 ### Prompt Engineering:
 - [Different Kinds of Prompt Engineering](https://www.linkedin.com/posts/munjal-patel_generativeai-largelanguagemodels-llm-activity-7051862874935197696-2E_J/?utm_source=share&utm_medium=member_android)  
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
