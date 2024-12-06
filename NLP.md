@@ -680,6 +680,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Don't Sleep on Single-agent Systems](https://www.all-hands.dev/blog/dont-sleep-on-single-agent-systems)
 - [Linkedin post for Don't Sleep on Single-agent Systems](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_the-more-progress-we-make-on-llms-the-more-activity-7246758324912758784-VC3N?utm_source=share&utm_medium=member_desktop)  
 
+### Structured Output in LLMs:
+- [PydanticAI](https://github.com/pydantic/pydantic-ai)
+- [PydanticAI Linkedin Post](https://www.linkedin.com/posts/liorsinclair_theres-a-new-ai-agent-framework-that-lets-activity-7270122274408534017-OOQq?utm_source=share&utm_medium=member_desktop)  
+
 ### Deploying LLMs:
 - [ExecuTorch Post1](https://www.linkedin.com/posts/pytorch_introducing-executorch-alpha-executorch-activity-7191120577749831680-vYzE?utm_source=share&utm_medium=member_desktop)
 
