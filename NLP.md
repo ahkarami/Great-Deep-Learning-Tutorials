@@ -254,7 +254,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LLaMA 3.1 Detail Notes](https://www.linkedin.com/posts/sebastianraschka_yesterdays-llama-31-release-marked-a-big-activity-7221861717876645888-wz3H?utm_source=share&utm_medium=member_android)
 - [LLaMA 3.2 Detail Notes](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_llama-can-now-see-and-run-on-your-phone-activity-7244763879690354688-Iaan?utm_source=share&utm_medium=member_android)
 - [Mobile LLaMA 3.2](https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/)
-- [How an online gifting site is using Llama to help protect customer privacy](https://ai.meta.com/blog/untukmu-built-with-llama/)  
+- [Llama-3.3-70B-Instruct](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct)  
+- [How an online gifting site is using Llama to help protect customer privacy](https://ai.meta.com/blog/untukmu-built-with-llama/) [interesting]  
 
 ### Phi-3 Related Links:
 - [Phi-3 Linkedin Post1](https://www.linkedin.com/posts/sebastianraschka_microsoft-just-casually-shared-theirnew-activity-7188544168380510208-AdDG?utm_source=share&utm_medium=member_desktop)  
