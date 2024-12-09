@@ -622,6 +622,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [How Much GPU Memory is Needed to Serve a Large Language Model (LLM)?](https://masteringllm.medium.com/how-much-gpu-memory-is-needed-to-serve-a-large-languagemodel-llm-b1899bb2ab5d)
 - [CUDA-Free Inference for LLMs (PyTorch Blog)](https://pytorch.org/blog/cuda-free-inference-for-llms/?utm_content=306418724&utm_medium=social&utm_source=linkedin&hss_channel=lcp-78618366)  
 
+### Productionizing LLMs:
+- [LLM From the Trenches: 10 Lessons Learned Operationalizing Models at GoDaddy](https://www.godaddy.com/resources/news/llm-from-the-trenches-10-lessons-learned-operationalizing-models-at-godaddy)  
+
 ### LLMs on Mobile Devices:
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm)  
 
