@@ -685,7 +685,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [MindSearch: An LLM-based Multi-agent Framework of Web Search Engine](https://github.com/InternLM/MindSearch)
 - [OpenAI Swarm Library for Multi-Agent](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_this-came-unexpected-openai-released-swarm-activity-7250841965519368192-oJ35?utm_source=share&utm_medium=member_desktop)
 - [Don't Sleep on Single-agent Systems](https://www.all-hands.dev/blog/dont-sleep-on-single-agent-systems)
-- [Linkedin post for Don't Sleep on Single-agent Systems](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_the-more-progress-we-make-on-llms-the-more-activity-7246758324912758784-VC3N?utm_source=share&utm_medium=member_desktop)  
+- [Linkedin post for Don't Sleep on Single-agent Systems](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_the-more-progress-we-make-on-llms-the-more-activity-7246758324912758784-VC3N?utm_source=share&utm_medium=member_desktop)
+- [Microsoft TinyTroupe library for simulate human agents with LLMs](https://www.linkedin.com/posts/sahar-mor_a-new-open-source-python-library-called-tinytroupe-activity-7262849272381874176-KFk_?utm_source=share&utm_medium=member_desktop) [Interesting]  
 
 ### Structured Output in LLMs:
 - [PydanticAI](https://github.com/pydantic/pydantic-ai)
