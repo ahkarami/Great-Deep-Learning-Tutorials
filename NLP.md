@@ -132,6 +132,10 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [How good is AI feedback?](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_how-good-is-ai-feedback-and-does-it-really-activity-7171174171413102592-eVs9?utm_source=share&utm_medium=member_desktop)
 - [Direct Preference Optimization (DPO) for LLM Alignment (From Scratch)](https://github.com/rasbt/LLMs-from-scratch/blob/main/ch07/04_preference-tuning-with-dpo/dpo-from-scratch.ipynb)  
 
+### Tokenizer Notes:
+- [𝗻𝗲𝘄 𝗽𝗮𝗽𝗲𝗿 𝗯𝘆 𝗠𝗲𝘁𝗮 𝗰𝗹𝗮𝗶𝗺𝘀 𝘁𝗵𝗮𝘁 𝘄𝗲 𝗰𝗮𝗻 𝗴𝗲𝘁 𝗿𝗶𝗱 𝗼𝗳 𝘁𝗼𝗸𝗲𝗻𝗶𝘇𝗲𝗿𝘀: Byte Latent Transformer: Patches Scale Better Than Tokens --> we could get rid of tokenizers](https://www.linkedin.com/posts/a-roucher_%F0%9D%97%A3%F0%9D%97%BC%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BB%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%BD%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B1%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%BA-%F0%9D%98%80%F0%9D%97%B5%F0%9D%97%B6%F0%9D%97%B3%F0%9D%98%81-activity-7273382398891810816-QfQo?utm_source=share&utm_medium=member_desktop)
+- [Byte Latent Transformer: Patches Scale Better Than Tokens (paper)](https://dl.fbaipublicfiles.com/blt/BLT__Patches_Scale_Better_Than_Tokens.pdf)  
+
 ### Large Language Models (LLMs):
 - [LLM Reading Papers](https://www.linkedin.com/posts/eric-vyacheslav-156273169_new-must-read-the-anti-hype-llm-reading-activity-7247244292568625152-DQsb?utm_source=share&utm_medium=member_desktop)  
 - [LLaMA](https://github.com/facebookresearch/llama)  
