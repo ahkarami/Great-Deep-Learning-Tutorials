@@ -642,7 +642,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [vanna](https://github.com/vanna-ai/vanna)  
 - [sqlchat](https://github.com/sqlchat/sqlchat)  
 - [dataherald](https://github.com/Dataherald/dataherald)  
-- [WrenAI](https://github.com/Canner/WrenAI)  
+- [WrenAI](https://github.com/Canner/WrenAI)
+- [Practical text-to-SQL for data analytics by Linkedin](https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics) [Great]
+- [Persian abstract of above Practical text-to-SQL for data analytics by Linkedin - Out of Distribution Telegram Channel](https://t.me/out_of_distribution/1122)  
   
 ### Prompt Engineering:
 - [Different Kinds of Prompt Engineering](https://www.linkedin.com/posts/munjal-patel_generativeai-largelanguagemodels-llm-activity-7051862874935197696-2E_J/?utm_source=share&utm_medium=member_android)  
