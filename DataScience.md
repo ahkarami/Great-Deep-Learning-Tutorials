@@ -91,4 +91,5 @@ A Great Collection of Deep Learning Tutorials and Repositories for Data Science
 - [Microsoft Recommenders](https://github.com/microsoft/recommenders) [Great]  
 - [Monolith: Real Time Recommendation System of TikTok](https://arxiv.org/pdf/2209.07663.pdf)  
 - [Twitter's Recommendation Algorithm](https://github.com/twitter/the-algorithm-ml)  
-- [TikTok recommender system Notes](https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7050129099549249536-TctQ/?utm_source=share&utm_medium=member_android)  
+- [TikTok recommender system Notes](https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7050129099549249536-TctQ/?utm_source=share&utm_medium=member_android)
+- [Monolith: Real Time Recommendation System With Collisionless Embedding Table](https://arxiv.org/abs/2209.07663)  
