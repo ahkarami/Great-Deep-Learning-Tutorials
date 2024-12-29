@@ -545,7 +545,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [txtai: All-in-one embeddings database](https://github.com/neuml/txtai)
 - [NVIDIA NV-emb-2 embeddings](https://www.linkedin.com/posts/tunguz_ok-nvidia-nv-emb-2-embeddings-are-really-activity-7262862383885213696-MWVv?utm_source=share&utm_medium=member_desktop)  
 - [jina-embeddings-v3: Multilingual Embeddings With Task LoRA](https://huggingface.co/papers/2409.10173)
-- [ModernBert: Linkedin Post](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_modernbert-bert-revisited-in-the-age-of-activity-7275551060302131201-dr3c?utm_source=share&utm_medium=member_desktop)  
+- [ModernBert: Linkedin Post1](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_modernbert-bert-revisited-in-the-age-of-activity-7275551060302131201-dr3c?utm_source=share&utm_medium=member_desktop)
+- [ModernBert: Linkedin Post2](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_want-to-replace-bert-in-2025-the-time-has-activity-7277616689859444737-iRUe?utm_source=share&utm_medium=member_desktop)  
 
 ### Prevent Hallucinations from LLMs & Controling their outputs:
 - [Deep Dive Into LLM Hallucinations Across Generative Tasks](https://www.rungalileo.io/blog/deep-dive-into-llm-hallucinations-across-generative-tasks)
