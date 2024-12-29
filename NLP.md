@@ -261,6 +261,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Llama-3.3-70B-Instruct](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct)  
 - [How an online gifting site is using Llama to help protect customer privacy](https://ai.meta.com/blog/untukmu-built-with-llama/) [interesting]  
 
+### DeepSeek Models Related Links: 
+- [DeepSeek-V3 Linkedin Post](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_yesterday-the-best-open-model-to-date-was-activity-7278313766679658498-6BCl?utm_source=share&utm_medium=member_desktop)  
+
 ### Phi-3 Related Links:
 - [Phi-3 Linkedin Post1](https://www.linkedin.com/posts/sebastianraschka_microsoft-just-casually-shared-theirnew-activity-7188544168380510208-AdDG?utm_source=share&utm_medium=member_desktop)  
 - [Phi-3 Linkedin Post2](https://www.linkedin.com/posts/julienchaumond_in-case-you-missed-it-earlier-this-week-activity-7189273186256003072-91B0?utm_source=share&utm_medium=member_desktop)  
