@@ -714,6 +714,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 ### LLM Engineering:  
 - [Langfuse: Open Source LLM Engineering Platform](https://github.com/langfuse/langfuse)  
 
+### External Tools that Useful for LLMs:
+- [Microsoft MarkItDown: Python library that lets you convert any document to Markdown](https://www.linkedin.com/posts/liorsinclair_microsoft-just-open-sourced-markitdown-a-activity-7275201481828454403-c5TX?utm_source=share&utm_medium=member_desktop) [Great]  
+
 ### Notes about Cost & Price of Training and Using LLMs:
 - [Cost to Deploy LLaMA2 vs. ChatGPT](https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7109561666324885504-ySeC?utm_source=share&utm_medium=member_desktop) [Very Important]  
 - [Anyscale Training Cost](https://www.linkedin.com/posts/robert-nishihara-b6465444_im-so-proud-of-what-we-launched-last-week-activity-7113021412084219904-WFbP?utm_source=share&utm_medium=member_desktop)
