@@ -513,6 +513,11 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [The GraphRAG Manifesto: Adding Knowledge to GenAI](https://neo4j.com/blog/graphrag-manifesto/)  
 - [Neo4j for GenAI](https://neo4j.com/generativeai/)  
 
+### Cache-Augmented Generation (CAG):
+- [Cache-Augmented Generation (CAG) - Linkedin Post1](https://www.linkedin.com/posts/maryammiradi_dont-do-rag-cag-is-40x-faster-than-activity-7281655697086287872-c35Q?utm_source=share&utm_medium=member_desktop)
+- [Cache-Augmented Generation (CAG) - Linkedin Post2](https://www.linkedin.com/posts/bhavishya-pandit_rag-vs-cag-activity-7282615153852862464-ES23?utm_source=share&utm_medium=member_desktop)
+- [Cache-Augmented Generation (CAG) - Linkedin Post3](https://www.linkedin.com/posts/francoisvanderseypen_dont-do-rag-when-cache-augmented-generation-activity-7279725990342193152-8P82?utm_source=share&utm_medium=member_desktop)  
+
 ### Vector Database Libraries:
 - [weaviate](https://weaviate.io/)  
 - [weaviate GitHub](https://github.com/weaviate/weaviate)  
