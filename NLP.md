@@ -461,7 +461,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [LLM Summer School](https://www.linkedin.com/posts/sebastianraschka_a-suggestion-for-an-effective-11-step-llm-activity-7195778889384693762-2TB_?utm_source=share&utm_medium=member_android)
 - [LLM Engineer's Handbook](https://www.linkedin.com/posts/maxime-labonne_super-proud-to-announce-my-new-book-the-activity-7219253497559425024-IVkc?utm_source=share&utm_medium=member_desktop)
 - [LLM Twin Course: Building Your Production-Ready AI Replica](https://github.com/decodingml/llm-twin-course)
-- [Hands-On Large Language Models Book](https://www.linkedin.com/posts/jalammar_our-newly-released-llm-book-hands-on-large-activity-7242207044533948417-_i2R?utm_source=share&utm_medium=member_desktop)  
+- [Hands-On Large Language Models Book](https://www.linkedin.com/posts/jalammar_our-newly-released-llm-book-hands-on-large-activity-7242207044533948417-_i2R?utm_source=share&utm_medium=member_desktop)
+- [Foundations of LLMs Book](https://arxiv.org/abs/2501.09223)  
 
 ### LLMs Ranking:
 - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)  
