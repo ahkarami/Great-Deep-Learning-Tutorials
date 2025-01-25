@@ -854,6 +854,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Proudly Leading the Chatbot](https://www.analyticsinsight.net/ankush-sabharwal-proudly-leading-the-chatbot-sphere-with-strategical-innovations-and-implementations/)  
 - [Real Python: Build a Chatbot with Python ChatterBot](https://realpython.com/build-a-chatbot-python-chatterbot/)  
 - [A step-by-step guide to building a chatbot based on your own documents with GPT](https://bootcamp.uxdesign.cc/a-step-by-step-guide-to-building-a-chatbot-based-on-your-own-documents-with-gpt-2d550534eea5)
+- [MiniPerplx: an alternative to Perplexity that lets search the web, research papers, youtube videos, movies](https://scira.app/)  
 - [GitHub Models](https://github.blog/news-insights/product-news/introducing-github-models/)
 - [Git Ingest: Quickly turn a GitHub repository into text for LLMs](https://www.linkedin.com/posts/eric-vyacheslav-156273169_you-can-now-quickly-turn-a-github-repository-activity-7277322180223254528-CRW9?utm_source=share&utm_medium=member_desktop) [**Great**]  
 - [Create a Chatbot for any GitHub repo](https://www.linkedin.com/posts/eric-vyacheslav-156273169_game-changer-you-can-now-create-a-chatbot-activity-7226604741261230081-Bthf?utm_source=share&utm_medium=member_desktop) [**Great**]  
