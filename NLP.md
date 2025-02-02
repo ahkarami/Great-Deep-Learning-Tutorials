@@ -955,4 +955,5 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [HybridNLP - Tutorial on Hybrid Techniques for Knowledge-based NLP](https://github.com/hybridnlp/tutorial)  
 - [Top 10 GPT-3 Tools Easing Content Creation Work in 2022](https://www.analyticsinsight.net/top-10-gpt-3-tools-easing-content-creation-work-in-2022/) [Interesting]  
 - [Inflection-2.5 CahtBot](https://inflection.ai/inflection-2-5)
-- [Research Paper Report Generating Agent](https://github.com/run-llama/llamacloud-demo/blob/main/examples/report_generation/research_paper_report_generation.ipynb)  
+- [Research Paper Report Generating Agent](https://github.com/run-llama/llamacloud-demo/blob/main/examples/report_generation/research_paper_report_generation.ipynb)
+- [Fast Semantic Text Deduplication](https://www.linkedin.com/posts/patrick-fleith_2-lines-of-code-to-deduplicate-a-dataset-activity-7289903818069164032-p2aa?utm_source=share&utm_medium=member_android)  
