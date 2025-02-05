@@ -303,6 +303,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Qwen 2.5 - Linkedin Post](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_9-new-multilingual-open-llms-released-qwen-activity-7242423229724676097-_9Ea?utm_source=share&utm_medium=member_desktop)
 - [Qwen 2.5 - Models](https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e)  
 
+### DeepSeek Models:
+- [Huggingface DeepSeek R1 - Linkedin Post](https://www.linkedin.com/posts/qgallouedec_last-moments-of-closed-source-ai-hugging-activity-7288908822079852544-CDgF?utm_source=share&utm_medium=member_android)  
+
 ### Gemma LLM Related Links (by Google):
 - [Gemma an open Gemini LLM released by Google! - Linkedin Post](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_welcome-gemma-googles-new-open-llm-activity-7166054332914741249-FY2D?utm_source=share&utm_medium=member_desktop)
 - [Gemma - another linkedin post](https://www.linkedin.com/posts/andrew-iain-jardine_opensource-llm-llms-activity-7166054662612226048-h0Ap?utm_source=share&utm_medium=member_desktop)
