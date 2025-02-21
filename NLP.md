@@ -648,7 +648,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [The Evolution of Extreme LLM Compression: From QuIP to AQLM with PV-Tuning](https://medium.com/yandex/the-evolution-of-extreme-llm-compression-from-quip-to-aqlm-with-pv-tuning-19c44b91af96)  
 - [Calculating GPU memory for serving LLMs](https://www.substratus.ai/blog/calculating-gpu-memory-for-llm)
 - [How Much GPU Memory is Needed to Serve a Large Language Model (LLM)?](https://masteringllm.medium.com/how-much-gpu-memory-is-needed-to-serve-a-large-languagemodel-llm-b1899bb2ab5d)
-- [CUDA-Free Inference for LLMs (PyTorch Blog)](https://pytorch.org/blog/cuda-free-inference-for-llms/?utm_content=306418724&utm_medium=social&utm_source=linkedin&hss_channel=lcp-78618366)  
+- [CUDA-Free Inference for LLMs (PyTorch Blog)](https://pytorch.org/blog/cuda-free-inference-for-llms/?utm_content=306418724&utm_medium=social&utm_source=linkedin&hss_channel=lcp-78618366)
+- [The Ultra-Scale Playbook: Training LLMs on GPU Clusters](https://huggingface.co/spaces/nanotron/ultrascale-playbook)  
 
 ### Productionizing LLMs:
 - [LLM From the Trenches: 10 Lessons Learned Operationalizing Models at GoDaddy](https://www.godaddy.com/resources/news/llm-from-the-trenches-10-lessons-learned-operationalizing-models-at-godaddy)  
