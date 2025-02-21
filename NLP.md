@@ -200,6 +200,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Mixtral in colab](https://github.com/dvmazur/mixtral-offloading/blob/master/notebooks/demo.ipynb) [Great]
 - [Grok-1 LLM with 314B Size: Post1](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_elon-musk-kept-his-word-and-released-grok-activity-7175221121472983040-F7zS?utm_source=share&utm_medium=member_desktop)
 - [Grok-1 LLM: Post2](https://www.linkedin.com/posts/liorsinclair_big-news-grok-is-finally-open-source-with-activity-7175496738948968448--Ewx?utm_source=share&utm_medium=member_desktop)
+- [Grok-3 LLM from xAI](https://x.com/lmarena_ai/status/1891706264800936307)
+- [Grok-3 LLM from xAI - karpathy](https://x.com/karpathy/status/1891720635363254772)  
 - [DBRX LLM](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm)
 - [DBRX LLM: Post1](https://www.linkedin.com/posts/mateizaharia_at-databricks-weve-built-an-awesome-model-activity-7178738621099769857-v4X8?utm_source=share&utm_medium=member_desktop)
 - [DBRX LLM: Post2](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_new-state-of-the-art-open-llm-databricks-activity-7178748050117451776-Otgg?utm_source=share&utm_medium=member_desktop)
