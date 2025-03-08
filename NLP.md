@@ -565,7 +565,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [ModernBert: Linkedin Post1](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_modernbert-bert-revisited-in-the-age-of-activity-7275551060302131201-dr3c?utm_source=share&utm_medium=member_desktop)
 - [ModernBert: Linkedin Post2](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_want-to-replace-bert-in-2025-the-time-has-activity-7277616689859444737-iRUe?utm_source=share&utm_medium=member_desktop)
 - [Nomic-embed-text-v2-moe model](https://huggingface.co/nomic-ai/nomic-embed-text-v2-moe)
-- [Nomic Embed Text V2: An Open Source, Multilingual, Mixture-of-Experts Embedding Model (Blog Post)](https://www.nomic.ai/blog/posts/nomic-embed-text-v2)  
+- [Nomic Embed Text V2: An Open Source, Multilingual, Mixture-of-Experts Embedding Model (Blog Post)](https://www.nomic.ai/blog/posts/nomic-embed-text-v2)
+- [Gemeni models for text embedding (original link)](https://developers.googleblog.com/en/gemini-embedding-text-model-now-available-gemini-api/)
+- [Gemeni models for text embedding (useful linkedin post)](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_gemini-models-for-embeddings-yes-google-activity-7303840326933176320-Tg0C?utm_source=share&utm_medium=member_android&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
 
 ### Prevent Hallucinations from LLMs & Controling their outputs:
 - [Deep Dive Into LLM Hallucinations Across Generative Tasks](https://www.rungalileo.io/blog/deep-dive-into-llm-hallucinations-across-generative-tasks)
