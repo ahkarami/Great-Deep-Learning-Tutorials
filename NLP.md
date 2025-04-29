@@ -940,6 +940,9 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Anthropic Blog: Transformer Circuits Thread](https://transformer-circuits.pub/)
 - [Anthropic MCP (Model Context Protocol)](https://modelcontextprotocol.io/quickstart)  
 
+## How do LLMs think?
+- [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)  
+
 ## NLP Programming Notes:
 - [100 Times Faster Natural Language Processing in Python](https://medium.com/huggingface/100-times-faster-natural-language-processing-in-python-ee32033bdced)  
 - [Multi-label Text Classification using BERT](https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d)  
