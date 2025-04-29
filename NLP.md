@@ -696,6 +696,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Writing with AI: Five ways professional writers are leveraging ChatGPT](https://openai.com/chatgpt/use-cases/writing-with-ai/)
 - [Google Prompt Gallery](https://ai.google.dev/gemini-api/prompts)
 - [ell: The Language Model Programming Library](https://docs.ell.so/)  
+- [Template prompts of Cursor & VS Code and etc](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)  
 
 ### LLM-based Recommender Systems:
 - [ChatGPT-based Recommender Systems](https://blog.reachsumit.com/posts/2023/05/chatgpt-for-recsys/)  
