@@ -511,7 +511,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [Anthropic's Cluade Introducing Contextual Retrieval RAG](https://www.anthropic.com/news/contextual-retrieval)
 - [Docling: Get your docs ready for gen AI](https://github.com/DS4SD/docling)
 - [Lecture of RAG and Prompt Engineering](https://www.linkedin.com/posts/tom-yeh_i-just-edited-my-lecture-beginners-guide-activity-7284242137091620864-6MBy?utm_source=share&utm_medium=member_desktop)  
-- [Recent RAG Research from Google](https://www.linkedin.com/posts/jihoo-kim_rag-research-from-google-2024-ugcPost-7266537405904498689-wrac?utm_source=share&utm_medium=member_android)  
+- [Recent RAG Research from Google](https://www.linkedin.com/posts/jihoo-kim_rag-research-from-google-2024-ugcPost-7266537405904498689-wrac?utm_source=share&utm_medium=member_android)
+- [zoekt: Fast trigram based code search --> great tool for RAG of codes](https://github.com/sourcegraph/zoekt) [**important**]  
 
 ### Graph RAG & Its Related Data Bases:
 - [ArangoDB: The Most Complete And Scalable Platform For Graph-Powered GenAI](https://arangodb.com/)  
