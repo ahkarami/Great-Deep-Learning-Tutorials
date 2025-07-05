@@ -5,3 +5,6 @@
 
 ## LLM Interview Questions:
 - [Top 50 LLM Interview Questions](https://www.linkedin.com/posts/maxime-labonne_top-50-llm-interview-questions-activity-7345384063345602560-1-T1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
+
+## LLM Books:
+- [Hands-On Large Language Models book github repo](https://www.linkedin.com/posts/charlywargnier_7-github-repos-that-make-you-feel-unstoppable-activity-7344990777166426112-McxS?utm_source=share&utm_medium=member_android&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
