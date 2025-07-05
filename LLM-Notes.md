@@ -8,3 +8,6 @@
 
 ## LLM Books:
 - [Hands-On Large Language Models book github repo](https://www.linkedin.com/posts/charlywargnier_7-github-repos-that-make-you-feel-unstoppable-activity-7344990777166426112-McxS?utm_source=share&utm_medium=member_android&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
+
+## Blogs:
+- [Philipp Schmid Page](https://www.philschmid.de/)  
