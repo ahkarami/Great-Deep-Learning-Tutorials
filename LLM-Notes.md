@@ -3,6 +3,10 @@
 ## Model Context Protocol (MCP):
 - [MCP book](https://www.linkedin.com/posts/akshay-pachaar_an-illustrated-guide-to-mcp-activity-7344360322851344384-DBnc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
 
+## LLM-based Useful Tools:
+- [Codebase to Easy Tutorial with AI](https://code2tutorial.com/)
+- [Pocket Flow: Codebase to Tutorial - Github Repo](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)  
+
 ## How LLMs think?
 - [How LLMs think?](https://www.linkedin.com/posts/ravid-shwartz-ziv-8bb18761_you-know-all-those-arguments-that-llms-think-activity-7333886415568605186-LA54?utm_source=share&utm_medium=member_android&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
 
