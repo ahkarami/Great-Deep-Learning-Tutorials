@@ -5,7 +5,9 @@
 
 ## LLM-based Useful Tools:
 - [Codebase to Easy Tutorial with AI](https://code2tutorial.com/)
-- [Pocket Flow: Codebase to Tutorial - Github Repo](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)  
+- [Pocket Flow: Codebase to Tutorial - Github Repo](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge)
+- [Roundtable: Using Multiple LLMs for BrainStorming and thinking and attempt to answer your questions](https://roundtable.now/)  
+- [Post about Roundtable](https://x.com/soh3il/status/1942593455177220578)  
 
 ## How LLMs think?
 - [How LLMs think?](https://www.linkedin.com/posts/ravid-shwartz-ziv-8bb18761_you-know-all-those-arguments-that-llms-think-activity-7333886415568605186-LA54?utm_source=share&utm_medium=member_android&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
