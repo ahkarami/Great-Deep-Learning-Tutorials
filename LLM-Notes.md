@@ -25,7 +25,8 @@
 - [Sample Artifacts of Claude](https://www.linkedin.com/posts/anthropicresearch_a-roundup-of-claude-artifacts-built-this-activity-7345860181697740800-Aed3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
 
 ## Google Gemini Notes:
-- [Gemini Batch API](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_gemini-api-now-supports-batch-mode-with-50-activity-7348003895790514177-fjJu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
+- [Gemini Batch API](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_gemini-api-now-supports-batch-mode-with-50-activity-7348003895790514177-fjJu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)
+- [Google GenAI Processors Library: Build powerful and flexible Gemini applications](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_new-open-source-python-library-from-google-activity-7349320912199991296-nwJw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
 
 ## Persian Based Posts about LLMs and their Usage:
 - [Torob Customer Issues via LLM - link1](https://www.linkedin.com/posts/aref-sadeghian-332b4026b_%D8%AF%D8%B1-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B2-%DA%A9%D8%B3%D8%A8%D9%88%DA%A9%D8%A7%D8%B1%D9%87%D8%A7-%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87-%D8%B5%D8%AF%D9%87%D8%A7-%D8%AA%D8%A7-%D9%87%D8%B2%D8%A7%D8%B1%D8%A7%D9%86-activity-7345402017093201921-ydeN/?utm_source=share&utm_medium=member_android&rcm=ACoAACca5foB_JajH9ghUJ8CiduJGdZae1h8reY)
