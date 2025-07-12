@@ -1,5 +1,8 @@
 # LLM-Notes & Resources:
-  
+
+## Agentic Github Repos:
+- [Awesome LLM Apps - One of the best list of AI Agentic Github Repos](https://github.com/Shubhamsaboo/awesome-llm-apps)  
+
 ## Model Context Protocol (MCP):
 - [MCP book](https://www.linkedin.com/posts/akshay-pachaar_an-illustrated-guide-to-mcp-activity-7344360322851344384-DBnc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
 
