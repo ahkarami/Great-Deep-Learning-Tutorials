@@ -21,6 +21,10 @@
 ## LLM Books:
 - [Hands-On Large Language Models book github repo](https://www.linkedin.com/posts/charlywargnier_7-github-repos-that-make-you-feel-unstoppable-activity-7344990777166426112-McxS?utm_source=share&utm_medium=member_android&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
 
+## General Learning Resources:
+- [Top 10 ML & LLM Learning from Scratch - list of great github repos](https://www.linkedin.com/posts/stasbel_if-i-had-to-learn-aiml-from-scratch-id-activity-7348298539246022656-2shJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)
+- [Microsoft AI Agents for Beginners - A Course](https://github.com/microsoft/ai-agents-for-beginners)  
+
 ## Anthropic Claude Notes:
 - [Sample Artifacts of Claude](https://www.linkedin.com/posts/anthropicresearch_a-roundup-of-claude-artifacts-built-this-activity-7345860181697740800-Aed3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
 
