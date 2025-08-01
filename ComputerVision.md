@@ -130,6 +130,7 @@ A Great Collection of Deep Learning Tutorials and Repositories for Compter Visio
 - [YOLO-NAS](https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md)
 - [Object Detection Leaderboard](https://roboflow.github.io/model-leaderboard/)
 - [Object Detection Leaderboard Linkedin Post](https://www.linkedin.com/posts/skalskip92_computervision-objectdetection-opensource-activity-7239562459794096128-E6KR?utm_source=share&utm_medium=member_desktop)
+- [supervision](https://github.com/roboflow/supervision)  & [supervision linkedin post](https://www.linkedin.com/posts/stasbel_this-github-repo-just-hit-30k-stars-its-activity-7355972085048905729-egx1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
 
 ### Augmentation for Object Detection & Instance Segmentation:
 - [Albumentations - Great Library for image augmentation and transformations](https://github.com/albumentations-team/albumentations)    
