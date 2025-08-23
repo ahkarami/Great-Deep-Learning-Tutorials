@@ -28,7 +28,9 @@
 ## Anthropic Claude Notes:
 - [Sample Artifacts of Claude](https://www.linkedin.com/posts/anthropicresearch_a-roundup-of-claude-artifacts-built-this-activity-7345860181697740800-Aed3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)
 - [Anthropic FREE courses for Claude](https://www.linkedin.com/posts/stasbel_anthropic-just-launched-free-courses-for-activity-7349469259166588928-PErS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4) & [Anthropic Courses](https://anthropic.skilljar.com/)
-- [Anthropic claude guideline for candidates in hiring process](https://www.linkedin.com/posts/gouldjames_guidance-on-candidates-ai-usage-activity-7349158858285535235-ijTy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
+- [Anthropic claude guideline for candidates in hiring process](https://www.linkedin.com/posts/gouldjames_guidance-on-candidates-ai-usage-activity-7349158858285535235-ijTy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)
+- [Anthropic Prompt Structure](https://www.linkedin.com/posts/omarsar_anthropic-continues-to-crush-it-with-these-activity-7364408327130292225-Itab?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)
+- [Anthropic Blog Post: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)  
 
 ## Google Gemini Notes:
 - [Gemini Batch API](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_gemini-api-now-supports-batch-mode-with-50-activity-7348003895790514177-fjJu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)
