@@ -37,6 +37,7 @@
 - [Google GenAI Processors Library: Build powerful and flexible Gemini applications](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_new-open-source-python-library-from-google-activity-7349320912199991296-nwJw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)
 - [Gemini Embeddings](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_gemini-embeddings-general-available-first-activity-7350573241934962691-iT9N?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  & [Gemini Embedding now generally available in the Gemini API](https://developers.googleblog.com/en/gemini-embedding-available-gemini-api/)
 - [Multi-agent “Deep Research” System with Gemini & Llamaindex](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_new-guide-learn-how-to-build-a-multi-agent-activity-7350600883023355905-89YX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)
+- [Autonomus market research agent with gemini](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_new-guide-build-an-autonomous-market-research-activity-7363963594432028673-Xzpd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4) [**Great**]  
 - [Free gemini code assist extension in vs code (FREE alternative to Cursor)](https://www.linkedin.com/posts/stasbel_friendly-reminder-that-google-has-a-free-activity-7347957779300610049-D_j7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4) [**Great**]   
 
 ## Persian Based Posts about LLMs and their Usage:
@@ -50,3 +51,6 @@
 
 ## Blogs:
 - [Philipp Schmid Page](https://www.philschmid.de/)  
+
+## Special Agents:
+- [Using LLM Agents as a research assistant](https://www.linkedin.com/posts/samuel-schmidgall-288632162_excited-to-announce-that-our-paper-agent-activity-7364035100352602118-fk3r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)
