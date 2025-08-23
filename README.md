@@ -268,4 +268,5 @@ A Great Collection of Deep Learning Tutorials and Repositories
 - [Elicit: Ask a research question](https://elicit.org/) [Interesting]  
 - [Google People + AI Research (PAIR)](https://pair.withgoogle.com/) [Interesting business based AI topics]  
 - [Google Illuminate](https://illuminate.google.com/home) [Great]
-- [Google Learn About](https://learning.google.com/experiments/learn-about/signup) [Great]  
+- [Google Learn About](https://learning.google.com/experiments/learn-about/signup) [Great]
+- [ML System Design Case Studies Repository](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies)  
