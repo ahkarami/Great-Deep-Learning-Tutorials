@@ -32,6 +32,9 @@
 - [Anthropic Prompt Structure](https://www.linkedin.com/posts/omarsar_anthropic-continues-to-crush-it-with-these-activity-7364408327130292225-Itab?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)
 - [Anthropic Blog Post: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)  
 
+## Cursor Notes:
+- [from GitHub to working MVP with a single prompt in Cursor](https://www.linkedin.com/posts/eric-vyacheslav-156273169_you-can-now-go-from-github-readme-to-working-activity-7366424429620326402-vCUj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4) [**Great**]  
+
 ## Google Gemini Notes:
 - [Gemini Batch API](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_gemini-api-now-supports-batch-mode-with-50-activity-7348003895790514177-fjJu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)
 - [Google GenAI Processors Library: Build powerful and flexible Gemini applications](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_new-open-source-python-library-from-google-activity-7349320912199991296-nwJw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)
