@@ -6,6 +6,7 @@
 
 ## Model Context Protocol (MCP):
 - [MCP book](https://www.linkedin.com/posts/akshay-pachaar_an-illustrated-guide-to-mcp-activity-7344360322851344384-DBnc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
+- [MCP Registry](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_the-official-mcp-registry-is-here-an-open-activity-7371121811649904640-nMP_?utm_source=share&utm_medium=member_android&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
 
 ## LLM-based Useful Tools:
 - [Codebase to Easy Tutorial with AI](https://code2tutorial.com/)
