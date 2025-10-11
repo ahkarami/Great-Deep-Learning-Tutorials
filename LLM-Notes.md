@@ -32,7 +32,8 @@
 - [Anthropic FREE courses for Claude](https://www.linkedin.com/posts/stasbel_anthropic-just-launched-free-courses-for-activity-7349469259166588928-PErS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4) & [Anthropic Courses](https://anthropic.skilljar.com/)
 - [Anthropic claude guideline for candidates in hiring process](https://www.linkedin.com/posts/gouldjames_guidance-on-candidates-ai-usage-activity-7349158858285535235-ijTy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)
 - [Anthropic Prompt Structure](https://www.linkedin.com/posts/omarsar_anthropic-continues-to-crush-it-with-these-activity-7364408327130292225-Itab?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)
-- [Anthropic Blog Post: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)  
+- [Anthropic Blog Post: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
+- [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)  
 
 ## Cursor Notes:
 - [from GitHub to working MVP with a single prompt in Cursor](https://www.linkedin.com/posts/eric-vyacheslav-156273169_you-can-now-go-from-github-readme-to-working-activity-7366424429620326402-vCUj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4) [**Great**]  
