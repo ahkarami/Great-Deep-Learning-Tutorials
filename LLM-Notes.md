@@ -62,3 +62,6 @@
 
 ## Special Agents:
 - [Using LLM Agents as a research assistant](https://www.linkedin.com/posts/samuel-schmidgall-288632162_excited-to-announce-that-our-paper-agent-activity-7364035100352602118-fk3r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)
+
+## Agentic Frameworks:
+- [Agno: multi-agent framework](https://github.com/agno-agi/agno)  
