@@ -35,7 +35,8 @@
 - [Anthropic Prompt Structure](https://www.linkedin.com/posts/omarsar_anthropic-continues-to-crush-it-with-these-activity-7364408327130292225-Itab?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)
 - [Claude Skills](https://www.anthropic.com/news/skills)  
 - [Anthropic Blog Post: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
-- [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)  
+- [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
+- [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://www.anthropic.com/news/disrupting-AI-espionage)  
 
 ## Cursor Notes:
 - [from GitHub to working MVP with a single prompt in Cursor](https://www.linkedin.com/posts/eric-vyacheslav-156273169_you-can-now-go-from-github-readme-to-working-activity-7366424429620326402-vCUj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4) [**Great**]  
