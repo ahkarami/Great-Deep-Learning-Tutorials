@@ -54,6 +54,9 @@
 - [Gemini File Search Tool API (a fully managed RAG system)](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_today-were-launching-the-file-search-tool-activity-7392272048074477568-Xn_Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
 - [Free gemini code assist extension in vs code (FREE alternative to Cursor)](https://www.linkedin.com/posts/stasbel_friendly-reminder-that-google-has-a-free-activity-7347957779300610049-D_j7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4) [**Great**]   
 
+## OpenAI Notes (Useful blog posts & etc):
+- [How evals drive the next chapter in AI for businesses](https://openai.com/index/evals-drive-next-chapter-of-ai/)  
+
 ## Persian Based Posts about LLMs and their Usage:
 - [From Coding Assistant to Intelligent Collaborator; Step One: The Documentation Nightmare - Divar Post](https://virgool.io/@divar/%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA%DB%8C%D8%A7%D8%B1-%DA%A9%D8%AF%D9%86%D9%88%DB%8C%D8%B3-%D8%AA%D8%A7-%D9%87%D9%85%DA%A9%D8%A7%D8%B1-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%DA%AF%D8%A7%D9%85-%D8%A7%D9%88%D9%84-%DA%A9%D8%A7%D8%A8%D9%88%D8%B3-%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D8%B3%D8%A7%D8%B2%DB%8C-jx7vhznchc9w)  
 - [Torob Customer Issues via LLM - link1](https://www.linkedin.com/posts/aref-sadeghian-332b4026b_%D8%AF%D8%B1-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B2-%DA%A9%D8%B3%D8%A8%D9%88%DA%A9%D8%A7%D8%B1%D9%87%D8%A7-%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87-%D8%B5%D8%AF%D9%87%D8%A7-%D8%AA%D8%A7-%D9%87%D8%B2%D8%A7%D8%B1%D8%A7%D9%86-activity-7345402017093201921-ydeN/?utm_source=share&utm_medium=member_android&rcm=ACoAACca5foB_JajH9ghUJ8CiduJGdZae1h8reY)
