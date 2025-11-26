@@ -56,6 +56,7 @@
 - [Free gemini code assist extension in vs code (FREE alternative to Cursor)](https://www.linkedin.com/posts/stasbel_friendly-reminder-that-google-has-a-free-activity-7347957779300610049-D_j7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4) [**Great**]   
 
 ## OpenAI Notes (Useful blog posts & etc):
+- [Building an AI-Native Engineering Team --> How coding agents speed up the software development lifecycle](https://developers.openai.com/codex/guides/build-ai-native-engineering-team/)  
 - [How evals drive the next chapter in AI for businesses](https://openai.com/index/evals-drive-next-chapter-of-ai/)  
 
 ## Persian Based Posts about LLMs and their Usage:
