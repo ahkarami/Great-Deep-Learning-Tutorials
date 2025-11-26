@@ -79,4 +79,5 @@
 
 ## Other:
 - [Meta PyTorch Team: The Building Blocks of Agentic AI: From Kernels to Clusters](https://ai.meta.com/blog/introducing-pytorch-native-agentic-stack/?utm_source=tldrai) [Interesting]
-- [AI as a Thought Business Partner - The AI-Driven Leader (podcast)](https://castbox.fm/episode/3-Must-Read-Data-and-AI-Books-for-2025-with-Geoff-Woods%2C-Wendy-Batchelder%2C-and-Malcolm-Hawker-id3463549-id854733301?country=us)  
+- [AI as a Thought Business Partner - The AI-Driven Leader (podcast)](https://castbox.fm/episode/3-Must-Read-Data-and-AI-Books-for-2025-with-Geoff-Woods%2C-Wendy-Batchelder%2C-and-Malcolm-Hawker-id3463549-id854733301?country=us)
+- [New DeepMind Video: The Thinking Game | Full documentary | Tribeca Film Festival official selection](https://www.youtube.com/watch?v=d95J8yzvjbQ)  
