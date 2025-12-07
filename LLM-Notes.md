@@ -2,7 +2,8 @@
 
 ## Agentic Github Repos:
 - [Awesome LLM Apps - One of the best list of AI Agentic Github Repos](https://github.com/Shubhamsaboo/awesome-llm-apps)
-- [Agentic AI Course](https://www.linkedin.com/posts/paoloperrone_15000-people-paid-2500-for-this-agentic-activity-7367305597186207744-RosX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
+- [Agentic AI Course](https://www.linkedin.com/posts/paoloperrone_15000-people-paid-2500-for-this-agentic-activity-7367305597186207744-RosX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)
+- [Agentic Design Patterns](https://github.com/sarwarbeing-ai/Agentic_Design_Patterns)  
 
 ## Model Context Protocol (MCP):
 - [MCP book](https://www.linkedin.com/posts/akshay-pachaar_an-illustrated-guide-to-mcp-activity-7344360322851344384-DBnc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
