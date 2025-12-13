@@ -120,7 +120,8 @@ A Great Collection of Deep Learning Tutorials and Repositories for Natural Langu
 - [BorealisAI Transformers I: Introduction](https://www.borealisai.com/research-blogs/tutorial-14-transformers-i-introduction/)  
 - [OpenAI Best Practices for Deploying Language Models](https://openai.com/blog/best-practices-for-deploying-language-models/)  
 - [OPT-IML](https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML)
-- [RetNet: an Alternative to Transformers](https://www.linkedin.com/posts/aleksagordic_an-alternative-to-transformers-whoa-activity-7087790555190980608-66ZM?utm_source=share&utm_medium=member_android)  
+- [RetNet: an Alternative to Transformers](https://www.linkedin.com/posts/aleksagordic_an-alternative-to-transformers-whoa-activity-7087790555190980608-66ZM?utm_source=share&utm_medium=member_android)
+- [What comes after Transformers?](https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_what-comes-after-transformers-neural-memory-activity-7402992391957270528-mj34?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAgksdYBFu3_vG0bwXWdh93rSqV1J1ghMP4)  
 - [Transformer Taxonomy](https://kipp.ly/blog/transformer-taxonomy/) [Great]
 - [Generative AI exists because of the transformer: Great Visual Explanation](https://ig.ft.com/generative-ai/) [Great]  
 
