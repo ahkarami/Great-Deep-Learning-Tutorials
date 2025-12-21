@@ -66,6 +66,9 @@
 - [Building an AI-Native Engineering Team --> How coding agents speed up the software development lifecycle](https://developers.openai.com/codex/guides/build-ai-native-engineering-team/)  
 - [How evals drive the next chapter in AI for businesses](https://openai.com/index/evals-drive-next-chapter-of-ai/)  
 
+## Special Courses:
+- [Stanford CS146S: The Modern Software Developer - Fall 2025](https://themodernsoftware.dev/)  
+
 ## Persian Based Posts about LLMs and their Usage:
 - [From Coding Assistant to Intelligent Collaborator; Step One: The Documentation Nightmare - Divar Post](https://virgool.io/@divar/%D8%A7%D8%B2-%D8%AF%D8%B3%D8%AA%DB%8C%D8%A7%D8%B1-%DA%A9%D8%AF%D9%86%D9%88%DB%8C%D8%B3-%D8%AA%D8%A7-%D9%87%D9%85%DA%A9%D8%A7%D8%B1-%D9%87%D9%88%D8%B4%D9%85%D9%86%D8%AF-%DA%AF%D8%A7%D9%85-%D8%A7%D9%88%D9%84-%DA%A9%D8%A7%D8%A8%D9%88%D8%B3-%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D8%B3%D8%A7%D8%B2%DB%8C-jx7vhznchc9w)  
 - [Torob Customer Issues via LLM - link1](https://www.linkedin.com/posts/aref-sadeghian-332b4026b_%D8%AF%D8%B1-%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1%DB%8C-%D8%A7%D8%B2-%DA%A9%D8%B3%D8%A8%D9%88%DA%A9%D8%A7%D8%B1%D9%87%D8%A7-%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87-%D8%B5%D8%AF%D9%87%D8%A7-%D8%AA%D8%A7-%D9%87%D8%B2%D8%A7%D8%B1%D8%A7%D9%86-activity-7345402017093201921-ydeN/?utm_source=share&utm_medium=member_android&rcm=ACoAACca5foB_JajH9ghUJ8CiduJGdZae1h8reY)
