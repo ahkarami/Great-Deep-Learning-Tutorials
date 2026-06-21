@@ -87,6 +87,9 @@
 ## Agentic Frameworks:
 - [Agno: multi-agent framework](https://github.com/agno-agi/agno)
 
+## AI Agentic Coding Tools & LLM Coding Tools:
+- [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi)
+
 ## Other:
 - [Meta PyTorch Team: The Building Blocks of Agentic AI: From Kernels to Clusters](https://ai.meta.com/blog/introducing-pytorch-native-agentic-stack/?utm_source=tldrai) [Interesting]
 - [State of AI - An Empirical 100 Trillion Token Study with OpenRouter](https://openrouter.ai/state-of-ai)  
